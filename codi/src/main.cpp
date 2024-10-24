@@ -3,11 +3,11 @@
 #include <vector>
 
 #include "../header/Degree.h"
+#include "../header/Degrees.h"
 #include "../header/Exception.h"
-#include "../header/Interface.h"
 using namespace std;
 
-vector<Degree> degrees;
+Degrees degrees;
 
 string order;
 string _data;
@@ -316,14 +316,15 @@ void filter_pond(vector<Degree> &degree, const string &data) {
   }
 
   vector<Degree> f;
-  for (int index = 0; index < degrees.size(); ++index) {
-    const Degree c = degrees[index];
+  for (int index = 0; index < degrees.getVector().size(); ++index) {
+    const Degree c = degrees.getVector()[index];
     if (find_all_pond(c.getCoefficients(), llist) and data == "all")
       f.push_back(c);
     else if (find_two_pond(c.getCoefficients(), llist) and data == "two")
       f.push_back(c);
   }
-  degrees = f;
+  // cambi
+  // degrees = Degrees();
 }
 
 void console(vector<Degree> &c) {
@@ -336,8 +337,8 @@ void console(vector<Degree> &c) {
       instruct();
       pond_instruct();
     } else if (order == "clear") {
-      write(degrees);
-      c = degrees;
+      // write(degrees);
+      // c = degrees;
     } else if (order == "codi" or order == "name" or order == "space" or
                order == "uni") {
       cin >> _data;
@@ -433,24 +434,13 @@ int main() {
   while (op != "exit") {
     try {
       cin >> op;
-      //read();
-      //vector<Degree> Filtro = degrees;
+      degrees.read("./dades/spain.txt");
+
+      // vector<Degree> Filtro = degrees;
 
       // write(degrees);
       // console(Filtro);
 
-
-
-
-
-
-
-
-
-
-
-
-      
     } catch (const exception &error) {
       cerr << error.what() << endl;
     }
