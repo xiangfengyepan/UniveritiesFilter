@@ -1,6 +1,8 @@
 #pragma once
 #include <exception>
 
+#define line(x) cout << x << endl
+
 using namespace std;
 
 class Exception : public exception {
