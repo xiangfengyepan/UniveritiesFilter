@@ -63,16 +63,26 @@ public:
   }
 
   void write(ostream &os) const {
-    os << "Code: " << code << endl;
-    os << "Name: " << name << endl;
-    os << "City: " << city << endl;
-    os << "University: " << university << endl;
-    os << "Capacity: " << to_string(capacity) << endl;
-    os << "Admission_threshold: " << admission_threshold << endl;
-    os << "Coefficients: ";
+
+    os << code << SPACE << name << SPACE << city << SPACE << university << SPACE
+       << capacity << SPACE << admission_threshold << SPACE;
     for (int coeff : coefficients)
       os << coeff << " ";
-    os << endl;
+  }
+  void write(ostream &os, const string &sep) const {
+
+    os << code << sep << name << sep << city << sep << university << sep
+       << capacity << sep << admission_threshold << sep;
+    for (int coeff : coefficients)
+      os << coeff << " ";
+  }
+    void write(ostream &os, const vector<string> &sep) const {
+    int i = 0;
+    os << code << sep[i++] << name << sep[i++] << city << sep[i++] << university << sep[i++]
+       << capacity << sep[i++] << admission_threshold << sep[i++];
+    for (int coeff : coefficients)
+      os << coeff << " ";
+
   }
 
   void display() const {
