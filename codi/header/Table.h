@@ -94,21 +94,17 @@ class Table {
 private:
   Matrix<char> table;
   Pos pointer;
-  bool isInsert;
 
 public:
   Table()
       : table(MAX_WINDOW_HEIGHT, List<char>(MAX_WINDOW_WIDTH, 'X')),
-        pointer(Pos()), isInsert(false) {};
+        pointer(Pos()) {};
 
   Table(int width, int height)
-      : table(height, List<char>(width, 'X')), pointer(Pos()),
-        isInsert(false) {};
+      : table(height, List<char>(width, 'X')), pointer(Pos()) {};
 
   Pos getPointer() { return pointer; }
   Matrix<char> getTable() { return table; }
-  bool getIsInsert() { return isInsert; }
-
   void checkPointer() {
     if (!pointer.check(MAX_WINDOW_WIDTH, MAX_WINDOW_HEIGHT))
       throw Exception("pointer out");
@@ -173,7 +169,6 @@ public:
   void read(ifstream &is) {
     while (!is.eof()) {
       if (pointer.check(MAX_WINDOW_WIDTH, MAX_WINDOW_HEIGHT)) {
-
         is >> table[pointer.y][pointer.x];
         moveRight();
       } else
@@ -189,16 +184,7 @@ public:
     }
   }
 
-  void moveAllRight(Pos &pos, int times) {
-    // for (Pos &actPos = pos; actPos < Pos(MAX_WINDOW_WIDTH,
-    // MAX_WINDOW_HEIGHT);
-    //      moveRight()) {
-    //   /**/
-  }
-
   void write(const string &value) {
-    if (isInsert)
-      moveAllRight(pointer, value.length());
     for (char character : value) {
       table[pointer.y][pointer.x] = character;
       moveRight();
