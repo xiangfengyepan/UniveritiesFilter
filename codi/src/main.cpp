@@ -2,10 +2,15 @@
 #include <iostream>
 #include <vector>
 
+#include "../header/Character.h"
 #include "../header/Degree.h"
 #include "../header/Degrees.h"
 #include "../header/Exception.h"
+#include "../header/Table.h"
+#include "../header/utilities.h"
 using namespace std;
+
+typedef vector<string> Label;
 
 Degrees degrees;
 
@@ -79,106 +84,82 @@ string remove_leading_zeros(string &number) {
 }
 
 void write(const vector<Degree> &degrees) {
-  int name_max = 0;
-  int uni_max = 0;
-  int space_max = 0;
-  int size = degrees.size();
-  for (int index = 0; index < size; ++index) {
-    Degree c = degrees[index];
+  // int name_max = 0;
+  // int uni_max = 0;
+  // int space_max = 0;
+  // for (const Degree &degree : degrees) {
+  //   name_max = max(name_max, int(degree.getName().size()));
+  //   uni_max = max(uni_max, int(degree.getName().size()));
+  //   space_max = max(space_max, int(degree.getName().size()));
+  // }
 
-    int name_size = c.getName().size();
-    int uni_size = c.getUniversity().size();
-    int space_size = c.getCity().size();
-    if (name_size > name_max)
-      name_max = name_size;
-    if (uni_size > uni_max)
-      uni_max = uni_size;
-    if (space_size > space_max)
-      space_max = space_size;
-  }
+  // ofstream w_file("./dades/filtre.txt");
 
-  fstream myfile;
-  myfile.open("filtre.txt", ios::out);
-  myfile << "Codi  ┃Name";
-  for (int i = 3; i < name_max; ++i)
-    myfile << " ";
-  myfile << "┃Space";
-  for (int i = 4; i < space_max; ++i)
-    myfile << " ";
-  myfile << "┃Universitat ";
-  for (int i = 11; i < uni_max; ++i)
-    myfile << " ";
-  myfile << "┃Nota   ";
+  // Label labels = {"Codi", "Name"};
+  // print_label(w_file, labels);
 
   // myfile <<
   // "┃00┃01┃02┃03┃04┃05┃06┃07┃08┃09┃10┃11┃12┃13┃14┃15┃16┃17┃18┃19┃20┃21┃" <<
   // endl;
 
-  myfile << "┃Ponderacions" << endl;
-  if (uni_max < 11)
-    uni_max = 11;
-  for (int i = 0; i < name_max + space_max + uni_max + 20; ++i)
-    myfile << "_";
-  myfile << "┃" << endl;
+  // for (int index = 0; index < size; ++index) {
+  //   Degree c = degrees[index];
 
-  for (int index = 0; index < size; ++index) {
-    Degree c = degrees[index];
+  //   myfile << c.getCode() << " ┃";
 
-    myfile << c.getCode() << " ┃";
+  //   myfile << c.getName() << " ";
+  //   for (int i = c.getName().size(); i < name_max; ++i)
+  //     myfile << " ";
 
-    myfile << c.getName() << " ";
-    for (int i = c.getName().size(); i < name_max; ++i)
-      myfile << " ";
+  //   myfile << "┃";
+  //   myfile << c.getCity() << " ";
+  //   for (int i = c.getCity().size(); i < space_max; ++i)
+  //     myfile << " ";
 
-    myfile << "┃";
-    myfile << c.getCity() << " ";
-    for (int i = c.getCity().size(); i < space_max; ++i)
-      myfile << " ";
+  //   myfile << "┃";
+  //   myfile << c.getUniversity() << " ";
+  //   for (int i = c.getUniversity().size(); i < uni_max; ++i)
+  //     myfile << " ";
 
-    myfile << "┃";
-    myfile << c.getUniversity() << " ";
-    for (int i = c.getUniversity().size(); i < uni_max; ++i)
-      myfile << " ";
+  //   myfile << "┃";
+  //   myfile << c.getThreshold() << " ";
 
-    myfile << "┃";
-    myfile << c.getThreshold() << " ";
+  //   string num_str = to_string(c.getThreshold());
+  //   remove_leading_zeros(num_str);
+  //   for (int i = num_str.size(); i < 6; ++i)
+  //     myfile << " ";
 
-    string num_str = to_string(c.getThreshold());
-    remove_leading_zeros(num_str);
-    for (int i = num_str.size(); i < 6; ++i)
-      myfile << " ";
+  //   myfile << "┃";
+  //   for (int i = 0; i < 22; ++i) {
+  //     if (c.getCoefficients()[i] == '2') {
+  //       if (i < 10)
+  //         myfile << "0";
+  //       myfile << i << "┃";
+  //     }
+  //   }
+  //   myfile << endl;
+  // }
+  // myfile.close();
+  // cout << "\033[2J\033[0;0H";
+  // cout << "find: " << size << "/" << degrees.size() << " degrees" << " 😨"
+  //      << endl;
 
-    myfile << "┃";
-    for (int i = 0; i < 22; ++i) {
-      if (c.getCoefficients()[i] == '2') {
-        if (i < 10)
-          myfile << "0";
-        myfile << i << "┃";
-      }
-    }
-    myfile << endl;
-  }
-  myfile.close();
-  cout << "\033[2J\033[0;0H";
-  cout << "find: " << size << "/" << degrees.size() << " degrees" << " 😨"
-       << endl;
-
-  cout << order;
-  if (_data != "-1") {
-    cout << " " << _data;
-    if (_data == "interval")
-      cout << " " << nota_max << " " << nota_min;
-    cout << endl;
-  } else {
-    cout << " llist [";
-    for (int i = 0; i < v.size(); ++i) {
-      if (i != 0)
-        cout << " ";
-      cout << v[i];
-    }
-    cout << "]" << endl;
-    v.clear();
-  }
+  // cout << order;
+  // if (_data != "-1") {
+  //   cout << " " << _data;
+  //   if (_data == "interval")
+  //     cout << " " << nota_max << " " << nota_min;
+  //   cout << endl;
+  // } else {
+  //   cout << " llist [";
+  //   for (int i = 0; i < v.size(); ++i) {
+  //     if (i != 0)
+  //       cout << " ";
+  //     cout << v[i];
+  //   }
+  //   cout << "]" << endl;
+  //   v.clear();
+  // }
 }
 
 bool cmp_codi_asc(const Degree &a, const Degree &b) {
@@ -425,7 +406,6 @@ void console(vector<Degree> &c) {
 }
 
 int main() {
-  // SetConsoleOutputCP(65001);
   srand(time(0));
   cout.setf(ios::fixed);
   cout.precision(1);
@@ -434,14 +414,26 @@ int main() {
   while (op != "exit") {
     try {
       cin >> op;
-      degrees.read("./dades/spain.txt");
+      // ofstream w_file("./table.txt");
+      // Table table;
+      // cout << table.getPointer();
+      // table.write("hola que tal");
+      // table.enter();
+      // table.write("hola");
+      // table.moveRight(2);
+      // table.write("que tal");
+      // cout << table.getPointer();
 
-      // vector<Degree> Filtro = degrees;
+      // table.print(w_file);
 
-      // write(degrees);
-      // console(Filtro);
+      // Degrees degrees;
+      // degrees.read("./dades/spain.txt");
 
-    } catch (const exception &error) {
+      // degrees.write("./dades/filter.txt");
+      // // console(Filtro);
+    } catch (const invalid_argument &error) { // More specific exception first
+      cerr << error.what() << endl;
+    } catch (const exception &error) { // General exception catch-all
       cerr << error.what() << endl;
     }
   }
