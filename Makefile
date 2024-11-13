@@ -20,8 +20,5 @@ build/%.o: codi/%.cpp
 clean:
 	rm -r ./build/
 
-ultraclean:
-	rm -r ./build/ ./dades
-
 -include $(OBJECTS:.o=.d)
 

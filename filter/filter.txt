@@ -1,0 +1,1069 @@
+Code  ┃Name                                                                                                 ┃City            ┃University           ┃Capacity   ┃Threshold
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+11033 ┃administracio_i_direccio_d'empreses                                                                  ┃ub              ┃barcelona            ┃780        ┃9.498
+
+41008 ┃administracio_i_direccio_d'empreses                                                                  ┃upf             ┃barcelona            ┃170        ┃11.308
+
+31002 ┃administracio_i_direccio_d'empreses_"centre_universitari_eae"                                        ┃upc             ┃barcelona            ┃90         ┃5    
+
+31108 ┃administracio_i_direccio_d'empreses_"centre_universitari_eae"(semipresencial)                        ┃upc             ┃barcelona            ┃20         ┃5    
+
+31107 ┃administracio_i_direccio_d'empreses_"centre_universitari_eae"(angles)                                ┃upc             ┃barcelona            ┃40         ┃5    
+
+71063 ┃administracio_i_direccio_d'empreses_"igema"                                                          ┃urv             ┃barcelona            ┃80         ┃5    
+
+11064 ┃administracio_i_direccio_d'empreses/dret(simul)                                                      ┃ub              ┃barcelona            ┃60         ┃11.458
+
+71079 ┃administracio_i_direccio_d'empreses/marqueting_"esic"(simul)                                         ┃urv             ┃barcelona            ┃10         ┃9.94 
+
+71080 ┃administracio_i_direccio_d'empreses/marqueting_"esic"(simul)                                         ┃urv             ┃barcelona            ┃10         ┃6.938
+
+11066 ┃administracio_i_direccio_d'empreses/matematiques(simul)                                              ┃ub              ┃barcelona            ┃20         ┃12.367
+
+11095 ┃administracio_i_direccio_d'empreses/quimia(simul)                                                    ┃ub              ┃barcelona            ┃20         ┃11.212
+
+11090 ┃administracio_i_direccio_d'empreses/sociologia(simul)                                                ┃ub              ┃barcelona            ┃20         ┃10.012
+
+11001 ┃antropologia_social_i_cultural                                                                       ┃ub              ┃barcelona            ┃120        ┃5    
+
+11029 ┃arqueologia                                                                                          ┃ub              ┃barcelona            ┃75         ┃5    
+
+11096 ┃arqueologia/historia(simul)                                                                          ┃ub              ┃barcelona            ┃20         ┃8.77 
+
+31016 ┃arquitectura_tecnica_i_edificacio                                                                    ┃upc             ┃barcelona            ┃150        ┃7.8  
+
+31078 ┃arquitectura_estudis_d'                                                                              ┃upc             ┃barcelona            ┃350        ┃9.394
+
+21020 ┃arts_i_disseny_"massana"                                                                             ┃uab             ┃barcelona            ┃95         ┃7.315
+
+11099 ┃belles_arts                                                                                          ┃ub              ┃barcelona            ┃300        ┃8.852
+
+91059 ┃belles_arts_"bau"                                                                                    ┃uvicucc         ┃barcelona            ┃80         ┃5    
+
+91912 ┃biologia/biotecnologia(simul)                                                                        ┃upf/ub/upc/uab  ┃barcelona            ┃40         ┃9.638
+
+11002 ┃biologia                                                                                             ┃ub              ┃barcelona            ┃160        ┃11.352
+
+41001 ┃biologia_humana                                                                                      ┃upf             ┃barcelona            ┃65         ┃12.366
+
+11003 ┃bioquimia                                                                                            ┃ub              ┃barcelona            ┃60         ┃12.162
+
+11004 ┃biotecnologia                                                                                        ┃ub              ┃barcelona            ┃80         ┃12.217
+
+31089 ┃ciencia_i_enginyeria_de_dades                                                                        ┃upc             ┃barcelona            ┃50         ┃12.456
+
+11005 ┃ciencies_ambientals                                                                                  ┃ub              ┃barcelona            ┃60         ┃10.176
+
+11006 ┃ciencies_biomediques                                                                                 ┃ub              ┃barcelona            ┃165        ┃12.684
+
+91907 ┃ciencies_culinaries_i_gastronomiques                                                                 ┃ub/upc          ┃barcelona            ┃80         ┃5    
+
+11007 ┃ciencies_de_l'activitat_fisica_i_de_l'esport                                                         ┃ub              ┃barcelona            ┃150        ┃10.52
+
+11077 ┃ciencies_del_mar                                                                                     ┃ub              ┃barcelona            ┃60         ┃10.753
+
+41009 ┃ciencies_empresarials_management                                                                     ┃upf             ┃barcelona            ┃110        ┃11.634
+
+31095 ┃ciencies_i_tecno_aplicades_a_l'esport_i_al_fitnes                                                    ┃upc             ┃barcelona            ┃80         ┃5    
+
+31096 ┃ciencies_i_tecno_del_mar                                                                             ┃upc             ┃barcelona            ┃60         ┃6.452
+
+11008 ┃ciencies_politiques_i_de_l'administracio                                                             ┃ub              ┃barcelona            ┃100        ┃8.444
+
+41010 ┃ciencies_politiques_i_de_l'administracio                                                             ┃upf             ┃barcelona            ┃160        ┃8.014
+
+11065 ┃ciencies_politiques_i_de_l'administracio/dret(simul)                                                 ┃ub              ┃barcelona            ┃20         ┃11.562
+
+11097 ┃comunicacio_audiovisual                                                                              ┃ub              ┃barcelona            ┃45         ┃11.384
+
+41002 ┃comunicacio_audiovisual                                                                              ┃upf             ┃barcelona            ┃80         ┃12.19
+
+11098 ┃comunicacio_audiovisual/gestio_d'informacio_i_documentacio_digital(simul)                            ┃ub              ┃barcelona            ┃20         ┃10.878
+
+11067 ┃comunicacio_i_industries_culturals                                                                   ┃ub              ┃barcelona            ┃120        ┃9.066
+
+11100 ┃conservacio_restauracio_de_bens_culturals                                                            ┃ub              ┃barcelona            ┃50         ┃7.778
+
+11071 ┃continguts_digitals_interactius                                                                      ┃ub              ┃barcelona            ┃40         ┃5    
+
+11085 ┃creacio_artistica_per_a_videojocs_i_jocs_aplicats                                                    ┃ub              ┃barcelona            ┃40         ┃5.976
+
+11010 ┃criminologia                                                                                         ┃ub              ┃barcelona            ┃140        ┃9.7  
+
+91050 ┃criminologia_"eserp"                                                                                 ┃uvicucc         ┃barcelona            ┃40         ┃5    
+
+11088 ┃criminologia/dret(simul)                                                                             ┃ub              ┃barcelona            ┃20         ┃11.784
+
+41011 ┃criminologia_i_politiques_publiques_de_prevencio                                                     ┃upf             ┃barcelona            ┃70         ┃9.532
+
+41043 ┃criminologia_i_politiques_publiques_de_prevencio/dret(simul)                                         ┃upf             ┃barcelona            ┃20         ┃12.196
+
+71085 ┃direccio_i_gestio_d'empreses_en_l'ambit_digital_"esic"                                               ┃urv             ┃barcelona            ┃50         ┃5    
+
+11101 ┃disseny                                                                                              ┃ub              ┃barcelona            ┃50         ┃11.292
+
+91007 ┃disseny_"bau"                                                                                        ┃uvicucc         ┃barcelona            ┃150        ┃7.937
+
+21015 ┃disseny_"eina"                                                                                       ┃uab             ┃barcelona            ┃150        ┃5    
+
+31083 ┃disseny_i_desenvolupament_de_videojocs(angles)(campus_barcelona)                                     ┃upc             ┃barcelona            ┃30         ┃8.175
+
+31074 ┃disseny_i_desenvolupament_de_videojocs(campus_terrassa)                                              ┃upc             ┃barcelona            ┃40         ┃7    
+
+91056 ┃disseny_i_innovacio_"elisava"                                                                        ┃uvicucc         ┃barcelona            ┃175        ┃5    
+
+11012 ┃dret                                                                                                 ┃ub              ┃barcelona            ┃430        ┃9.683
+
+41013 ┃dret                                                                                                 ┃upf             ┃barcelona            ┃260        ┃10.928
+
+91053 ┃dret_"eserp"                                                                                         ┃uvicucc         ┃barcelona            ┃80         ┃5    
+
+41034 ┃dret/administracio_i_direccio_d'empreses_economia(simul)                                             ┃upf             ┃barcelona            ┃90         ┃12.234
+
+11070 ┃dret/gestio_i_administracio_publica(simul)                                                           ┃ub              ┃barcelona            ┃24         ┃9.518
+
+11089 ┃dret/relacions_laborals(simul)                                                                       ┃ub              ┃barcelona            ┃20         ┃10.088
+
+11103 ┃economia                                                                                             ┃ub              ┃barcelona            ┃300        ┃9.078
+
+41014 ┃economia                                                                                             ┃upf             ┃barcelona            ┃170        ┃10.596
+
+91914 ┃economia/estadistica(simul)                                                                          ┃ub/upc          ┃barcelona            ┃20         ┃11.788
+
+11013 ┃educacio_infantil                                                                                    ┃ub              ┃barcelona            ┃200        ┃9.16 
+
+11072 ┃educacio_infantil/educacio_primaria(formacio_de_mestre_5_anys)(simul)                                ┃ub              ┃barcelona            ┃40         ┃11.3 
+
+11014 ┃educacio_primaria                                                                                    ┃ub              ┃barcelona            ┃450        ┃9.208
+
+11015 ┃educacio_social                                                                                      ┃ub              ┃barcelona            ┃180        ┃8.99 
+
+11073 ┃empresa_internacional(angles)                                                                        ┃ub              ┃barcelona            ┃80         ┃11.81
+
+31100 ┃enginyeria_ambiental                                                                                 ┃upc             ┃barcelona            ┃60         ┃8.356
+
+11059 ┃enginyeria_biomedica                                                                                 ┃ub              ┃barcelona            ┃40         ┃12.678
+
+41033 ┃enginyeria_biomedica                                                                                 ┃upf             ┃barcelona            ┃40         ┃12.63
+
+31051 ┃enginyeria_biomedica                                                                                 ┃upc             ┃barcelona            ┃55         ┃12.07
+
+31103 ┃enginyeria_civil                                                                                     ┃upc             ┃barcelona            ┃120        ┃6.788
+
+31113 ┃enginyeria_civil_grau+master_en_enginyeria_de_camins_canals_i_ports                                  ┃upc             ┃barcelona            ┃40         ┃7.176
+
+21132 ┃enginyeria_d'automocio                                                                               ┃uab             ┃barcelona            ┃50         ┃6.894
+
+31091 ┃enginyeria_d'automocio(campus_manresa)                                                               ┃upc             ┃barcelona            ┃50         ┃10.188
+
+91057 ┃enginyeria_de_disseny_indust_"elisava"                                                               ┃uvicucc         ┃barcelona            ┃90         ┃5    
+
+31052 ┃enginyeria_de_l'energia                                                                              ┃upc             ┃barcelona            ┃70         ┃9.53 
+
+11060 ┃enginyeria_de_materials                                                                              ┃ub              ┃barcelona            ┃40         ┃7.562
+
+31025 ┃enginyeria_de_materials                                                                              ┃upc             ┃barcelona            ┃25         ┃7.708
+
+31109 ┃enginyeria_de_materials_grau+master_en_ciencia_i_eng_avancada_de_materials                           ┃upc             ┃barcelona            ┃15         ┃5    
+
+31086 ┃enginyeria_de_tecno_i_serveis_de_telecom                                                             ┃upc             ┃barcelona            ┃180        ┃7.702
+
+31111 ┃enginyeria_de_tecno_i_serveis_de_telecom_grau+master_en_eng_de_telecom                               ┃upc             ┃barcelona            ┃40         ┃8.378
+
+41020 ┃enginyeria_de_xarxes_de_telecom                                                                      ┃upf             ┃barcelona            ┃40         ┃8.733
+
+31053 ┃enginyeria_electri                                                                                   ┃upc             ┃barcelona            ┃80         ┃7.752
+
+11017 ┃enginyeria_electro_de_telecom                                                                        ┃ub              ┃barcelona            ┃40         ┃10.6 
+
+31099 ┃enginyeria_electro_de_telecom                                                                        ┃upc             ┃barcelona            ┃50         ┃10.722
+
+31054 ┃enginyeria_electro_indust_i_automat                                                                  ┃upc             ┃barcelona            ┃135        ┃8.88 
+
+21025 ┃enginyeria_electro_indust_i_automat                                                                  ┃uab             ┃barcelona            ┃35         ┃5    
+
+21112 ┃enginyeria_electro_indust_i_automat/enginyeria_mecani(simul)                                         ┃uab             ┃barcelona            ┃15         ┃5    
+
+21127 ┃enginyeria_en_energies_renovables_i_eficiencia_energetica                                            ┃uab             ┃barcelona            ┃30         ┃5    
+
+31087 ┃enginyeria_en_geoinformacio_i_geomatica                                                              ┃upc             ┃barcelona            ┃40         ┃5    
+
+41019 ┃enginyeria_en_informatica                                                                            ┃upf             ┃barcelona            ┃55         ┃10.352
+
+21022 ┃enginyeria_en_organitzacio_indust                                                                    ┃uab             ┃barcelona            ┃45         ┃5    
+
+41018 ┃enginyeria_en_sistemes_audiovisuals                                                                  ┃upf             ┃barcelona            ┃55         ┃8.182
+
+31049 ┃enginyeria_en_sistemes_i_tecnologia_naval                                                            ┃upc             ┃barcelona            ┃60         ┃7.726
+
+31115 ┃enginyeria_en_tecno_industs_grau+master_en_enginyeria_indust                                         ┃upc             ┃barcelona            ┃400        ┃10.56
+
+31067 ┃enginyeria_fisica                                                                                    ┃upc             ┃barcelona            ┃40         ┃12.728
+
+11018 ┃enginyeria_informatica                                                                               ┃ub              ┃barcelona            ┃70         ┃10.43
+
+31059 ┃enginyeria_informatica                                                                               ┃upc             ┃barcelona            ┃360        ┃10.818
+
+31116 ┃enginyeria_informatica_grau+master_en_enginyeria_informatica                                         ┃upc             ┃barcelona            ┃40         ┃11.544
+
+11016 ┃enginyeria_informatica/matematiques(simul)                                                           ┃ub              ┃barcelona            ┃20         ┃13.118
+
+41056 ┃enginyeria_matematica_en_ciencia_de_dades                                                            ┃upf             ┃barcelona            ┃40         ┃12.016
+
+21026 ┃enginyeria_mecani                                                                                    ┃uab             ┃barcelona            ┃40         ┃5    
+
+31027 ┃enginyeria_mecani                                                                                    ┃upc             ┃barcelona            ┃235        ┃9.048
+
+11019 ┃enginyeria_quimia                                                                                    ┃ub              ┃barcelona            ┃70         ┃10.862
+
+31055 ┃enginyeria_quimia                                                                                    ┃upc             ┃barcelona            ┃85         ┃9.408
+
+31117 ┃enginyeria_quimia_grau+master_en_enginyeria_quimia                                                   ┃upc             ┃barcelona            ┃15         ┃6.396
+
+91902 ┃estadistica                                                                                          ┃ub/upc          ┃barcelona            ┃50         ┃11.218
+
+11021 ┃estudis_anglesos(angles)                                                                             ┃ub              ┃barcelona            ┃160        ┃6.804
+
+11094 ┃estudis_arabs_i_hebreus                                                                              ┃ub              ┃barcelona            ┃40         ┃5    
+
+41051 ┃estudis_globals                                                                                      ┃upf             ┃barcelona            ┃40         ┃11.946
+
+41022 ┃estudis_internacionals_d'economia_i_empresa_international(angles)                                    ┃upf             ┃barcelona            ┃90         ┃12.733
+
+11023 ┃estudis_literaris                                                                                    ┃ub              ┃barcelona            ┃100        ┃7.964
+
+11024 ┃farmacia                                                                                             ┃ub              ┃barcelona            ┃340        ┃11.496
+
+11075 ┃farmacia/nutricio_humana_i_dietetica(simul)                                                          ┃ub              ┃barcelona            ┃20         ┃12.32
+
+11025 ┃filologia_catalana                                                                                   ┃ub              ┃barcelona            ┃70         ┃5    
+
+11026 ┃filologia_classica                                                                                   ┃ub              ┃barcelona            ┃60         ┃5    
+
+11027 ┃filologia_hispanica                                                                                  ┃ub              ┃barcelona            ┃120        ┃5    
+
+91913 ┃filologia_i_cultura_franceses                                                                        ┃uab/ub          ┃barcelona            ┃40         ┃5    
+
+11061 ┃filosofia                                                                                            ┃ub              ┃barcelona            ┃200        ┃6.366
+
+41042 ┃filosofia_politica_i_economia                                                                        ┃upf/uab/uam/... ┃barcelona            ┃30         ┃12.75
+
+11030 ┃fisica                                                                                               ┃ub              ┃barcelona            ┃162        ┃12.356
+
+11020 ┃fisica/matematiques(simul)                                                                           ┃ub              ┃barcelona            ┃20         ┃13.453
+
+11031 ┃geografia                                                                                            ┃ub              ┃barcelona            ┃60         ┃5    
+
+11032 ┃geologia                                                                                             ┃ub              ┃barcelona            ┃60         ┃5    
+
+11091 ┃gestio_d'informacio_i_documentacio_digital                                                           ┃ub              ┃barcelona            ┃60         ┃6.28 
+
+11052 ┃gestio_i_administracio_publica                                                                       ┃ub              ┃barcelona            ┃80         ┃7.802
+
+41050 ┃grau_obert_programa_de(agrupacio)                                                                    ┃upf             ┃barcelona            ┃30         ┃11.639
+
+11035 ┃historia                                                                                             ┃ub              ┃barcelona            ┃255        ┃5    
+
+11034 ┃historia_de_l'art                                                                                    ┃ub              ┃barcelona            ┃170        ┃5    
+
+11104 ┃historia/historia_de_l'art(simul)                                                                    ┃ub              ┃barcelona            ┃20         ┃8.96 
+
+41003 ┃humanitats                                                                                           ┃upf             ┃barcelona            ┃170        ┃5    
+
+11081 ┃infermeria(campus_clinic)                                                                            ┃ub              ┃barcelona            ┃135        ┃12.352
+
+41021 ┃infermeria_"escola_superior_d'infermeria_del_mar"                                                    ┃upf             ┃barcelona            ┃85         ┃10.156
+
+21043 ┃infermeria_"sant_pau"                                                                                ┃uab             ┃barcelona            ┃85         ┃10.896
+
+31106 ┃intelligencia_artificial                                                                             ┃upc             ┃barcelona            ┃50         ┃12.15
+
+10120 ┃investigacio_privada(titol_propi_no_oficial)                                                         ┃ub              ┃barcelona            ┃120        ┃5    
+
+11039 ┃linguistica                                                                                          ┃ub              ┃barcelona            ┃60         ┃5    
+
+41023 ┃llengues_aplicades                                                                                   ┃upf             ┃barcelona            ┃60         ┃5    
+
+41054 ┃llengues_aplicades/traduccio_i_interpretacio_angles(simul)                                           ┃upf             ┃barcelona            ┃15         ┃11.266
+
+11040 ┃llengues_i_literatures_modernes                                                                      ┃ub              ┃barcelona            ┃100        ┃5    
+
+11082 ┃llengues_romaniques_i_les_seves_literatures                                                          ┃ub              ┃barcelona            ┃40         ┃5    
+
+81064 ┃logistica_empresarial_"mediterrani"                                                                  ┃udg             ┃barcelona            ┃50         ┃5    
+
+71062 ┃marqueting_"esic"                                                                                    ┃urv             ┃barcelona            ┃95         ┃5    
+
+71074 ┃marqueting_"esic"(angles)                                                                            ┃urv             ┃barcelona            ┃45         ┃5    
+
+81051 ┃marqueting_"mediterrani"                                                                             ┃udg             ┃barcelona            ┃70         ┃5.218
+
+31090 ┃marqueting_i_comunicacio_digital_"eae"                                                               ┃upc             ┃barcelona            ┃75         ┃5    
+
+31119 ┃marqueting_i_comunicacio_digital_"eae"(semipresencial)                                               ┃upc             ┃barcelona            ┃15         ┃5    
+
+11041 ┃matematiques                                                                                         ┃ub              ┃barcelona            ┃70         ┃12.734
+
+31040 ┃matematiques                                                                                         ┃upc             ┃barcelona            ┃55         ┃13.254
+
+41058 ┃medicina                                                                                             ┃upf             ┃barcelona            ┃60         ┃13.08
+
+11043 ┃medicina(campus_clinic)                                                                              ┃ub              ┃barcelona            ┃172        ┃13.24
+
+31045 ┃nautica_i_transport_maritim                                                                          ┃upc             ┃barcelona            ┃50         ┃7.82 
+
+11102 ┃negoci_digital_i_innovacio_en_turisme_"cett"                                                         ┃ub              ┃barcelona            ┃80         ┃5    
+
+41024 ┃negocis_i_marqueting_internacionals_"esci"                                                           ┃upf             ┃barcelona            ┃115        ┃8.758
+
+31098 ┃paisatgisme                                                                                          ┃upc             ┃barcelona            ┃50         ┃5    
+
+11045 ┃pedagogia                                                                                            ┃ub              ┃barcelona            ┃240        ┃8.306
+
+41025 ┃periodisme                                                                                           ┃upf             ┃barcelona            ┃80         ┃11.566
+
+11087 ┃produccio_de_musica_i_so_per_a_la_industria_de_l'entreteniment                                       ┃ub              ┃barcelona            ┃60         ┃5    
+
+11047 ┃psicologia                                                                                           ┃ub              ┃barcelona            ┃480        ┃10.224
+
+41004 ┃publicitat_i_relacions_publiques                                                                     ┃upf             ┃barcelona            ┃80         ┃12.07
+
+11093 ┃publicitat_relacions_publiques_i_marqueting                                                          ┃ub              ┃barcelona            ┃150        ┃9.274
+
+11049 ┃quimia                                                                                               ┃ub              ┃barcelona            ┃200        ┃10.238
+
+11050 ┃relacions_laborals                                                                                   ┃ub              ┃barcelona            ┃150        ┃8.18 
+
+41026 ┃relacions_laborals                                                                                   ┃upf             ┃barcelona            ┃180        ┃7.678
+
+11063 ┃sociologia                                                                                           ┃ub              ┃barcelona            ┃130        ┃7.628
+
+91915 ┃tecno_industs_amb_analisi_economica_grau+master_en_enginyeria_indust                                 ┃upc/upf         ┃barcelona            ┃50         ┃12.504
+
+31038 ┃tecno_marines                                                                                        ┃upc             ┃barcelona            ┃40         ┃5    
+
+41040 ┃traduccio_i_interpretacio_alemany/frances/llengua_de_signes_catalana                                 ┃upf             ┃barcelona            ┃70         ┃5    
+
+41006 ┃traduccio_i_interpretacio_angles                                                                     ┃upf             ┃barcelona            ┃85         ┃5    
+
+11051 ┃treball_social                                                                                       ┃ub              ┃barcelona            ┃240        ┃8.175
+
+81036 ┃turisme_"euroaula"                                                                                   ┃udg             ┃barcelona            ┃100        ┃5    
+
+11011 ┃turisme_"cett"                                                                                       ┃ub              ┃barcelona            ┃180        ┃5    
+
+11086 ┃turisme_"cett"(angles)                                                                               ┃ub              ┃barcelona            ┃65         ┃5    
+
+81037 ┃turisme_"formatic_barna"                                                                             ┃udg             ┃barcelona            ┃80         ┃5    
+
+81038 ┃turisme_"mediterrani"                                                                                ┃udg             ┃barcelona            ┃100        ┃5    
+
+81062 ┃turisme/marqueting_"mediterrani"(simul)                                                              ┃udg             ┃barcelona            ┃25         ┃5    
+
+21014 ┃administracio_i_direccio_d'empreses                                                                  ┃uab             ┃cerdanyola_del_va... ┃160        ┃9.912
+
+21099 ┃administracio_i_direccio_d'empreses(angles)                                                          ┃uab             ┃cerdanyola_del_va... ┃70         ┃10.434
+
+81003 ┃administracio_i_direccio_d'empreses                                                                  ┃udg             ┃girona               ┃100        ┃9.296
+
+61069 ┃administracio_i_direccio_d'empreses                                                                  ┃udl             ┃igualada             ┃40         ┃7.37 
+
+61003 ┃administracio_i_direccio_d'empreses                                                                  ┃udl             ┃lleida               ┃125        ┃6.644
+
+91042 ┃administracio_i_direccio_d'empreses(campus_manresa)                                                  ┃uvicucc         ┃manresa              ┃40         ┃5    
+
+71002 ┃administracio_i_direccio_d'empreses                                                                  ┃urv             ┃reus                 ┃140        ┃7.62 
+
+31001 ┃administracio_i_direccio_d'empreses_"euncet"                                                         ┃upc             ┃terrassa             ┃60         ┃5    
+
+31072 ┃administracio_i_direccio_d'empreses_"euncet"(semipresencial)                                         ┃upc             ┃terrassa             ┃40         ┃5    
+
+71004 ┃administracio_i_direccio_d'empreses                                                                  ┃urv             ┃tortosa              ┃45         ┃5    
+
+91003 ┃administracio_i_direccio_d'empreses                                                                  ┃uvicucc         ┃vic                  ┃45         ┃5    
+
+21098 ┃administracio_i_direccio_d'empreses/dret(simul)                                                      ┃uab             ┃cerdanyola_del_va... ┃80         ┃10.603
+
+81053 ┃administracio_i_direccio_d'empreses/dret(simul)                                                      ┃udg             ┃girona               ┃10         ┃10.83
+
+61035 ┃administracio_i_direccio_d'empreses/dret(simul)                                                      ┃udl             ┃lleida               ┃30         ┃9.733
+
+71055 ┃administracio_i_direccio_d'empreses/dret(simul)                                                      ┃urv             ┃reus_tarragona       ┃25         ┃9.326
+
+81052 ┃administracio_i_direccio_d'empreses/economia(simul)                                                  ┃udg             ┃girona               ┃30         ┃10.782
+
+61070 ┃administracio_i_direccio_d'empreses/engi_en_organitzacio_indust_i_logistica(simul)                   ┃udl             ┃igualada_lleida      ┃10         ┃6.762
+
+81046 ┃administracio_i_direccio_d'empreses/enginyeria_en_tecno_industs(simul)                               ┃udg             ┃girona               ┃15         ┃10.28
+
+61036 ┃administracio_i_direccio_d'empreses/enginyeria_informatica(simul)                                    ┃udl             ┃lleida               ┃10         ┃10.984
+
+71053 ┃administracio_i_direccio_d'empreses/finances_i_comptabilitat(simul)                                  ┃urv             ┃reus                 ┃30         ┃10.92
+
+31101 ┃administracio_i_direccio_d'empreses_"euncet"/marqueting_i_comunicacio_digital(simul)                 ┃upc             ┃terrassa             ┃40         ┃5    
+
+61053 ┃administracio_i_direccio_d'empreses/turisme(simul)                                                   ┃udl             ┃lleida               ┃20         ┃7.196
+
+71003 ┃angles                                                                                               ┃urv             ┃tarragona            ┃55         ┃5    
+
+71049 ┃antropologia_i_evolucio_humana(virtual_o_semipresencial)                                             ┃urv/uoc         ┃tarragona            ┃120        ┃5    
+
+21006 ┃antropologia_social_i_cultural                                                                       ┃uab             ┃cerdanyola_del_va... ┃80         ┃5    
+
+21007 ┃arqueologia                                                                                          ┃uab             ┃cerdanyola_del_va... ┃70         ┃5    
+
+71035 ┃arquitectura                                                                                         ┃urv             ┃reus                 ┃60         ┃8.172
+
+81020 ┃arquitectura_tecnica_i_edificacio                                                                    ┃udg             ┃girona               ┃25         ┃7.56 
+
+81065 ┃arquitectura_tecnica_i_edificacio(semipresencial)                                                    ┃udg             ┃girona               ┃15         ┃7.022
+
+61016 ┃arquitectura_tecnica_i_edificacio                                                                    ┃udl             ┃lleida               ┃25         ┃6.563
+
+81057 ┃arquitectura_estudis_d'                                                                              ┃udg             ┃girona               ┃40         ┃9.252
+
+31079 ┃arquitectura_estudis_d'                                                                              ┃upc             ┃sant_cugat_del_va... ┃110        ┃10.054
+
+81045 ┃arts_esceniques                                                                                      ┃udg             ┃salt                 ┃30         ┃5.452
+
+21009 ┃biologia                                                                                             ┃uab             ┃cerdanyola_del_va... ┃80         ┃11.374
+
+81006 ┃biologia/biotecnologia(simul)                                                                        ┃udg             ┃girona               ┃90         ┃10.476
+
+91018 ┃biologia                                                                                             ┃uvicucc         ┃vic                  ┃50         ┃6.486
+
+21008 ┃biologia_ambiental                                                                                   ┃uab             ┃cerdanyola_del_va... ┃60         ┃11.354
+
+81047 ┃biologia/biotecnologia(simul)                                                                        ┃udg             ┃girona               ┃10         ┃11.41
+
+81048 ┃biologia/ciencies_ambientals(simul)                                                                  ┃udg             ┃girona               ┃20         ┃10.35
+
+91058 ┃biomedicina                                                                                          ┃uvicucc         ┃vic                  ┃50         ┃11.088
+
+21011 ┃bioquimia                                                                                            ┃uab             ┃cerdanyola_del_va... ┃60         ┃11.884
+
+71005 ┃bioquimia_i_biologia_molecular                                                                       ┃urv             ┃tarragona            ┃45         ┃11.776
+
+71054 ┃bioquimia_i_biologia_molecular/biotecnologia(simul)                                                  ┃urv             ┃tarragona            ┃15         ┃12.728
+
+21012 ┃biotecnologia                                                                                        ┃uab             ┃cerdanyola_del_va... ┃80         ┃11.834
+
+81007 ┃biotecnologia                                                                                        ┃udg             ┃girona               ┃60         ┃11.042
+
+61005 ┃biotecnologia                                                                                        ┃udl             ┃lleida               ┃50         ┃11.078
+
+71006 ┃biotecnologia                                                                                        ┃urv             ┃tarragona            ┃40         ┃11.335
+
+91004 ┃biotecnologia                                                                                        ┃uvicucc         ┃vic                  ┃50         ┃5.318
+
+71056 ┃biotecnologia/enginyeria_informatica(simul)                                                          ┃urv             ┃tarragona            ┃10         ┃11.666
+
+61040 ┃ciencia_i_produccio_animal/veterinaria(simul)                                                        ┃udl             ┃lleida               ┃60         ┃11.628
+
+21021 ┃ciencia_i_tecnologia_dels_aliments                                                                   ┃uab             ┃cerdanyola_del_va... ┃70         ┃10.248
+
+61008 ┃ciencia_i_tecnologia_dels_aliments                                                                   ┃udl             ┃lleida               ┃40         ┃5    
+
+11054 ┃ciencia_i_tecnologia_dels_aliments                                                                   ┃ub              ┃santa_coloma_de_g... ┃80         ┃9.322
+
+21013 ┃ciencia_politica_i_gestio_publica                                                                    ┃uab             ┃cerdanyola_del_va... ┃80         ┃8.518
+
+21104 ┃ciencia_politica_i_gestio_publica/dret(simul)                                                        ┃uab             ┃cerdanyola_del_va... ┃20         ┃10.986
+
+21125 ┃ciencia_politica_i_gestio_publica/sociologia(simul)                                                  ┃uab             ┃cerdanyola_del_va... ┃20         ┃5.766
+
+21137 ┃ciencia_tecnologia_i_humanitats                                                                      ┃uab             ┃cerdanyola_del_va... ┃15         ┃5    
+
+21131 ┃ciencies                                                                                             ┃uab/uam/uc3m    ┃cerdanyola_del_va... ┃15         ┃9.822
+
+21024 ┃ciencies_ambientals                                                                                  ┃uab             ┃cerdanyola_del_va... ┃60         ┃9.762
+
+81008 ┃ciencies_ambientals                                                                                  ┃udg             ┃girona               ┃60         ┃8.266
+
+21103 ┃ciencies_ambientals/geologia(simul)                                                                  ┃uab             ┃cerdanyola_del_va... ┃30         ┃9.526
+
+21010 ┃ciencies_biomediques                                                                                 ┃uab             ┃cerdanyola_del_va... ┃60         ┃12.78
+
+61004 ┃ciencies_biomediques                                                                                 ┃udl             ┃lleida               ┃45         ┃12.468
+
+71046 ┃ciencies_de_l'activitat_fisica_i_de_l'esport                                                         ┃urv             ┃amposta              ┃50         ┃6.156
+
+61071 ┃ciencies_de_l'activitat_fisica_i_de_l'esport                                                         ┃udl             ┃la_seu_d'urgell      ┃40         ┃9.528
+
+61007 ┃ciencies_de_l'activitat_fisica_i_de_l'esport                                                         ┃udl             ┃lleida               ┃95         ┃9.6  
+
+41038 ┃ciencies_de_l'activitat_fisica_i_de_l'esport_"tecnocampus"                                           ┃upf             ┃mataro               ┃60         ┃9.22 
+
+81009 ┃ciencies_de_l'activitat_fisica_i_de_l'esport                                                         ┃udg             ┃salt                 ┃90         ┃6.649
+
+91001 ┃ciencies_de_l'activitat_fisica_i_de_l'esport                                                         ┃uvicucc         ┃vic                  ┃100        ┃7.867
+
+61038 ┃ciencies_de_l'activitat_fisica_i_de_l'esport/educacio_primaria(simul)                                ┃udl             ┃lleida               ┃30         ┃9.548
+
+91055 ┃ciencies_de_l'activitat_fisica_i_de_l'esport/educacio_primaria(simul)                                ┃uvicucc         ┃vic                  ┃40         ┃5    
+
+71059 ┃ciencies_de_l'activitat_fisica_i_de_l'esport/fisioterapia(simul)                                     ┃urv             ┃amposta_tortosa      ┃10         ┃5    
+
+41037 ┃ciencies_de_l'activitat_fisica_i_de_l'esport/fisioterapia_"tecnocampus"(simul)                       ┃upf             ┃mataro               ┃40         ┃8.86 
+
+61039 ┃ciencies_de_l'activitat_fisica_i_de_l'esport/fisioterapia(simul)                                     ┃udl             ┃lleida               ┃25         ┃11.916
+
+81061 ┃ciencies_de_l'activitat_fisica_i_de_l'esport/fisioterapia(simul)                                     ┃udg             ┃salt                 ┃10         ┃6.943
+
+21117 ┃ciencies_de_l'antiguitat                                                                             ┃uab             ┃cerdanyola_del_va... ┃60         ┃5    
+
+81010 ┃ciencies_politiques_i_de_l'administracio                                                             ┃udg             ┃girona               ┃55         ┃6.554
+
+81054 ┃ciencies_politiques_i_de_l'administracio/dret(simul)                                                 ┃udg             ┃girona               ┃15         ┃9.784
+
+11009 ┃cinematografia_"escac"                                                                               ┃ub              ┃terrassa             ┃100        ┃5    
+
+81011 ┃comptabilitat_i_finances                                                                             ┃udg             ┃girona               ┃140        ┃7.418
+
+21084 ┃comptabilitat_i_finances                                                                             ┃uab             ┃sabadell             ┃150        ┃8.632
+
+21085 ┃comunicacio_audiovisual                                                                              ┃uab             ┃cerdanyola_del_va... ┃80         ┃11.162
+
+71007 ┃comunicacio_audiovisual                                                                              ┃urv             ┃tarragona            ┃45         ┃9.51 
+
+91006 ┃comunicacio_audiovisual                                                                              ┃uvicucc         ┃vic                  ┃40         ┃5    
+
+81005 ┃comunicacio_audiovisual_i_multimedia_"eram"                                                          ┃udg             ┃salt                 ┃50         ┃5    
+
+81067 ┃comunicacio_audiovisual_i_multimedia_"eram"(angles)                                                  ┃udg             ┃salt                 ┃20         ┃5    
+
+81068 ┃comunicacio_cultural                                                                                 ┃udg             ┃girona               ┃50         ┃5    
+
+21121 ┃comunicacio_de_les_organitzacions                                                                    ┃uab             ┃cerdanyola_del_va... ┃60         ┃9.21 
+
+61009 ┃comunicacio_i_periodisme_audiovisuals                                                                ┃udl             ┃lleida               ┃90         ┃7.046
+
+21126 ┃comunicacio_interactiva                                                                              ┃uab             ┃cerdanyola_del_va... ┃60         ┃8.4  
+
+61042 ┃conservacio_de_la_natura/enginyeria_forestal(simul)                                                  ┃udl             ┃lleida               ┃25         ┃5    
+
+21068 ┃criminologia                                                                                         ┃uab             ┃cerdanyola_del_va... ┃70         ┃9.94 
+
+81013 ┃criminologia                                                                                         ┃udg             ┃girona               ┃55         ┃9.178
+
+21108 ┃criminologia/dret(simul)                                                                             ┃uab             ┃cerdanyola_del_va... ┃20         ┃11.71
+
+81056 ┃criminologia/dret(simul)                                                                             ┃udg             ┃girona               ┃15         ┃10.066
+
+21107 ┃direccio_hotelera                                                                                    ┃uab             ┃cerdanyola_del_va... ┃90         ┃5    
+
+61064 ┃disseny_digital_i_tecno_creatives                                                                    ┃udl             ┃lleida               ┃40         ┃8.714
+
+81059 ┃disseny_i_desenvolupament_de_videojocs                                                               ┃udg             ┃girona               ┃40         ┃8.493
+
+41045 ┃disseny_i_produccio_de_videojocs_"tecnocampus"                                                       ┃upf             ┃mataro               ┃55         ┃5    
+
+41052 ┃disseny_i_produccio_de_videojocs/engi_informatica_de_gestio_sistemes_d'informacio(simul)             ┃upf             ┃mataro               ┃30         ┃5.302
+
+31093 ┃disseny_animacio_i_art_digital                                                                       ┃upc             ┃terrassa             ┃40         ┃10.406
+
+21086 ┃dret                                                                                                 ┃uab             ┃cerdanyola_del_va... ┃200        ┃9.6  
+
+81015 ┃dret                                                                                                 ┃udg             ┃girona               ┃155        ┃8.342
+
+61010 ┃dret                                                                                                 ┃udl             ┃lleida               ┃115        ┃7.268
+
+71008 ┃dret                                                                                                 ┃urv             ┃tarragona            ┃135        ┃8.202
+
+21145 ┃dret/relacions_internacionals(simul)                                                                 ┃uab             ┃cerdanyola_del_va... ┃20         ┃12.827
+
+21109 ┃dret/relacions_laborals(simul)                                                                       ┃uab             ┃cerdanyola_del_va... ┃20         ┃10.166
+
+71083 ┃dret/relacions_laborals_i_recursos_humans(simul)                                                     ┃urv             ┃tarragona            ┃25         ┃7.98 
+
+21070 ┃economia                                                                                             ┃uab             ┃cerdanyola_del_va... ┃135        ┃8.99 
+
+21110 ┃economia(angles)                                                                                     ┃uab             ┃cerdanyola_del_va... ┃40         ┃9.67 
+
+81016 ┃economia                                                                                             ┃udg             ┃girona               ┃50         ┃8.56 
+
+71009 ┃economia                                                                                             ┃urv             ┃reus                 ┃50         ┃7.24 
+
+81069 ┃economia/filosofia(simul)                                                                            ┃udg             ┃girona               ┃10         ┃9.161
+
+21016 ┃educacio_infantil                                                                                    ┃uab             ┃cerdanyola_del_va... ┃130        ┃9.62 
+
+81017 ┃educacio_infantil                                                                                    ┃udg             ┃girona               ┃80         ┃8.766
+
+61011 ┃educacio_infantil                                                                                    ┃udl             ┃lleida               ┃90         ┃5    
+
+91038 ┃educacio_infantil(campus_manresa)                                                                    ┃uvicucc         ┃manresa              ┃50         ┃5    
+
+71010 ┃educacio_infantil                                                                                    ┃urv             ┃tarragona            ┃80         ┃7.376
+
+71029 ┃educacio_infantil                                                                                    ┃urv             ┃tortosa              ┃40         ┃5    
+
+71034 ┃educacio_infantil                                                                                    ┃urv             ┃el_vendrell          ┃40         ┃7.272
+
+91008 ┃educacio_infantil                                                                                    ┃uvicucc         ┃vic                  ┃90         ┃5    
+
+21111 ┃educacio_infantil/educacio_primaria(formacio_de_mestre_5_anys)(simul)                                ┃uab             ┃cerdanyola_del_va... ┃20         ┃11.418
+
+81049 ┃educacio_infantil/educacio_primaria(formacio_de_mestre_5_anys)(simul)                                ┃udg             ┃girona               ┃50         ┃9.972
+
+61037 ┃educacio_infantil/educacio_primaria(formacio_de_mestre_5_anys)(simul)                                ┃udl             ┃lleida               ┃35         ┃8.143
+
+71050 ┃educacio_infantil/educacio_primaria(formacio_de_mestre_5_anys)(simul)                                ┃urv             ┃tarragona            ┃30         ┃10.73
+
+71076 ┃educacio_infantil/educacio_primaria(formacio_de_mestre_5_anys)(simul)                                ┃urv             ┃tortosa              ┃10         ┃8.686
+
+91030 ┃educacio_infantil/educacio_primaria(formacio_de_mestre_5_anys)(simul)                                ┃uvicucc         ┃vic                  ┃40         ┃5    
+
+21018 ┃educacio_primaria                                                                                    ┃uab             ┃cerdanyola_del_va... ┃180        ┃10.172
+
+21102 ┃educacio_primaria(angles)                                                                            ┃uab             ┃cerdanyola_del_va... ┃75         ┃8.518
+
+81018 ┃educacio_primaria                                                                                    ┃udg             ┃girona               ┃80         ┃9.488
+
+61072 ┃educacio_primaria(modalitat_bilingue)                                                                ┃udl             ┃lleida               ┃30         ┃6.592
+
+61073 ┃educacio_primaria(modalitat_dual)                                                                    ┃udl             ┃lleida               ┃95         ┃7.688
+
+71011 ┃educacio_primaria                                                                                    ┃urv             ┃tarragona            ┃80         ┃8.631
+
+71033 ┃educacio_primaria                                                                                    ┃urv             ┃tortosa              ┃40         ┃6.39 
+
+91009 ┃educacio_primaria                                                                                    ┃uvicucc         ┃vic                  ┃70         ┃5    
+
+21019 ┃educacio_social                                                                                      ┃uab             ┃cerdanyola_del_va... ┃80         ┃9.602
+
+81019 ┃educacio_social                                                                                      ┃udg             ┃girona               ┃60         ┃8.596
+
+61013 ┃educacio_social                                                                                      ┃udl             ┃lleida               ┃80         ┃7.898
+
+71012 ┃educacio_social                                                                                      ┃urv             ┃tarragona            ┃55         ┃8.59 
+
+91010 ┃educacio_social                                                                                      ┃uvicucc         ┃vic                  ┃45         ┃5    
+
+21087 ┃empresa_i_tecnologia                                                                                 ┃uab             ┃sabadell             ┃80         ┃9.546
+
+61006 ┃enginyeria_agraria_i_alimentaria                                                                     ┃udl             ┃lleida               ┃60         ┃5    
+
+81032 ┃enginyeria_agroalimentaria                                                                           ┃udg             ┃girona               ┃40         ┃5.348
+
+31004 ┃enginyeria_alimentaria                                                                               ┃upc             ┃castelldefels        ┃50         ┃5.56 
+
+81063 ┃enginyeria_biomedica                                                                                 ┃udg             ┃girona               ┃40         ┃11.067
+
+71064 ┃enginyeria_biomedica                                                                                 ┃urv             ┃tarragona            ┃40         ┃11.202
+
+71070 ┃enginyeria_biomedica/enginyeria_de_sistemes_i_serveis_de_telecomns(simul)                            ┃urv             ┃tarragona            ┃10         ┃10.943
+
+71065 ┃enginyeria_de_bioprocessos_alimentaris/tecniques_de_bioprocessosalimentaris                          ┃urv             ┃tarragona            ┃40         ┃5    
+
+31097 ┃enginyeria_de_ciencies_agronomiques                                                                  ┃upc             ┃castelldefels        ┃60         ┃5    
+
+21118 ┃enginyeria_de_dades                                                                                  ┃uab             ┃cerdanyola_del_va... ┃60         ┃10.726
+
+31022 ┃enginyeria_de_disseny_indust_i_desenvolupament_del_producte                                          ┃upc             ┃terrassa             ┃60         ┃11.224
+
+31006 ┃enginyeria_de_disseny_indust_i_desenvolupament_del_producte                                          ┃upc             ┃vilanova_i_la_geltru ┃100        ┃8.126
+
+91051 ┃enginyeria_de_l'automocio                                                                            ┃uvicucc         ┃granollers           ┃45         ┃5    
+
+61061 ┃enginyeria_de_l'energia_i_sostenibilitat/engi_en_electro_indust_i_automat/engi_mecani                ┃udl             ┃lleida               ┃120        ┃5    
+
+61065 ┃enginyeria_de_l'energia_i_sostenibilitat/enginyeria_mecani(simul)                                    ┃udl             ┃lleida               ┃10         ┃8.862
+
+31104 ┃enginyeria_electro_indust_i_automat/engi_mecani/engi_quimia/engi_de_recursos_minerals_i_reciclatge   ┃upc             ┃manresa              ┃180        ┃6.064
+
+31084 ┃enginyeria_de_sistemes_aeroespacials                                                                 ┃upc             ┃castelldefels        ┃120        ┃11.228
+
+31085 ┃enginyeria_de_sistemes_aeroespacials/engi_de_sistemes_de_telecom_engi_telematica(simul)              ┃upc             ┃castelldefels        ┃40         ┃11.718
+
+31010 ┃enginyeria_de_sistemes_audiovisuals                                                                  ┃upc             ┃terrassa             ┃60         ┃5.17 
+
+31011 ┃enginyeria_de_sistemes_biologics                                                                     ┃upc             ┃castelldefels        ┃50         ┃10.002
+
+21115 ┃enginyeria_de_sistemes_de_telecom/enginyeria_electro_de_telecom                                      ┃uab             ┃cerdanyola_del_va... ┃140        ┃7.554
+
+21105 ┃enginyeria_de_sistemes_de_telecom/enginyeria_informatica(simul)                                      ┃uab             ┃cerdanyola_del_va... ┃20         ┃9.852
+
+31076 ┃enginyeria_de_sistemes_de_telecom/enginyeria_telematica(inclou_xarxes_i_internet)                    ┃upc             ┃castelldefels        ┃60         ┃7.745
+
+31077 ┃enginyeria_de_sistemes_de_telecom/enginyeria_telematica(inclou_xarxes_i_internet)(febrer)            ┃upc             ┃castelldefels        ┃20         ┃5    
+
+31110 ┃enginyeria_de_sistemes_de_telecom_grau+master_en_aplicacions_i_gestio_de_l'eng_de_telecom_digitals   ┃upc             ┃castelldefels        ┃20         ┃5    
+
+71042 ┃enginyeria_de_sistemes_i_serveis_de_telecomns                                                        ┃urv             ┃tarragona            ┃40         ┃6.286
+
+31065 ┃enginyeria_de_sistemes_tic(ambit_d'informatica_i_comunicacions)                                      ┃upc             ┃manresa              ┃40         ┃6.93 
+
+31015 ┃enginyeria_de_tecnologia_i_disseny_textil/engi_electri/engi_electro_indust_automat/engi_mecani_qu... ┃upc             ┃terrassa             ┃270        ┃7.434
+
+41057 ┃enginyeria_d'organitzacio_indust/engi_electro_indust_i_automat/engi_mecani_"tecnocampus"             ┃upf             ┃mataro               ┃75         ┃5    
+
+81040 ┃enginyeria_electri                                                                                   ┃udg             ┃girona               ┃40         ┃5    
+
+71037 ┃enginyeria_electri                                                                                   ┃urv             ┃tarragona            ┃50         ┃5    
+
+81050 ┃enginyeria_electri/enginyeria_electro_indust_i_automat(simul)                                        ┃udg             ┃girona               ┃15         ┃5    
+
+71058 ┃enginyeria_electri/enginyeria_electro_indust_i_automat(simul)                                        ┃urv             ┃tarragona            ┃10         ┃8.866
+
+31021 ┃enginyeria_electri/enginyeria_electro_indust_i_automat/enginyeria_mecani                             ┃upc             ┃vilanova_i_la_geltru ┃200        ┃5    
+
+21106 ┃enginyeria_electro_de_telecom/enginyeria_informatica(simul)                                          ┃uab             ┃cerdanyola_del_va... ┃20         ┃9.75 
+
+81021 ┃enginyeria_electro_indust_i_automat                                                                  ┃udg             ┃girona               ┃50         ┃5.976
+
+71038 ┃enginyeria_electro_indust_i_automat                                                                  ┃urv             ┃tarragona            ┃80         ┃5    
+
+61060 ┃enginyeria_en_organitzacio_indust_i_logistica/enginyeria_quimia(agrupacio)                           ┃udl             ┃igualada             ┃50         ┃5    
+
+31112 ┃enginyeria_en_tecno_aeroespacials_grau+master_en_enginyeria_aeronautica                              ┃upc             ┃terrassa             ┃60         ┃12.642
+
+81041 ┃enginyeria_en_tecno_industs                                                                          ┃udg             ┃girona               ┃70         ┃7.214
+
+31114 ┃enginyeria_en_tecno_industs_grau+master_en_enginyeria_indust                                         ┃upc             ┃terrassa             ┃180        ┃8.874
+
+31031 ┃enginyeria_en_vehicles_aeroespacials                                                                 ┃upc             ┃terrassa             ┃60         ┃12.36
+
+61014 ┃enginyeria_forestal                                                                                  ┃udl             ┃lleida               ┃40         ┃5    
+
+21071 ┃enginyeria_informatica                                                                               ┃uab             ┃cerdanyola_del_va... ┃190        ┃9.892
+
+81042 ┃enginyeria_informatica                                                                               ┃udg             ┃girona               ┃100        ┃8.576
+
+61074 ┃enginyeria_informatica                                                                               ┃udl             ┃igualada             ┃35         ┃6.902
+
+61015 ┃enginyeria_informatica                                                                               ┃udl             ┃lleida               ┃70         ┃7.87 
+
+71039 ┃enginyeria_informatica                                                                               ┃urv             ┃tarragona            ┃110        ┃8.246
+
+31037 ┃enginyeria_informatica                                                                               ┃upc             ┃vilanova_i_la_geltru ┃50         ┃9.492
+
+41047 ┃enginyeria_informatica_de_gestio_i_sistemes_d'informacio_"tecnocampus"                               ┃upf             ┃mataro               ┃50         ┃6.582
+
+71081 ┃enginyeria_matematica_i_fisica                                                                       ┃urv             ┃tarragona            ┃20         ┃12.275
+
+81022 ┃enginyeria_mecani                                                                                    ┃udg             ┃girona               ┃90         ┃6.362
+
+71040 ┃enginyeria_mecani                                                                                    ┃urv             ┃tarragona            ┃65         ┃6.043
+
+91011 ┃enginyeria_mecatronica                                                                               ┃uvicucc         ┃vic                  ┃40         ┃5    
+
+21090 ┃enginyeria_quimia                                                                                    ┃uab             ┃cerdanyola_del_va... ┃80         ┃9.616
+
+81023 ┃enginyeria_quimia                                                                                    ┃udg             ┃girona               ┃40         ┃7.386
+
+71041 ┃enginyeria_quimia                                                                                    ┃urv             ┃tarragona            ┃80         ┃7.692
+
+31118 ┃enginyeria_telematica_grau+master_en_aplicacions_i_gestio_de_l'engi_de_telecom_xarxes_dades_i_tic)   ┃upc             ┃castelldefels        ┃20         ┃5    
+
+71013 ┃enologia                                                                                             ┃urv             ┃tarragona            ┃35         ┃5    
+
+21128 ┃estadistica_aplicada                                                                                 ┃uab             ┃cerdanyola_del_va... ┃40         ┃10.328
+
+21129 ┃estadistica_aplicada/sociologia(simul)                                                               ┃uab             ┃cerdanyola_del_va... ┃20         ┃9.836
+
+21135 ┃estudis_anglesos                                                                                     ┃uab             ┃cerdanyola_del_va... ┃80         ┃7.074
+
+61054 ┃estudis_anglesos                                                                                     ┃udl             ┃lleida               ┃40         ┃5    
+
+61051 ┃estudis_anglesos/llengues_aplicades_i_traduccio(simul)                                               ┃udl             ┃lleida               ┃10         ┃7.304
+
+21140 ┃estudis_d'angles_i_catala                                                                            ┃uab             ┃cerdanyola_del_va... ┃30         ┃5    
+
+21141 ┃estudis_d'angles_i_de_classiques                                                                     ┃uab             ┃cerdanyola_del_va... ┃30         ┃5    
+
+21142 ┃estudis_d'angles_i_espanyol                                                                          ┃uab             ┃cerdanyola_del_va... ┃30         ┃8.248
+
+21143 ┃estudis_d'angles_i_frances                                                                           ┃uab             ┃cerdanyola_del_va... ┃30         ┃5    
+
+21030 ┃estudis_d'asia_oriental_japones                                                                      ┃uab             ┃cerdanyola_del_va... ┃40         ┃9.374
+
+21067 ┃estudis_d'asia_oriental_xines                                                                        ┃uab             ┃cerdanyola_del_va... ┃40         ┃7.606
+
+21144 ┃estudis_de_catala_i_espanyol                                                                         ┃uab             ┃cerdanyola_del_va... ┃30         ┃5    
+
+21133 ┃estudis_d'espanyol_i_xines:_llengua_literatura_i_cultura                                             ┃uab             ┃cerdanyola_del_va... ┃40         ┃5    
+
+21130 ┃estudis_socioculturals_de_genere                                                                     ┃uab             ┃cerdanyola_del_va... ┃60         ┃7.306
+
+81070 ┃filologia_catalana                                                                                   ┃udg             ┃girona               ┃40         ┃5    
+
+21134 ┃filologia_catalana:_estudis_de_literatura_i_linguistica                                              ┃uab             ┃cerdanyola_del_va... ┃40         ┃5    
+
+61055 ┃filologia_catalana_i_estudis_occitans                                                                ┃udl             ┃lleida               ┃20         ┃5    
+
+61058 ┃filologia_catalana_i_estudis_occitans/llengues_aplicades_i_traduccio(simul)                          ┃udl             ┃lleida               ┃10         ┃5    
+
+81071 ┃filologia_hispanica                                                                                  ┃udg             ┃girona               ┃40         ┃5    
+
+61056 ┃filologia_hispanica                                                                                  ┃udl             ┃lleida               ┃20         ┃5    
+
+61059 ┃filologia_hispanica/llengues_aplicades_i_traduccio(simul)                                            ┃udl             ┃lleida               ┃10         ┃5    
+
+21032 ┃filosofia                                                                                            ┃uab             ┃cerdanyola_del_va... ┃70         ┃5.188
+
+81072 ┃filosofia                                                                                            ┃udg             ┃girona               ┃35         ┃5    
+
+71014 ┃finances_i_comptabilitat                                                                             ┃urv             ┃reus                 ┃115        ┃5    
+
+21001 ┃fisica                                                                                               ┃uab             ┃cerdanyola_del_va... ┃70         ┃12.452
+
+21005 ┃fisica/matematiques(simul)                                                                           ┃uab             ┃cerdanyola_del_va... ┃20         ┃13.536
+
+21100 ┃fisica/quimia(simul)                                                                                 ┃uab             ┃cerdanyola_del_va... ┃20         ┃12.432
+
+21095 ┃fisioterapia                                                                                         ┃uab             ┃cerdanyola_del_va... ┃80         ┃11.132
+
+91908 ┃fisioterapia(angles)(nomes_per_a_estudiants_espanyols_o_estrangers_amb_residencia)                   ┃udg/ub          ┃l'hospitalet_de_l... ┃18         ┃6.45 
+
+91909 ┃fisioterapia(angles)(nomes_estudiants_sense_nacionalitat_espanyola_ni_residencia)                    ┃udg/ub          ┃l'hospitalet_de_l... ┃42         ┃7.058
+
+61019 ┃fisioterapia                                                                                         ┃udl             ┃lleida               ┃25         ┃10.68
+
+91041 ┃fisioterapia(campus_manresa)                                                                         ┃uvicucc         ┃manresa              ┃160        ┃6.983
+
+41055 ┃fisioterapia_"tecnocampus"                                                                           ┃upf             ┃mataro               ┃40         ┃8.538
+
+71043 ┃fisioterapia                                                                                         ┃urv             ┃reus                 ┃80         ┃10.26
+
+81025 ┃fisioterapia                                                                                         ┃udg             ┃salt                 ┃150        ┃7.274
+
+21033 ┃fisioterapia_"gimbernat"                                                                             ┃uab             ┃sant_cugat_del_va... ┃240        ┃6.24 
+
+71048 ┃fisioterapia                                                                                         ┃urv             ┃tortosa              ┃60         ┃6.707
+
+91012 ┃fisioterapia                                                                                         ┃uvicucc         ┃vic                  ┃160        ┃7.078
+
+61044 ┃fisioterapia/infermeria(simul)                                                                       ┃udl             ┃lleida               ┃25         ┃12.001
+
+61057 ┃fisioterapia/nutricio_humana_i_dietetica(simul)                                                      ┃udl             ┃igualada             ┃20         ┃10.892
+
+21035 ┃genetica                                                                                             ┃uab             ┃cerdanyola_del_va... ┃60         ┃12.352
+
+61026 ┃geografia                                                                                            ┃udl             ┃lleida               ┃20         ┃5    
+
+71015 ┃geografia_analisi_territorial_i_sostenibilitat                                                       ┃urv             ┃vilaseca             ┃35         ┃5    
+
+21124 ┃geografia_medi_ambient_i_planificacio_territorial                                                    ┃uab             ┃cerdanyola_del_va... ┃60         ┃6.794
+
+81073 ┃geografia_territori_i_medi_ambient                                                                   ┃udg             ┃girona               ┃35         ┃5    
+
+61066 ┃geografia/turisme(simul)                                                                             ┃udl             ┃lleida               ┃10         ┃5    
+
+21037 ┃geologia                                                                                             ┃uab             ┃cerdanyola_del_va... ┃40         ┃5.182
+
+21038 ┃gestio_aeronautica                                                                                   ┃uab             ┃sabadell             ┃65         ┃8.78 
+
+21120 ┃gestio_de_ciutats_intelligents_i_sostenibles                                                         ┃uab             ┃cerdanyola_del_va... ┃60         ┃7.238
+
+71068 ┃gestio_en_turisme_i_hoteleria                                                                        ┃urv             ┃vilaseca             ┃75         ┃5    
+
+81014 ┃gestio_hotelera_i_turistica                                                                          ┃udg             ┃sant_pol_de_mar      ┃30         ┃5    
+
+21040 ┃historia                                                                                             ┃uab             ┃cerdanyola_del_va... ┃140        ┃5    
+
+81074 ┃historia                                                                                             ┃udg             ┃girona               ┃60         ┃5    
+
+61028 ┃historia                                                                                             ┃udl             ┃lleida               ┃40         ┃5    
+
+71077 ┃historia                                                                                             ┃urv             ┃tarragona            ┃45         ┃5    
+
+21039 ┃historia_de_l'art                                                                                    ┃uab             ┃cerdanyola_del_va... ┃80         ┃5    
+
+81075 ┃historia_de_l'art                                                                                    ┃udg             ┃girona               ┃50         ┃5    
+
+71078 ┃historia_de_l'art_i_arqueologia                                                                      ┃urv             ┃tarragona            ┃30         ┃6.76 
+
+61045 ┃historia_de_l'art_i_gestio_del_patrimoni_artistic                                                    ┃udl             ┃lleida               ┃25         ┃5    
+
+21138 ┃historia_politica_i_economia_contemporanies                                                          ┃uab             ┃cerdanyola_del_va... ┃60         ┃9.068
+
+21101 ┃humanitats                                                                                           ┃uab             ┃cerdanyola_del_va... ┃70         ┃5    
+
+21044 ┃infermeria                                                                                           ┃uab             ┃cerdanyola_del_va... ┃240        ┃11.392
+
+11036 ┃infermeria_"sant_joan_de_deu"                                                                        ┃ub              ┃esplugues_llobreg... ┃220        ┃10.236
+
+81066 ┃infermeria                                                                                           ┃udg             ┃girona               ┃190        ┃10.98
+
+61046 ┃infermeria                                                                                           ┃udl             ┃igualada             ┃85         ┃10.846
+
+11037 ┃infermeria(campus_bellvitge)                                                                         ┃ub              ┃l'hospitalet_de_l... ┃395        ┃11.544
+
+61029 ┃infermeria                                                                                           ┃udl             ┃lleida               ┃105        ┃11.34
+
+91043 ┃infermeria(campus_manresa)                                                                           ┃uvicucc         ┃manresa              ┃150        ┃8.367
+
+41031 ┃infermeria_"tecnocampus"                                                                             ┃upf             ┃mataro               ┃90         ┃9.464
+
+21042 ┃infermeria_"gimbernat"                                                                               ┃uab             ┃sant_cugat_del_va... ┃200        ┃8.262
+
+71016 ┃infermeria                                                                                           ┃urv             ┃tarragona            ┃93         ┃11.514
+
+21041 ┃infermeria_euit_de_terrassa                                                                          ┃uab             ┃terrassa             ┃165        ┃8.854
+
+71028 ┃infermeria                                                                                           ┃urv             ┃tortosa              ┃82         ┃11.124
+
+71032 ┃infermeria                                                                                           ┃urv             ┃el_vendrell          ┃40         ┃11.058
+
+91013 ┃infermeria                                                                                           ┃uvicucc         ┃vic                  ┃150        ┃8.668
+
+71084 ┃infermeria                                                                                           ┃urv             ┃vilafranca_del_pe... ┃40         ┃10.73
+
+21046 ┃informatica_i_serveis                                                                                ┃uab             ┃sant_cugat_del_va... ┃50         ┃5    
+
+81058 ┃innovacio_i_seguretat_alimentaria                                                                    ┃udg             ┃girona               ┃40         ┃5    
+
+21139 ┃intelligencia_artificial/artificial_intelligence(angles)                                             ┃uab             ┃cerdanyola_del_va... ┃40         ┃10.73
+
+71072 ┃llengua_i_literatura_catalanes                                                                       ┃urv             ┃tarragona            ┃40         ┃5    
+
+21136 ┃llengua_i_literatura_espanyoles                                                                      ┃uab             ┃cerdanyola_del_va... ┃60         ┃5    
+
+71073 ┃llengua_i_literatura_hispaniques                                                                     ┃urv             ┃tarragona            ┃40         ┃5    
+
+41048 ┃logistica_i_negocis_maritims_"tecnocampus"                                                           ┃upf             ┃mataro               ┃45         ┃5.964
+
+21048 ┃logopedia                                                                                            ┃uab             ┃cerdanyola_del_va... ┃80         ┃8.712
+
+31081 ┃marqueting_i_comunicacio_digital_"euncet"                                                            ┃upc             ┃terrassa             ┃80         ┃5.62 
+
+31082 ┃marqueting_i_comunicacio_digital_"euncet"(semipresencial)                                            ┃upc             ┃terrassa             ┃40         ┃5    
+
+91032 ┃marqueting_i_comunicacio_empresarial                                                                 ┃uvicucc         ┃vic                  ┃40         ┃5    
+
+41039 ┃marqueting_i_comunitats_digitals_"tecnocampus"                                                       ┃upf             ┃mataro               ┃70         ┃6.916
+
+21122 ┃matematica_computacional_i_analitica_de_dades                                                        ┃uab             ┃cerdanyola_del_va... ┃40         ┃11.954
+
+21003 ┃matematiques                                                                                         ┃uab             ┃cerdanyola_del_va... ┃60         ┃12.39
+
+21079 ┃medicina                                                                                             ┃uab             ┃cerdanyola_del_va... ┃350        ┃12.895
+
+81001 ┃medicina                                                                                             ┃udg             ┃girona               ┃80         ┃12.848
+
+11083 ┃medicina(campus_bellvitge)                                                                           ┃ub              ┃l'hospitalet_de_l... ┃87         ┃13.086
+
+61030 ┃medicina                                                                                             ┃udl             ┃lleida               ┃110        ┃12.843
+
+71019 ┃medicina                                                                                             ┃urv             ┃reus                 ┃125        ┃12.862
+
+91054 ┃medicina                                                                                             ┃uvicucc         ┃vic_manresa          ┃110        ┃12.508
+
+21050 ┃microbiologia                                                                                        ┃uab             ┃cerdanyola_del_va... ┃60         ┃11.728
+
+41049 ┃mitjans_audiovisuals_"tecnocampus"                                                                   ┃upf             ┃mataro               ┃140        ┃5    
+
+31042 ┃multimedia                                                                                           ┃upc             ┃terrassa             ┃40         ┃6.316
+
+91029 ┃multimedia._aplicacions_i_videojocs                                                                  ┃uvicucc         ┃vic                  ┃40         ┃5    
+
+21051 ┃musicologia                                                                                          ┃uab             ┃cerdanyola_del_va... ┃60         ┃6.916
+
+21080 ┃nanociencia_i_nanotecnologia                                                                         ┃uab             ┃cerdanyola_del_va... ┃65         ┃11.31
+
+61031 ┃nutricio_humana_i_dietetica                                                                          ┃udl             ┃lleida               ┃45         ┃8.625
+
+71044 ┃nutricio_humana_i_dietetica                                                                          ┃urv             ┃reus                 ┃85         ┃8.212
+
+11062 ┃nutricio_humana_i_dietetica                                                                          ┃ub              ┃santa_coloma_de_g... ┃60         ┃10.704
+
+91021 ┃nutricio_humana_i_dietetica                                                                          ┃uvicucc         ┃vic                  ┃65         ┃5.348
+
+11044 ┃odontologia                                                                                          ┃ub              ┃l'hospitalet_de_l... ┃120        ┃12.594
+
+31105 ┃optica_i_optometria                                                                                  ┃upc             ┃terrassa             ┃90         ┃8.65 
+
+21052 ┃pedagogia                                                                                            ┃uab             ┃cerdanyola_del_va... ┃75         ┃9.163
+
+81043 ┃pedagogia                                                                                            ┃udg             ┃girona               ┃60         ┃8.21 
+
+71020 ┃pedagogia                                                                                            ┃urv             ┃tarragona            ┃45         ┃8.499
+
+21096 ┃periodisme                                                                                           ┃uab             ┃cerdanyola_del_va... ┃160        ┃10.622
+
+71021 ┃periodisme                                                                                           ┃urv             ┃tarragona            ┃45         ┃9.828
+
+91014 ┃periodisme                                                                                           ┃uvicucc         ┃vic                  ┃55         ┃5    
+
+71045 ┃pilot_d'aviacio_comercial_i_operacions_aeries                                                        ┃urv             ┃reus                 ┃30         ┃8.078
+
+11046 ┃podologia                                                                                            ┃ub              ┃l'hospitalet_de_l... ┃80         ┃9.169
+
+91045 ┃podologia(campus_manresa)                                                                            ┃uvicucc         ┃manresa              ┃80         ┃5    
+
+21054 ┃prevencio_i_seguretat_integral                                                                       ┃uab             ┃cerdanyola_del_va... ┃80         ┃5    
+
+21113 ┃prevencio_i_seguretat_integral(en_xarxa)                                                             ┃uab             ┃cerdanyola_del_va... ┃30         ┃5    
+
+21081 ┃psicologia                                                                                           ┃uab             ┃cerdanyola_del_va... ┃360        ┃10.058
+
+81033 ┃psicologia                                                                                           ┃udg             ┃girona               ┃80         ┃10.028
+
+61020 ┃psicologia                                                                                           ┃udl             ┃lleida               ┃60         ┃9.83 
+
+71022 ┃psicologia                                                                                           ┃urv             ┃tarragona            ┃125        ┃9.741
+
+91022 ┃psicologia                                                                                           ┃uvicucc         ┃vic                  ┃120        ┃8.098
+
+21097 ┃publicitat_i_relacions_publiques                                                                     ┃uab             ┃cerdanyola_del_va... ┃80         ┃11.452
+
+81002 ┃publicitat_i_relacions_publiques                                                                     ┃udg             ┃girona               ┃75         ┃9.876
+
+71023 ┃publicitat_i_relacions_publiques                                                                     ┃urv             ┃tarragona            ┃45         ┃9.986
+
+91015 ┃publicitat_i_relacions_publiques                                                                     ┃uvicucc         ┃vic                  ┃55         ┃5    
+
+21082 ┃quimia                                                                                               ┃uab             ┃cerdanyola_del_va... ┃120        ┃10.072
+
+81034 ┃quimia                                                                                               ┃udg             ┃girona               ┃60         ┃9.052
+
+71024 ┃quimia                                                                                               ┃urv             ┃tarragona            ┃60         ┃9.742
+
+71066 ┃quimia(angles)                                                                                       ┃urv             ┃tarragona            ┃30         ┃7.962
+
+21123 ┃relacions_internacionals                                                                             ┃uab             ┃cerdanyola_del_va... ┃50         ┃11.828
+
+21055 ┃relacions_laborals                                                                                   ┃uab             ┃cerdanyola_del_va... ┃125        ┃8.14 
+
+61033 ┃relacions_laborals_i_recursos_humans                                                                 ┃udl             ┃lleida               ┃30         ┃5    
+
+71082 ┃relacions_laborals_i_recursos_humans                                                                 ┃urv             ┃tarragona            ┃65         ┃6.042
+
+11076 ┃seguretat                                                                                            ┃ub              ┃mollet_del_valles    ┃60         ┃8.87 
+
+21056 ┃sociologia                                                                                           ┃uab             ┃cerdanyola_del_va... ┃110        ┃7.278
+
+21057 ┃terapia_ocupacional_euit_de_terrassa                                                                 ┃uab             ┃terrassa             ┃80         ┃5    
+
+91016 ┃terapia_ocupacional                                                                                  ┃uvicucc         ┃vic                  ┃40         ┃5    
+
+21058 ┃traduccio_i_interpretacio_alemany                                                                    ┃uab             ┃cerdanyola_del_va... ┃40         ┃5    
+
+21064 ┃traduccio_i_interpretacio_angles                                                                     ┃uab             ┃cerdanyola_del_va... ┃140        ┃8.66 
+
+21065 ┃traduccio_i_interpretacio_frances                                                                    ┃uab             ┃cerdanyola_del_va... ┃50         ┃5    
+
+81044 ┃treball_social                                                                                       ┃udg             ┃girona               ┃60         ┃7.754
+
+61034 ┃treball_social                                                                                       ┃udl             ┃lleida               ┃80         ┃6.86 
+
+71026 ┃treball_social                                                                                       ┃urv             ┃tarragona            ┃85         ┃7.404
+
+21059 ┃turisme                                                                                              ┃uab             ┃cerdanyola_del_va... ┃100        ┃5    
+
+21114 ┃turisme(angles)                                                                                      ┃uab             ┃cerdanyola_del_va... ┃60         ┃5    
+
+81039 ┃turisme                                                                                              ┃udg             ┃girona               ┃105        ┃5    
+
+61021 ┃turisme                                                                                              ┃udl             ┃lleida               ┃35         ┃5    
+
+81076 ┃turisme/geografia_territori_i_medi_ambient(simul)                                                    ┃udg             ┃girona               ┃10         ┃5    
+
+81077 ┃turisme/publicitat_i_relacions_publiques(simul)                                                      ┃udg             ┃girona               ┃15         ┃9.14 
+
+61068 ┃turisme_i_oci_"ostelea"                                                                              ┃UdL             ┃l'hospitalet_de_l... ┃40         ┃5    
+
+21083 ┃veterinaria                                                                                          ┃UAB             ┃cerdanyola_del_va... ┃115        ┃12.192
+
+
