@@ -1,13 +1,13 @@
-#include <iostream>
 #include <algorithm>
-#include <vector>
 #include <cstdlib>
+#include <iostream>
+#include <vector>
 
 #include "../header/Character.h"
+#include "../header/Console.h"
 #include "../header/Degree.h"
 #include "../header/Degrees.h"
 #include "../header/Exception.h"
-#include "../header/Console.h"
 using namespace std;
 
 int main() {
@@ -20,10 +20,12 @@ int main() {
     try {
       cin >> op;
       Degrees degrees;
-      degrees.read("./dades/spain.txt");
+      degrees.read("./dades/catalunya_notes_tall.txt");
       degrees.write("./filter/filter.txt");
 
       // // console(Filtro);
+    } catch (const std::bad_alloc &e) {
+      std::cout << "Memory allocation failed: " << e.what() << std::endl;
     } catch (const invalid_argument &error) { // More specific exception first
       cerr << error.what() << endl;
     } catch (const exception &error) { // General exception catch-all

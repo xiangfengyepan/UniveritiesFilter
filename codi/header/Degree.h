@@ -71,23 +71,28 @@ public:
     coefficients.push_back(coefficient);
   }
 
-  void read(istream &is) {
+  void read(istream &is, bool withCoefficients) {
     is >> code >> name >> university >> city >> capacity >> admission_threshold;
 
-    for (int i = 0; i < MAX_SIZE_COEFFICIENT; ++i) {
-      int coef;
-      is >> coef;
-      addCoefficient(coef);
+    cout << code << endl;
+    if (withCoefficients) {
+      for (int i = 0; i < MAX_SIZE_COEFFICIENT; ++i) {
+        int coef;
+        is >> coef;
+        addCoefficient(coef);
+      }
     }
   }
 
+  void read(istream &is) { read(is, false); }
+
   void display() const {
-    cout << "Code: " << code << endl;
-    cout << "Name: " << name << endl;
-    cout << "City: " << city << endl;
-    cout << "University: " << university << endl;
-    cout << "Capacity: " << to_string(capacity) << endl;
-    cout << "Admission_threshold: " << admission_threshold << endl;
+    cout << "Code: " << code << ",";
+    cout << "Name: " << name << ",";
+    cout << "City: " << city << ",";
+    cout << "University: " << university << ",";
+    cout << "Capacity: " << to_string(capacity) << ",";
+    cout << "Admission_threshold: " << admission_threshold << ",";
     cout << "Coefficients: ";
     for (int coeff : coefficients) {
       cout << coeff << " ";

@@ -43,7 +43,7 @@ public:
       degree.read(r_file);
       degrees.push_back(degree);
     }
-
+    
     r_file.close();
     line("done");
   }
