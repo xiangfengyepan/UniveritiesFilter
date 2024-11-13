@@ -41,6 +41,8 @@ public:
     while (not r_file.eof()) {
       Degree degree;
       degree.read(r_file);
+      // degree.display();
+      cout << degree.getCode();
       degrees.push_back(degree);
     }
     

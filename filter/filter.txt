@@ -1,1069 +1,1105 @@
 Code  ┃Name                                                                                                 ┃City            ┃University           ┃Capacity   ┃Threshold
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-11033 ┃administracio_i_direccio_d'empreses                                                                  ┃ub              ┃barcelona            ┃780        ┃9.498
+41029 ┃Administracio_d'Empreses_i_Gestio_de_la_Innovacio_"Tecnocampus"                                      ┃Mataró         ┃UPF                  ┃-1680784392 ┃7.48 
 
-41008 ┃administracio_i_direccio_d'empreses                                                                  ┃upf             ┃barcelona            ┃170        ┃11.308
+41036 ┃Administracio_d'Empreses_i_Gestio_de_la_Innovacio_"Tecnocampus"_(docencia_en_Angles)                 ┃Mataró         ┃UPF                  ┃-1680784392 ┃7.206
 
-31002 ┃administracio_i_direccio_d'empreses_"centre_universitari_eae"                                        ┃upc             ┃barcelona            ┃90         ┃5    
+41041 ┃Administracio_d'Empreses_i_Gestio_de_la_Innovacio/Marqueting_i_Comunitats_Digitals_"Tecnocampus"_... ┃Mataró         ┃UPF                  ┃-1680784392 ┃8.44 
 
-31108 ┃administracio_i_direccio_d'empreses_"centre_universitari_eae"(semipresencial)                        ┃upc             ┃barcelona            ┃20         ┃5    
+41035 ┃Administracio_d'Empreses_i_Gestio_de_la_Innovacio/Turisme_i_Gestio_del_Lleure_"Tecnocampus"_(simu... ┃Mataró         ┃UPF                  ┃-1680784392 ┃5    
 
-31107 ┃administracio_i_direccio_d'empreses_"centre_universitari_eae"(angles)                                ┃upc             ┃barcelona            ┃40         ┃5    
+11033 ┃Administracio_i_Direccio_d'Empreses                                                                  ┃Barcelona       ┃UB                   ┃-1680784392 ┃9.636
 
-71063 ┃administracio_i_direccio_d'empreses_"igema"                                                          ┃urv             ┃barcelona            ┃80         ┃5    
+41008 ┃Administracio_i_Direccio_d'Empreses                                                                  ┃Barcelona       ┃UPF                  ┃-1680784392 ┃11.316
 
-11064 ┃administracio_i_direccio_d'empreses/dret(simul)                                                      ┃ub              ┃barcelona            ┃60         ┃11.458
+71063 ┃Administracio_i_Direccio_d'Empreses_"IGEMA"                                                          ┃Barcelona       ┃URV                  ┃-1680784392 ┃5    
 
-71079 ┃administracio_i_direccio_d'empreses/marqueting_"esic"(simul)                                         ┃urv             ┃barcelona            ┃10         ┃9.94 
+21014 ┃Administracio_i_Direccio_d'Empreses                                                                  ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃10.138
 
-71080 ┃administracio_i_direccio_d'empreses/marqueting_"esic"(simul)                                         ┃urv             ┃barcelona            ┃10         ┃6.938
+21099 ┃Administracio_i_Direccio_d'Empreses_(docencia_en_Angles)                                             ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃10.416
 
-11066 ┃administracio_i_direccio_d'empreses/matematiques(simul)                                              ┃ub              ┃barcelona            ┃20         ┃12.367
+81003 ┃Administracio_i_Direccio_d'Empreses                                                                  ┃Girona          ┃UdG                  ┃-1680784392 ┃9.446
 
-11095 ┃administracio_i_direccio_d'empreses/quimia(simul)                                                    ┃ub              ┃barcelona            ┃20         ┃11.212
+61069 ┃Administracio_i_Direccio_d'Empreses                                                                  ┃Igualada        ┃UdL                  ┃-1680784392 ┃8.464
 
-11090 ┃administracio_i_direccio_d'empreses/sociologia(simul)                                                ┃ub              ┃barcelona            ┃20         ┃10.012
+61003 ┃Administracio_i_Direccio_d'Empreses                                                                  ┃Lleida          ┃UdL                  ┃-1680784392 ┃7.634
 
-11001 ┃antropologia_social_i_cultural                                                                       ┃ub              ┃barcelona            ┃120        ┃5    
+91042 ┃Administracio_i_Direccio_d'Empreses                                                                  ┃Manresa         ┃UVic-UCC             ┃-1680784392 ┃5    
 
-11029 ┃arqueologia                                                                                          ┃ub              ┃barcelona            ┃75         ┃5    
+71002 ┃Administracio_i_Direccio_d'Empreses                                                                  ┃Reus            ┃URV                  ┃-1680784392 ┃7.866
 
-11096 ┃arqueologia/historia(simul)                                                                          ┃ub              ┃barcelona            ┃20         ┃8.77 
+71004 ┃Administracio_i_Direccio_d'Empreses                                                                  ┃Tortosa         ┃URV                  ┃-1680784392 ┃5.378
 
-31016 ┃arquitectura_tecnica_i_edificacio                                                                    ┃upc             ┃barcelona            ┃150        ┃7.8  
+91003 ┃Administracio_i_Direccio_d'Empreses                                                                  ┃Vic             ┃UVic-UCC             ┃-1680784392 ┃5    
 
-31078 ┃arquitectura_estudis_d'                                                                              ┃upc             ┃barcelona            ┃350        ┃9.394
+41034 ┃Dret/Administracio_i_Direccio_d'Empreses_-_Economia_(agrupacio_de_simultaneitat)                     ┃Barcelona       ┃UPF                  ┃-1680784392 ┃12.406
 
-21020 ┃arts_i_disseny_"massana"                                                                             ┃uab             ┃barcelona            ┃95         ┃7.315
+11064 ┃Administracio_i_Direccio_d'Empreses/Dret_(simultaneitat)                                             ┃Barcelona       ┃UB                   ┃-1680784392 ┃11.406
 
-11099 ┃belles_arts                                                                                          ┃ub              ┃barcelona            ┃300        ┃8.852
+21098 ┃Administracio_i_Direccio_d'Empreses/Dret_(simultaneitat)                                             ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃10.506
 
-91059 ┃belles_arts_"bau"                                                                                    ┃uvicucc         ┃barcelona            ┃80         ┃5    
+81053 ┃Administracio_i_Direccio_d'Empreses/Dret_(simultaneitat)                                             ┃Girona          ┃UdG                  ┃-1680784392 ┃10.148
 
-91912 ┃biologia/biotecnologia(simul)                                                                        ┃upf/ub/upc/uab  ┃barcelona            ┃40         ┃9.638
+61035 ┃Administracio_i_Direccio_d'Empreses/Dret_(simultaneitat)                                             ┃Lleida          ┃UdL                  ┃-1680784392 ┃10.054
 
-11002 ┃biologia                                                                                             ┃ub              ┃barcelona            ┃160        ┃11.352
+71055 ┃Administracio_i_Direccio_d'Empreses/Dret_(simultaneitat)                                             ┃Tarragona_/_... ┃URV                  ┃-1680784392 ┃9.666
 
-41001 ┃biologia_humana                                                                                      ┃upf             ┃barcelona            ┃65         ┃12.366
+81052 ┃Administracio_i_Direccio_d'Empreses/Economia_(simultaneitat)                                         ┃Girona          ┃UdG                  ┃-1680784392 ┃10.188
 
-11003 ┃bioquimia                                                                                            ┃ub              ┃barcelona            ┃60         ┃12.162
+61070 ┃Administracio_i_Direccio_d'Empreses/Enginyeria_en_Organitzacio_Industrial_i_Logistica_(simultanei... ┃Igualada        ┃UdL                  ┃-1680784392 ┃8.648
 
-11004 ┃biotecnologia                                                                                        ┃ub              ┃barcelona            ┃80         ┃12.217
+81046 ┃Administracio_i_Direccio_d'Empreses/Enginyeria_en_Tecnologies_Industrials_(simultaneitat)            ┃Girona          ┃UdG                  ┃-1680784392 ┃9.622
 
-31089 ┃ciencia_i_enginyeria_de_dades                                                                        ┃upc             ┃barcelona            ┃50         ┃12.456
+61036 ┃Administracio_i_Direccio_d'Empreses/Enginyeria_Informatica_(simultaneitat)                           ┃Lleida          ┃UdL                  ┃-1680784392 ┃11.263
 
-11005 ┃ciencies_ambientals                                                                                  ┃ub              ┃barcelona            ┃60         ┃10.176
+71053 ┃Administracio_i_Direccio_d'Empreses/Finances_i_Comptabilitat_(simultaneitat)                         ┃Reus            ┃URV                  ┃-1680784392 ┃10.777
 
-11006 ┃ciencies_biomediques                                                                                 ┃ub              ┃barcelona            ┃165        ┃12.684
+71079 ┃Administracio_i_Direccio_d'Empreses/Marqueting_"ESIC"_(simultaneitat)                                ┃Reus_/_Barce... ┃URV                  ┃-1680784392 ┃9.93 
 
-91907 ┃ciencies_culinaries_i_gastronomiques                                                                 ┃ub/upc          ┃barcelona            ┃80         ┃5    
+71080 ┃Administracio_i_Direccio_d'Empreses/Marqueting_"ESIC"_(simultaneitat)                                ┃Tortosa_/_Ba... ┃URV                  ┃-1680784392 ┃7.658
 
-11007 ┃ciencies_de_l'activitat_fisica_i_de_l'esport                                                         ┃ub              ┃barcelona            ┃150        ┃10.52
+11066 ┃Administracio_i_Direccio_d'Empreses/Matematiques_(simultaneitat)                                     ┃Barcelona       ┃UB                   ┃-1680784392 ┃12.086
 
-11077 ┃ciencies_del_mar                                                                                     ┃ub              ┃barcelona            ┃60         ┃10.753
+11095 ┃Administracio_i_Direccio_d'Empreses/Quimica_(simultaneitat)                                          ┃Barcelona       ┃UB                   ┃-1680784392 ┃10.724
 
-41009 ┃ciencies_empresarials_management                                                                     ┃upf             ┃barcelona            ┃110        ┃11.634
+11090 ┃Administracio_i_Direccio_d'Empreses/Sociologia_(simultaneitat)                                       ┃Barcelona       ┃UB                   ┃-1680784392 ┃10.022
 
-31095 ┃ciencies_i_tecno_aplicades_a_l'esport_i_al_fitnes                                                    ┃upc             ┃barcelona            ┃80         ┃5    
+61077 ┃Administracio_i_Direccio_d'Empreses_i_Transformacio_de_Negocis_"Centre_Universitari_EAE"             ┃Barcelona       ┃UdL                  ┃-1680784392 ┃5    
 
-31096 ┃ciencies_i_tecno_del_mar                                                                             ┃upc             ┃barcelona            ┃60         ┃6.452
+11001 ┃Antropologia_Social_i_Cultural                                                                       ┃Barcelona       ┃UB                   ┃-1680784392 ┃5    
 
-11008 ┃ciencies_politiques_i_de_l'administracio                                                             ┃ub              ┃barcelona            ┃100        ┃8.444
+61053 ┃Administracio_i_Direccio_d'Empreses/Turisme_(simultaneitat)                                          ┃Lleida          ┃UdL                  ┃-1680784392 ┃7.222
 
-41010 ┃ciencies_politiques_i_de_l'administracio                                                             ┃upf             ┃barcelona            ┃160        ┃8.014
+71003 ┃Angles                                                                                               ┃Tarragona       ┃URV                  ┃-1680784392 ┃5    
 
-11065 ┃ciencies_politiques_i_de_l'administracio/dret(simul)                                                 ┃ub              ┃barcelona            ┃20         ┃11.562
+11029 ┃Arqueologia                                                                                          ┃Barcelona       ┃UB                   ┃-1680784392 ┃5    
 
-11097 ┃comunicacio_audiovisual                                                                              ┃ub              ┃barcelona            ┃45         ┃11.384
+21146 ┃Arqueologia                                                                                          ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃5    
 
-41002 ┃comunicacio_audiovisual                                                                              ┃upf             ┃barcelona            ┃80         ┃12.19
+71049 ┃Antropologia_i_Evolucio_Humana_(virtual_o_semipresencial)                                            ┃Tarragona       ┃URV/UOC              ┃-1680784392 ┃5    
 
-11098 ┃comunicacio_audiovisual/gestio_d'informacio_i_documentacio_digital(simul)                            ┃ub              ┃barcelona            ┃20         ┃10.878
+11096 ┃Arqueologia/Historia_(simultaneitat)                                                                 ┃Barcelona       ┃UB                   ┃-1680784392 ┃7.451
 
-11067 ┃comunicacio_i_industries_culturals                                                                   ┃ub              ┃barcelona            ┃120        ┃9.066
+21152 ┃Antropologia_Social_i_Cultural                                                                       ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃5    
 
-11100 ┃conservacio_restauracio_de_bens_culturals                                                            ┃ub              ┃barcelona            ┃50         ┃7.778
+31016 ┃Arquitectura_Tecnica_i_Edificacio                                                                    ┃Barcelona       ┃UPC                  ┃-1680784392 ┃8.006
 
-11071 ┃continguts_digitals_interactius                                                                      ┃ub              ┃barcelona            ┃40         ┃5    
+81020 ┃Arquitectura_Tecnica_i_Edificacio                                                                    ┃Girona          ┃UdG                  ┃-1680784392 ┃8.218
 
-11085 ┃creacio_artistica_per_a_videojocs_i_jocs_aplicats                                                    ┃ub              ┃barcelona            ┃40         ┃5.976
+81065 ┃Arquitectura_Tecnica_i_Edificacio_(semipresencial)                                                   ┃Girona          ┃UdG                  ┃-1680784392 ┃7.614
 
-11010 ┃criminologia                                                                                         ┃ub              ┃barcelona            ┃140        ┃9.7  
+61016 ┃Arquitectura_Tecnica_i_Edificacio                                                                    ┃Lleida          ┃UdL                  ┃-1680784392 ┃7.89 
 
-91050 ┃criminologia_"eserp"                                                                                 ┃uvicucc         ┃barcelona            ┃40         ┃5    
+31078 ┃Arquitectura,_Estudis_d'                                                                             ┃Barcelona       ┃UPC                  ┃-1680784392 ┃9.516
 
-11088 ┃criminologia/dret(simul)                                                                             ┃ub              ┃barcelona            ┃20         ┃11.784
+81057 ┃Arquitectura,_Estudis_d'                                                                             ┃Girona          ┃UdG                  ┃-1680784392 ┃9.49 
 
-41011 ┃criminologia_i_politiques_publiques_de_prevencio                                                     ┃upf             ┃barcelona            ┃70         ┃9.532
+71087 ┃Arquitectura,_Estudis_d'                                                                             ┃Reus            ┃URV                  ┃-1680784392 ┃8.91 
 
-41043 ┃criminologia_i_politiques_publiques_de_prevencio/dret(simul)                                         ┃upf             ┃barcelona            ┃20         ┃12.196
+31079 ┃Arquitectura,_Estudis_d'                                                                             ┃Sant_Cugat_d... ┃UPC                  ┃-1680784392 ┃9.844
 
-71085 ┃direccio_i_gestio_d'empreses_en_l'ambit_digital_"esic"                                               ┃urv             ┃barcelona            ┃50         ┃5    
+81045 ┃Arts_Esceniques_"ERAM"                                                                               ┃Salt            ┃UdG                  ┃-1680784392 ┃5.174
 
-11101 ┃disseny                                                                                              ┃ub              ┃barcelona            ┃50         ┃11.292
+21020 ┃Arts_i_Disseny_"Massana"                                                                             ┃Barcelona       ┃UAB                  ┃-1680784392 ┃5    
 
-91007 ┃disseny_"bau"                                                                                        ┃uvicucc         ┃barcelona            ┃150        ┃7.937
+91063 ┃Audiologia_General                                                                                   ┃Vic             ┃UVic-UCC             ┃-1680784392 ┃5    
 
-21015 ┃disseny_"eina"                                                                                       ┃uab             ┃barcelona            ┃150        ┃5    
+11099 ┃Belles_Arts                                                                                          ┃Barcelona       ┃UB                   ┃-1680784392 ┃8.28 
 
-31083 ┃disseny_i_desenvolupament_de_videojocs(angles)(campus_barcelona)                                     ┃upc             ┃barcelona            ┃30         ┃8.175
+91059 ┃Belles_Arts_"BAU"                                                                                    ┃Barcelona       ┃UVic-UCC             ┃-1680784392 ┃5    
 
-31074 ┃disseny_i_desenvolupament_de_videojocs(campus_terrassa)                                              ┃upc             ┃barcelona            ┃40         ┃7    
+91917 ┃Bioinformatica_(docencia_en_Angles)                                                                  ┃Barcelona_/_... ┃UPC/UB/UAB/UPF       ┃-1680784392 ┃10.738
 
-91056 ┃disseny_i_innovacio_"elisava"                                                                        ┃uvicucc         ┃barcelona            ┃175        ┃5    
+11002 ┃Biologia                                                                                             ┃Barcelona       ┃UB                   ┃-1680784392 ┃11.03
 
-11012 ┃dret                                                                                                 ┃ub              ┃barcelona            ┃430        ┃9.683
+21009 ┃Biologia                                                                                             ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃10.936
 
-41013 ┃dret                                                                                                 ┃upf             ┃barcelona            ┃260        ┃10.928
+81006 ┃Biologia                                                                                             ┃Girona          ┃UdG                  ┃-1680784392 ┃9.822
 
-91053 ┃dret_"eserp"                                                                                         ┃uvicucc         ┃barcelona            ┃80         ┃5    
+91018 ┃Biologia                                                                                             ┃Vic             ┃UVic-UCC             ┃-1680784392 ┃5    
 
-41034 ┃dret/administracio_i_direccio_d'empreses_economia(simul)                                             ┃upf             ┃barcelona            ┃90         ┃12.234
+81047 ┃Biologia/Biotecnologia_(simultaneitat)                                                               ┃Girona          ┃UdG                  ┃-1680784392 ┃11.42
 
-11070 ┃dret/gestio_i_administracio_publica(simul)                                                           ┃ub              ┃barcelona            ┃24         ┃9.518
+91058 ┃Biomedicina                                                                                          ┃Vic             ┃UVic-UCC             ┃-1680784392 ┃10.726
 
-11089 ┃dret/relacions_laborals(simul)                                                                       ┃ub              ┃barcelona            ┃20         ┃10.088
+11003 ┃Bioquimica                                                                                           ┃Barcelona       ┃UB                   ┃-1680784392 ┃11.608
 
-11103 ┃economia                                                                                             ┃ub              ┃barcelona            ┃300        ┃9.078
+81048 ┃Biologia/Ciencies_Ambientals_(simultaneitat)                                                         ┃Girona          ┃UdG                  ┃-1680784392 ┃9.484
 
-41014 ┃economia                                                                                             ┃upf             ┃barcelona            ┃170        ┃10.596
+21008 ┃Biologia_Ambiental                                                                                   ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃10.744
 
-91914 ┃economia/estadistica(simul)                                                                          ┃ub/upc          ┃barcelona            ┃20         ┃11.788
+41001 ┃Biologia_Humana                                                                                      ┃Barcelona       ┃UPF                  ┃-1680784392 ┃11.823
 
-11013 ┃educacio_infantil                                                                                    ┃ub              ┃barcelona            ┃200        ┃9.16 
+11004 ┃Biotecnologia                                                                                        ┃Barcelona       ┃UB                   ┃-1680784392 ┃11.793
 
-11072 ┃educacio_infantil/educacio_primaria(formacio_de_mestre_5_anys)(simul)                                ┃ub              ┃barcelona            ┃40         ┃11.3 
+21011 ┃Bioquimica                                                                                           ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃11.342
 
-11014 ┃educacio_primaria                                                                                    ┃ub              ┃barcelona            ┃450        ┃9.208
+71005 ┃Bioquimica_i_Biologia_Molecular                                                                      ┃Tarragona       ┃URV                  ┃-1680784392 ┃10.98
 
-11015 ┃educacio_social                                                                                      ┃ub              ┃barcelona            ┃180        ┃8.99 
+71054 ┃Bioquimica_i_Biologia_Molecular/Biotecnologia_(simultaneitat)                                        ┃Tarragona       ┃URV                  ┃-1680784392 ┃12.417
 
-11073 ┃empresa_internacional(angles)                                                                        ┃ub              ┃barcelona            ┃80         ┃11.81
+21012 ┃Biotecnologia                                                                                        ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃11.408
 
-31100 ┃enginyeria_ambiental                                                                                 ┃upc             ┃barcelona            ┃60         ┃8.356
+81007 ┃Biotecnologia                                                                                        ┃Girona          ┃UdG                  ┃-1680784392 ┃10.508
 
-11059 ┃enginyeria_biomedica                                                                                 ┃ub              ┃barcelona            ┃40         ┃12.678
+61005 ┃Biotecnologia                                                                                        ┃Lleida          ┃UdL                  ┃-1680784392 ┃10.128
 
-41033 ┃enginyeria_biomedica                                                                                 ┃upf             ┃barcelona            ┃40         ┃12.63
+71006 ┃Biotecnologia                                                                                        ┃Tarragona       ┃URV                  ┃-1680784392 ┃10.514
 
-31051 ┃enginyeria_biomedica                                                                                 ┃upc             ┃barcelona            ┃55         ┃12.07
+91004 ┃Biotecnologia                                                                                        ┃Vic             ┃UVic-UCC             ┃-1680784392 ┃5    
 
-31103 ┃enginyeria_civil                                                                                     ┃upc             ┃barcelona            ┃120        ┃6.788
+71056 ┃Biotecnologia/Enginyeria_Informatica_(simultaneitat)                                                 ┃Tarragona       ┃URV                  ┃-1680784392 ┃10.753
 
-31113 ┃enginyeria_civil_grau+master_en_enginyeria_de_camins_canals_i_ports                                  ┃upc             ┃barcelona            ┃40         ┃7.176
+11109 ┃Ciberseguretat_"ENTI"                                                                                ┃Barcelona       ┃UB                   ┃-1680784392 ┃6.242
 
-21132 ┃enginyeria_d'automocio                                                                               ┃uab             ┃barcelona            ┃50         ┃6.894
+31089 ┃Ciencia_i_Enginyeria_de_Dades                                                                        ┃Barcelona       ┃UPC                  ┃-1680784392 ┃12.428
 
-31091 ┃enginyeria_d'automocio(campus_manresa)                                                               ┃upc             ┃barcelona            ┃50         ┃10.188
+61040 ┃Ciencia_i_Produccio_Animal/Veterinaria_(simultaneitat)                                               ┃Lleida          ┃UdL                  ┃-1680784392 ┃11.252
 
-91057 ┃enginyeria_de_disseny_indust_"elisava"                                                               ┃uvicucc         ┃barcelona            ┃90         ┃5    
+21021 ┃Ciencia_i_Tecnologia_dels_Aliments                                                                   ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃9.194
 
-31052 ┃enginyeria_de_l'energia                                                                              ┃upc             ┃barcelona            ┃70         ┃9.53 
+61008 ┃Ciencia_i_Tecnologia_dels_Aliments                                                                   ┃Lleida          ┃UdL                  ┃-1680784392 ┃5    
 
-11060 ┃enginyeria_de_materials                                                                              ┃ub              ┃barcelona            ┃40         ┃7.562
+11054 ┃Ciencia_i_Tecnologia_dels_Aliments                                                                   ┃Santa_Coloma... ┃UB                   ┃-1680784392 ┃8.524
 
-31025 ┃enginyeria_de_materials                                                                              ┃upc             ┃barcelona            ┃25         ┃7.708
+21013 ┃Ciencia_Politica_i_Gestio_Publica                                                                    ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃8.292
 
-31109 ┃enginyeria_de_materials_grau+master_en_ciencia_i_eng_avancada_de_materials                           ┃upc             ┃barcelona            ┃15         ┃5    
+21104 ┃Ciencia_Politica_i_Gestio_Publica/Dret_(simultaneitat)                                               ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃11.09
 
-31086 ┃enginyeria_de_tecno_i_serveis_de_telecom                                                             ┃upc             ┃barcelona            ┃180        ┃7.702
+21125 ┃Ciencia_Politica_i_Gestio_Publica/Sociologia_(simultaneitat)                                         ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃9.584
 
-31111 ┃enginyeria_de_tecno_i_serveis_de_telecom_grau+master_en_eng_de_telecom                               ┃upc             ┃barcelona            ┃40         ┃8.378
+21137 ┃Ciencia,_Tecnologia_i_Humanitats                                                                     ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃7.116
 
-41020 ┃enginyeria_de_xarxes_de_telecom                                                                      ┃upf             ┃barcelona            ┃40         ┃8.733
+21131 ┃Ciencies                                                                                             ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃6.154
 
-31053 ┃enginyeria_electri                                                                                   ┃upc             ┃barcelona            ┃80         ┃7.752
+11005 ┃Ciencies_Ambientals                                                                                  ┃Barcelona       ┃UB                   ┃-1680784392 ┃9.232
 
-11017 ┃enginyeria_electro_de_telecom                                                                        ┃ub              ┃barcelona            ┃40         ┃10.6 
+21147 ┃Ciencies_Ambientals                                                                                  ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃8.686
 
-31099 ┃enginyeria_electro_de_telecom                                                                        ┃upc             ┃barcelona            ┃50         ┃10.722
+81008 ┃Ciencies_Ambientals                                                                                  ┃Girona          ┃UdG                  ┃-1680784392 ┃6.894
 
-31054 ┃enginyeria_electro_indust_i_automat                                                                  ┃upc             ┃barcelona            ┃135        ┃8.88 
+21151 ┃Ciencies_Ambientals/Geologia_(simultaneitat)                                                         ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃7.118
 
-21025 ┃enginyeria_electro_indust_i_automat                                                                  ┃uab             ┃barcelona            ┃35         ┃5    
+11006 ┃Ciencies_Biomediques                                                                                 ┃Barcelona_/_... ┃UB                   ┃-1680784392 ┃12.304
 
-21112 ┃enginyeria_electro_indust_i_automat/enginyeria_mecani(simul)                                         ┃uab             ┃barcelona            ┃15         ┃5    
+21010 ┃Ciencies_Biomediques                                                                                 ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃12.431
 
-21127 ┃enginyeria_en_energies_renovables_i_eficiencia_energetica                                            ┃uab             ┃barcelona            ┃30         ┃5    
+61004 ┃Ciencies_Biomediques                                                                                 ┃Lleida          ┃UdL                  ┃-1680784392 ┃11.767
 
-31087 ┃enginyeria_en_geoinformacio_i_geomatica                                                              ┃upc             ┃barcelona            ┃40         ┃5    
+11113 ┃Ciencies_Culinaries_i_Gastronomiques_"CETT"                                                          ┃Barcelona       ┃UB                   ┃-1680784392 ┃5    
 
-41019 ┃enginyeria_en_informatica                                                                            ┃upf             ┃barcelona            ┃55         ┃10.352
+71086 ┃Ciencies_de_l'Activitat_Fisica_i_de_l'Esport_"EUSES"                                                 ┃Amposta         ┃URV                  ┃-1680784392 ┃5.602
 
-21022 ┃enginyeria_en_organitzacio_indust                                                                    ┃uab             ┃barcelona            ┃45         ┃5    
+11007 ┃Ciencies_de_l'Activitat_Fisica_i_de_l'Esport                                                         ┃Barcelona       ┃UB                   ┃-1680784392 ┃10.309
 
-41018 ┃enginyeria_en_sistemes_audiovisuals                                                                  ┃upf             ┃barcelona            ┃55         ┃8.182
+61071 ┃Ciencies_de_l'Activitat_Fisica_i_de_l'Esport                                                         ┃La_Seu_d'Urgell ┃UdL                  ┃-1680784392 ┃9.191
 
-31049 ┃enginyeria_en_sistemes_i_tecnologia_naval                                                            ┃upc             ┃barcelona            ┃60         ┃7.726
+61007 ┃Ciencies_de_l'Activitat_Fisica_i_de_l'Esport                                                         ┃Lleida          ┃UdL                  ┃-1680784392 ┃9.498
 
-31115 ┃enginyeria_en_tecno_industs_grau+master_en_enginyeria_indust                                         ┃upc             ┃barcelona            ┃400        ┃10.56
+41038 ┃Ciencies_de_l'Activitat_Fisica_i_de_l'Esport_"Tecnocampus"                                           ┃Mataró         ┃UPF                  ┃-1680784392 ┃8.18 
 
-31067 ┃enginyeria_fisica                                                                                    ┃upc             ┃barcelona            ┃40         ┃12.728
+81082 ┃Ciencies_de_l'Activitat_Fisica_i_de_l'Esport_"EUSES"                                                 ┃Salt            ┃UdG                  ┃-1680784392 ┃5.232
 
-11018 ┃enginyeria_informatica                                                                               ┃ub              ┃barcelona            ┃70         ┃10.43
+91001 ┃Ciencies_de_l'Activitat_Fisica_i_de_l'Esport                                                         ┃Vic             ┃UVic-UCC             ┃-1680784392 ┃6.866
 
-31059 ┃enginyeria_informatica                                                                               ┃upc             ┃barcelona            ┃360        ┃10.818
+61038 ┃Ciencies_de_l'Activitat_Fisica_i_de_l'Esport/Educacio_Primaria_(simultaneitat)                       ┃Lleida          ┃UdL                  ┃-1680784392 ┃9.404
 
-31116 ┃enginyeria_informatica_grau+master_en_enginyeria_informatica                                         ┃upc             ┃barcelona            ┃40         ┃11.544
+91055 ┃Ciencies_de_l'Activitat_Fisica_i_de_l'Esport/Educacio_Primaria_(mencio_en_Educacio_Fisica)_(simul... ┃Vic             ┃UVic-UCC             ┃-1680784392 ┃5    
 
-11016 ┃enginyeria_informatica/matematiques(simul)                                                           ┃ub              ┃barcelona            ┃20         ┃13.118
+81086 ┃Ciencies_de_l'Activitat_Fisica_i_de_l'Esport/Fisioterapia_"EUSES"_(simultaneitat)                    ┃Salt            ┃UdG                  ┃-1680784392 ┃6.686
 
-41056 ┃enginyeria_matematica_en_ciencia_de_dades                                                            ┃upf             ┃barcelona            ┃40         ┃12.016
+71088 ┃Ciencies_de_l'Activitat_Fisica_i_de_l'Esport/Fisioterapia_"EUSES"_(simultaneitat)                    ┃Amposta_/_To... ┃URV                  ┃-1680784392 ┃5.871
 
-21026 ┃enginyeria_mecani                                                                                    ┃uab             ┃barcelona            ┃40         ┃5    
+61039 ┃Ciencies_de_l'Activitat_Fisica_i_de_l'Esport/Fisioterapia_(simultaneitat)                            ┃Lleida          ┃UdL                  ┃-1680784392 ┃11.122
 
-31027 ┃enginyeria_mecani                                                                                    ┃upc             ┃barcelona            ┃235        ┃9.048
+41037 ┃Ciencies_de_l'Activitat_Fisica_i_de_l'Esport/Fisioterapia_"Tecnocampus"_(simultaneitat)              ┃Mataró         ┃UPF                  ┃-1680784392 ┃7.71 
 
-11019 ┃enginyeria_quimia                                                                                    ┃ub              ┃barcelona            ┃70         ┃10.862
+21117 ┃Ciencies_de_l'Antiguitat                                                                             ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃5    
 
-31055 ┃enginyeria_quimia                                                                                    ┃upc             ┃barcelona            ┃85         ┃9.408
+11077 ┃Ciencies_del_Mar                                                                                     ┃Barcelona       ┃UB                   ┃-1680784392 ┃10.228
 
-31117 ┃enginyeria_quimia_grau+master_en_enginyeria_quimia                                                   ┃upc             ┃barcelona            ┃15         ┃6.396
+41009 ┃Ciencies_Empresarials_-_Management                                                                   ┃Barcelona       ┃UPF                  ┃-1680784392 ┃11.58
 
-91902 ┃estadistica                                                                                          ┃ub/upc          ┃barcelona            ┃50         ┃11.218
+31095 ┃Ciencies_i_Tecnologies_Aplicades_a_l'Esport_i_al_Fitnes_"EUNCET"                                     ┃Barcelona       ┃UPC                  ┃-1680784392 ┃5    
 
-11021 ┃estudis_anglesos(angles)                                                                             ┃ub              ┃barcelona            ┃160        ┃6.804
+31096 ┃Ciencies_i_Tecnologies_del_Mar                                                                       ┃Castelldefel... ┃UPC                  ┃-1680784392 ┃6.244
 
-11094 ┃estudis_arabs_i_hebreus                                                                              ┃ub              ┃barcelona            ┃40         ┃5    
+11008 ┃Ciencies_Politiques_i_de_l'Administracio                                                             ┃Barcelona       ┃UB                   ┃-1680784392 ┃8.53 
 
-41051 ┃estudis_globals                                                                                      ┃upf             ┃barcelona            ┃40         ┃11.946
+41010 ┃Ciencies_Politiques_i_de_l'Administracio                                                             ┃Barcelona       ┃UPF                  ┃-1680784392 ┃8.36 
 
-41022 ┃estudis_internacionals_d'economia_i_empresa_international(angles)                                    ┃upf             ┃barcelona            ┃90         ┃12.733
+81010 ┃Ciencies_Politiques_i_de_l'Administracio                                                             ┃Girona          ┃UdG                  ┃-1680784392 ┃7.032
 
-11023 ┃estudis_literaris                                                                                    ┃ub              ┃barcelona            ┃100        ┃7.964
+11065 ┃Ciencies_Politiques_i_de_l'Administracio/Dret_(simultaneitat)                                        ┃Barcelona       ┃UB                   ┃-1680784392 ┃11.452
 
-11024 ┃farmacia                                                                                             ┃ub              ┃barcelona            ┃340        ┃11.496
+81054 ┃Ciencies_Politiques_i_de_l'Administracio/Dret_(simultaneitat)                                        ┃Girona          ┃UdG                  ┃-1680784392 ┃9.408
 
-11075 ┃farmacia/nutricio_humana_i_dietetica(simul)                                                          ┃ub              ┃barcelona            ┃20         ┃12.32
+11105 ┃Cinematografia_"ESCAC"                                                                               ┃Terrassa        ┃UB                   ┃-1680784392 ┃5    
 
-11025 ┃filologia_catalana                                                                                   ┃ub              ┃barcelona            ┃70         ┃5    
+81011 ┃Comptabilitat_i_Finances                                                                             ┃Girona          ┃UdG                  ┃-1680784392 ┃7.673
 
-11026 ┃filologia_classica                                                                                   ┃ub              ┃barcelona            ┃60         ┃5    
+21084 ┃Comptabilitat_i_Finances                                                                             ┃Sabadell        ┃UAB                  ┃-1680784392 ┃8.612
 
-11027 ┃filologia_hispanica                                                                                  ┃ub              ┃barcelona            ┃120        ┃5    
+11097 ┃Comunicacio_Audiovisual                                                                              ┃Barcelona       ┃UB                   ┃-1680784392 ┃11.09
 
-91913 ┃filologia_i_cultura_franceses                                                                        ┃uab/ub          ┃barcelona            ┃40         ┃5    
+41002 ┃Comunicacio_Audiovisual                                                                              ┃Barcelona       ┃UPF                  ┃-1680784392 ┃11.614
 
-11061 ┃filosofia                                                                                            ┃ub              ┃barcelona            ┃200        ┃6.366
+21085 ┃Comunicacio_Audiovisual                                                                              ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃10.52
 
-41042 ┃filosofia_politica_i_economia                                                                        ┃upf/uab/uam/... ┃barcelona            ┃30         ┃12.75
+71007 ┃Comunicacio_Audiovisual                                                                              ┃Tarragona       ┃URV                  ┃-1680784392 ┃9.232
 
-11030 ┃fisica                                                                                               ┃ub              ┃barcelona            ┃162        ┃12.356
+91006 ┃Comunicacio_Audiovisual                                                                              ┃Vic             ┃UVic-UCC             ┃-1680784392 ┃5    
 
-11020 ┃fisica/matematiques(simul)                                                                           ┃ub              ┃barcelona            ┃20         ┃13.453
+11098 ┃Comunicacio_Audiovisual/Gestio_d'Informacio_i_Documentacio_Digital_(simultaneitat)                   ┃Barcelona       ┃UB                   ┃-1680784392 ┃10.276
 
-11031 ┃geografia                                                                                            ┃ub              ┃barcelona            ┃60         ┃5    
+81005 ┃Comunicacio_Audiovisual_i_Multimedia_"ERAM"                                                          ┃Salt            ┃UdG                  ┃-1680784392 ┃5    
 
-11032 ┃geologia                                                                                             ┃ub              ┃barcelona            ┃60         ┃5    
+81067 ┃Comunicacio_Audiovisual_i_Multimedia_"ERAM"_(docencia_en_Angles)                                     ┃Salt            ┃UdG                  ┃-1680784392 ┃5    
 
-11091 ┃gestio_d'informacio_i_documentacio_digital                                                           ┃ub              ┃barcelona            ┃60         ┃6.28 
+81068 ┃Comunicacio_Cultural                                                                                 ┃Girona          ┃UdG                  ┃-1680784392 ┃5    
 
-11052 ┃gestio_i_administracio_publica                                                                       ┃ub              ┃barcelona            ┃80         ┃7.802
+21121 ┃Comunicacio_de_les_Organitzacions                                                                    ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃9.406
 
-41050 ┃grau_obert_programa_de(agrupacio)                                                                    ┃upf             ┃barcelona            ┃30         ┃11.639
+11067 ┃Comunicacio_i_Industries_Culturals                                                                   ┃Barcelona       ┃UB                   ┃-1680784392 ┃8.858
 
-11035 ┃historia                                                                                             ┃ub              ┃barcelona            ┃255        ┃5    
+61009 ┃Comunicacio_i_Periodisme_Audiovisuals                                                                ┃Lleida          ┃UdL                  ┃-1680784392 ┃6.953
 
-11034 ┃historia_de_l'art                                                                                    ┃ub              ┃barcelona            ┃170        ┃5    
+21126 ┃Comunicacio_Interactiva                                                                              ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃7.136
 
-11104 ┃historia/historia_de_l'art(simul)                                                                    ┃ub              ┃barcelona            ┃20         ┃8.96 
+11100 ┃Conservacio_-_Restauracio_de_Bens_Culturals                                                          ┃Barcelona       ┃UB                   ┃-1680784392 ┃5    
 
-41003 ┃humanitats                                                                                           ┃upf             ┃barcelona            ┃170        ┃5    
+61042 ┃Conservacio_de_la_Natura/Enginyeria_Forestal_(simultaneitat)                                         ┃Lleida          ┃UdL                  ┃-1680784392 ┃5    
 
-11081 ┃infermeria(campus_clinic)                                                                            ┃ub              ┃barcelona            ┃135        ┃12.352
+11010 ┃Criminologia                                                                                         ┃Barcelona       ┃UB                   ┃-1680784392 ┃9.54 
 
-41021 ┃infermeria_"escola_superior_d'infermeria_del_mar"                                                    ┃upf             ┃barcelona            ┃85         ┃10.156
+91050 ┃Criminologia_"ESERP"                                                                                 ┃Barcelona       ┃UVic-UCC             ┃-1680784392 ┃5    
 
-21043 ┃infermeria_"sant_pau"                                                                                ┃uab             ┃barcelona            ┃85         ┃10.896
+21068 ┃Criminologia                                                                                         ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃9.764
 
-31106 ┃intelligencia_artificial                                                                             ┃upc             ┃barcelona            ┃50         ┃12.15
+81013 ┃Criminologia                                                                                         ┃Girona          ┃UdG                  ┃-1680784392 ┃8.722
 
-10120 ┃investigacio_privada(titol_propi_no_oficial)                                                         ┃ub              ┃barcelona            ┃120        ┃5    
+11088 ┃Criminologia/Dret_(simultaneitat)                                                                    ┃Barcelona       ┃UB                   ┃-1680784392 ┃11.55
 
-11039 ┃linguistica                                                                                          ┃ub              ┃barcelona            ┃60         ┃5    
+21108 ┃Criminologia/Dret_(simultaneitat)                                                                    ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃10.956
 
-41023 ┃llengues_aplicades                                                                                   ┃upf             ┃barcelona            ┃60         ┃5    
+81056 ┃Criminologia/Dret_(simultaneitat)                                                                    ┃Girona          ┃UdG                  ┃-1680784392 ┃10.056
 
-41054 ┃llengues_aplicades/traduccio_i_interpretacio_angles(simul)                                           ┃upf             ┃barcelona            ┃15         ┃11.266
+41011 ┃Criminologia_i_Politiques_Publiques_de_Prevencio                                                     ┃Barcelona       ┃UPF                  ┃-1680784392 ┃9.356
 
-11040 ┃llengues_i_literatures_modernes                                                                      ┃ub              ┃barcelona            ┃100        ┃5    
+41043 ┃Criminologia_i_Politiques_Publiques_de_Prevencio/Dret_(simultaneitat)                                ┃Barcelona       ┃UPF                  ┃-1680784392 ┃11.362
 
-11082 ┃llengues_romaniques_i_les_seves_literatures                                                          ┃ub              ┃barcelona            ┃40         ┃5    
+21107 ┃Direccio_Hotelera                                                                                    ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃5    
 
-81064 ┃logistica_empresarial_"mediterrani"                                                                  ┃udg             ┃barcelona            ┃50         ┃5    
+81083 ┃Direccio_d'Empreses_Hoteleres_i_Gastronomiques                                                       ┃Sant_Pol_de_Mar ┃UdG                  ┃-1680784392 ┃5    
 
-71062 ┃marqueting_"esic"                                                                                    ┃urv             ┃barcelona            ┃95         ┃5    
+71085 ┃Direccio_i_Gestio_d'Empreses_en_l'Ambit_Digital_"ESIC"                                               ┃Barcelona       ┃URV                  ┃-1680784392 ┃5    
 
-71074 ┃marqueting_"esic"(angles)                                                                            ┃urv             ┃barcelona            ┃45         ┃5    
+11110 ┃Direccio_i_Gestio_Gastronomica_"Barcelona_Culinary_Hub"                                              ┃L'Hospitalet... ┃UB                   ┃-1680784392 ┃5    
 
-81051 ┃marqueting_"mediterrani"                                                                             ┃udg             ┃barcelona            ┃70         ┃5.218
+11101 ┃Disseny                                                                                              ┃Barcelona       ┃UB                   ┃-1680784392 ┃10.842
 
-31090 ┃marqueting_i_comunicacio_digital_"eae"                                                               ┃upc             ┃barcelona            ┃75         ┃5    
+91007 ┃Disseny_"BAU"                                                                                        ┃Barcelona       ┃UVic-UCC             ┃-1680784392 ┃8.333
 
-31119 ┃marqueting_i_comunicacio_digital_"eae"(semipresencial)                                               ┃upc             ┃barcelona            ┃15         ┃5    
+21015 ┃Disseny_"Eina"                                                                                       ┃Barcelona       ┃UAB                  ┃-1680784392 ┃5    
 
-11041 ┃matematiques                                                                                         ┃ub              ┃barcelona            ┃70         ┃12.734
+61064 ┃Disseny_Digital_i_Tecnologies_Creatives                                                              ┃Lleida          ┃UdL                  ┃-1680784392 ┃9.217
 
-31040 ┃matematiques                                                                                         ┃upc             ┃barcelona            ┃55         ┃13.254
+31121 ┃Disseny_Digital_i_Tecnologies_Multimedia                                                             ┃Terrassa        ┃UPC                  ┃-1680784392 ┃6.082
 
-41058 ┃medicina                                                                                             ┃upf             ┃barcelona            ┃60         ┃13.08
+31083 ┃Disseny_i_Desenvolupament_de_Videojocs_(docencia_en_Angles)                                          ┃Barcelona_/_... ┃UPC                  ┃-1680784392 ┃5    
 
-11043 ┃medicina(campus_clinic)                                                                              ┃ub              ┃barcelona            ┃172        ┃13.24
+81059 ┃Disseny_i_Desenvolupament_de_Videojocs                                                               ┃Girona          ┃UdG                  ┃-1680784392 ┃7.736
 
-31045 ┃nautica_i_transport_maritim                                                                          ┃upc             ┃barcelona            ┃50         ┃7.82 
+31074 ┃Disseny_i_Desenvolupament_de_Videojocs                                                               ┃Barcelona_/_... ┃UPC                  ┃-1680784392 ┃5    
 
-11102 ┃negoci_digital_i_innovacio_en_turisme_"cett"                                                         ┃ub              ┃barcelona            ┃80         ┃5    
+11106 ┃Disseny_i_Desenvolupament_de_Videojocs_i_Jocs_Aplicats_"ENTI"                                        ┃Barcelona       ┃UB                   ┃-1680784392 ┃5    
 
-41024 ┃negocis_i_marqueting_internacionals_"esci"                                                           ┃upf             ┃barcelona            ┃115        ┃8.758
+91056 ┃Disseny_i_Innovacio_"ELISAVA"                                                                        ┃Barcelona       ┃UVic-UCC             ┃-1680784392 ┃5.182
 
-31098 ┃paisatgisme                                                                                          ┃upc             ┃barcelona            ┃50         ┃5    
+41045 ┃Disseny_i_Produccio_de_Videojocs_"Tecnocampus"                                                       ┃Mataró         ┃UPF                  ┃-1680784392 ┃5    
 
-11045 ┃pedagogia                                                                                            ┃ub              ┃barcelona            ┃240        ┃8.306
+41052 ┃Disseny_i_Produccio_de_Videojocs/Enginyeria_Informatica_de_Gestio_i_Sistemes_d'Informacio_"Tecnoc... ┃Mataró         ┃UPF                  ┃-1680784392 ┃5    
 
-41025 ┃periodisme                                                                                           ┃upf             ┃barcelona            ┃80         ┃11.566
+31122 ┃Disseny,_Animacio_i_Art_Digital                                                                      ┃Terrassa        ┃UPC                  ┃-1680784392 ┃9.36 
 
-11087 ┃produccio_de_musica_i_so_per_a_la_industria_de_l'entreteniment                                       ┃ub              ┃barcelona            ┃60         ┃5    
+11107 ┃Disseny,_Animacio_i_Art_Digital_per_a_Videojocs_i_Jocs_Aplicats_"ENTI"                               ┃Barcelona       ┃UB                   ┃-1680784392 ┃7.328
 
-11047 ┃psicologia                                                                                           ┃ub              ┃barcelona            ┃480        ┃10.224
+11012 ┃Dret                                                                                                 ┃Barcelona       ┃UB                   ┃-1680784392 ┃9.9  
 
-41004 ┃publicitat_i_relacions_publiques                                                                     ┃upf             ┃barcelona            ┃80         ┃12.07
+41013 ┃Dret                                                                                                 ┃Barcelona       ┃UPF                  ┃-1680784392 ┃11.103
 
-11093 ┃publicitat_relacions_publiques_i_marqueting                                                          ┃ub              ┃barcelona            ┃150        ┃9.274
+91053 ┃Dret_"ESERP"                                                                                         ┃Barcelona       ┃UVic-UCC             ┃-1680784392 ┃5    
 
-11049 ┃quimia                                                                                               ┃ub              ┃barcelona            ┃200        ┃10.238
+21086 ┃Dret                                                                                                 ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃9.746
 
-11050 ┃relacions_laborals                                                                                   ┃ub              ┃barcelona            ┃150        ┃8.18 
+81015 ┃Dret                                                                                                 ┃Girona          ┃UdG                  ┃-1680784392 ┃8.82 
 
-41026 ┃relacions_laborals                                                                                   ┃upf             ┃barcelona            ┃180        ┃7.678
+61010 ┃Dret                                                                                                 ┃Lleida          ┃UdL                  ┃-1680784392 ┃7.766
 
-11063 ┃sociologia                                                                                           ┃ub              ┃barcelona            ┃130        ┃7.628
+71008 ┃Dret                                                                                                 ┃Tarragona       ┃URV                  ┃-1680784392 ┃8.536
 
-91915 ┃tecno_industs_amb_analisi_economica_grau+master_en_enginyeria_indust                                 ┃upc/upf         ┃barcelona            ┃50         ┃12.504
+11070 ┃Dret/Gestio_i_Administracio_Publica_(simultaneitat)                                                  ┃Barcelona       ┃UB                   ┃-1680784392 ┃10.094
 
-31038 ┃tecno_marines                                                                                        ┃upc             ┃barcelona            ┃40         ┃5    
+21145 ┃Dret/Relacions_Internacionals_(simultaneitat)                                                        ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃12.886
 
-41040 ┃traduccio_i_interpretacio_alemany/frances/llengua_de_signes_catalana                                 ┃upf             ┃barcelona            ┃70         ┃5    
+21109 ┃Dret/Relacions_Laborals_(simultaneitat)                                                              ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃10.25
 
-41006 ┃traduccio_i_interpretacio_angles                                                                     ┃upf             ┃barcelona            ┃85         ┃5    
+71083 ┃Dret/Relacions_Laborals_i_Recursos_Humans_(simultaneitat)                                            ┃Tarragona       ┃URV                  ┃-1680784392 ┃8.745
 
-11051 ┃treball_social                                                                                       ┃ub              ┃barcelona            ┃240        ┃8.175
+11103 ┃Economia                                                                                             ┃Barcelona       ┃UB                   ┃-1680784392 ┃9.238
 
-81036 ┃turisme_"euroaula"                                                                                   ┃udg             ┃barcelona            ┃100        ┃5    
+41014 ┃Economia                                                                                             ┃Barcelona       ┃UPF                  ┃-1680784392 ┃10.722
 
-11011 ┃turisme_"cett"                                                                                       ┃ub              ┃barcelona            ┃180        ┃5    
+21070 ┃Economia                                                                                             ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃9.15 
 
-11086 ┃turisme_"cett"(angles)                                                                               ┃ub              ┃barcelona            ┃65         ┃5    
+21110 ┃Economia_(docencia_en_Angles)                                                                        ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃9.527
 
-81037 ┃turisme_"formatic_barna"                                                                             ┃udg             ┃barcelona            ┃80         ┃5    
+81016 ┃Economia                                                                                             ┃Girona          ┃UdG                  ┃-1680784392 ┃8.686
 
-81038 ┃turisme_"mediterrani"                                                                                ┃udg             ┃barcelona            ┃100        ┃5    
+71009 ┃Economia                                                                                             ┃Reus            ┃URV                  ┃-1680784392 ┃7.588
 
-81062 ┃turisme/marqueting_"mediterrani"(simul)                                                              ┃udg             ┃barcelona            ┃25         ┃5    
+91914 ┃Economia/Estadistica_(simultaneitat)                                                                 ┃Barcelona       ┃UB/UPC               ┃-1680784392 ┃11.398
 
-21014 ┃administracio_i_direccio_d'empreses                                                                  ┃uab             ┃cerdanyola_del_va... ┃160        ┃9.912
+81069 ┃Economia/Filosofia_(simultaneitat)                                                                   ┃Girona          ┃UdG                  ┃-1680784392 ┃7.942
 
-21099 ┃administracio_i_direccio_d'empreses(angles)                                                          ┃uab             ┃cerdanyola_del_va... ┃70         ┃10.434
+11013 ┃Educacio_Infantil                                                                                    ┃Barcelona       ┃UB                   ┃-1680784392 ┃9.064
 
-81003 ┃administracio_i_direccio_d'empreses                                                                  ┃udg             ┃girona               ┃100        ┃9.296
+21016 ┃Educacio_Infantil                                                                                    ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃9.216
 
-61069 ┃administracio_i_direccio_d'empreses                                                                  ┃udl             ┃igualada             ┃40         ┃7.37 
+71034 ┃Educacio_Infantil                                                                                    ┃el_Vendrell     ┃URV                  ┃-1680784392 ┃7.553
 
-61003 ┃administracio_i_direccio_d'empreses                                                                  ┃udl             ┃lleida               ┃125        ┃6.644
+81017 ┃Educacio_Infantil                                                                                    ┃Girona          ┃UdG                  ┃-1680784392 ┃8.32 
 
-91042 ┃administracio_i_direccio_d'empreses(campus_manresa)                                                  ┃uvicucc         ┃manresa              ┃40         ┃5    
+61011 ┃Educacio_Infantil                                                                                    ┃Lleida          ┃UdL                  ┃-1680784392 ┃5    
 
-71002 ┃administracio_i_direccio_d'empreses                                                                  ┃urv             ┃reus                 ┃140        ┃7.62 
+91038 ┃Educacio_Infantil                                                                                    ┃Manresa         ┃UVic-UCC             ┃-1680784392 ┃5    
 
-31001 ┃administracio_i_direccio_d'empreses_"euncet"                                                         ┃upc             ┃terrassa             ┃60         ┃5    
+71010 ┃Educacio_Infantil                                                                                    ┃Tarragona       ┃URV                  ┃-1680784392 ┃7.206
 
-31072 ┃administracio_i_direccio_d'empreses_"euncet"(semipresencial)                                         ┃upc             ┃terrassa             ┃40         ┃5    
+71029 ┃Educacio_Infantil                                                                                    ┃Tortosa         ┃URV                  ┃-1680784392 ┃5    
 
-71004 ┃administracio_i_direccio_d'empreses                                                                  ┃urv             ┃tortosa              ┃45         ┃5    
+91008 ┃Educacio_Infantil                                                                                    ┃Vic             ┃UVic-UCC             ┃-1680784392 ┃5    
 
-91003 ┃administracio_i_direccio_d'empreses                                                                  ┃uvicucc         ┃vic                  ┃45         ┃5    
+11072 ┃Educacio_Infantil/Educacio_Primaria_(pla_de_millora_de_la_formacio_inicial_de_Mestre_-_5_anys)_(s... ┃Barcelona       ┃UB                   ┃-1680784392 ┃11.343
 
-21098 ┃administracio_i_direccio_d'empreses/dret(simul)                                                      ┃uab             ┃cerdanyola_del_va... ┃80         ┃10.603
+21111 ┃Educacio_Infantil/Educacio_Primaria_(pla_de_millora_de_la_formacio_inicial_de_Mestre_-_5_anys)_(s... ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃11.26
 
-81053 ┃administracio_i_direccio_d'empreses/dret(simul)                                                      ┃udg             ┃girona               ┃10         ┃10.83
+81049 ┃Educacio_Infantil/Educacio_Primaria_(pla_de_millora_de_la_formacio_inicial_de_Mestre_-_5_anys)_(s... ┃Girona          ┃UdG                  ┃-1680784392 ┃9.434
 
-61035 ┃administracio_i_direccio_d'empreses/dret(simul)                                                      ┃udl             ┃lleida               ┃30         ┃9.733
+61037 ┃Educacio_Infantil/Educacio_Primaria_(pla_de_millora_de_la_formacio_inicial_de_Mestre_-_5_anys)_(s... ┃Lleida          ┃UdL                  ┃-1680784392 ┃9.278
 
-71055 ┃administracio_i_direccio_d'empreses/dret(simul)                                                      ┃urv             ┃reus_tarragona       ┃25         ┃9.326
+71050 ┃Educacio_Infantil/Educacio_Primaria_(pla_de_millora_de_la_formacio_inicial_de_Mestre_-_5_anys)_(s... ┃Tarragona       ┃URV                  ┃-1680784392 ┃7.994
 
-81052 ┃administracio_i_direccio_d'empreses/economia(simul)                                                  ┃udg             ┃girona               ┃30         ┃10.782
+71076 ┃Educacio_Infantil/Educacio_Primaria_(pla_de_millora_de_la_formacio_inicial_de_Mestre_-_5_anys)_(s... ┃Tortosa         ┃URV                  ┃-1680784392 ┃7.104
 
-61070 ┃administracio_i_direccio_d'empreses/engi_en_organitzacio_indust_i_logistica(simul)                   ┃udl             ┃igualada_lleida      ┃10         ┃6.762
+91030 ┃Educacio_Infantil/Educacio_Primaria_(pla_de_millora_de_la_formacio_inicial_de_Mestre_-_5_anys)_(m... ┃Vic             ┃UVic-UCC             ┃-1680784392 ┃5    
 
-81046 ┃administracio_i_direccio_d'empreses/enginyeria_en_tecno_industs(simul)                               ┃udg             ┃girona               ┃15         ┃10.28
+11014 ┃Educacio_Primaria                                                                                    ┃Barcelona       ┃UB                   ┃-1680784392 ┃9.442
 
-61036 ┃administracio_i_direccio_d'empreses/enginyeria_informatica(simul)                                    ┃udl             ┃lleida               ┃10         ┃10.984
+21018 ┃Educacio_Primaria                                                                                    ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃10.157
 
-71053 ┃administracio_i_direccio_d'empreses/finances_i_comptabilitat(simul)                                  ┃urv             ┃reus                 ┃30         ┃10.92
+21102 ┃Educacio_Primaria_(docencia_en_Angles)                                                               ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃8.61 
 
-31101 ┃administracio_i_direccio_d'empreses_"euncet"/marqueting_i_comunicacio_digital(simul)                 ┃upc             ┃terrassa             ┃40         ┃5    
+81018 ┃Educacio_Primaria                                                                                    ┃Girona          ┃UdG                  ┃-1680784392 ┃9.178
 
-61053 ┃administracio_i_direccio_d'empreses/turisme(simul)                                                   ┃udl             ┃lleida               ┃20         ┃7.196
+61072 ┃Educacio_Primaria_(modalitat_Bilingue)                                                               ┃Lleida          ┃UdL                  ┃-1680784392 ┃7.448
 
-71003 ┃angles                                                                                               ┃urv             ┃tarragona            ┃55         ┃5    
+61073 ┃Educacio_Primaria_(modalitat_dual)                                                                   ┃Lleida          ┃UdL                  ┃-1680784392 ┃8.416
 
-71049 ┃antropologia_i_evolucio_humana(virtual_o_semipresencial)                                             ┃urv/uoc         ┃tarragona            ┃120        ┃5    
+71011 ┃Educacio_Primaria                                                                                    ┃Tarragona       ┃URV                  ┃-1680784392 ┃9.04 
 
-21006 ┃antropologia_social_i_cultural                                                                       ┃uab             ┃cerdanyola_del_va... ┃80         ┃5    
+71033 ┃Educacio_Primaria                                                                                    ┃Tortosa         ┃URV                  ┃-1680784392 ┃7.128
 
-21007 ┃arqueologia                                                                                          ┃uab             ┃cerdanyola_del_va... ┃70         ┃5    
+91009 ┃Educacio_Primaria                                                                                    ┃Vic             ┃UVic-UCC             ┃-1680784392 ┃5    
 
-71035 ┃arquitectura                                                                                         ┃urv             ┃reus                 ┃60         ┃8.172
+11015 ┃Educacio_Social                                                                                      ┃Barcelona       ┃UB                   ┃-1680784392 ┃8.674
 
-81020 ┃arquitectura_tecnica_i_edificacio                                                                    ┃udg             ┃girona               ┃25         ┃7.56 
+21019 ┃Educacio_Social                                                                                      ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃9.492
 
-81065 ┃arquitectura_tecnica_i_edificacio(semipresencial)                                                    ┃udg             ┃girona               ┃15         ┃7.022
+81019 ┃Educacio_Social                                                                                      ┃Girona          ┃UdG                  ┃-1680784392 ┃7.718
 
-61016 ┃arquitectura_tecnica_i_edificacio                                                                    ┃udl             ┃lleida               ┃25         ┃6.563
+61013 ┃Educacio_Social                                                                                      ┃Lleida          ┃UdL                  ┃-1680784392 ┃7.788
 
-81057 ┃arquitectura_estudis_d'                                                                              ┃udg             ┃girona               ┃40         ┃9.252
+71012 ┃Educacio_Social                                                                                      ┃Tarragona       ┃URV                  ┃-1680784392 ┃8.104
 
-31079 ┃arquitectura_estudis_d'                                                                              ┃upc             ┃sant_cugat_del_va... ┃110        ┃10.054
+91010 ┃Educacio_Social                                                                                      ┃Vic             ┃UVic-UCC             ┃-1680784392 ┃5    
 
-81045 ┃arts_esceniques                                                                                      ┃udg             ┃salt                 ┃30         ┃5.452
+21087 ┃Empresa_i_Tecnologia                                                                                 ┃Sabadell        ┃UAB                  ┃-1680784392 ┃9.6  
 
-21009 ┃biologia                                                                                             ┃uab             ┃cerdanyola_del_va... ┃80         ┃11.374
+31126 ┃Empresa,_Innovacio_i_Tecnologia_"EUNCET"                                                             ┃Barcelona       ┃UPC                  ┃-1680784392 ┃5.758
 
-81006 ┃biologia/biotecnologia(simul)                                                                        ┃udg             ┃girona               ┃90         ┃10.476
+31125 ┃Empresa,_Innovacio_i_Tecnologia_"EUNCET"                                                             ┃Barcelona       ┃UPC                  ┃-1680784392 ┃5    
 
-91018 ┃biologia                                                                                             ┃uvicucc         ┃vic                  ┃50         ┃6.486
+31128 ┃Empresa,_Innovacio_i_Tecnologia_"EUNCET"                                                             ┃Terrassa        ┃UPC                  ┃-1680784392 ┃5    
 
-21008 ┃biologia_ambiental                                                                                   ┃uab             ┃cerdanyola_del_va... ┃60         ┃11.354
+31127 ┃Empresa,_Innovacio_i_Tecnologia_"EUNCET"                                                             ┃Terrassa        ┃UPC                  ┃-1680784392 ┃5    
 
-81047 ┃biologia/biotecnologia(simul)                                                                        ┃udg             ┃girona               ┃10         ┃11.41
+31129 ┃Empresa,_Innovacio_i_Tecnologia/Marqueting,_Innovacio_i_Tecnologia_"EUNCET"                          ┃Barcelona       ┃UPC                  ┃-1680784392 ┃5    
 
-81048 ┃biologia/ciencies_ambientals(simul)                                                                  ┃udg             ┃girona               ┃20         ┃10.35
+31130 ┃Empresa,_Innovacio_i_Tecnologia/Marqueting,_Innovacio_i_Tecnologia_"EUNCET"                          ┃Terrassa        ┃UPC                  ┃-1680784392 ┃5    
 
-91058 ┃biomedicina                                                                                          ┃uvicucc         ┃vic                  ┃50         ┃11.088
+11073 ┃Empresa_Internacional_(docencia_en_Angles)                                                           ┃Barcelona       ┃UB                   ┃-1680784392 ┃11.683
 
-21011 ┃bioquimia                                                                                            ┃uab             ┃cerdanyola_del_va... ┃60         ┃11.884
+61006 ┃Enginyeria_Agraria_i_Alimentaria                                                                     ┃Lleida          ┃UdL                  ┃-1680784392 ┃6.21 
 
-71005 ┃bioquimia_i_biologia_molecular                                                                       ┃urv             ┃tarragona            ┃45         ┃11.776
+81032 ┃Enginyeria_Agroalimentaria                                                                           ┃Girona          ┃UdG                  ┃-1680784392 ┃6.768
 
-71054 ┃bioquimia_i_biologia_molecular/biotecnologia(simul)                                                  ┃urv             ┃tarragona            ┃15         ┃12.728
+31004 ┃Enginyeria_Alimentaria                                                                               ┃Castelldefels   ┃UPC                  ┃-1680784392 ┃7.232
 
-21012 ┃biotecnologia                                                                                        ┃uab             ┃cerdanyola_del_va... ┃80         ┃11.834
+31100 ┃Enginyeria_Ambiental                                                                                 ┃Castelldefel... ┃UPC                  ┃-1680784392 ┃7.425
 
-81007 ┃biotecnologia                                                                                        ┃udg             ┃girona               ┃60         ┃11.042
+11059 ┃Enginyeria_Biomedica                                                                                 ┃Barcelona       ┃UB                   ┃-1680784392 ┃12.5 
 
-61005 ┃biotecnologia                                                                                        ┃udl             ┃lleida               ┃50         ┃11.078
+41033 ┃Enginyeria_Biomedica                                                                                 ┃Barcelona       ┃UPF                  ┃-1680784392 ┃12.286
 
-71006 ┃biotecnologia                                                                                        ┃urv             ┃tarragona            ┃40         ┃11.335
+31051 ┃Enginyeria_Biomedica                                                                                 ┃Barcelona_/_... ┃UPC                  ┃-1680784392 ┃11.838
 
-91004 ┃biotecnologia                                                                                        ┃uvicucc         ┃vic                  ┃50         ┃5.318
+81063 ┃Enginyeria_Biomedica                                                                                 ┃Girona          ┃UdG                  ┃-1680784392 ┃10.708
 
-71056 ┃biotecnologia/enginyeria_informatica(simul)                                                          ┃urv             ┃tarragona            ┃10         ┃11.666
+71064 ┃Enginyeria_Biomedica                                                                                 ┃Tarragona       ┃URV                  ┃-1680784392 ┃10.686
 
-61040 ┃ciencia_i_produccio_animal/veterinaria(simul)                                                        ┃udl             ┃lleida               ┃60         ┃11.628
+71070 ┃Enginyeria_Biomedica/Enginyeria_de_Sistemes_i_Serveis_de_Telecomunicacions_(simultaneitat)           ┃Tarragona       ┃URV                  ┃-1680784392 ┃11.836
 
-21021 ┃ciencia_i_tecnologia_dels_aliments                                                                   ┃uab             ┃cerdanyola_del_va... ┃70         ┃10.248
+31103 ┃Enginyeria_Civil                                                                                     ┃Barcelona       ┃UPC                  ┃-1680784392 ┃8.528
 
-61008 ┃ciencia_i_tecnologia_dels_aliments                                                                   ┃udl             ┃lleida               ┃40         ┃5    
+31113 ┃Enginyeria_Civil,_Grau_en_+_Master_universitari_en_Enginyeria_de_Camins,_Canals_i_Ports              ┃Barcelona       ┃UPC                  ┃-1680784392 ┃10.978
 
-11054 ┃ciencia_i_tecnologia_dels_aliments                                                                   ┃ub              ┃santa_coloma_de_g... ┃80         ┃9.322
+21132 ┃Enginyeria_d'Automocio_"EU_Salesiana_de_Sarria"                                                      ┃Barcelona       ┃UAB                  ┃-1680784392 ┃7.03 
 
-21013 ┃ciencia_politica_i_gestio_publica                                                                    ┃uab             ┃cerdanyola_del_va... ┃80         ┃8.518
+31091 ┃Enginyeria_d'Automocio                                                                               ┃Manresa_/_Ba... ┃UPC                  ┃-1680784392 ┃10.26
 
-21104 ┃ciencia_politica_i_gestio_publica/dret(simul)                                                        ┃uab             ┃cerdanyola_del_va... ┃20         ┃10.986
+71061 ┃Enginyeria_de_Bioprocessos_Alimentaris                                                               ┃Tarragona       ┃URV                  ┃-1680784392 ┃5.802
 
-21125 ┃ciencia_politica_i_gestio_publica/sociologia(simul)                                                  ┃uab             ┃cerdanyola_del_va... ┃20         ┃5.766
+31097 ┃Enginyeria_de_Ciencies_Agronomiques                                                                  ┃Castelldefels   ┃UPC                  ┃-1680784392 ┃6.114
 
-21137 ┃ciencia_tecnologia_i_humanitats                                                                      ┃uab             ┃cerdanyola_del_va... ┃15         ┃5    
+21118 ┃Enginyeria_de_Dades                                                                                  ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃9.882
 
-21131 ┃ciencies                                                                                             ┃uab/uam/uc3m    ┃cerdanyola_del_va... ┃15         ┃9.822
+91057 ┃Enginyeria_de_Disseny_Industrial_"ELISAVA"                                                           ┃Barcelona       ┃UVic-UCC             ┃-1680784392 ┃5    
 
-21024 ┃ciencies_ambientals                                                                                  ┃uab             ┃cerdanyola_del_va... ┃60         ┃9.762
+31022 ┃Enginyeria_de_Disseny_Industrial_i_Desenvolupament_del_Producte                                      ┃Terrassa        ┃UPC                  ┃-1680784392 ┃10.962
 
-81008 ┃ciencies_ambientals                                                                                  ┃udg             ┃girona               ┃60         ┃8.266
+31006 ┃Enginyeria_de_Disseny_Industrial_i_Desenvolupament_del_Producte                                      ┃Vilanova_i_l... ┃UPC                  ┃-1680784392 ┃8.105
 
-21103 ┃ciencies_ambientals/geologia(simul)                                                                  ┃uab             ┃cerdanyola_del_va... ┃30         ┃9.526
+91051 ┃Enginyeria_de_l'Automocio                                                                            ┃Granollers      ┃UVic-UCC             ┃-1680784392 ┃6.638
 
-21010 ┃ciencies_biomediques                                                                                 ┃uab             ┃cerdanyola_del_va... ┃60         ┃12.78
+31052 ┃Enginyeria_de_l'Energia                                                                              ┃Barcelona_/_... ┃UPC                  ┃-1680784392 ┃8.398
 
-61004 ┃ciencies_biomediques                                                                                 ┃udl             ┃lleida               ┃45         ┃12.468
+61061 ┃Enginyeria_de_l'Energia_i_Sostenibilitat/Enginyeria_en_Electronica_Industrial_i_Automatica/Enginy... ┃Lleida          ┃UdL                  ┃-1680784392 ┃6.707
 
-71046 ┃ciencies_de_l'activitat_fisica_i_de_l'esport                                                         ┃urv             ┃amposta              ┃50         ┃6.156
+61075 ┃Enginyeria_de_l'Energia_i_Sostenibilitat/Enginyeria_en_Electronica_Industrial_i_Automatica/Enginy... ┃Lleida          ┃UdL                  ┃-1680784392 ┃8.62 
 
-61071 ┃ciencies_de_l'activitat_fisica_i_de_l'esport                                                         ┃udl             ┃la_seu_d'urgell      ┃40         ┃9.528
+61065 ┃Enginyeria_de_l'Energia_i_Sostenibilitat/Enginyeria_Mecanica_(simultaneitat)                         ┃Lleida          ┃UdL                  ┃-1680784392 ┃10.944
 
-61007 ┃ciencies_de_l'activitat_fisica_i_de_l'esport                                                         ┃udl             ┃lleida               ┃95         ┃9.6  
+11060 ┃Enginyeria_de_Materials                                                                              ┃Barcelona       ┃UB                   ┃-1680784392 ┃7.792
 
-41038 ┃ciencies_de_l'activitat_fisica_i_de_l'esport_"tecnocampus"                                           ┃upf             ┃mataro               ┃60         ┃9.22 
+31025 ┃Enginyeria_de_Materials                                                                              ┃Barcelona_/_... ┃UPC                  ┃-1680784392 ┃8.14 
 
-81009 ┃ciencies_de_l'activitat_fisica_i_de_l'esport                                                         ┃udg             ┃salt                 ┃90         ┃6.649
+31123 ┃Enginyeria_de_Satel*lits                                                                             ┃Castelldefels   ┃UPC                  ┃-1680784392 ┃10.83
 
-91001 ┃ciencies_de_l'activitat_fisica_i_de_l'esport                                                         ┃uvicucc         ┃vic                  ┃100        ┃7.867
+31084 ┃Enginyeria_de_Sistemes_Aeroespacials                                                                 ┃Castelldefels   ┃UPC                  ┃-1680784392 ┃11.212
 
-61038 ┃ciencies_de_l'activitat_fisica_i_de_l'esport/educacio_primaria(simul)                                ┃udl             ┃lleida               ┃30         ┃9.548
+31085 ┃Enginyeria_de_Sistemes_Aeroespacials/Enginyeria_de_Sistemes_de_Telecomunicacio_-_Enginyeria_Telem... ┃Castelldefels   ┃UPC                  ┃-1680784392 ┃11.4 
 
-91055 ┃ciencies_de_l'activitat_fisica_i_de_l'esport/educacio_primaria(simul)                                ┃uvicucc         ┃vic                  ┃40         ┃5    
+31010 ┃Enginyeria_de_Sistemes_Audiovisuals                                                                  ┃Terrassa        ┃UPC                  ┃-1680784392 ┃6.494
 
-71059 ┃ciencies_de_l'activitat_fisica_i_de_l'esport/fisioterapia(simul)                                     ┃urv             ┃amposta_tortosa      ┃10         ┃5    
+31011 ┃Enginyeria_de_Sistemes_Biologics                                                                     ┃Castelldefels   ┃UPC                  ┃-1680784392 ┃8.772
 
-41037 ┃ciencies_de_l'activitat_fisica_i_de_l'esport/fisioterapia_"tecnocampus"(simul)                       ┃upf             ┃mataro               ┃40         ┃8.86 
+21115 ┃Enginyeria_de_Sistemes_de_Telecomunicacio/Enginyeria_Electronica_de_Telecomunicacio_(agrupacio)      ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃7.458
 
-61039 ┃ciencies_de_l'activitat_fisica_i_de_l'esport/fisioterapia(simul)                                     ┃udl             ┃lleida               ┃25         ┃11.916
+21105 ┃Enginyeria_de_Sistemes_de_Telecomunicacio/Enginyeria_Informatica_(simultaneitat)                     ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃9.498
 
-81061 ┃ciencies_de_l'activitat_fisica_i_de_l'esport/fisioterapia(simul)                                     ┃udg             ┃salt                 ┃10         ┃6.943
+31076 ┃Enginyeria_de_Sistemes_de_Telecomunicacio/Enginyeria_Telematica_(inclou_xarxes_i_Internet)_(agrup... ┃Castelldefels   ┃UPC                  ┃-1680784392 ┃7.667
 
-21117 ┃ciencies_de_l'antiguitat                                                                             ┃uab             ┃cerdanyola_del_va... ┃60         ┃5    
+31077 ┃Enginyeria_de_Sistemes_de_Telecomunicacio/Enginyeria_Telematica_(inclou_xarxes_i_Internet)_(febre... ┃Castelldefels   ┃UPC                  ┃-1680784392 ┃6.486
 
-81010 ┃ciencies_politiques_i_de_l'administracio                                                             ┃udg             ┃girona               ┃55         ┃6.554
+71042 ┃Enginyeria_de_Sistemes_i_Serveis_de_Telecomunicacions                                                ┃Tarragona       ┃URV                  ┃-1680784392 ┃7.4  
 
-81054 ┃ciencies_politiques_i_de_l'administracio/dret(simul)                                                 ┃udg             ┃girona               ┃15         ┃9.784
+31065 ┃Enginyeria_de_Sistemes_TIC_(ambit_d'Informatica_i_Comunicacions)                                     ┃Manresa         ┃TIC/UPC              ┃-1680784392 ┃7.33 
 
-11009 ┃cinematografia_"escac"                                                                               ┃ub              ┃terrassa             ┃100        ┃5    
+31015 ┃Enginyeria_de_Tecnologia_i_Disseny_Textil/Enginyeria_Electrica/Enginyeria_Electronica_Industrial_... ┃Terrassa        ┃UPC                  ┃-1680784392 ┃8.146
 
-81011 ┃comptabilitat_i_finances                                                                             ┃udg             ┃girona               ┃140        ┃7.418
+31086 ┃Enginyeria_de_Tecnologies_i_Serveis_de_Telecomunicacio                                               ┃Barcelona       ┃UPC                  ┃-1680784392 ┃7.754
 
-21084 ┃comptabilitat_i_finances                                                                             ┃uab             ┃sabadell             ┃150        ┃8.632
+31111 ┃Enginyeria_de_Tecnologies_i_Serveis_de_Telecomunicacio,_Grau_en_+_Master_Universitari_en_Enginyer... ┃Barcelona       ┃UPC                  ┃-1680784392 ┃10.214
 
-21085 ┃comunicacio_audiovisual                                                                              ┃uab             ┃cerdanyola_del_va... ┃80         ┃11.162
+41020 ┃Enginyeria_de_Xarxes_de_Telecomunicacio                                                              ┃Barcelona       ┃UPF                  ┃-1680784392 ┃8.244
 
-71007 ┃comunicacio_audiovisual                                                                              ┃urv             ┃tarragona            ┃45         ┃9.51 
+41057 ┃Enginyeria_d'Organitzacio_Industrial/Enginyeria_Electronica_Industrial_i_Automatica/Enginyeria_Me... ┃Mataró         ┃UPF                  ┃-1680784392 ┃5.732
 
-91006 ┃comunicacio_audiovisual                                                                              ┃uvicucc         ┃vic                  ┃40         ┃5    
+31053 ┃Enginyeria_Electrica                                                                                 ┃Barcelona_/_... ┃UPC                  ┃-1680784392 ┃7.944
 
-81005 ┃comunicacio_audiovisual_i_multimedia_"eram"                                                          ┃udg             ┃salt                 ┃50         ┃5    
+81040 ┃Enginyeria_Electrica                                                                                 ┃Girona          ┃UdG                  ┃-1680784392 ┃6.45 
 
-81067 ┃comunicacio_audiovisual_i_multimedia_"eram"(angles)                                                  ┃udg             ┃salt                 ┃20         ┃5    
+71037 ┃Enginyeria_Electrica                                                                                 ┃Tarragona       ┃URV                  ┃-1680784392 ┃6.332
 
-81068 ┃comunicacio_cultural                                                                                 ┃udg             ┃girona               ┃50         ┃5    
+81050 ┃Enginyeria_Electrica/Enginyeria_Electronica_Industrial_i_Automatica_(simultaneitat)                  ┃Girona          ┃UdG                  ┃-1680784392 ┃6.241
 
-21121 ┃comunicacio_de_les_organitzacions                                                                    ┃uab             ┃cerdanyola_del_va... ┃60         ┃9.21 
+71058 ┃Enginyeria_Electrica/Enginyeria_Electronica_Industrial_i_Automatica_(simultaneitat)                  ┃Tarragona       ┃URV                  ┃-1680784392 ┃9.042
 
-61009 ┃comunicacio_i_periodisme_audiovisuals                                                                ┃udl             ┃lleida               ┃90         ┃7.046
+31124 ┃Enginyeria_Electrica_i_Sistemes_Ferroviaris/Enginyeria_Electronica_Industrial_i_Automatica/Enginy... ┃Vilanova_i_l... ┃UPC                  ┃-1680784392 ┃7.204
 
-21126 ┃comunicacio_interactiva                                                                              ┃uab             ┃cerdanyola_del_va... ┃60         ┃8.4  
+11017 ┃Enginyeria_Electronica_de_Telecomunicacio                                                            ┃Barcelona       ┃UB                   ┃-1680784392 ┃8.66 
 
-61042 ┃conservacio_de_la_natura/enginyeria_forestal(simul)                                                  ┃udl             ┃lleida               ┃25         ┃5    
+31099 ┃Enginyeria_Electronica_de_Telecomunicacio                                                            ┃Barcelona       ┃UPC                  ┃-1680784392 ┃9.523
 
-21068 ┃criminologia                                                                                         ┃uab             ┃cerdanyola_del_va... ┃70         ┃9.94 
+21106 ┃Enginyeria_Electronica_de_Telecomunicacio/Enginyeria_Informatica_(simultaneitat)                     ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃8.893
 
-81013 ┃criminologia                                                                                         ┃udg             ┃girona               ┃55         ┃9.178
+21025 ┃Enginyeria_Electronica_Industrial_i_Automatica_"EU_Salesiana_de_Sarria"                              ┃Barcelona       ┃UAB                  ┃-1680784392 ┃6.33 
 
-21108 ┃criminologia/dret(simul)                                                                             ┃uab             ┃cerdanyola_del_va... ┃20         ┃11.71
+31054 ┃Enginyeria_Electronica_Industrial_i_Automatica                                                       ┃Barcelona_/_... ┃UPC                  ┃-1680784392 ┃8.538
 
-81056 ┃criminologia/dret(simul)                                                                             ┃udg             ┃girona               ┃15         ┃10.066
+81021 ┃Enginyeria_Electronica_Industrial_i_Automatica                                                       ┃Girona          ┃UdG                  ┃-1680784392 ┃6.711
 
-21107 ┃direccio_hotelera                                                                                    ┃uab             ┃cerdanyola_del_va... ┃90         ┃5    
+71038 ┃Enginyeria_Electronica_Industrial_i_Automatica                                                       ┃Tarragona       ┃URV                  ┃-1680784392 ┃6.562
 
-61064 ┃disseny_digital_i_tecno_creatives                                                                    ┃udl             ┃lleida               ┃40         ┃8.714
+21112 ┃Enginyeria_Electronica_Industrial_i_Automatica/Enginyeria_Mecanica_"EU_Salesiana_de_Sarria"_(simu... ┃Barcelona       ┃UAB                  ┃-1680784392 ┃6.924
 
-81059 ┃disseny_i_desenvolupament_de_videojocs                                                               ┃udg             ┃girona               ┃40         ┃8.493
+31104 ┃Enginyeria_Electronica_Industrial_i_Automatica/Enginyeria_Mecanica/Enginyeria_Quimica/Enginyeria_... ┃Manresa         ┃UPC                  ┃-1680784392 ┃7.058
 
-41045 ┃disseny_i_produccio_de_videojocs_"tecnocampus"                                                       ┃upf             ┃mataro               ┃55         ┃5    
+21127 ┃Enginyeria_en_Energies_Renovables_i_Eficiencia_Energetica_"EU_Salesiana_de_Sarria"                   ┃Barcelona       ┃UAB                  ┃-1680784392 ┃5.786
 
-41052 ┃disseny_i_produccio_de_videojocs/engi_informatica_de_gestio_sistemes_d'informacio(simul)             ┃upf             ┃mataro               ┃30         ┃5.302
+31087 ┃Enginyeria_en_Geoinformacio_i_Geomatica                                                              ┃Barcelona       ┃UPC                  ┃-1680784392 ┃6.698
 
-31093 ┃disseny_animacio_i_art_digital                                                                       ┃upc             ┃terrassa             ┃40         ┃10.406
+41019 ┃Enginyeria_en_Informatica                                                                            ┃Barcelona       ┃UPF                  ┃-1680784392 ┃10.232
 
-21086 ┃dret                                                                                                 ┃uab             ┃cerdanyola_del_va... ┃200        ┃9.6  
+21022 ┃Enginyeria_en_Organitzacio_Industrial_"EU_Salesiana_de_Sarria"                                       ┃Barcelona       ┃UAB                  ┃-1680784392 ┃6.16 
 
-81015 ┃dret                                                                                                 ┃udg             ┃girona               ┃155        ┃8.342
+61060 ┃Enginyeria_en_Organitzacio_Industrial_i_Logistica/Enginyeria_Quimica_(agrupacio)                     ┃Igualada        ┃UdL                  ┃-1680784392 ┃6.252
 
-61010 ┃dret                                                                                                 ┃udl             ┃lleida               ┃115        ┃7.268
+41018 ┃Enginyeria_en_Sistemes_Audiovisuals                                                                  ┃Barcelona       ┃UPF                  ┃-1680784392 ┃8.036
 
-71008 ┃dret                                                                                                 ┃urv             ┃tarragona            ┃135        ┃8.202
+31049 ┃Enginyeria_en_Sistemes_i_Tecnologia_Naval                                                            ┃Barcelona       ┃UPC                  ┃-1680784392 ┃8.55 
 
-21145 ┃dret/relacions_internacionals(simul)                                                                 ┃uab             ┃cerdanyola_del_va... ┃20         ┃12.827
+31112 ┃Enginyeria_en_Tecnologies_Aeroespacials,_Grau_en_+_Master_Universitari_en_Enginyeria_Aeronautica     ┃Terrassa        ┃UPC                  ┃-1680784392 ┃12.858
 
-21109 ┃dret/relacions_laborals(simul)                                                                       ┃uab             ┃cerdanyola_del_va... ┃20         ┃10.166
+81041 ┃Enginyeria_en_Tecnologies_Industrials                                                                ┃Girona          ┃UdG                  ┃-1680784392 ┃7.442
 
-71083 ┃dret/relacions_laborals_i_recursos_humans(simul)                                                     ┃urv             ┃tarragona            ┃25         ┃7.98 
+31114 ┃Enginyeria_en_Tecnologies_Industrials,_Grau_en_+_Master_Universitari_en_Enginyeria_Industrial        ┃Terrassa        ┃UPC                  ┃-1680784392 ┃9.158
 
-21070 ┃economia                                                                                             ┃uab             ┃cerdanyola_del_va... ┃135        ┃8.99 
+31115 ┃Enginyeria_en_Tecnologies_Industrials,_Grau_en_+_Master_Universitari_en_Enginyeria_Industrial        ┃Barcelona       ┃UPC                  ┃-1680784392 ┃10.416
 
-21110 ┃economia(angles)                                                                                     ┃uab             ┃cerdanyola_del_va... ┃40         ┃9.67 
+31031 ┃Enginyeria_en_Vehicles_Aeroespacials                                                                 ┃Terrassa        ┃UPC                  ┃-1680784392 ┃12.574
 
-81016 ┃economia                                                                                             ┃udg             ┃girona               ┃50         ┃8.56 
+31067 ┃Enginyeria_Fisica                                                                                    ┃Barcelona       ┃UPC                  ┃-1680784392 ┃12.306
 
-71009 ┃economia                                                                                             ┃urv             ┃reus                 ┃50         ┃7.24 
+61014 ┃Enginyeria_Forestal                                                                                  ┃Lleida          ┃UdL                  ┃-1680784392 ┃5    
 
-81069 ┃economia/filosofia(simul)                                                                            ┃udg             ┃girona               ┃10         ┃9.161
+11018 ┃Enginyeria_Informatica                                                                               ┃Barcelona       ┃UB                   ┃-1680784392 ┃10.108
 
-21016 ┃educacio_infantil                                                                                    ┃uab             ┃cerdanyola_del_va... ┃130        ┃9.62 
+31059 ┃Enginyeria_Informatica                                                                               ┃Barcelona       ┃UPC                  ┃-1680784392 ┃10.41
 
-81017 ┃educacio_infantil                                                                                    ┃udg             ┃girona               ┃80         ┃8.766
+21071 ┃Enginyeria_Informatica                                                                               ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃9.572
 
-61011 ┃educacio_infantil                                                                                    ┃udl             ┃lleida               ┃90         ┃5    
+81042 ┃Enginyeria_Informatica                                                                               ┃Girona          ┃UdG                  ┃-1680784392 ┃8.35 
 
-91038 ┃educacio_infantil(campus_manresa)                                                                    ┃uvicucc         ┃manresa              ┃50         ┃5    
+61074 ┃Enginyeria_Informatica                                                                               ┃Igualada        ┃UdL                  ┃-1680784392 ┃7.644
 
-71010 ┃educacio_infantil                                                                                    ┃urv             ┃tarragona            ┃80         ┃7.376
+61015 ┃Enginyeria_Informatica                                                                               ┃Lleida          ┃UdL                  ┃-1680784392 ┃7.973
 
-71029 ┃educacio_infantil                                                                                    ┃urv             ┃tortosa              ┃40         ┃5    
+71039 ┃Enginyeria_Informatica                                                                               ┃Tarragona       ┃URV                  ┃-1680784392 ┃8.056
 
-71034 ┃educacio_infantil                                                                                    ┃urv             ┃el_vendrell          ┃40         ┃7.272
+31037 ┃Enginyeria_Informatica                                                                               ┃Vilanova_i_l... ┃UPC                  ┃-1680784392 ┃9.075
 
-91008 ┃educacio_infantil                                                                                    ┃uvicucc         ┃vic                  ┃90         ┃5    
+31116 ┃Enginyeria_Informatica,_Grau_en_+_Master_Universitari_en_Enginyeria_Informatica                      ┃Barcelona       ┃UPC                  ┃-1680784392 ┃11.838
 
-21111 ┃educacio_infantil/educacio_primaria(formacio_de_mestre_5_anys)(simul)                                ┃uab             ┃cerdanyola_del_va... ┃20         ┃11.418
+61076 ┃Enginyeria_Informatica,_Grau_en_+_Master_Universitari_en_Enginyeria_Informatica                      ┃Lleida          ┃UdL                  ┃-1680784392 ┃7.755
 
-81049 ┃educacio_infantil/educacio_primaria(formacio_de_mestre_5_anys)(simul)                                ┃udg             ┃girona               ┃50         ┃9.972
+11016 ┃Enginyeria_Informatica/Matematiques_(simultaneitat)                                                  ┃Barcelona       ┃UB                   ┃-1680784392 ┃12.728
 
-61037 ┃educacio_infantil/educacio_primaria(formacio_de_mestre_5_anys)(simul)                                ┃udl             ┃lleida               ┃35         ┃8.143
+41047 ┃Enginyeria_Informatica_de_Gestio_i_Sistemes_d'Informacio_"Tecnocampus"                               ┃Mataró         ┃UPF                  ┃-1680784392 ┃6.796
 
-71050 ┃educacio_infantil/educacio_primaria(formacio_de_mestre_5_anys)(simul)                                ┃urv             ┃tarragona            ┃30         ┃10.73
+41056 ┃Enginyeria_Matematica_en_Ciencia_de_Dades                                                            ┃Barcelona       ┃UPF                  ┃-1680784392 ┃11.526
 
-71076 ┃educacio_infantil/educacio_primaria(formacio_de_mestre_5_anys)(simul)                                ┃urv             ┃tortosa              ┃10         ┃8.686
+71081 ┃Enginyeria_Matematica_i_Fisica                                                                       ┃Tarragona       ┃URV                  ┃-1680784392 ┃11.686
 
-91030 ┃educacio_infantil/educacio_primaria(formacio_de_mestre_5_anys)(simul)                                ┃uvicucc         ┃vic                  ┃40         ┃5    
+21026 ┃Enginyeria_Mecanica_"EU_Salesiana_de_Sarria"                                                         ┃Barcelona       ┃UAB                  ┃-1680784392 ┃6.946
 
-21018 ┃educacio_primaria                                                                                    ┃uab             ┃cerdanyola_del_va... ┃180        ┃10.172
+31027 ┃Enginyeria_Mecanica                                                                                  ┃Barcelona_/_... ┃UPC                  ┃-1680784392 ┃9.376
 
-21102 ┃educacio_primaria(angles)                                                                            ┃uab             ┃cerdanyola_del_va... ┃75         ┃8.518
+81022 ┃Enginyeria_Mecanica                                                                                  ┃Girona          ┃UdG                  ┃-1680784392 ┃7.507
 
-81018 ┃educacio_primaria                                                                                    ┃udg             ┃girona               ┃80         ┃9.488
+71040 ┃Enginyeria_Mecanica                                                                                  ┃Tarragona       ┃URV                  ┃-1680784392 ┃7.792
 
-61072 ┃educacio_primaria(modalitat_bilingue)                                                                ┃udl             ┃lleida               ┃30         ┃6.592
+91011 ┃Enginyeria_Mecatronica                                                                               ┃Vic             ┃UVic-UCC             ┃-1680784392 ┃5    
 
-61073 ┃educacio_primaria(modalitat_dual)                                                                    ┃udl             ┃lleida               ┃95         ┃7.688
+11019 ┃Enginyeria_Quimica                                                                                   ┃Barcelona       ┃UB                   ┃-1680784392 ┃10.12
 
-71011 ┃educacio_primaria                                                                                    ┃urv             ┃tarragona            ┃80         ┃8.631
+31055 ┃Enginyeria_Quimica                                                                                   ┃Barcelona_/_... ┃UPC                  ┃-1680784392 ┃9.042
 
-71033 ┃educacio_primaria                                                                                    ┃urv             ┃tortosa              ┃40         ┃6.39 
+21090 ┃Enginyeria_Quimica                                                                                   ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃8.874
 
-91009 ┃educacio_primaria                                                                                    ┃uvicucc         ┃vic                  ┃70         ┃5    
+81023 ┃Enginyeria_Quimica                                                                                   ┃Girona          ┃UdG                  ┃-1680784392 ┃7.926
 
-21019 ┃educacio_social                                                                                      ┃uab             ┃cerdanyola_del_va... ┃80         ┃9.602
+71041 ┃Enginyeria_Quimica                                                                                   ┃Tarragona       ┃URV                  ┃-1680784392 ┃8.408
 
-81019 ┃educacio_social                                                                                      ┃udg             ┃girona               ┃60         ┃8.596
+71013 ┃Enologia                                                                                             ┃Tarragona       ┃URV                  ┃-1680784392 ┃5    
 
-61013 ┃educacio_social                                                                                      ┃udl             ┃lleida               ┃80         ┃7.898
+91902 ┃Estadistica                                                                                          ┃Barcelona       ┃UB/UPC               ┃-1680784392 ┃10.55
 
-71012 ┃educacio_social                                                                                      ┃urv             ┃tarragona            ┃55         ┃8.59 
+21128 ┃Estadistica_Aplicada                                                                                 ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃9.947
 
-91010 ┃educacio_social                                                                                      ┃uvicucc         ┃vic                  ┃45         ┃5    
+21129 ┃Estadistica_Aplicada/Sociologia_(simultaneitat)                                                      ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃8.824
 
-21087 ┃empresa_i_tecnologia                                                                                 ┃uab             ┃sabadell             ┃80         ┃9.546
+11021 ┃Estudis_Anglesos_(docencia_en_Angles)                                                                ┃Barcelona       ┃UB                   ┃-1680784392 ┃6.078
 
-61006 ┃enginyeria_agraria_i_alimentaria                                                                     ┃udl             ┃lleida               ┃60         ┃5    
+21135 ┃Estudis_Anglesos                                                                                     ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃6.093
 
-81032 ┃enginyeria_agroalimentaria                                                                           ┃udg             ┃girona               ┃40         ┃5.348
+61054 ┃Estudis_Anglesos                                                                                     ┃Lleida          ┃UdL                  ┃-1680784392 ┃5    
 
-31004 ┃enginyeria_alimentaria                                                                               ┃upc             ┃castelldefels        ┃50         ┃5.56 
+61051 ┃Estudis_Anglesos/Llengues_Aplicades_i_Traduccio_(simultaneitat)                                      ┃Lleida          ┃UdL                  ┃-1680784392 ┃5    
 
-81063 ┃enginyeria_biomedica                                                                                 ┃udg             ┃girona               ┃40         ┃11.067
+11094 ┃Estudis_Arabs_i_Hebreus                                                                              ┃Barcelona       ┃UB                   ┃-1680784392 ┃5    
 
-71064 ┃enginyeria_biomedica                                                                                 ┃urv             ┃tarragona            ┃40         ┃11.202
+21140 ┃Estudis_d'Angles_i_Catala                                                                            ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃5    
 
-71070 ┃enginyeria_biomedica/enginyeria_de_sistemes_i_serveis_de_telecomns(simul)                            ┃urv             ┃tarragona            ┃10         ┃10.943
+21141 ┃Estudis_d'Angles_i_de_Classiques                                                                     ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃5    
 
-71065 ┃enginyeria_de_bioprocessos_alimentaris/tecniques_de_bioprocessosalimentaris                          ┃urv             ┃tarragona            ┃40         ┃5    
+21142 ┃Estudis_d'Angles_i_Espanyol                                                                          ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃5.882
 
-31097 ┃enginyeria_de_ciencies_agronomiques                                                                  ┃upc             ┃castelldefels        ┃60         ┃5    
+21143 ┃Estudis_d'Angles_i_Frances                                                                           ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃5    
 
-21118 ┃enginyeria_de_dades                                                                                  ┃uab             ┃cerdanyola_del_va... ┃60         ┃10.726
+21030 ┃Estudis_d'Asia_Oriental_-Japones-                                                                    ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃7.17 
 
-31022 ┃enginyeria_de_disseny_indust_i_desenvolupament_del_producte                                          ┃upc             ┃terrassa             ┃60         ┃11.224
+21067 ┃Estudis_d'Asia_Oriental_-Xines-                                                                      ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃6.682
 
-31006 ┃enginyeria_de_disseny_indust_i_desenvolupament_del_producte                                          ┃upc             ┃vilanova_i_la_geltru ┃100        ┃8.126
+21144 ┃Estudis_de_Catala_i_Espanyol                                                                         ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃5    
 
-91051 ┃enginyeria_de_l'automocio                                                                            ┃uvicucc         ┃granollers           ┃45         ┃5    
+21133 ┃Estudis_d'Espanyol_i_Xines:_Llengua,_Literatura_i_Cultura                                            ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃5    
 
-61061 ┃enginyeria_de_l'energia_i_sostenibilitat/engi_en_electro_indust_i_automat/engi_mecani                ┃udl             ┃lleida               ┃120        ┃5    
+41065 ┃Estudis_Globals                                                                                      ┃Barcelona       ┃UPF                  ┃-1680784392 ┃11.358
 
-61065 ┃enginyeria_de_l'energia_i_sostenibilitat/enginyeria_mecani(simul)                                    ┃udl             ┃lleida               ┃10         ┃8.862
+41066 ┃equivalent_que_NO_pertanyin_a_sistemes_educatius_de_la_Unio_Europea_ni_d'altres_UPF_5,000_estats_... ┃Barcelona)      ┃NO/UPF               ┃-1680784392 ┃5    
 
-31104 ┃enginyeria_electro_indust_i_automat/engi_mecani/engi_quimia/engi_de_recursos_minerals_i_reciclatge   ┃upc             ┃manresa              ┃180        ┃6.064
+81084 ┃Estudis_Globals/Global_Studies_(docencia_en_Angles)                                                  ┃Girona          ┃UdG                  ┃-1680784392 ┃7.154
 
-31084 ┃enginyeria_de_sistemes_aeroespacials                                                                 ┃upc             ┃castelldefels        ┃120        ┃11.228
+91062 ┃Estudis_Globals/Global_Studies_(docencia_en_Angles)                                                  ┃Vic             ┃UVic-UCC             ┃-1680784392 ┃5    
 
-31085 ┃enginyeria_de_sistemes_aeroespacials/engi_de_sistemes_de_telecom_engi_telematica(simul)              ┃upc             ┃castelldefels        ┃40         ┃11.718
+81085 ┃Estudis_Globals/Global_Studies_(docencia_en_Angles)/Turisme_(simultaneitat)                          ┃Girona          ┃UdG                  ┃-1680784392 ┃5    
 
-31010 ┃enginyeria_de_sistemes_audiovisuals                                                                  ┃upc             ┃terrassa             ┃60         ┃5.17 
+41022 ┃Estudis_Internacionals_d'Economia_i_Empresa_-_International_Business_Economics_(docencia_en_Angles)  ┃Barcelona       ┃UPF                  ┃-1680784392 ┃12.544
 
-31011 ┃enginyeria_de_sistemes_biologics                                                                     ┃upc             ┃castelldefels        ┃50         ┃10.002
+21148 ┃Estudis_Socioculturals_de_Genere                                                                     ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃5    
 
-21115 ┃enginyeria_de_sistemes_de_telecom/enginyeria_electro_de_telecom                                      ┃uab             ┃cerdanyola_del_va... ┃140        ┃7.554
+11023 ┃Estudis_Literaris                                                                                    ┃Barcelona       ┃UB                   ┃-1680784392 ┃7.3  
 
-21105 ┃enginyeria_de_sistemes_de_telecom/enginyeria_informatica(simul)                                      ┃uab             ┃cerdanyola_del_va... ┃20         ┃9.852
+11024 ┃Farmacia                                                                                             ┃Barcelona       ┃UB                   ┃-1680784392 ┃11.216
 
-31076 ┃enginyeria_de_sistemes_de_telecom/enginyeria_telematica(inclou_xarxes_i_internet)                    ┃upc             ┃castelldefels        ┃60         ┃7.745
+11075 ┃Farmacia/Nutricio_Humana_i_Dietetica_(simultaneitat)                                                 ┃Barcelona_/_... ┃UB                   ┃-1680784392 ┃11.78
 
-31077 ┃enginyeria_de_sistemes_de_telecom/enginyeria_telematica(inclou_xarxes_i_internet)(febrer)            ┃upc             ┃castelldefels        ┃20         ┃5    
+11025 ┃Filologia_Catalana                                                                                   ┃Barcelona       ┃UB                   ┃-1680784392 ┃5    
 
-31110 ┃enginyeria_de_sistemes_de_telecom_grau+master_en_aplicacions_i_gestio_de_l'eng_de_telecom_digitals   ┃upc             ┃castelldefels        ┃20         ┃5    
+81070 ┃Filologia_Catalana                                                                                   ┃Girona          ┃UdG                  ┃-1680784392 ┃5    
 
-71042 ┃enginyeria_de_sistemes_i_serveis_de_telecomns                                                        ┃urv             ┃tarragona            ┃40         ┃6.286
+21134 ┃Filologia_Catalana:_Estudis_de_Literatura_i_Linguistica                                              ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃5    
 
-31065 ┃enginyeria_de_sistemes_tic(ambit_d'informatica_i_comunicacions)                                      ┃upc             ┃manresa              ┃40         ┃6.93 
+61055 ┃Filologia_Catalana_i_Estudis_Occitans                                                                ┃Lleida          ┃UdL                  ┃-1680784392 ┃5    
 
-31015 ┃enginyeria_de_tecnologia_i_disseny_textil/engi_electri/engi_electro_indust_automat/engi_mecani_qu... ┃upc             ┃terrassa             ┃270        ┃7.434
+81080 ┃Filologia_Catalana/Filologia_Hispanica_(simultaneitat)                                               ┃Girona          ┃UdG                  ┃-1680784392 ┃5    
 
-41057 ┃enginyeria_d'organitzacio_indust/engi_electro_indust_i_automat/engi_mecani_"tecnocampus"             ┃upf             ┃mataro               ┃75         ┃5    
+61058 ┃Filologia_Catalana_i_Estudis_Occitans/Llengues_Aplicades_i_Traduccio_(simultaneitat)                 ┃Lleida          ┃UdL                  ┃-1680784392 ┃5    
 
-81040 ┃enginyeria_electri                                                                                   ┃udg             ┃girona               ┃40         ┃5    
+11026 ┃Filologia_Classica                                                                                   ┃Barcelona       ┃UB                   ┃-1680784392 ┃5    
 
-71037 ┃enginyeria_electri                                                                                   ┃urv             ┃tarragona            ┃50         ┃5    
+11027 ┃Filologia_Hispanica                                                                                  ┃Barcelona       ┃UB                   ┃-1680784392 ┃5    
 
-81050 ┃enginyeria_electri/enginyeria_electro_indust_i_automat(simul)                                        ┃udg             ┃girona               ┃15         ┃5    
+81071 ┃Filologia_Hispanica                                                                                  ┃Girona          ┃UdG                  ┃-1680784392 ┃5    
 
-71058 ┃enginyeria_electri/enginyeria_electro_indust_i_automat(simul)                                        ┃urv             ┃tarragona            ┃10         ┃8.866
+61079 ┃Filologia_Hispanica                                                                                  ┃Lleida          ┃UdL                  ┃-1680784392 ┃5    
 
-31021 ┃enginyeria_electri/enginyeria_electro_indust_i_automat/enginyeria_mecani                             ┃upc             ┃vilanova_i_la_geltru ┃200        ┃5    
+61080 ┃Filologia_Hispanica/Llengues_Aplicades_i_Traduccio_(simultaneitat)                                   ┃Lleida          ┃UdL                  ┃-1680784392 ┃5    
 
-21106 ┃enginyeria_electro_de_telecom/enginyeria_informatica(simul)                                          ┃uab             ┃cerdanyola_del_va... ┃20         ┃9.75 
+11061 ┃Filosofia                                                                                            ┃Barcelona       ┃UB                   ┃-1680784392 ┃5    
 
-81021 ┃enginyeria_electro_indust_i_automat                                                                  ┃udg             ┃girona               ┃50         ┃5.976
+21032 ┃Filosofia                                                                                            ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃5    
 
-71038 ┃enginyeria_electro_indust_i_automat                                                                  ┃urv             ┃tarragona            ┃80         ┃5    
+81072 ┃Filosofia                                                                                            ┃Girona          ┃UdG                  ┃-1680784392 ┃5    
 
-61060 ┃enginyeria_en_organitzacio_indust_i_logistica/enginyeria_quimia(agrupacio)                           ┃udl             ┃igualada             ┃50         ┃5    
+41042 ┃Filosofia,_Politica_i_Economia                                                                       ┃Cerdanyola_d... ┃UPF/UAB              ┃-1680784392 ┃12.26
 
-31112 ┃enginyeria_en_tecno_aeroespacials_grau+master_en_enginyeria_aeronautica                              ┃upc             ┃terrassa             ┃60         ┃12.642
+71014 ┃Finances_i_Comptabilitat                                                                             ┃Reus            ┃URV                  ┃-1680784392 ┃6.196
 
-81041 ┃enginyeria_en_tecno_industs                                                                          ┃udg             ┃girona               ┃70         ┃7.214
+11030 ┃Fisica                                                                                               ┃Barcelona       ┃UB                   ┃-1680784392 ┃11.716
 
-31114 ┃enginyeria_en_tecno_industs_grau+master_en_enginyeria_indust                                         ┃upc             ┃terrassa             ┃180        ┃8.874
+21001 ┃Fisica                                                                                               ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃11.77
 
-31031 ┃enginyeria_en_vehicles_aeroespacials                                                                 ┃upc             ┃terrassa             ┃60         ┃12.36
+11020 ┃Fisica/Matematiques_(simultaneitat)                                                                  ┃Barcelona       ┃UB                   ┃-1680784392 ┃13.192
 
-61014 ┃enginyeria_forestal                                                                                  ┃udl             ┃lleida               ┃40         ┃5    
+21005 ┃Fisica/Matematiques_(simultaneitat)                                                                  ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃13.438
 
-21071 ┃enginyeria_informatica                                                                               ┃uab             ┃cerdanyola_del_va... ┃190        ┃9.892
+21100 ┃Fisica/Quimica_(simultaneitat)                                                                       ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃11.62
 
-81042 ┃enginyeria_informatica                                                                               ┃udg             ┃girona               ┃100        ┃8.576
+21095 ┃Fisioterapia                                                                                         ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃10.62
 
-61074 ┃enginyeria_informatica                                                                               ┃udl             ┃igualada             ┃35         ┃6.902
+61019 ┃Fisioterapia                                                                                         ┃Lleida          ┃UdL                  ┃-1680784392 ┃10.117
 
-61015 ┃enginyeria_informatica                                                                               ┃udl             ┃lleida               ┃70         ┃7.87 
+41055 ┃Fisioterapia_"Tecnocampus"                                                                           ┃Mataró         ┃UPF                  ┃-1680784392 ┃8.24 
 
-71039 ┃enginyeria_informatica                                                                               ┃urv             ┃tarragona            ┃110        ┃8.246
+91041 ┃Fisioterapia                                                                                         ┃Manresa         ┃UVic-UCC             ┃-1680784392 ┃7.631
 
-31037 ┃enginyeria_informatica                                                                               ┃upc             ┃vilanova_i_la_geltru ┃50         ┃9.492
+71043 ┃Fisioterapia                                                                                         ┃Reus            ┃URV                  ┃-1680784392 ┃9.425
 
-41047 ┃enginyeria_informatica_de_gestio_i_sistemes_d'informacio_"tecnocampus"                               ┃upf             ┃mataro               ┃50         ┃6.582
+91918 ┃Fisioterapia_(docencia_en_Angles)_(nomes_per_a_estudiants_espanyols_o_estrangers_amb_residencia)     ┃L'Hospitalet... ┃UdG/UB               ┃-1680784392 ┃6.516
 
-71081 ┃enginyeria_matematica_i_fisica                                                                       ┃urv             ┃tarragona            ┃20         ┃12.275
+91919 ┃Fisioterapia_(docencia_en_Angles)_(nomes_per_a_estudiants_sense_nacionalitat_espanyola_ni_residen... ┃L'Hospitalet... ┃UdG/UB               ┃-1680784392 ┃7.445
 
-81022 ┃enginyeria_mecani                                                                                    ┃udg             ┃girona               ┃90         ┃6.362
+81087 ┃Fisioterapia_"EUSES"                                                                                 ┃Salt            ┃UdG                  ┃-1680784392 ┃7.787
 
-71040 ┃enginyeria_mecani                                                                                    ┃urv             ┃tarragona            ┃65         ┃6.043
+21033 ┃Fisioterapia_"Gimbernat"                                                                             ┃Sant_Cugat_d... ┃UAB                  ┃-1680784392 ┃6.75 
 
-91011 ┃enginyeria_mecatronica                                                                               ┃uvicucc         ┃vic                  ┃40         ┃5    
+71048 ┃Fisioterapia                                                                                         ┃Tortosa         ┃URV                  ┃-1680784392 ┃7.089
 
-21090 ┃enginyeria_quimia                                                                                    ┃uab             ┃cerdanyola_del_va... ┃80         ┃9.616
+91012 ┃Fisioterapia                                                                                         ┃Vic             ┃UVic-UCC             ┃-1680784392 ┃7.689
 
-81023 ┃enginyeria_quimia                                                                                    ┃udg             ┃girona               ┃40         ┃7.386
+61044 ┃Fisioterapia/Infermeria_(simultaneitat)                                                              ┃Lleida          ┃UdL                  ┃-1680784392 ┃11.797
 
-71041 ┃enginyeria_quimia                                                                                    ┃urv             ┃tarragona            ┃80         ┃7.692
+61057 ┃Fisioterapia/Nutricio_Humana_i_Dietetica_(simultaneitat)                                             ┃Igualada        ┃UdL                  ┃-1680784392 ┃10.48
 
-31118 ┃enginyeria_telematica_grau+master_en_aplicacions_i_gestio_de_l'engi_de_telecom_xarxes_dades_i_tic)   ┃upc             ┃castelldefels        ┃20         ┃5    
+21035 ┃Genetica                                                                                             ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃11.74
 
-71013 ┃enologia                                                                                             ┃urv             ┃tarragona            ┃35         ┃5    
+61026 ┃Geografia                                                                                            ┃Lleida          ┃UdL                  ┃-1680784392 ┃5    
 
-21128 ┃estadistica_aplicada                                                                                 ┃uab             ┃cerdanyola_del_va... ┃40         ┃10.328
+11108 ┃Geografia_i_Canvi_Global                                                                             ┃Barcelona       ┃UB                   ┃-1680784392 ┃5.146
 
-21129 ┃estadistica_aplicada/sociologia(simul)                                                               ┃uab             ┃cerdanyola_del_va... ┃20         ┃9.836
+71015 ┃Geografia,_Analisi_Territorial_i_Sostenibilitat                                                      ┃Vila-Seca       ┃URV                  ┃-1680784392 ┃5    
 
-21135 ┃estudis_anglesos                                                                                     ┃uab             ┃cerdanyola_del_va... ┃80         ┃7.074
+21124 ┃Geografia,_Medi_Ambient_i_Planificacio_Territorial                                                   ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃5.48 
 
-61054 ┃estudis_anglesos                                                                                     ┃udl             ┃lleida               ┃40         ┃5    
+81073 ┃Geografia,_Territori_i_Medi_Ambient                                                                  ┃Girona          ┃UdG                  ┃-1680784392 ┃5    
 
-61051 ┃estudis_anglesos/llengues_aplicades_i_traduccio(simul)                                               ┃udl             ┃lleida               ┃10         ┃7.304
+11032 ┃Geologia                                                                                             ┃Barcelona       ┃UB                   ┃-1680784392 ┃5    
 
-21140 ┃estudis_d'angles_i_catala                                                                            ┃uab             ┃cerdanyola_del_va... ┃30         ┃5    
+21037 ┃Geologia                                                                                             ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃6.553
 
-21141 ┃estudis_d'angles_i_de_classiques                                                                     ┃uab             ┃cerdanyola_del_va... ┃30         ┃5    
+21038 ┃Gestio_Aeronautica                                                                                   ┃Sabadell        ┃UAB                  ┃-1680784392 ┃8.124
 
-21142 ┃estudis_d'angles_i_espanyol                                                                          ┃uab             ┃cerdanyola_del_va... ┃30         ┃8.248
+21149 ┃Gestio_de_Ciutats_Intel*ligents_i_Sostenibles                                                        ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃6.798
 
-21143 ┃estudis_d'angles_i_frances                                                                           ┃uab             ┃cerdanyola_del_va... ┃30         ┃5    
+11091 ┃Gestio_d'Informacio_i_Documentacio_Digital                                                           ┃Barcelona       ┃UB                   ┃-1680784392 ┃6.76 
 
-21030 ┃estudis_d'asia_oriental_japones                                                                      ┃uab             ┃cerdanyola_del_va... ┃40         ┃9.374
+91060 ┃Gestio_de_la_Societat_Digital                                                                        ┃Manresa         ┃UVic-UCC             ┃-1680784392 ┃5    
 
-21067 ┃estudis_d'asia_oriental_xines                                                                        ┃uab             ┃cerdanyola_del_va... ┃40         ┃7.606
+71068 ┃Gestio_en_Turisme_i_Hoteleria                                                                        ┃Vila-Seca       ┃URV                  ┃-1680784392 ┃5    
 
-21144 ┃estudis_de_catala_i_espanyol                                                                         ┃uab             ┃cerdanyola_del_va... ┃30         ┃5    
+11052 ┃Gestio_i_Administracio_Publica                                                                       ┃Barcelona       ┃UB                   ┃-1680784392 ┃7.6  
 
-21133 ┃estudis_d'espanyol_i_xines:_llengua_literatura_i_cultura                                             ┃uab             ┃cerdanyola_del_va... ┃40         ┃5    
+41064 ┃Grau_Obert,_Programa_de_(agrupacio)                                                                  ┃Barcelona       ┃UPF                  ┃-1680784392 ┃10.686
 
-21130 ┃estudis_socioculturals_de_genere                                                                     ┃uab             ┃cerdanyola_del_va... ┃60         ┃7.306
+11035 ┃Historia                                                                                             ┃Barcelona       ┃UB                   ┃-1680784392 ┃5    
 
-81070 ┃filologia_catalana                                                                                   ┃udg             ┃girona               ┃40         ┃5    
+21040 ┃Historia                                                                                             ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃5    
 
-21134 ┃filologia_catalana:_estudis_de_literatura_i_linguistica                                              ┃uab             ┃cerdanyola_del_va... ┃40         ┃5    
+81074 ┃Historia                                                                                             ┃Girona          ┃UdG                  ┃-1680784392 ┃5    
 
-61055 ┃filologia_catalana_i_estudis_occitans                                                                ┃udl             ┃lleida               ┃20         ┃5    
+61028 ┃Historia                                                                                             ┃Lleida          ┃UdL                  ┃-1680784392 ┃5    
 
-61058 ┃filologia_catalana_i_estudis_occitans/llengues_aplicades_i_traduccio(simul)                          ┃udl             ┃lleida               ┃10         ┃5    
+71077 ┃Historia                                                                                             ┃Tarragona       ┃URV                  ┃-1680784392 ┃5.178
 
-81071 ┃filologia_hispanica                                                                                  ┃udg             ┃girona               ┃40         ┃5    
+11104 ┃Historia/Historia_de_l'Art_(simultaneitat)                                                           ┃Barcelona       ┃UB                   ┃-1680784392 ┃8.812
 
-61056 ┃filologia_hispanica                                                                                  ┃udl             ┃lleida               ┃20         ┃5    
+81078 ┃Historia/Historia_de_l'Art_(simultaneitat)                                                           ┃Girona          ┃UdG                  ┃-1680784392 ┃7.952
 
-61059 ┃filologia_hispanica/llengues_aplicades_i_traduccio(simul)                                            ┃udl             ┃lleida               ┃10         ┃5    
+11034 ┃Historia_de_l'Art                                                                                    ┃Barcelona       ┃UB                   ┃-1680784392 ┃5    
 
-21032 ┃filosofia                                                                                            ┃uab             ┃cerdanyola_del_va... ┃70         ┃5.188
+21039 ┃Historia_de_l'Art                                                                                    ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃5    
 
-81072 ┃filosofia                                                                                            ┃udg             ┃girona               ┃35         ┃5    
+81075 ┃Historia_de_l'Art                                                                                    ┃Girona          ┃UdG                  ┃-1680784392 ┃5    
 
-71014 ┃finances_i_comptabilitat                                                                             ┃urv             ┃reus                 ┃115        ┃5    
+71078 ┃Historia_de_l'Art_i_Arqueologia                                                                      ┃Tarragona       ┃URV                  ┃-1680784392 ┃5    
 
-21001 ┃fisica                                                                                               ┃uab             ┃cerdanyola_del_va... ┃70         ┃12.452
+61081 ┃Historia_de_l'Art_i_Gestio_del_Patrimoni_Artistic                                                    ┃Lleida          ┃UdL                  ┃-1680784392 ┃5    
 
-21005 ┃fisica/matematiques(simul)                                                                           ┃uab             ┃cerdanyola_del_va... ┃20         ┃13.536
+21138 ┃Historia,_Politica_i_Economia_Contemporanies                                                         ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃8.873
 
-21100 ┃fisica/quimia(simul)                                                                                 ┃uab             ┃cerdanyola_del_va... ┃20         ┃12.432
+41003 ┃Humanitats                                                                                           ┃Barcelona       ┃UPF                  ┃-1680784392 ┃5    
 
-21095 ┃fisioterapia                                                                                         ┃uab             ┃cerdanyola_del_va... ┃80         ┃11.132
+21101 ┃Humanitats                                                                                           ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃5    
 
-91908 ┃fisioterapia(angles)(nomes_per_a_estudiants_espanyols_o_estrangers_amb_residencia)                   ┃udg/ub          ┃l'hospitalet_de_l... ┃18         ┃6.45 
+11081 ┃Infermeria                                                                                           ┃Barcelona       ┃UB                   ┃-1680784392 ┃11.976
 
-91909 ┃fisioterapia(angles)(nomes_estudiants_sense_nacionalitat_espanyola_ni_residencia)                    ┃udg/ub          ┃l'hospitalet_de_l... ┃42         ┃7.058
+21043 ┃Infermeria_"Sant_Pau"                                                                                ┃Barcelona       ┃UAB                  ┃-1680784392 ┃10.248
 
-61019 ┃fisioterapia                                                                                         ┃udl             ┃lleida               ┃25         ┃10.68
+41021 ┃Infermeria_"Escola_Superior_d'Infermeria_del_Mar"                                                    ┃Barcelona       ┃UPF                  ┃-1680784392 ┃9.58 
 
-91041 ┃fisioterapia(campus_manresa)                                                                         ┃uvicucc         ┃manresa              ┃160        ┃6.983
+21044 ┃Infermeria                                                                                           ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃10.982
 
-41055 ┃fisioterapia_"tecnocampus"                                                                           ┃upf             ┃mataro               ┃40         ┃8.538
+71032 ┃Infermeria                                                                                           ┃el_Vendrell     ┃URV                  ┃-1680784392 ┃10.754
 
-71043 ┃fisioterapia                                                                                         ┃urv             ┃reus                 ┃80         ┃10.26
+81066 ┃Infermeria                                                                                           ┃Girona          ┃UdG                  ┃-1680784392 ┃10.55
 
-81025 ┃fisioterapia                                                                                         ┃udg             ┃salt                 ┃150        ┃7.274
+61046 ┃Infermeria                                                                                           ┃Igualada        ┃UdL                  ┃-1680784392 ┃10.426
 
-21033 ┃fisioterapia_"gimbernat"                                                                             ┃uab             ┃sant_cugat_del_va... ┃240        ┃6.24 
+11037 ┃Infermeria                                                                                           ┃L'Hospitalet... ┃UB                   ┃-1680784392 ┃11.068
 
-71048 ┃fisioterapia                                                                                         ┃urv             ┃tortosa              ┃60         ┃6.707
+61029 ┃Infermeria                                                                                           ┃Lleida          ┃UdL                  ┃-1680784392 ┃11.146
 
-91012 ┃fisioterapia                                                                                         ┃uvicucc         ┃vic                  ┃160        ┃7.078
+91043 ┃Infermeria                                                                                           ┃Manresa         ┃UVic-UCC             ┃-1680784392 ┃8.028
 
-61044 ┃fisioterapia/infermeria(simul)                                                                       ┃udl             ┃lleida               ┃25         ┃12.001
+41031 ┃Infermeria_"Tecnocampus"                                                                             ┃Mataró         ┃UPF                  ┃-1680784392 ┃8.68 
 
-61057 ┃fisioterapia/nutricio_humana_i_dietetica(simul)                                                      ┃udl             ┃igualada             ┃20         ┃10.892
+11036 ┃Infermeria_"Sant_Joan_de_Deu"                                                                        ┃Esplugues_de... ┃UB                   ┃-1680784392 ┃9.15 
 
-21035 ┃genetica                                                                                             ┃uab             ┃cerdanyola_del_va... ┃60         ┃12.352
+21042 ┃Infermeria_"Gimbernat"                                                                               ┃Sant_Cugat_d... ┃UAB                  ┃-1680784392 ┃7.847
 
-61026 ┃geografia                                                                                            ┃udl             ┃lleida               ┃20         ┃5    
+71016 ┃Infermeria                                                                                           ┃Tarragona       ┃URV                  ┃-1680784392 ┃11.278
 
-71015 ┃geografia_analisi_territorial_i_sostenibilitat                                                       ┃urv             ┃vilaseca             ┃35         ┃5    
+21041 ┃Infermeria_EUIT_de_Terrassa                                                                          ┃Terrassa        ┃EUIT/UAB             ┃-1680784392 ┃8.232
 
-21124 ┃geografia_medi_ambient_i_planificacio_territorial                                                    ┃uab             ┃cerdanyola_del_va... ┃60         ┃6.794
+71028 ┃Infermeria                                                                                           ┃Tortosa         ┃URV                  ┃-1680784392 ┃10.957
 
-81073 ┃geografia_territori_i_medi_ambient                                                                   ┃udg             ┃girona               ┃35         ┃5    
+91013 ┃Infermeria                                                                                           ┃Vic             ┃UVic-UCC             ┃-1680784392 ┃7.93 
 
-61066 ┃geografia/turisme(simul)                                                                             ┃udl             ┃lleida               ┃10         ┃5    
+71084 ┃Infermeria                                                                                           ┃Vilafranca_d... ┃URV                  ┃-1680784392 ┃10.481
 
-21037 ┃geologia                                                                                             ┃uab             ┃cerdanyola_del_va... ┃40         ┃5.182
+21046 ┃Informatica_i_Serveis                                                                                ┃Sant_Cugat_d... ┃UAB                  ┃-1680784392 ┃5    
 
-21038 ┃gestio_aeronautica                                                                                   ┃uab             ┃sabadell             ┃65         ┃8.78 
+81058 ┃Innovacio_i_Seguretat_Alimentaria                                                                    ┃Girona          ┃UdG                  ┃-1680784392 ┃5    
 
-21120 ┃gestio_de_ciutats_intelligents_i_sostenibles                                                         ┃uab             ┃cerdanyola_del_va... ┃60         ┃7.238
+31106 ┃Intel*ligencia_Artificial                                                                            ┃Barcelona       ┃UPC                  ┃-1680784392 ┃11.786
 
-71068 ┃gestio_en_turisme_i_hoteleria                                                                        ┃urv             ┃vilaseca             ┃75         ┃5    
+21139 ┃Intel*ligencia_Artificial/Artificial_Intelligence_(docencia_en_Angles)                               ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃10.51
 
-81014 ┃gestio_hotelera_i_turistica                                                                          ┃udg             ┃sant_pol_de_mar      ┃30         ┃5    
+10120 ┃Investigacio_Privada_(titol_propi,_no_oficial)                                                       ┃Barcelona       ┃UB                   ┃-1680784392 ┃5    
 
-21040 ┃historia                                                                                             ┃uab             ┃cerdanyola_del_va... ┃140        ┃5    
+11039 ┃Linguistica                                                                                          ┃Barcelona       ┃UB                   ┃-1680784392 ┃5    
 
-81074 ┃historia                                                                                             ┃udg             ┃girona               ┃60         ┃5    
+71072 ┃Llengua_i_Literatura_Catalanes                                                                       ┃Tarragona       ┃URV                  ┃-1680784392 ┃5    
 
-61028 ┃historia                                                                                             ┃udl             ┃lleida               ┃40         ┃5    
+21136 ┃Llengua_i_Literatura_Espanyoles                                                                      ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃5    
 
-71077 ┃historia                                                                                             ┃urv             ┃tarragona            ┃45         ┃5    
+71073 ┃Llengua_i_Literatura_Hispaniques                                                                     ┃Tarragona       ┃URV                  ┃-1680784392 ┃5    
 
-21039 ┃historia_de_l'art                                                                                    ┃uab             ┃cerdanyola_del_va... ┃80         ┃5    
+41023 ┃Llengues_Aplicades                                                                                   ┃Barcelona       ┃UPF                  ┃-1680784392 ┃5    
 
-81075 ┃historia_de_l'art                                                                                    ┃udg             ┃girona               ┃50         ┃5    
+41054 ┃Llengues_Aplicades/Traduccio_i_Interpretacio_-Angles-_(simultaneitat)                                ┃Barcelona       ┃UPF                  ┃-1680784392 ┃11.73
 
-71078 ┃historia_de_l'art_i_arqueologia                                                                      ┃urv             ┃tarragona            ┃30         ┃6.76 
+11040 ┃Llengues_i_Literatures_Modernes                                                                      ┃Barcelona       ┃UB                   ┃-1680784392 ┃5    
 
-61045 ┃historia_de_l'art_i_gestio_del_patrimoni_artistic                                                    ┃udl             ┃lleida               ┃25         ┃5    
+11082 ┃Llengues_Romaniques_i_les_seves_Literatures                                                          ┃Barcelona       ┃UB                   ┃-1680784392 ┃5    
 
-21138 ┃historia_politica_i_economia_contemporanies                                                          ┃uab             ┃cerdanyola_del_va... ┃60         ┃9.068
+81064 ┃Logistica_Empresarial_"Mediterrani"                                                                  ┃Barcelona       ┃UdG                  ┃-1680784392 ┃5    
 
-21101 ┃humanitats                                                                                           ┃uab             ┃cerdanyola_del_va... ┃70         ┃5    
+41048 ┃Logistica_i_Negocis_Maritims_"Tecnocampus"                                                           ┃Mataró         ┃UPF                  ┃-1680784392 ┃6.24 
 
-21044 ┃infermeria                                                                                           ┃uab             ┃cerdanyola_del_va... ┃240        ┃11.392
+21048 ┃Logopedia                                                                                            ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃8.918
 
-11036 ┃infermeria_"sant_joan_de_deu"                                                                        ┃ub              ┃esplugues_llobreg... ┃220        ┃10.236
+71062 ┃Marqueting_"ESIC"                                                                                    ┃Barcelona       ┃URV                  ┃-1680784392 ┃5    
 
-81066 ┃infermeria                                                                                           ┃udg             ┃girona               ┃190        ┃10.98
+71074 ┃Marqueting_"ESIC"_(docencia_en_Angles)                                                               ┃Barcelona       ┃URV                  ┃-1680784392 ┃5    
 
-61046 ┃infermeria                                                                                           ┃udl             ┃igualada             ┃85         ┃10.846
+81051 ┃Marqueting_"Mediterrani"                                                                             ┃Barcelona       ┃UdG                  ┃-1680784392 ┃5    
 
-11037 ┃infermeria(campus_bellvitge)                                                                         ┃ub              ┃l'hospitalet_de_l... ┃395        ┃11.544
+61078 ┃Marqueting_i_Comunicacio_Digital_"Centre_Universitari_EAE"                                           ┃Barcelona       ┃UdL                  ┃-1680784392 ┃5    
 
-61029 ┃infermeria                                                                                           ┃udl             ┃lleida               ┃105        ┃11.34
+91032 ┃Marqueting_i_Comunicacio_Empresarial                                                                 ┃Vic             ┃UVic-UCC             ┃-1680784392 ┃5    
 
-91043 ┃infermeria(campus_manresa)                                                                           ┃uvicucc         ┃manresa              ┃150        ┃8.367
+41039 ┃Marqueting_i_Comunitats_Digitals_"Tecnocampus"                                                       ┃Mataró         ┃UPF                  ┃-1680784392 ┃6.204
 
-41031 ┃infermeria_"tecnocampus"                                                                             ┃upf             ┃mataro               ┃90         ┃9.464
+41062 ┃Marqueting_i_Comunitats_Digitals/Turisme_i_Gestio_del_Lleure_"Tecnocampus"_(simultaneitat)           ┃Mataró         ┃UPF                  ┃-1680784392 ┃5    
 
-21042 ┃infermeria_"gimbernat"                                                                               ┃uab             ┃sant_cugat_del_va... ┃200        ┃8.262
+31132 ┃Marqueting,_Innovacio_i_Tecnologia_"EUNCET"                                                          ┃Barcelona       ┃UPC                  ┃-1680784392 ┃6.57 
 
-71016 ┃infermeria                                                                                           ┃urv             ┃tarragona            ┃93         ┃11.514
+31131 ┃Marqueting,_Innovacio_i_Tecnologia_"EUNCET"                                                          ┃Barcelona       ┃UPC                  ┃-1680784392 ┃5    
 
-21041 ┃infermeria_euit_de_terrassa                                                                          ┃uab             ┃terrassa             ┃165        ┃8.854
+31134 ┃Marqueting,_Innovacio_i_Tecnologia_"EUNCET"                                                          ┃Terrassa        ┃UPC                  ┃-1680784392 ┃5    
 
-71028 ┃infermeria                                                                                           ┃urv             ┃tortosa              ┃82         ┃11.124
+31133 ┃Marqueting,_Innovacio_i_Tecnologia_"EUNCET"                                                          ┃Terrassa        ┃UPC                  ┃-1680784392 ┃5    
 
-71032 ┃infermeria                                                                                           ┃urv             ┃el_vendrell          ┃40         ┃11.058
+21122 ┃Matematica_Computacional_i_Analitica_de_Dades                                                        ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃11.666
 
-91013 ┃infermeria                                                                                           ┃uvicucc         ┃vic                  ┃150        ┃8.668
+11041 ┃Matematiques                                                                                         ┃Barcelona       ┃UB                   ┃-1680784392 ┃12.472
 
-71084 ┃infermeria                                                                                           ┃urv             ┃vilafranca_del_pe... ┃40         ┃10.73
+31040 ┃Matematiques                                                                                         ┃Barcelona       ┃UPC                  ┃-1680784392 ┃12.816
 
-21046 ┃informatica_i_serveis                                                                                ┃uab             ┃sant_cugat_del_va... ┃50         ┃5    
+21003 ┃Matematiques                                                                                         ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃12.104
 
-81058 ┃innovacio_i_seguretat_alimentaria                                                                    ┃udg             ┃girona               ┃40         ┃5    
+11043 ┃Medicina                                                                                             ┃Barcelona       ┃UB                   ┃-1680784392 ┃12.946
 
-21139 ┃intelligencia_artificial/artificial_intelligence(angles)                                             ┃uab             ┃cerdanyola_del_va... ┃40         ┃10.73
+41058 ┃Medicina                                                                                             ┃Barcelona       ┃UPF                  ┃-1680784392 ┃12.84
 
-71072 ┃llengua_i_literatura_catalanes                                                                       ┃urv             ┃tarragona            ┃40         ┃5    
+21079 ┃Medicina                                                                                             ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃12.586
 
-21136 ┃llengua_i_literatura_espanyoles                                                                      ┃uab             ┃cerdanyola_del_va... ┃60         ┃5    
+81001 ┃Medicina                                                                                             ┃Girona          ┃UdG                  ┃-1680784392 ┃12.553
 
-71073 ┃llengua_i_literatura_hispaniques                                                                     ┃urv             ┃tarragona            ┃40         ┃5    
+11083 ┃Medicina                                                                                             ┃L'Hospitalet... ┃UB                   ┃-1680784392 ┃12.76
 
-41048 ┃logistica_i_negocis_maritims_"tecnocampus"                                                           ┃upf             ┃mataro               ┃45         ┃5.964
+61030 ┃Medicina                                                                                             ┃Lleida          ┃UdL                  ┃-1680784392 ┃12.558
 
-21048 ┃logopedia                                                                                            ┃uab             ┃cerdanyola_del_va... ┃80         ┃8.712
+71019 ┃Medicina                                                                                             ┃Reus            ┃URV                  ┃-1680784392 ┃12.696
 
-31081 ┃marqueting_i_comunicacio_digital_"euncet"                                                            ┃upc             ┃terrassa             ┃80         ┃5.62 
+91054 ┃Medicina                                                                                             ┃Vic             ┃UVic-UCC             ┃-1680784392 ┃11.984
 
-31082 ┃marqueting_i_comunicacio_digital_"euncet"(semipresencial)                                            ┃upc             ┃terrassa             ┃40         ┃5    
+21050 ┃Microbiologia                                                                                        ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃11.018
 
-91032 ┃marqueting_i_comunicacio_empresarial                                                                 ┃uvicucc         ┃vic                  ┃40         ┃5    
+41049 ┃Mitjans_Audiovisuals_"Tecnocampus"                                                                   ┃Mataró         ┃UPF                  ┃-1680784392 ┃5    
 
-41039 ┃marqueting_i_comunitats_digitals_"tecnocampus"                                                       ┃upf             ┃mataro               ┃70         ┃6.916
+81079 ┃Moda_"ERAM"                                                                                          ┃Girona_/_Salt   ┃UdG                  ┃-1680784392 ┃5.508
 
-21122 ┃matematica_computacional_i_analitica_de_dades                                                        ┃uab             ┃cerdanyola_del_va... ┃40         ┃11.954
+91029 ┃Multimedia._Aplicacions_i_Videojocs                                                                  ┃Vic             ┃UVic-UCC             ┃-1680784392 ┃5    
 
-21003 ┃matematiques                                                                                         ┃uab             ┃cerdanyola_del_va... ┃60         ┃12.39
+21051 ┃Musicologia                                                                                          ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃7.66 
 
-21079 ┃medicina                                                                                             ┃uab             ┃cerdanyola_del_va... ┃350        ┃12.895
+21150 ┃Nanociencia_i_Nanotecnologia                                                                         ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃10.648
 
-81001 ┃medicina                                                                                             ┃udg             ┃girona               ┃80         ┃12.848
+31045 ┃Nautica_i_Transport_Maritim                                                                          ┃Barcelona       ┃UPC                  ┃-1680784392 ┃7.909
 
-11083 ┃medicina(campus_bellvitge)                                                                           ┃ub              ┃l'hospitalet_de_l... ┃87         ┃13.086
+11102 ┃Negoci_Digital_i_Innovacio_en_Turisme_"CETT"                                                         ┃Barcelona       ┃UB                   ┃-1680784392 ┃5    
 
-61030 ┃medicina                                                                                             ┃udl             ┃lleida               ┃110        ┃12.843
+11112 ┃Negoci_Digital_i_Innovacio_en_Turisme/Turisme_"CETT"_(simultaneitat)                                 ┃Barcelona       ┃UB                   ┃-1680784392 ┃5    
 
-71019 ┃medicina                                                                                             ┃urv             ┃reus                 ┃125        ┃12.862
+41024 ┃Negocis_i_Marqueting_Internacionals_-_Bachelor_in_International_Business_and_Marketing_"ESCI"        ┃Barcelona       ┃UPF                  ┃-1680784392 ┃8.704
 
-91054 ┃medicina                                                                                             ┃uvicucc         ┃vic_manresa          ┃110        ┃12.508
+41063 ┃Negocis_i_Marqueting_Internacionals_-_Bachelor_in_International_Business_and_Marketing_"ESCI"_(do... ┃Barcelona       ┃UPF                  ┃-1680784392 ┃9.466
 
-21050 ┃microbiologia                                                                                        ┃uab             ┃cerdanyola_del_va... ┃60         ┃11.728
+61031 ┃Nutricio_Humana_i_Dietetica                                                                          ┃Lleida          ┃UdL                  ┃-1680784392 ┃7.633
 
-41049 ┃mitjans_audiovisuals_"tecnocampus"                                                                   ┃upf             ┃mataro               ┃140        ┃5    
+41061 ┃Nutricio_Humana_i_Dietetica_"Tecnocampus"                                                            ┃Mataró         ┃UPF                  ┃-1680784392 ┃5    
 
-31042 ┃multimedia                                                                                           ┃upc             ┃terrassa             ┃40         ┃6.316
+71044 ┃Nutricio_Humana_i_Dietetica                                                                          ┃Reus            ┃URV                  ┃-1680784392 ┃7.308
 
-91029 ┃multimedia._aplicacions_i_videojocs                                                                  ┃uvicucc         ┃vic                  ┃40         ┃5    
+81081 ┃Nutricio_Humana_i_Dietetica_"EUSES"                                                                  ┃Salt            ┃UdG                  ┃-1680784392 ┃5    
 
-21051 ┃musicologia                                                                                          ┃uab             ┃cerdanyola_del_va... ┃60         ┃6.916
+11062 ┃Nutricio_Humana_i_Dietetica                                                                          ┃Santa_Coloma... ┃UB                   ┃-1680784392 ┃10.184
 
-21080 ┃nanociencia_i_nanotecnologia                                                                         ┃uab             ┃cerdanyola_del_va... ┃65         ┃11.31
+91021 ┃Nutricio_Humana_i_Dietetica                                                                          ┃Vic             ┃UVic-UCC             ┃-1680784392 ┃5    
 
-61031 ┃nutricio_humana_i_dietetica                                                                          ┃udl             ┃lleida               ┃45         ┃8.625
+11044 ┃Odontologia                                                                                          ┃L'Hospitalet... ┃UB                   ┃-1680784392 ┃12.496
 
-71044 ┃nutricio_humana_i_dietetica                                                                          ┃urv             ┃reus                 ┃85         ┃8.212
+91061 ┃Odontologia                                                                                          ┃Manresa_/_Vic   ┃UVic-UCC             ┃-1680784392 ┃11.25
 
-11062 ┃nutricio_humana_i_dietetica                                                                          ┃ub              ┃santa_coloma_de_g... ┃60         ┃10.704
+31105 ┃Optica_i_Optometria                                                                                  ┃Terrassa        ┃UPC                  ┃-1680784392 ┃7.787
 
-91021 ┃nutricio_humana_i_dietetica                                                                          ┃uvicucc         ┃vic                  ┃65         ┃5.348
+31098 ┃Paisatgisme                                                                                          ┃Barcelona_/_... ┃UPC                  ┃-1680784392 ┃7.334
 
-11044 ┃odontologia                                                                                          ┃ub              ┃l'hospitalet_de_l... ┃120        ┃12.594
+11045 ┃Pedagogia                                                                                            ┃Barcelona       ┃UB                   ┃-1680784392 ┃8.16 
 
-31105 ┃optica_i_optometria                                                                                  ┃upc             ┃terrassa             ┃90         ┃8.65 
+21052 ┃Pedagogia                                                                                            ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃8.942
 
-21052 ┃pedagogia                                                                                            ┃uab             ┃cerdanyola_del_va... ┃75         ┃9.163
+81043 ┃Pedagogia                                                                                            ┃Girona          ┃UdG                  ┃-1680784392 ┃8.138
 
-81043 ┃pedagogia                                                                                            ┃udg             ┃girona               ┃60         ┃8.21 
+71020 ┃Pedagogia                                                                                            ┃Tarragona       ┃URV                  ┃-1680784392 ┃8.062
 
-71020 ┃pedagogia                                                                                            ┃urv             ┃tarragona            ┃45         ┃8.499
+41025 ┃Periodisme                                                                                           ┃Barcelona       ┃UPF                  ┃-1680784392 ┃10.866
 
-21096 ┃periodisme                                                                                           ┃uab             ┃cerdanyola_del_va... ┃160        ┃10.622
+21096 ┃Periodisme                                                                                           ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃9.718
 
-71021 ┃periodisme                                                                                           ┃urv             ┃tarragona            ┃45         ┃9.828
+71021 ┃Periodisme                                                                                           ┃Tarragona       ┃URV                  ┃-1680784392 ┃8.822
 
-91014 ┃periodisme                                                                                           ┃uvicucc         ┃vic                  ┃55         ┃5    
+91014 ┃Periodisme                                                                                           ┃Vic             ┃UVic-UCC             ┃-1680784392 ┃5    
 
-71045 ┃pilot_d'aviacio_comercial_i_operacions_aeries                                                        ┃urv             ┃reus                 ┃30         ┃8.078
+71045 ┃Pilot_d'Aviacio_Comercial_i_Operacions_Aeries                                                        ┃Reus            ┃URV                  ┃-1680784392 ┃5.721
 
-11046 ┃podologia                                                                                            ┃ub              ┃l'hospitalet_de_l... ┃80         ┃9.169
+11046 ┃Podologia                                                                                            ┃L'Hospitalet... ┃UB                   ┃-1680784392 ┃8.513
 
-91045 ┃podologia(campus_manresa)                                                                            ┃uvicucc         ┃manresa              ┃80         ┃5    
+91045 ┃Podologia                                                                                            ┃Manresa         ┃UVic-UCC             ┃-1680784392 ┃5    
 
-21054 ┃prevencio_i_seguretat_integral                                                                       ┃uab             ┃cerdanyola_del_va... ┃80         ┃5    
+21054 ┃Prevencio_i_Seguretat_Integral                                                                       ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃5    
 
-21113 ┃prevencio_i_seguretat_integral(en_xarxa)                                                             ┃uab             ┃cerdanyola_del_va... ┃30         ┃5    
+21113 ┃Prevencio_i_Seguretat_Integral_(en_xarxa)                                                            ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃5    
 
-21081 ┃psicologia                                                                                           ┃uab             ┃cerdanyola_del_va... ┃360        ┃10.058
+11111 ┃Produccio_de_Musica_i_So_per_a_la_Industria_de_l'Entreteniment_"ENTI"                                ┃Barcelona       ┃UB                   ┃-1680784392 ┃5.142
 
-81033 ┃psicologia                                                                                           ┃udg             ┃girona               ┃80         ┃10.028
+11047 ┃Psicologia                                                                                           ┃Barcelona       ┃UB                   ┃-1680784392 ┃10.064
 
-61020 ┃psicologia                                                                                           ┃udl             ┃lleida               ┃60         ┃9.83 
+21081 ┃Psicologia                                                                                           ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃9.887
 
-71022 ┃psicologia                                                                                           ┃urv             ┃tarragona            ┃125        ┃9.741
+81033 ┃Psicologia                                                                                           ┃Girona          ┃UdG                  ┃-1680784392 ┃9.785
 
-91022 ┃psicologia                                                                                           ┃uvicucc         ┃vic                  ┃120        ┃8.098
+61020 ┃Psicologia                                                                                           ┃Lleida          ┃UdL                  ┃-1680784392 ┃9.77 
 
-21097 ┃publicitat_i_relacions_publiques                                                                     ┃uab             ┃cerdanyola_del_va... ┃80         ┃11.452
+71022 ┃Psicologia                                                                                           ┃Tarragona       ┃URV                  ┃-1680784392 ┃9.576
 
-81002 ┃publicitat_i_relacions_publiques                                                                     ┃udg             ┃girona               ┃75         ┃9.876
+91022 ┃Psicologia                                                                                           ┃Vic             ┃UVic-UCC             ┃-1680784392 ┃7.979
 
-71023 ┃publicitat_i_relacions_publiques                                                                     ┃urv             ┃tarragona            ┃45         ┃9.986
+41004 ┃Publicitat_i_Relacions_Publiques                                                                     ┃Barcelona       ┃UPF                  ┃-1680784392 ┃11.848
 
-91015 ┃publicitat_i_relacions_publiques                                                                     ┃uvicucc         ┃vic                  ┃55         ┃5    
+21097 ┃Publicitat_i_Relacions_Publiques                                                                     ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃11.129
 
-21082 ┃quimia                                                                                               ┃uab             ┃cerdanyola_del_va... ┃120        ┃10.072
+81002 ┃Publicitat_i_Relacions_Publiques                                                                     ┃Girona          ┃UdG                  ┃-1680784392 ┃9.916
 
-81034 ┃quimia                                                                                               ┃udg             ┃girona               ┃60         ┃9.052
+71023 ┃Publicitat_i_Relacions_Publiques                                                                     ┃Tarragona       ┃URV                  ┃-1680784392 ┃10.166
 
-71024 ┃quimia                                                                                               ┃urv             ┃tarragona            ┃60         ┃9.742
+91015 ┃Publicitat_i_Relacions_Publiques                                                                     ┃Vic             ┃UVic-UCC             ┃-1680784392 ┃5    
 
-71066 ┃quimia(angles)                                                                                       ┃urv             ┃tarragona            ┃30         ┃7.962
+11093 ┃Publicitat,_Relacions_Publiques_i_Marqueting_"ESRP"                                                  ┃Barcelona       ┃UB                   ┃-1680784392 ┃8.717
 
-21123 ┃relacions_internacionals                                                                             ┃uab             ┃cerdanyola_del_va... ┃50         ┃11.828
+11049 ┃Quimica                                                                                              ┃Barcelona       ┃UB                   ┃-1680784392 ┃9.673
 
-21055 ┃relacions_laborals                                                                                   ┃uab             ┃cerdanyola_del_va... ┃125        ┃8.14 
+21082 ┃Quimica                                                                                              ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃9.396
 
-61033 ┃relacions_laborals_i_recursos_humans                                                                 ┃udl             ┃lleida               ┃30         ┃5    
+81034 ┃Quimica                                                                                              ┃Girona          ┃UdG                  ┃-1680784392 ┃8.326
 
-71082 ┃relacions_laborals_i_recursos_humans                                                                 ┃urv             ┃tarragona            ┃65         ┃6.042
+71024 ┃Quimica                                                                                              ┃Tarragona       ┃URV                  ┃-1680784392 ┃8.722
 
-11076 ┃seguretat                                                                                            ┃ub              ┃mollet_del_valles    ┃60         ┃8.87 
+71066 ┃Quimica_(docencia_en_Angles)                                                                         ┃Tarragona       ┃URV                  ┃-1680784392 ┃7.859
 
-21056 ┃sociologia                                                                                           ┃uab             ┃cerdanyola_del_va... ┃110        ┃7.278
+21123 ┃Relacions_Internacionals                                                                             ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃11.592
 
-21057 ┃terapia_ocupacional_euit_de_terrassa                                                                 ┃uab             ┃terrassa             ┃80         ┃5    
+11050 ┃Relacions_Laborals                                                                                   ┃Barcelona       ┃UB                   ┃-1680784392 ┃8.004
 
-91016 ┃terapia_ocupacional                                                                                  ┃uvicucc         ┃vic                  ┃40         ┃5    
+41026 ┃Relacions_Laborals                                                                                   ┃Barcelona       ┃UPF                  ┃-1680784392 ┃7.526
 
-21058 ┃traduccio_i_interpretacio_alemany                                                                    ┃uab             ┃cerdanyola_del_va... ┃40         ┃5    
+21055 ┃Relacions_Laborals                                                                                   ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃8.076
 
-21064 ┃traduccio_i_interpretacio_angles                                                                     ┃uab             ┃cerdanyola_del_va... ┃140        ┃8.66 
+61033 ┃Relacions_Laborals_i_Recursos_Humans                                                                 ┃Lleida          ┃UdL                  ┃-1680784392 ┃5    
 
-21065 ┃traduccio_i_interpretacio_frances                                                                    ┃uab             ┃cerdanyola_del_va... ┃50         ┃5    
+71082 ┃Relacions_Laborals_i_Recursos_Humans                                                                 ┃Tarragona       ┃URV                  ┃-1680784392 ┃7.322
 
-81044 ┃treball_social                                                                                       ┃udg             ┃girona               ┃60         ┃7.754
+11076 ┃Seguretat                                                                                            ┃Mollet_del_V... ┃UB                   ┃-1680784392 ┃9.08 
 
-61034 ┃treball_social                                                                                       ┃udl             ┃lleida               ┃80         ┃6.86 
+11063 ┃Sociologia                                                                                           ┃Barcelona       ┃UB                   ┃-1680784392 ┃7.156
 
-71026 ┃treball_social                                                                                       ┃urv             ┃tarragona            ┃85         ┃7.404
+21056 ┃Sociologia                                                                                           ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃6.934
 
-21059 ┃turisme                                                                                              ┃uab             ┃cerdanyola_del_va... ┃100        ┃5    
+91915 ┃Tecnologies_Industrials_amb_Analisi_Economica,_Grau_en_+_Master_Universitari_en_Enginyeria_Indust... ┃Barcelona       ┃UPC/UPF              ┃-1680784392 ┃12.25
 
-21114 ┃turisme(angles)                                                                                      ┃uab             ┃cerdanyola_del_va... ┃60         ┃5    
+31038 ┃Tecnologies_Marines                                                                                  ┃Barcelona       ┃UPC                  ┃-1680784392 ┃6.936
 
-81039 ┃turisme                                                                                              ┃udg             ┃girona               ┃105        ┃5    
+21057 ┃Terapia_Ocupacional_EUIT_de_Terrassa                                                                 ┃Terrassa        ┃EUIT/UAB             ┃-1680784392 ┃5    
 
-61021 ┃turisme                                                                                              ┃udl             ┃lleida               ┃35         ┃5    
+91016 ┃Terapia_Ocupacional_(presencial_/_semipresencial)                                                    ┃Vic             ┃UVic-UCC             ┃-1680784392 ┃5    
 
-81076 ┃turisme/geografia_territori_i_medi_ambient(simul)                                                    ┃udg             ┃girona               ┃10         ┃5    
+21058 ┃Traduccio_i_Interpretacio_-Alemany-                                                                  ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃5    
 
-81077 ┃turisme/publicitat_i_relacions_publiques(simul)                                                      ┃udg             ┃girona               ┃15         ┃9.14 
+41040 ┃Traduccio_i_Interpretacio_-Alemany/Frances/Llengua_de_Signes_Catalana-                               ┃Barcelona       ┃UPF                  ┃-1680784392 ┃5    
 
-61068 ┃turisme_i_oci_"ostelea"                                                                              ┃UdL             ┃l'hospitalet_de_l... ┃40         ┃5    
+41006 ┃Traduccio_i_Interpretacio_-Angles-                                                                   ┃Barcelona       ┃UPF                  ┃-1680784392 ┃5    
 
-21083 ┃veterinaria                                                                                          ┃UAB             ┃cerdanyola_del_va... ┃115        ┃12.192
+21064 ┃Traduccio_i_Interpretacio_-Angles-                                                                   ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃6.242
+
+21065 ┃Traduccio_i_Interpretacio_-Frances-                                                                  ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃5    
+
+11051 ┃Treball_Social                                                                                       ┃Barcelona       ┃UB                   ┃-1680784392 ┃7.787
+
+81044 ┃Treball_Social                                                                                       ┃Girona          ┃UdG                  ┃-1680784392 ┃7.362
+
+61034 ┃Treball_Social                                                                                       ┃Lleida          ┃UdL                  ┃-1680784392 ┃6.776
+
+71026 ┃Treball_Social                                                                                       ┃Tarragona       ┃URV                  ┃-1680784392 ┃6.776
+
+11011 ┃Turisme_"CETT"                                                                                       ┃Barcelona       ┃UB                   ┃-1680784392 ┃5    
+
+11086 ┃Turisme_"CETT"_(docencia_en_Angles)                                                                  ┃Barcelona       ┃UB                   ┃-1680784392 ┃5    
+
+81036 ┃Turisme_"Euroaula"                                                                                   ┃Barcelona       ┃UdG                  ┃-1680784392 ┃5    
+
+81038 ┃Turisme_"Mediterrani"                                                                                ┃Barcelona       ┃UdG                  ┃-1680784392 ┃5    
+
+21059 ┃Turisme                                                                                              ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃5    
+
+21114 ┃Turisme_(docencia_en_Angles)                                                                         ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃5    
+
+81039 ┃Turisme                                                                                              ┃Girona          ┃UdG                  ┃-1680784392 ┃5    
+
+61021 ┃Turisme                                                                                              ┃Lleida          ┃UdL                  ┃-1680784392 ┃5    
+
+81076 ┃Turisme/Geografia,_Territori_i_Medi_Ambient_(simultaneitat)                                          ┃Girona          ┃UdG                  ┃-1680784392 ┃5    
+
+81062 ┃Turisme/Marqueting_"Mediterrani"_(simultaneitat)                                                     ┃Barcelona       ┃UdG                  ┃-1680784392 ┃5    
+
+81077 ┃Turisme/Publicitat_i_Relacions_Publiques_(simultaneitat)                                             ┃Girona          ┃UdG                  ┃-1680784392 ┃9.66 
+
+21083 ┃Veterinaria                                                                                          ┃Cerdanyola_d... ┃UAB                  ┃-1680784392 ┃11.93
+
+      ┃                                                                                                     ┃                ┃                     ┃-1680784392 ┃11.93
 
 
