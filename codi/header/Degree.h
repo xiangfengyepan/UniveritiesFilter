@@ -1,6 +1,7 @@
 #pragma once
 
 #include "../header/Exception.h"
+#include <iomanip>
 #include <iostream>
 #include <vector>
 using namespace std;
@@ -18,16 +19,34 @@ private:
   float admission_threshold;
   vector<int> coefficients;
 
+  string truncateString(const string &str, size_t width) const {
+    if (str.length() > width)
+      return str.substr(0, width - 3) + "...";
+    return str;
+  }
+
 public:
   Degree() {}
 
-  // Degree(const string &code, const string &name, const string &city,
-  //        const string &university, int capacity, float admission_threshold)
-  //     : code(code), name(name), university(university), city(city),
-  //       capacity(capacity), admission_threshold(admission_threshold) {}
   Degree(const string &code, const string &name, const string &city,
-         const string &university, int capacity, float admission_threshold) {
-    this->code = code;
+         const string &university, int capacity, float admission_threshold)
+      : code(code), name(name), university(university), city(city),
+        capacity(capacity), admission_threshold(admission_threshold) {}
+
+  void printDetails(ostream &os, const string &sep) const {
+    os << left << setw(5) << truncateString(code, 5) << sep << setw(100)
+       << truncateString(name, 100) << sep << setw(15)
+       << truncateString(city, 15) << sep << setw(20)
+       << truncateString(university, 20) << sep << setw(10) << capacity << sep
+       << setw(5) << admission_threshold << endl;
+  }
+
+  static void printHeader(ostream &os, const string &sep) {
+    os << left << setw(5) << "Code" << sep << setw(100) << "Name" << sep
+       << setw(15) << "City" << sep << setw(20) << "University" << sep
+       << setw(10) << "Capacity" << sep << setw(5) << "Threshold" << endl;
+
+    os << string(5 + 100 + 15 + 20 + 10 + 5 + (6 * sep.length()), '-') << endl;
   }
 
   string getCode() const { return code; }
@@ -60,29 +79,6 @@ public:
       is >> coef;
       addCoefficient(coef);
     }
-  }
-
-  void write(ostream &os) const {
-
-    os << code << SPACE << name << SPACE << city << SPACE << university << SPACE
-       << capacity << SPACE << admission_threshold << SPACE;
-    for (int coeff : coefficients)
-      os << coeff << " ";
-  }
-  void write(ostream &os, const string &sep) const {
-
-    os << code << sep << name << sep << city << sep << university << sep
-       << capacity << sep << admission_threshold << sep;
-    for (int coeff : coefficients)
-      os << coeff << " ";
-  }
-    void write(ostream &os, const vector<string> &sep) const {
-    int i = 0;
-    os << code << sep[i++] << name << sep[i++] << city << sep[i++] << university << sep[i++]
-       << capacity << sep[i++] << admission_threshold << sep[i++];
-    for (int coeff : coefficients)
-      os << coeff << " ";
-
   }
 
   void display() const {
