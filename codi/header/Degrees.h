@@ -24,6 +24,14 @@ public:
 
   vector<Degree> getVector() { return degrees; }
 
+  Degree &get(const string &code) {
+    for (Degree &degree : degrees) {
+      if (degree.getCode() == code)
+        return degree;
+    }
+    throw Exception("No code found");
+  }
+
   void filter() {
     //
   }
@@ -41,11 +49,56 @@ public:
     while (not r_file.eof()) {
       Degree degree;
       degree.read(r_file);
-      // degree.display();
-      cout << degree.getCode();
       degrees.push_back(degree);
     }
-    
+
+    r_file.close();
+    line("done");
+  }
+
+  void read_coefficients(const string &path) {
+    line("opening file " + path);
+    ifstream r_file;
+    r_file.open(path);
+    if (not r_file.is_open()) {
+      perror("open");
+      throw Exception("can not open file");
+    }
+
+    line("reading file...");
+    while (not r_file.eof()) {
+      string code;
+      r_file >> code;
+      if (code.size() == 0)
+        break;
+      Degree &degree = get(code);
+      degree.read_coefficients(r_file);
+    }
+
+    r_file.close();
+    line("done");
+  }
+
+  void read_capacity(const string &path) {
+    line("opening file " + path);
+    ifstream r_file;
+    r_file.open(path);
+    if (not r_file.is_open()) {
+      perror("open");
+      throw Exception("can not open file");
+    }
+
+    line("reading file...");
+    while (not r_file.eof()) {
+      string code;
+      r_file >> code;
+      if (code.size() == 0)
+        break;
+
+      Degree &degree = get(code);
+      degree.read_capacity(r_file);
+    }
+
     r_file.close();
     line("done");
   }

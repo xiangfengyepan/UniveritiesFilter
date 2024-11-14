@@ -2,6 +2,7 @@ import re
 from unidecode import unidecode
 import string
 import argparse
+import unicodedata
 
 
 def is_first_and_last_uppercase(word):
@@ -30,6 +31,10 @@ def format_word(word):
 def replace_spaces_in_parentheses(text):
     # Use re.sub to find the content inside parentheses and replace spaces with underscores
     return re.sub(r'\((.*?)\)', lambda match: f"({match.group(1).replace(' ', '_')})", text)
+
+def remove_accents(text):
+    """Remove accents from a given string."""
+    return ''.join(c for c in unicodedata.normalize('NFD', text) if unicodedata.category(c) != 'Mn')
 
 def format_career_data(input_filename, output_filename):
     with open(input_filename, 'r') as infile:
@@ -60,7 +65,7 @@ def format_career_data(input_filename, output_filename):
        
         degree = format_word(degree)
         university = "/".join(university)
-        city = city.strip('()')
+        city = remove_accents(city.strip('()'))
         score = score.replace(',', '.')
 
         final_line = f"{code} {degree} {university} {city} {score}"
@@ -87,7 +92,7 @@ def format_places_data(input_filename, output_filename):
 
             # Extract a single valid price if present
             preu_match = re.search(r'\d+\.\d{3} €|\d+,\d{2} €', line)
-            preu = preu_match.group().replace(" ", "") if preu_match else "0,00€"
+            preu = preu_match.group().replace(" ", "").replace(".", "") if preu_match else "0,00€"
 
             # Determine 'observacio' position
             if preu_match:
@@ -98,7 +103,7 @@ def format_places_data(input_filename, output_filename):
                 observacio_start = ""
 
             # Format observacio
-            observacio = observacio_start.replace(" ", "")
+            observacio = observacio_start.replace(" ", "") if observacio_start != "" else "None"
 
             # Ensure 0,00€ is not written if a valid price exists
             if preu != "0,00€":
@@ -123,7 +128,7 @@ def format_pont_data(input_filename, output_filename):
                     for col in parts[4:]
                 ]
 
-                formatted_line = f"{code} {br}\t" + " ".join(points)
+                formatted_line = f"{code} {br} \t" + " ".join(points)
                 outfile.write(formatted_line + "\n")
 
 

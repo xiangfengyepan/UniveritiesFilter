@@ -633,7 +633,7 @@
 41054	"Traducció i Interpretació - Anglès - / Llengües Aplicades (Simultaneïtat)"	UPF	AH	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	0	2	2	1	0	0	0	0	1	0	2	2
 21065	Traducció i Interpretació - Francès	UAB	AH	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	0	2	2	1	0	0	0	0	1	0	2	2
 11051	Treball Social	UB	CSJ	0	0	0	0	0	0	0	0	0	2	2	0	0	0	2	0	0	0	0	2	2	0	0	0	0	1	0
-61034	Treball Social	UdL	CSJ	0	0	0	0	0	0	0	0	0	2	2	0	0	0	2	0	0	0	0	2	2	0	0	0	0	1
+61034	Treball Social	UdL	CSJ	0	0	0	0	0	0	0	0	0	2	2	0	0	0	2	0	0	0	0	2	2	0	0	0	0	1	0
 81044	Treball Social	UdG	CSJ	0	0	0	0	0	0	0	0	0	2	2	0	0	0	2	0	0	0	0	2	2	0	0	0	0	1	0
 71026	Treball Social	URV	CSJ	0	0	0	0	0	0	0	0	0	2	2	0	0	0	2	0	0	0	0	2	2	0	0	0	0	1	0
 11011	Turisme "CETT"	UB	CSJ	1	1	0	0	0	0	0	0	2	2	2	0	0	2	2	2	0	0	0	2	2	0	0	0	0	0	0
