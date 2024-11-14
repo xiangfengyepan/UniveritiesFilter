@@ -20,7 +20,7 @@ int main() {
     try {
       cin >> op;
       Degrees degrees;
-      degrees.read("./dades/catalunya_notes_tall.txt");
+      degrees.read("./dades/2024/catalunya_notes_tall.txt");
       degrees.write("./filter/filter.txt");
 
       // // console(Filtro);

@@ -25,12 +25,17 @@ format_line:
 	done
 
 # Second step: process files using formateo.py
-format_main:
+format_input:
 	for file in $(FORMAT); do \
 		python3 ./formateo/formateo.py $$file; \
 	done
-	
-format: clean_format format_line format_main
+
+format_no_repeted:
+	for file in $(FORMAT); do \
+		python3 ./formateo/removeRepeted.py $$file; \
+	done
+
+format: clean_format format_line format_input format_no_repeted
 
 clean:
 	rm -r ./build/

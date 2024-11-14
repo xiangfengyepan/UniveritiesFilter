@@ -279,14 +279,6 @@ Mestre - 5 anys) (simultaneïtat)
 81049 Educació Infantil / Educació Primària
 Mestre - 5 anys) (simultaneïtat)
 (pla de millora de la formació inicial de UdG Girona U. Públ. 50 04-16-19
-3
-
-Codi Nom del centre d'estudi Universitat Població Tipus
-de centre
-Places
-orientatives
-Preu
-orientatiu Observacions
 61037 Educació Infantil / Educació Primària
 Mestre - 5 anys) (simultaneïtat)
 (pla de millora de la formació inicial de UdL Lleida U. Públ. 35 04-16-19
@@ -725,14 +717,6 @@ de Sistemes Aeroespacials (agrupació de simultaneïtat)
 21135 Estudis Anglesos UAB Cerdanyola del Vallès U. Públ. 80 16
 61054 Estudis Anglesos UdL Lleida U. Públ. 40 16
 61051 Estudis Anglesos / Llengües Aplicades i Traducció (simultaneïtat) UdL Lleida U. Públ. 10 04-16
-6
-
-Codi Nom del centre d'estudi Universitat Població Tipus
-de centre
-Places
-orientatives
-Preu
-orientatiu Observacions
 11094 Estudis Àrabs i Hebreus UB Barcelona U. Públ. 40 16
 21140 Estudis d'Anglès i Català UAB Cerdanyola del Vallès U. Públ. 30 16
 21141 Estudis d'Anglès i de Clàssiques UAB Cerdanyola del Vallès U. Públ. 30 16
@@ -835,14 +819,6 @@ de l'Activitat Física i de l'Esport "EUSES" URV Tortosa, Amposta U. Públ. CA 1
 11032 Geologia UB Barcelona U. Públ. 60 16
 21037 Geologia UAB Cerdanyola del Vallès U. Públ. 40 16
 21151 Geologia / Ciències Ambientals (simultaneïtat) UAB Cerdanyola del Vallès U. Públ. 30 16
-7
-
-Codi Nom del centre d'estudi Universitat Població Tipus
-de centre
-Places
-orientatives
-Preu
-orientatiu Observacions
 21038 Gestió Aeronàutica UAB Sabadell U. Públ. 65 16
 21149 Gestió de Ciutats Intel·ligents i Sostenibles UAB Cerdanyola del Vallès U. Públ. 60 16
 11091 Gestió d'Informació i Documentació Digital UB Barcelona U. Públ. 60 16
@@ -928,14 +904,6 @@ i Traducció / Filologia Catalana i Estudis Occitans UdL Lleida U. Públ. 10 04-
 41041 Màrqueting i Comunitats Digitals / Administració
 Innovació "Tecnocampus" (simultaneïtat)
 d'Empreses i Gestió de la UPF Mataró U. Públ. CA 60 6.170 € 04-17
-8
-
-Codi Nom del centre d'estudi Universitat Població Tipus
-de centre
-Places
-orientatives
-Preu
-orientatiu Observacions
 41062 Màrqueting i Comunitats Digitals
 "Tecnocampus" (simultaneïtat)
 / Turisme i Gestió del Lleure UPF Mataró U. Públ. CA 30 6.800 € 04-17
@@ -1026,14 +994,6 @@ Santa Coloma de U. Públ. 20 04-16
 91015 Publicitat i Relacions Públiques UVic-UCC Vic U. Priv. 55 6.058 €
 81077 Publicitat i Relacions Públiques / Turisme (simultaneïtat) UdG Girona U. Públ. 15 04-16
 11093 Publicitat, Relacions Públiques i Màrqueting "ESRP" UB Barcelona U. Públ. CA 150 6.450 € 17
-9
-
-Codi Nom del centre d'estudi Universitat Població Tipus
-de centre
-Places
-orientatives
-Preu
-orientatiu Observacions
 11049 Química UB Barcelona U. Públ. 180 16
 21082 Química UAB Cerdanyola del Vallès U. Públ. 120 16
 81034 Química UdG Girona U. Públ. 60 16

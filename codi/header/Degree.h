@@ -6,16 +6,20 @@
 #include <vector>
 using namespace std;
 
-#define MAX_VALUE_COEFFICIENT 3
+#define MAX_VALUE_COEFFICIENT 2
 #define MAX_SIZE_COEFFICIENT 22
 
 class Degree {
 private:
   string code;
   string name;
-  string city;
   string university;
+  vector<string> branch;
+  string city;
+  string type;
   int capacity;
+  int price;
+  vector<string> observations;
   float admission_threshold;
   vector<int> coefficients;
 
@@ -29,38 +33,23 @@ public:
   Degree() {}
 
   Degree(const string &code, const string &name, const string &city,
-         const string &university, int capacity, float admission_threshold)
-      : code(code), name(name), university(university), city(city),
-        capacity(capacity), admission_threshold(admission_threshold) {}
-
-  void printDetails(ostream &os, const string &sep) const {
-    os << left << setw(5) << truncateString(code, 5) << sep << setw(100)
-       << truncateString(name, 100) << sep << setw(15)
-       << truncateString(city, 15) << sep << setw(20)
-       << truncateString(university, 20) << sep << setw(10) << capacity << sep
-       << setw(5) << admission_threshold << endl;
-  }
-
-  static void printHeader(ostream &os, const string &sep) {
-    os << left << setw(5) << "Code" << sep << setw(100) << "Name" << sep
-       << setw(15) << "City" << sep << setw(20) << "University" << sep
-       << setw(10) << "Capacity" << sep << setw(5) << "Threshold" << endl;
-
-    os << string(5 + 100 + 15 + 20 + 10 + 5 + (6 * sep.length()), '-') << endl;
-  }
+         const string &university, const vector<string> &branch, const string &type,
+         int capacity, int price, float admission_threshold,
+         const vector<string> &observations)
+      : code(code), name(name), university(university), branch(branch),
+        city(city), type(type), capacity(capacity), price(price),
+        admission_threshold(admission_threshold), observations(observations) {}
 
   string getCode() const { return code; }
-
   string getName() const { return name; }
-
   string getCity() const { return city; }
-
   string getUniversity() const { return university; }
-
+  vector<string> getBranch() const { return branch; }
+  string getType() const { return type; }
   int getCapacity() const { return capacity; }
-
+  int getPrice() const { return price; }
   double getThreshold() const { return admission_threshold; }
-
+  vector<string> getObservations() const { return observations; }
   vector<int> getCoefficients() const { return coefficients; }
 
   void addCoefficient(int coefficient) {
@@ -98,5 +87,21 @@ public:
       cout << coeff << " ";
     }
     cout << endl;
+  }
+
+  void printDetails(ostream &os, const string &sep) const {
+    os << left << setw(5) << truncateString(code, 5) << sep << setw(100)
+       << truncateString(name, 100) << sep << setw(15)
+       << truncateString(city, 15) << sep << setw(20)
+       << truncateString(university, 20) << sep << setw(10) << capacity << sep
+       << setw(5) << admission_threshold << endl;
+  }
+
+  static void printHeader(ostream &os, const string &sep) {
+    os << left << setw(5) << "Code" << sep << setw(100) << "Name" << sep
+       << setw(15) << "City" << sep << setw(20) << "University" << sep
+       << setw(10) << "Capacity" << sep << setw(5) << "Threshold" << endl;
+
+    os << string(5 + 100 + 15 + 20 + 10 + 5 + (6 * sep.length()), '-') << endl;
   }
 };
