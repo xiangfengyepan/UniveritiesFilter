@@ -3,6 +3,7 @@
 #include "../header/Exception.h"
 #include <iomanip>
 #include <iostream>
+#include <regex>
 #include <set>
 #include <vector>
 using namespace std;
@@ -18,11 +19,11 @@ private:
   set<string> branches;
   string city;
   string type;
-  int capacity;
-  int price;
+  string capacity;
+  string price;
   set<string> observations;
-  float admission_threshold;
-  vector<int> coefficients;
+  string admission_threshold;
+  vector<string> coefficients;
 
   string truncateString(const string &str, size_t width) const {
     if (str.length() > width)
@@ -44,7 +45,7 @@ private:
     string result;
     for (const auto &obs : observations) {
       if (!result.empty())
-        result += ",";
+        result += " ";
       result += obs;
     }
     return result;
@@ -55,7 +56,7 @@ private:
     for (size_t i = 0; i < coefficients.size(); ++i) {
       if (i > 0)
         result += ",";
-      result += to_string(coefficients[i]);
+      result += coefficients[i];
     }
     return result;
   }
@@ -67,11 +68,13 @@ public:
 
   Degree(const string &code, const string &name, const string &city,
          const string &university, const set<string> &branches,
-         const string &type, int capacity, int price, float admission_threshold,
-         const set<string> &observations)
+         const string &type, const string &capacity, const string &price,
+         const string &admission_threshold, const set<string> &observations,
+         const vector<string> &coefficients)
       : code(code), name(name), university(university), branches(branches),
         city(city), type(type), capacity(capacity), price(price),
-        admission_threshold(admission_threshold), observations(observations) {}
+        admission_threshold(admission_threshold), observations(observations),
+        coefficients(coefficients) {}
 
   string getCode() const { return code; }
   string getName() const { return name; }
@@ -79,70 +82,205 @@ public:
   string getUniversity() const { return university; }
   set<string> getBranches() const { return branches; }
   string getType() const { return type; }
-  int getCapacity() const { return capacity; }
-  int getPrice() const { return price; }
-  double getThreshold() const { return admission_threshold; }
+  string getCapacity() const { return capacity; }
+  string getPrice() const { return price; }
+  string getThreshold() const { return admission_threshold; }
   set<string> getObservations() const { return observations; }
-  vector<int> getCoefficients() const { return coefficients; }
+  vector<string> getCoefficients() const { return coefficients; }
 
-  void addCoefficient(int coefficient) {
-    if (not(0 <= coefficient and coefficient <= MAX_VALUE_COEFFICIENT))
-      throw Exception("wrong value coefficient");
+  void setCode(const string &code) { this->code = code; }
+
+  void setName(const string &name) { this->name = name; }
+
+  void setCity(const string &city) { this->city = city; }
+
+  void setUniversity(const string &university) {
+    this->university = university;
+  }
+
+  void setBranches(const set<string> &branches) { this->branches = branches; }
+  void setType(const string &type) { this->type = type; }
+  void setCapacity(const string &capacity) { this->capacity = capacity; }
+  void setPrice(const string &price) { this->price = price; }
+  void setAdmissionThreshold(const string &threshold) {
+    this->admission_threshold = threshold;
+  }
+  void setObservations(const set<string> &observations) {
+    this->observations = observations;
+  }
+  void setCoefficients(const vector<string> &coefficients) {
+    this->coefficients = coefficients;
+  }
+
+  void addCoefficient(const string &coefficient) {
     if (coefficients.size() == MAX_SIZE_COEFFICIENT)
       throw Exception("too many coefficients");
     coefficients.push_back(coefficient);
   }
 
-  void read(istream &is, bool withCoefficients) {
+  static bool isValidCode(const string &code) {
+    return code.size() == 5 and all_of(code.begin(), code.end(), ::isdigit);
+  }
 
-    is >> code >> name >> university >> city >> admission_threshold;
-    if (withCoefficients) {
-      for (int i = 0; i < MAX_SIZE_COEFFICIENT; ++i) {
-        int coef;
-        is >> coef;
-        addCoefficient(coef);
-      }
+  static bool isValidNameOrCityOrType(const string &str) {
+    const std::set<char> validSpecialChars = {
+        '\'', '_', '-', '"', '(', ')',
+        '/',  ',', '+', '*', ':', '.'}; // Added slash to valid characters
+
+    return all_of(str.begin(), str.end(), [&validSpecialChars](char c) {
+      return isalpha(c) or isdigit(c) or
+             validSpecialChars.find(c) !=
+                 validSpecialChars
+                     .end(); // Check if the character is alphabetic or in the
+                             // set of special characters
+    });
+  }
+
+  static bool isValidNumeric(const string &str) {
+    return all_of(str.begin(), str.end(),
+                  [](char c) { return isdigit(c) or c == '.'; });
+  }
+
+  static bool isValidAdmissionThreshold(const string &str) {
+    try {
+      float value = stof(str);
+      return (value >= 0 and value <= 14);
+    } catch (...) {
+      return false;
     }
   }
-  void read(istream &is) { read(is, false); }
+
+  static bool isValidPrice(const string &price) {
+    regex pricePattern(R"(^\d+(\.\d{1,3})?$)");
+    return regex_match(price, pricePattern);
+  }
+
+  static bool isValidCoefficient(const string &coef) {
+    // Implement your validation rules here
+    // For example, checking if the coefficient is a valid number or matches
+    // specific criteria
+    return coef.size() > 0 && coef.size() <= MAX_VALUE_COEFFICIENT;
+  }
+
+  static Degree read(istream &is, bool withCoefficients) {
+    Degree degree;
+    string code, name, university, city, admission_threshold;
+    vector<string> coefficients;
+
+    is >> code;
+    if (code == "")
+      return degree;
+    is >> name >> university >> city >> admission_threshold;
+
+    if (!isValidCode(code))
+      throw Exception("Invalid code: " + code);
+    if (!isValidNameOrCityOrType(name))
+      throw Exception("Invalid name: " + code + " " + name);
+    if (!isValidNameOrCityOrType(university))
+      throw Exception("Invalid university: " + code + " " + university);
+    if (!isValidNameOrCityOrType(city))
+      throw Exception("Invalid city: " + code + " " + city);
+    if (!isValidAdmissionThreshold(admission_threshold))
+      throw Exception("Invalid admission threshold.");
+
+    degree.code = code;
+    degree.name = name;
+    degree.university = university;
+    degree.city = city;
+    degree.admission_threshold = admission_threshold;
+
+    if (withCoefficients) {
+      for (int i = 0; i < MAX_SIZE_COEFFICIENT; ++i) {
+        string coef;
+        is >> coef;
+        coefficients.push_back(coef);
+      }
+      degree.coefficients = coefficients;
+    }
+
+    return degree;
+  }
+
+  static Degree read(istream &is) { return read(is, false); }
+
+  void read_capacity(istream &is) {
+    string type, capacity, price;
+    set<string> observations;
+
+    is >> type >> capacity >> price;
+
+    if (!isValidNameOrCityOrType(type)) {
+      throw Exception("Invalid type: " + type);
+    }
+    if (!isValidNumeric(capacity)) {
+      throw Exception("Invalid capacity: " + capacity);
+    }
+    if (!isValidPrice(price)) {
+      throw Exception("Invalid price: " + price);
+    }
+
+    string obs;
+    is >> obs;
+
+    if (obs == "None") {
+      observations.insert("None");
+    } else {
+      string observation;
+      for (char c : obs) {
+        if (c == '-') {
+          if (!observation.empty()) {
+            observations.insert(observation);
+          }
+        } else {
+          observation += c;
+        }
+      }
+
+      if (!observation.empty()) {
+        observations.insert(observation);
+      }
+    }
+
+    this->type = type;
+    this->capacity = capacity;
+    this->price = price;
+    this->observations = observations;
+  }
 
   void read_coefficients(istream &is) {
+    set<string> branches;
+    vector<string> coefficients;
     string input;
+
     is >> input;
     while (all_branches.find(input) != all_branches.end()) {
       branches.insert(input);
       is >> input;
     }
 
-    addCoefficient(stoi(input));
-    for (int i = 0; i < MAX_SIZE_COEFFICIENT - 1; ++i) {
-      int coef;
-      is >> coef;
-      addCoefficient(coef);
+    if (branches.empty()) {
+      throw Exception("No valid branches found.");
     }
-  }
 
-  void read_capacity(istream &is) {
-    is >> type >> capacity;
-    string price;
-    is >> price;
-    this->price = stoi(price);
+    coefficients.push_back(input);
 
-    string observations;
-    is >> observations;
-    string observation;
+    for (int i = 0; i < MAX_SIZE_COEFFICIENT - 1; ++i) {
+      string coef;
+      is >> coef;
 
-    if (observations == "None")
-      observation = observations;
-    else {
-      for (char c : observations) {
-        if (c == '-')
-          this->observations.insert(observation);
-
-        observation += c;
+      if (isValidCoefficient(coef)) {
+        coefficients.push_back(coef);
+      } else {
+        throw Exception("Invalid coefficient: " + coef);
       }
     }
-    this->observations.insert(observation);
+
+    if (coefficients.size() > MAX_SIZE_COEFFICIENT) {
+      throw Exception("Too many coefficients.");
+    }
+
+    this->branches = branches;
+    this->coefficients = coefficients;
   }
 
   void display() const {
@@ -150,36 +288,62 @@ public:
     cout << "Name: " << name << " ";
     cout << "University: " << university << " ";
     cout << "City: " << city << " ";
-    cout << "Admission_threshold: " << admission_threshold << " ";
-    cout << endl;
+    cout << "Type: " << type << " ";
+    cout << "Capacity: " << capacity << " ";
+    cout << "Price: " << price << " ";
+    cout << "Admission Threshold: " << admission_threshold << " ";
+
+    cout << "Branches: ";
+    for (const auto &branch : branches) {
+      cout << branch << " ";
+    }
+    cout << " ";
+
+    cout << "Observations: ";
+    for (const auto &obs : observations) {
+      cout << obs << " ";
+    }
+    cout << " ";
+
     cout << "Coefficients: ";
-    for (int coeff : coefficients) {
+    for (const auto &coeff : coefficients) {
       cout << coeff << " ";
     }
     cout << endl;
   }
-
   void printDetails(ostream &os, const string &sep) const {
-    os << left << setw(5) << truncateString(code, 5) << sep << setw(20)
-       << truncateString(name, 20) << sep << setw(10)
-       << truncateString(city, 10) << sep << setw(10)
-       << truncateString(university, 10) << sep << setw(10)
-       << truncateString(formatBranches(), 10) << sep << setw(10)
-       << truncateString(to_string(capacity), 10) << sep << setw(10)
-       << truncateString(to_string(price), 10) << sep << setw(10)
-       << truncateString(to_string(admission_threshold), 10) << sep
-       << truncateString(formatObservations(), 10) << sep
-       << truncateString(formatCoefficients(), 20) << endl;
+    string formatted_name = name;
+    // Replace underscores with spaces in the name
+    replace(formatted_name.begin(), formatted_name.end(), '_', ' ');
+
+    os << left << setw(SETW_CODE) << truncateString(code, SETW_CODE) << sep
+       << setw(SETW_NAME) << truncateString(formatted_name, SETW_NAME) << sep
+       << setw(SETW_CITY) << truncateString(city, SETW_CITY) << sep
+       << setw(SETW_UNIVERSITY) << truncateString(university, SETW_UNIVERSITY)
+       << sep << setw(SETW_BRANCHES)
+       << truncateString(formatBranches(), SETW_BRANCHES) << sep
+       << setw(SETW_CAPACITY) << truncateString(capacity, SETW_CAPACITY) << sep
+       << setw(SETW_PRICE) << truncateString(price, SETW_PRICE) << sep
+       << setw(SETW_THRESHOLD)
+       << truncateString(admission_threshold, SETW_THRESHOLD) << sep
+       << setw(SETW_OBSERVATIONS)
+       << truncateString(formatObservations(), SETW_OBSERVATIONS) << sep
+       << setw(SETW_COEFFICIENTS)
+       << truncateString(formatCoefficients(), SETW_COEFFICIENTS) << endl;
   }
 
   static void printHeader(ostream &os, const string &sep) {
-    os << left << setw(5) << "Code" << sep << setw(20) << "Name" << sep
-       << setw(10) << "City" << sep << setw(10) << "University" << sep
-       << setw(10) << "Branches" << sep << setw(10) << "Capacity" << sep
-       << setw(10) << "Price" << sep << setw(10) << "Threshold" << sep
-       << setw(10) << "Observations" << sep << "Coefficients" << endl;
+    os << left << setw(SETW_CODE) << "Code" << sep << setw(SETW_NAME) << "Name"
+       << sep << setw(SETW_CITY) << "City" << sep << setw(SETW_UNIVERSITY)
+       << "University" << sep << setw(SETW_BRANCHES) << "Branches" << sep
+       << setw(SETW_CAPACITY) << "Capacity" << sep << setw(SETW_PRICE)
+       << "Price" << sep << setw(SETW_THRESHOLD) << "Threshold" << sep
+       << setw(SETW_OBSERVATIONS) << "Observations" << sep << "Coefficients"
+       << endl;
 
-    os << string(5 + 20 + 10 + 10 + 10 + 10 + 10 + 10 + 10 + 20 +
+    os << string(SETW_CODE + SETW_NAME + SETW_CITY + SETW_UNIVERSITY +
+                     SETW_BRANCHES + SETW_CAPACITY + SETW_PRICE +
+                     SETW_THRESHOLD + SETW_OBSERVATIONS + SETW_COEFFICIENTS +
                      (9 * sep.length()),
                  '-')
        << endl;

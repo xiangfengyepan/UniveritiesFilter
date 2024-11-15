@@ -3,7 +3,7 @@ OBJECTS := $(SOURCES:codi/%.cpp=build/%.o)
 
 CPP_FLAGS := -Wno-unused-result -std=c++17 -O3
 
-FORMAT = nota places ponderacions
+FORMAT = nota capacity coefficients
 
 all: build/main.exe
 
@@ -34,8 +34,12 @@ format_no_repeted:
 	for file in $(FORMAT); do \
 		python3 ./formateo/removeRepeted.py $$file; \
 	done
+move_dades:
+	for file in $(FORMAT); do \
+		python3 ./formateo/move_dades.py $$file; \
+	done
 
-format: clean_format format_line format_input format_no_repeted
+format: clean_format format_line format_input format_no_repeted move_dades
 
 clean:
 	rm -r ./build/

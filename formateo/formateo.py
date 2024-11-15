@@ -24,8 +24,9 @@ def is_word_with_parentheses(word):
 def format_word(word):
     word = word.strip()
     word = unidecode(word)
-    word = re.sub(r'\s*/\s*', '/', word)
-    word = word.replace(' ', '_')
+    word = re.sub(r'\s*/\s*', '/', word)  
+    word = word.replace(' ', '_')       
+    word = word.replace("d'", "de")
     return word
 
 def replace_spaces_in_parentheses(text):
@@ -36,7 +37,7 @@ def remove_accents(text):
     """Remove accents from a given string."""
     return ''.join(c for c in unicodedata.normalize('NFD', text) if unicodedata.category(c) != 'Mn')
 
-def format_career_data(input_filename, output_filename):
+def format_nota_data(input_filename, output_filename):
     with open(input_filename, 'r') as infile:
         lines = infile.readlines()
 
@@ -75,7 +76,7 @@ def format_career_data(input_filename, output_filename):
         for line in final_lines:
             outfile.write(line + '\n')
 
-def format_places_data(input_filename, output_filename):
+def format_capacity_data(input_filename, output_filename):
     with open(input_filename, 'r', encoding='utf-8') as infile, open(output_filename, 'w', encoding='utf-8') as outfile:
         for line in infile:
             parts = line.strip().split()
@@ -92,7 +93,7 @@ def format_places_data(input_filename, output_filename):
 
             # Extract a single valid price if present
             preu_match = re.search(r'\d+\.\d{3} €|\d+,\d{2} €', line)
-            preu = preu_match.group().replace(" ", "").replace(".", "") if preu_match else "0,00€"
+            preu = preu_match.group().replace(" ", "").replace("€", "") if preu_match else "0.00"
 
             # Determine 'observacio' position
             if preu_match:
@@ -112,7 +113,7 @@ def format_places_data(input_filename, output_filename):
                 outfile.write(f"{codi} {tipus} {places} 0,00€ {observacio}\n")
 
 
-def format_pont_data(input_filename, output_filename):
+def format_coefficients_data(input_filename, output_filename):
     valid_br_values = {"AH", "C", "CS", "CSJ", "EA"}
 
     with open(input_filename, 'r', encoding='utf-8') as infile, open(output_filename, 'w', encoding='utf-8') as outfile:
@@ -142,9 +143,9 @@ if __name__ == "__main__":
     output_filename = "./formateo/dades_input/" + args.filename + ".txt"
 
     if args.filename == "nota":
-        format_career_data(input_filename, output_filename)
-    if args.filename == "ponderacions":
-        format_pont_data(input_filename, output_filename)
-    if args.filename == "places":
-        format_places_data(input_filename, output_filename)
+        format_nota_data(input_filename, output_filename)
+    if args.filename == "coefficients":
+        format_coefficients_data(input_filename, output_filename)
+    if args.filename == "capacity":
+        format_capacity_data(input_filename, output_filename)
 

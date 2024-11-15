@@ -1,18 +1,23 @@
 #pragma once
 #include <exception>
-
-#define line(x) cout << x << endl
+#include <string>
+#include <iostream>
 
 using namespace std;
 
 class Exception : public exception {
 public:
-  Exception() : exception() {}
-  Exception(const char *mot) : exception(), mensaje(mot) {}
-  const char *what() const throw() {
-    return mensaje;
-  };
+  // Default constructor
+  Exception() : exception(), mensaje("Unknown error") {}
+
+  // Constructor with custom error message
+  Exception(const string& msg) : exception(), mensaje(msg) {}
+
+  // Override the what() function to return custom error message
+  const char* what() const noexcept override {
+    return mensaje.c_str();
+  }
 
 private:
-  const char *mensaje;
+  string mensaje;
 };

@@ -83,14 +83,6 @@ UPF Barcelona, Cerdanyola del Vallès U. Públ. 50 21
 81048 Biologia / Ciències Ambientals (simultaneïtat) UdG Girona U. Públ. 20 04-16
 21008 Biologia Ambiental UAB Cerdanyola del Vallès U. Públ. 60 16
 41001 Biologia Humana UPF Barcelona U. Públ. 65 21
-1
-
-Codi Nom del centre d'estudi Universitat Població Tipus
-de centre
-Places
-orientatives
-Preu
-orientatiu Observacions
 11004 Biotecnologia UB Barcelona U. Públ. 80 16
 21011 Bioquímica UAB Cerdanyola del Vallès U. Públ. 60 16
 71005 Bioquímica i Biologia Molecular URV Tarragona U. Públ. 45 16
@@ -181,14 +173,6 @@ i la Geltrú, U. Públ. 60 21
 61009 Comunicació i Periodisme Audiovisuals UdL Lleida U. Públ. 90 16
 21126 Comunicació Interactiva UAB Cerdanyola del Vallès U. Públ. 60 16
 11100 Conservació - Restauració de Béns Culturals UB Barcelona U. Públ. 50 16
-2
-
-Codi Nom del centre d'estudi Universitat Població Tipus
-de centre
-Places
-orientatives
-Preu
-orientatiu Observacions
 61042 Conservació de la Natura / Enginyeria Forestal (simultaneïtat) UdL Lleida U. Públ. 25 04-16
 11010 Criminologia UB Barcelona U. Públ. 140 16
 91050 Criminologia "ESERP" UVic-UCC Barcelona U. Priv. CA 40 7.850 €
@@ -400,14 +384,6 @@ UdL Lleida U. Públ. 10 13-16-28
 61065 Enginyeria de l'Energia i Sostenibilitat / Enginyeria Mecànica (simultaneïtat) UdL Lleida U. Públ. 10 04-16
 11060 Enginyeria de Materials UB Barcelona U. Públ. 40 16
 31025 Enginyeria de Materials UPC Barcelona, Sant Adrià de Besòs U. Públ. 40 21
-4
-
-Codi Nom del centre d'estudi Universitat Població Tipus
-de centre
-Places
-orientatives
-Preu
-orientatiu Observacions
 31104
 Enginyeria de Recursos Minerals i
 Industrial i Automàtica / Enginyeria
@@ -566,14 +542,6 @@ Enginyeria
 en Tecnologies Aeroespacials, Grau en + Màster Universitari
 Aeronàutica (PARS: Enginyer/a Aeronàutic/a)
 en UPC Terrassa U. Públ. 60 21-28
-5
-
-Codi Nom del centre d'estudi Universitat Població Tipus
-de centre
-Places
-orientatives
-Preu
-orientatiu Observacions
 81041 Enginyeria en Tecnologies Industrials UdG Girona U. Públ. 70 16
 81046 Enginyeria en Tecnologies
 (simultaneïtat)
