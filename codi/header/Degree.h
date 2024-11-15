@@ -45,7 +45,7 @@ private:
     string result;
     for (const auto &obs : observations) {
       if (!result.empty())
-        result += " ";
+        result += "-";
       result += obs;
     }
     return result;
@@ -156,10 +156,30 @@ public:
   }
 
   static bool isValidCoefficient(const string &coef) {
-    // Implement your validation rules here
-    // For example, checking if the coefficient is a valid number or matches
-    // specific criteria
     return coef.size() > 0 && coef.size() <= MAX_VALUE_COEFFICIENT;
+  }
+
+  static size_t countUtf8Chars(const string &str) {
+    size_t length = 0;
+    size_t i = 0;
+
+    while (i < str.size()) {
+      unsigned char c = str[i];
+
+      if ((c & 0x80) == 0)
+        i += 1;
+      else if ((c & 0xE0) == 0xC0)
+        i += 2;
+      else if ((c & 0xF0) == 0xE0)
+        i += 3;
+      else if ((c & 0xF8) == 0xF0)
+        i += 4;
+      else
+        throw runtime_error("Invalid UTF-8 encoding");
+
+      ++length;
+    }
+    return length;
   }
 
   static Degree read(istream &is, bool withCoefficients) {
@@ -168,7 +188,7 @@ public:
     vector<string> coefficients;
 
     is >> code;
-    if (code == "")
+    if (code.empty())
       return degree;
     is >> name >> university >> city >> admission_threshold;
 
@@ -228,17 +248,14 @@ public:
       string observation;
       for (char c : obs) {
         if (c == '-') {
-          if (!observation.empty()) {
+          if (!observation.empty())
             observations.insert(observation);
-          }
-        } else {
+          observation = "";
+        } else
           observation += c;
-        }
       }
-
-      if (!observation.empty()) {
+      if (!observation.empty())
         observations.insert(observation);
-      }
     }
 
     this->type = type;
@@ -315,7 +332,8 @@ public:
     string formatted_name = name;
     // Replace underscores with spaces in the name
     replace(formatted_name.begin(), formatted_name.end(), '_', ' ');
-
+    if (code.empty())
+      return;
     os << left << setw(SETW_CODE) << truncateString(code, SETW_CODE) << sep
        << setw(SETW_NAME) << truncateString(formatted_name, SETW_NAME) << sep
        << setw(SETW_CITY) << truncateString(city, SETW_CITY) << sep
@@ -344,7 +362,7 @@ public:
     os << string(SETW_CODE + SETW_NAME + SETW_CITY + SETW_UNIVERSITY +
                      SETW_BRANCHES + SETW_CAPACITY + SETW_PRICE +
                      SETW_THRESHOLD + SETW_OBSERVATIONS + SETW_COEFFICIENTS +
-                     (9 * sep.length()),
+                     (9 * countUtf8Chars(sep)),
                  '-')
        << endl;
   }
