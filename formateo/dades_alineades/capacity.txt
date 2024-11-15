@@ -62,7 +62,7 @@
 11003 Bioquímica UB Barcelona U. Públ. 60 16
 81048 Biologia / Ciències Ambientals (simultaneïtat) UdG Girona U. Públ. 20 04-16
 21008 Biologia Ambiental UAB Cerdanyola del Vallès U. Públ. 60 16
-41001 Biologia Humana UPF Barcelona U. Públ. 65 21 1  Codi Nom del centre d'estudi Universitat Població Tipus de centre Places orientatives Preu orientatiu Observacions
+41001 Biologia Humana UPF Barcelona U. Públ. 65 21
 11004 Biotecnologia UB Barcelona U. Públ. 80 16
 21011 Bioquímica UAB Cerdanyola del Vallès U. Públ. 60 16
 71005 Bioquímica i Biologia Molecular URV Tarragona U. Públ. 45 16
@@ -134,7 +134,7 @@
 11067 Comunicació i Indústries Culturals UB Barcelona U. Públ. 120 16
 61009 Comunicació i Periodisme Audiovisuals UdL Lleida U. Públ. 90 16
 21126 Comunicació Interactiva UAB Cerdanyola del Vallès U. Públ. 60 16
-11100 Conservació - Restauració de Béns Culturals UB Barcelona U. Públ. 50 16 2  Codi Nom del centre d'estudi Universitat Població Tipus de centre Places orientatives Preu orientatiu Observacions
+11100 Conservació - Restauració de Béns Culturals UB Barcelona U. Públ. 50 16
 61042 Conservació de la Natura / Enginyeria Forestal (simultaneïtat) UdL Lleida U. Públ. 25 04-16
 11010 Criminologia UB Barcelona U. Públ. 140 16
 91050 Criminologia "ESERP" UVic-UCC Barcelona U. Priv. CA 40 7.850 €
@@ -271,7 +271,7 @@
 61075 Enginyeria de l'Energia i Automàtica / Enginyeria en Enginyeria Industrial Sostenibilitat / Enginyeria en Electrònica Industrial i Mecànica (agrupació) Grau en + Màster Universitari (PARS: Enginyer/a Industrial) UdL Lleida U. Públ. 10 13-16-28
 61065 Enginyeria de l'Energia i Sostenibilitat / Enginyeria Mecànica (simultaneïtat) UdL Lleida U. Públ. 10 04-16
 11060 Enginyeria de Materials UB Barcelona U. Públ. 40 16
-31025 Enginyeria de Materials UPC Barcelona, Sant Adrià de Besòs U. Públ. 40 21 4  Codi Nom del centre d'estudi Universitat Població Tipus de centre Places orientatives Preu orientatiu Observacions
+31025 Enginyeria de Materials UPC Barcelona, Sant Adrià de Besòs U. Públ. 40 21
 31104 Enginyeria de Recursos Minerals i Industrial i Automàtica / Enginyeria (agrupació) el seu Reciclatge / Enginyeria Electrònica Mecànica / Enginyeria Química UPC Manresa U. Públ. 180 08-21
 31123 Enginyeria de Satèl·lits UPC Castelldefels U. Públ. 40 21
 31084 Enginyeria de Sistemes Aeroespacials UPC Castelldefels U. Públ. 120 21
@@ -323,7 +323,7 @@
 61060 Enginyeria en (agrupació) Organització Industrial i Logística / Enginyeria Química UdL Igualada U. Públ. 50 13-16
 41018 Enginyeria en Sistemes Audiovisuals UPF Barcelona U. Públ. 55 21
 31049 Enginyeria en Sistemes i Tecnologia Naval UPC Barcelona U. Públ. 60 21
-31112 Enginyeria Enginyeria en Tecnologies Aeroespacials, Grau en + Màster Universitari Aeronàutica (PARS: Enginyer/a Aeronàutic/a) en UPC Terrassa U. Públ. 60 21-28 5  Codi Nom del centre d'estudi Universitat Població Tipus de centre Places orientatives Preu orientatiu Observacions
+31112 Enginyeria Enginyeria en Tecnologies Aeroespacials, Grau en + Màster Universitari Aeronàutica (PARS: Enginyer/a Aeronàutic/a) en UPC Terrassa U. Públ. 60 21-28
 81041 Enginyeria en Tecnologies Industrials UdG Girona U. Públ. 70 16
 81046 Enginyeria en Tecnologies (simultaneïtat) Industrials / Administració i Direcció d'Empreses UdG Girona U. Públ. 15 04-16
 31114 Enginyeria Enginyeria en Tecnologies Industrials, Grau en + Màster Universitari Industrial (PARS: Enginyer/a Industrial) en UPC Terrassa U. Públ. 180 21-28

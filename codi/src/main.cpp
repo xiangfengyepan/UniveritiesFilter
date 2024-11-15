@@ -3,8 +3,8 @@
 #include <iostream>
 #include <vector>
 
-#include "../header/Character.h"
 #include "../header/Console.h"
+#include "../header/Defines.h"
 #include "../header/Degree.h"
 #include "../header/Degrees.h"
 #include "../header/Exception.h"
@@ -20,7 +20,7 @@ int main() {
     try {
       cin >> op;
       Degrees degrees;
-      degrees.read("./dades/2024/notes.txt");
+      degrees.read("./dades/2024/nota.txt");
       degrees.read_coefficients("./dades/2024/coefficients.txt");
       degrees.read_capacity("./dades/2024/capacity.txt");
 

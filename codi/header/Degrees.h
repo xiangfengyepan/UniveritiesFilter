@@ -47,8 +47,7 @@ public:
 
     line("reading file...");
     while (not r_file.eof()) {
-      Degree degree;
-      degree.read(r_file);
+      Degree degree = Degree::read(r_file);
       degrees.push_back(degree);
     }
 
