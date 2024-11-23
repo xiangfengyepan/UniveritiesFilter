@@ -13,18 +13,8 @@ DIR_CSV = ./formateo/dades_csv
 DIR_FORMATED = ./formateo/dades_formated
 DIR_INPUT = ./dades/2024
 
-all: build/main.exe
-
-run: all
-	./build/main.exe
-
-build/main.exe: $(OBJECTS)
-	@mkdir -p $(dir $@)
-	g++ $(CPP_FLAGS) -o $@ $(OBJECTS)
-
-build/%.o: codi/%.cpp
-	@mkdir -p $(dir $@)
-	g++ $(CPP_FLAGS) -MMD -o $@ -c $<
+run:
+	python3 ./parent_src/filter.py
 
 format_pdf_to_csv:
 	for file in $(DIR_PDF)/*; do \
@@ -49,7 +39,8 @@ format_preins:
 format_join:
 	python3 ./formateo/format_join.py ./formateo/dades_formated ./result.csv \
   	--merge_columns Codi \
-  	--columns Codi,"Nom del centre destudi",Població,Universitat,"Tipus de centre","Places orientatives","Preu orientatiu",Observacions,"PAU / CFGS",\
+  	--columns Codi,"Nom del centre destudi",Població,Universitat,"Tipus de centre","Places orientatives","Preu orientatiu",Observacions,\
+	"PAU / CFGS","Més grans de 25 anys","Titulats universitaris","Més grans de 45 anys",\
 	Branca,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27
 
 
