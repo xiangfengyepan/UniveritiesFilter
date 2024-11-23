@@ -1,11 +1,11 @@
 Codi,Nom del centre d'estudi i població,Universitat,PAU / CFGS,Més grans de 25 anys,Titulats universitaris,Més grans de 45 anys
-41029,Administració d'Empreses i Gestió de la Innovació "Tecnocampus" (Mataró),UPF,7 480,5 000,5 000,5 000
-41036,Administració d'Empreses i Gestió de la Innovació "Tecnocampus" (docència en Anglès) (Mataró),UPF,7 206,5 000,5 000,5 000
-41041,Administració d'Empreses i Gestió de la Innovació / Màrqueting i Comunitats Digitals "Tecnocampus" (simultaneïtat) (Mataró),UPF,8 440,5 000,5 000,5 000
-41035,Administració d'Empreses i Gestió de la Innovació / Turisme i Gestió del Lleure "Tecnocampus" (simultaneïtat) (Mataró),UPF,5 000,5 000,5 000,5 000
+41029,"Administració d'Empreses i Gestió de la Innovació ""Tecnocampus"" (Mataró)",UPF,7 480,5 000,5 000,5 000
+41036,"Administració d'Empreses i Gestió de la Innovació ""Tecnocampus"" (docència en Anglès) (Mataró)",UPF,7 206,5 000,5 000,5 000
+41041,"Administració d'Empreses i Gestió de la Innovació / Màrqueting i Comunitats Digitals ""Tecnocampus"" (simultaneïtat) (Mataró)",UPF,8 440,5 000,5 000,5 000
+41035,"Administració d'Empreses i Gestió de la Innovació / Turisme i Gestió del Lleure ""Tecnocampus"" (simultaneïtat) (Mataró)",UPF,5 000,5 000,5 000,5 000
 11033,Administració i Direcció d'Empreses (Barcelona),UB,9 636,5 000,5 000,5 000
 41008,Administració i Direcció d'Empreses (Barcelona),UPF,11 316,5 000,5 000,5 000
-71063,Administració i Direcció d'Empreses "IGEMA" (Barcelona),URV,5 000,5 000,5 000,5 000
+71063,"Administració i Direcció d'Empreses ""IGEMA"" (Barcelona)",URV,5 000,5 000,5 000,5 000
 21014,Administració i Direcció d'Empreses (Cerdanyola del Vallès),UAB,10 138,5 000,5 000,7 333
 21099,Administració i Direcció d'Empreses (docència en Anglès) (Cerdanyola del Vallès),UAB,10 416,5 000,5 000,5 000
 81003,Administració i Direcció d'Empreses (Girona),UdG,9 446,5 000,5 000,5 000
@@ -26,12 +26,12 @@ Codi,Nom del centre d'estudi i població,Universitat,PAU / CFGS,Més grans de 25
 81046,Administració i Direcció d'Empreses / Enginyeria en Tecnologies Industrials (simultaneïtat) (Girona),UdG,9 622,5 000,5 000,5 000
 61036,Administració i Direcció d'Empreses / Enginyeria Informàtica (simultaneïtat) (Lleida),UdL,11 263,5 000,5 000,5 000
 71053,Administració i Direcció d'Empreses / Finances i Comptabilitat (simultaneïtat) (Reus),URV,10 777,5 375,5 000,5 000
-71079,Administració i Direcció d'Empreses / Màrqueting "ESIC" (simultaneïtat) (Reus / Barcelona),URV,9 930,5 000,5 000,5 000
-71080,Administració i Direcció d'Empreses / Màrqueting "ESIC" (simultaneïtat) (Tortosa / Barcelona),URV,7 658,5 000,5 000,5 000
+71079,"Administració i Direcció d'Empreses / Màrqueting ""ESIC"" (simultaneïtat) (Reus / Barcelona)",URV,9 930,5 000,5 000,5 000
+71080,"Administració i Direcció d'Empreses / Màrqueting ""ESIC"" (simultaneïtat) (Tortosa / Barcelona)",URV,7 658,5 000,5 000,5 000
 11066,Administració i Direcció d'Empreses / Matemàtiques (simultaneïtat) (Barcelona),UB,12 086,5 000,5 000,5 000
 11095,Administració i Direcció d'Empreses / Química (simultaneïtat) (Barcelona),UB,10 724,5 000,5 000,5 000
 11090,Administració i Direcció d'Empreses / Sociologia (simultaneïtat) (Barcelona),UB,10 022,5 000,5 000,5 000
-61077,Administració i Direcció d'Empreses i Transformació de Negocis "Centre Universitari EAE" (Barcelona),UdL,5 000,5 000,5 000,5 000
+61077,"Administració i Direcció d'Empreses i Transformació de Negocis ""Centre Universitari EAE"" (Barcelona)",UdL,5 000,5 000,5 000,5 000
 11001,Antropologia Social i Cultural (Barcelona),UB,5 000,5 000,5 000,5 000
 61053,Administració i Direcció d'Empreses / Turisme (simultaneïtat) (Lleida),UdL,7 222,5 000,5 000,5 000
 71003,Anglès (Tarragona),URV,5 000,5 250,5 000,5 000
@@ -48,11 +48,11 @@ Codi,Nom del centre d'estudi i població,Universitat,PAU / CFGS,Més grans de 25
 81057,Arquitectura Estudis d' (Girona),UdG,9 490,5 000,7 010,5 000
 71087,Arquitectura Estudis d' (Reus),URV,8 910,5 000,5 000,5 000
 31079,Arquitectura Estudis d' (Sant Cugat del Vallès),UPC,9 844,5 000,6 900,5 000
-81045,Arts Escèniques "ERAM" (Salt),UdG,5 174,5 000,5 000,5 000
-21020,Arts i Disseny "Massana" (Barcelona),UAB,5 000,5 000,5 000,5 000
+81045,"Arts Escèniques ""ERAM"" (Salt)",UdG,5 174,5 000,5 000,5 000
+21020,"Arts i Disseny ""Massana"" (Barcelona)",UAB,5 000,5 000,5 000,5 000
 91063,Audiologia General (Vic),UVic-UCC,5 000,5 000,5 000,5 000
 11099,Belles Arts (Barcelona),UB,8 280,5 000,6 397,5 000
-91059,Belles Arts "BAU" (Barcelona),UVic-UCC,5 000,5 000,5 000,5 000
+91059,"Belles Arts ""BAU"" (Barcelona)",UVic-UCC,5 000,5 000,5 000,5 000
 91917,Bioinformàtica (docència en Anglès) (Barcelona / Cerdanyola del Vallès),UPC / UB / UAB / UPF,10 738,5 000,5 000,5 000
 11002,Biologia (Barcelona),UB,11 030,5 000,6 800,6 167
 21009,Biologia (Cerdanyola del Vallès),UAB,10 936,5 063,7 140,5 000
@@ -74,7 +74,7 @@ Codi,Nom del centre d'estudi i població,Universitat,PAU / CFGS,Més grans de 25
 71006,Biotecnologia (Tarragona),URV,10 514,5 000,5 000,5 000
 91004,Biotecnologia (Vic),UVic-UCC,5 000,5 000,5 000,5 000
 71056,Biotecnologia / Enginyeria Informàtica (simultaneïtat) (Tarragona),URV,10 753,5 000,5 000,5 000
-11109,Ciberseguretat "ENTI" (Barcelona),UB,6 242,5 000,5 000,5 000
+11109,"Ciberseguretat ""ENTI"" (Barcelona)",UB,6 242,5 000,5 000,5 000
 31089,Ciència i Enginyeria de Dades (Barcelona),UPC,12 428,5 000,5 000,5 000
 61040,Ciència i Producció Animal / Veterinària (simultaneïtat) (Lleida),UdL,11 252,5 125,8 130,5 000
 21021,Ciència i Tecnologia dels Aliments (Cerdanyola del Vallès),UAB,9 194,5 000,6 210,5 000
@@ -92,31 +92,31 @@ Codi,Nom del centre d'estudi i població,Universitat,PAU / CFGS,Més grans de 25
 11006,Ciències Biomèdiques (Barcelona / L'Hospitalet de Llobregat),UB,12 304,5 500,7 700,5 000
 21010,Ciències Biomèdiques (Cerdanyola del Vallès),UAB,12 431,5 000,8 200,5 000
 61004,Ciències Biomèdiques (Lleida),UdL,11 767,5 000,5 000,5 000
-11113,Ciències Culinàries i Gastronòmiques "CETT" (Barcelona),UB,5 000,5 000,5 000,5 000
-71086,Ciències de l'Activitat Física i de l'Esport "EUSES" (Amposta),URV,5 602,5 000,5 000,5 000
+11113,"Ciències Culinàries i Gastronòmiques ""CETT"" (Barcelona)",UB,5 000,5 000,5 000,5 000
+71086,"Ciències de l'Activitat Física i de l'Esport ""EUSES"" (Amposta)",URV,5 602,5 000,5 000,5 000
 11007,Ciències de l'Activitat Física i de l'Esport (Barcelona),UB,10 309,5 438,6 530,5 333
 61071,Ciències de l'Activitat Física i de l'Esport (La Seu d'Urgell),UdL,9 191,5 000,8 290,5 000
 61007,Ciències de l'Activitat Física i de l'Esport (Lleida),UdL,9 498,5 000,5 000,5 000
-41038,Ciències de l'Activitat Física i de l'Esport "Tecnocampus" (Mataró),UPF,8 180,5 000,5 000,5 000
-81082,Ciències de l'Activitat Física i de l'Esport "EUSES" (Salt),UdG,5 232,5 000,5 000,5 000
+41038,"Ciències de l'Activitat Física i de l'Esport ""Tecnocampus"" (Mataró)",UPF,8 180,5 000,5 000,5 000
+81082,"Ciències de l'Activitat Física i de l'Esport ""EUSES"" (Salt)",UdG,5 232,5 000,5 000,5 000
 91001,Ciències de l'Activitat Física i de l'Esport (Vic),UVic-UCC,6 866,5 000,5 000,5 000
 61038,Ciències de l'Activitat Física i de l'Esport / Educació Primària (simultaneïtat) (Lleida),UdL,9 404,5 000,6 960,5 000
 91055,Ciències de l'Activitat Física i de l'Esport / Educació Primària (menció en Educació Física) (simultaneïtat) (Vic),UVic-UCC,5 000,5 000,5 000,5 000
-81086,Ciències de l'Activitat Física i de l'Esport / Fisioteràpia "EUSES" (simultaneïtat) (Salt),UdG,6 686,5 000,5 000,5 000
-71088,Ciències de l'Activitat Física i de l'Esport / Fisioteràpia "EUSES" (simultaneïtat) (Amposta / Tortosa),URV,5 871,5 000,5 000,5 000
+81086,"Ciències de l'Activitat Física i de l'Esport / Fisioteràpia ""EUSES"" (simultaneïtat) (Salt)",UdG,6 686,5 000,5 000,5 000
+71088,"Ciències de l'Activitat Física i de l'Esport / Fisioteràpia ""EUSES"" (simultaneïtat) (Amposta / Tortosa)",URV,5 871,5 000,5 000,5 000
 61039,Ciències de l'Activitat Física i de l'Esport / Fisioteràpia (simultaneïtat) (Lleida),UdL,11 122,5 000,7 470,5 000
-41037,Ciències de l'Activitat Física i de l'Esport / Fisioteràpia "Tecnocampus" (simultaneïtat) (Mataró),UPF,7 710,5 000,5 000,5 000
+41037,"Ciències de l'Activitat Física i de l'Esport / Fisioteràpia ""Tecnocampus"" (simultaneïtat) (Mataró)",UPF,7 710,5 000,5 000,5 000
 21117,Ciències de l'Antiguitat (Cerdanyola del Vallès),UAB,5 000,5 000,5 000,5 000
 11077,Ciències del Mar (Barcelona),UB,10 228,8 813,8 010,5 000
 41009,Ciències Empresarials - Management (Barcelona),UPF,11 580,5 000,5 000,5 000
-31095,Ciències i Tecnologies Aplicades a l'Esport i al Fitnes "EUNCET" (Barcelona),UPC,5 000,5 000,5 000,5 000
+31095,"Ciències i Tecnologies Aplicades a l'Esport i al Fitnes ""EUNCET"" (Barcelona)",UPC,5 000,5 000,5 000,5 000
 31096,Ciències i Tecnologies del Mar (Castelldefels / Barcelona / Vilanova i la Geltrú),UPC,6 244,5 000,5 000,5 000
 11008,Ciències Polítiques i de l'Administració (Barcelona),UB,8 530,5 000,6 936,5 000
 41010,Ciències Polítiques i de l'Administració (Barcelona),UPF,8 360,5 000,5 000,5 000
 81010,Ciències Polítiques i de l'Administració (Girona),UdG,7 032,5 000,5 000,5 000
 11065,Ciències Polítiques i de l'Administració / Dret (simultaneïtat) (Barcelona),UB,11 452,5 563,5 000,5 000
 81054,Ciències Polítiques i de l'Administració / Dret (simultaneïtat) (Girona),UdG,9 408,5 000,5 000,5 000
-11105,Cinematografia "ESCAC" (Terrassa),UB,5 000,5 000,5 000,5 000
+11105,"Cinematografia ""ESCAC"" (Terrassa)",UB,5 000,5 000,5 000,5 000
 81011,Comptabilitat i Finances (Girona),UdG,7 673,5 000,5 000,5 000
 21084,Comptabilitat i Finances (Sabadell),UAB,8 612,5 000,5 000,5 000
 11097,Comunicació Audiovisual (Barcelona),UB,11 090,5 938,7 350,5 000
@@ -125,8 +125,8 @@ Codi,Nom del centre d'estudi i població,Universitat,PAU / CFGS,Més grans de 25
 71007,Comunicació Audiovisual (Tarragona),URV,9 232,6 125,5 000,5 000
 91006,Comunicació Audiovisual (Vic),UVic-UCC,5 000,5 000,5 000,5 000
 11098,Comunicació Audiovisual / Gestió d'Informació i Documentació Digital (simultaneïtat) (Barcelona),UB,10 276,5 000,5 000,5 000
-81005,Comunicació Audiovisual i Multimèdia "ERAM" (Salt),UdG,5 000,5 000,5 000,5 000
-81067,Comunicació Audiovisual i Multimèdia "ERAM" (docència en Anglès) (Salt),UdG,5 000,5 000,5 000,5 000
+81005,"Comunicació Audiovisual i Multimèdia ""ERAM"" (Salt)",UdG,5 000,5 000,5 000,5 000
+81067,"Comunicació Audiovisual i Multimèdia ""ERAM"" (docència en Anglès) (Salt)",UdG,5 000,5 000,5 000,5 000
 81068,Comunicació Cultural (Girona),UdG,5 000,5 000,5 000,6 667
 21121,Comunicació de les Organitzacions (Cerdanyola del Vallès),UAB,9 406,5 000,5 000,5 000
 11067,Comunicació i Indústries Culturals (Barcelona),UB,8 858,5 000,5 000,5 000
@@ -135,7 +135,7 @@ Codi,Nom del centre d'estudi i població,Universitat,PAU / CFGS,Més grans de 25
 11100,Conservació - Restauració de Béns Culturals (Barcelona),UB,5 000,5 563,7 600,5 000
 61042,Conservació de la Natura / Enginyeria Forestal (simultaneïtat) (Lleida),UdL,5 000,5 000,5 000,5 000
 11010,Criminologia (Barcelona),UB,9 540,5 250,5 000,5 000
-91050,Criminologia "ESERP" (Barcelona),UVic-UCC,5 000,5 000,5 000,5 000
+91050,"Criminologia ""ESERP"" (Barcelona)",UVic-UCC,5 000,5 000,5 000,5 000
 21068,Criminologia (Cerdanyola del Vallès),UAB,9 764,7 063,5 000,5 000
 81013,Criminologia (Girona),UdG,8 722,5 000,5 000,5 000
 11088,Criminologia / Dret (simultaneïtat) (Barcelona),UB,11 550,5 625,5 000,5 000
@@ -145,25 +145,25 @@ Codi,Nom del centre d'estudi i població,Universitat,PAU / CFGS,Més grans de 25
 41043,Criminologia i Polítiques Públiques de Prevenció / Dret (simultaneïtat) (Barcelona),UPF,11 362,5 000,5 000,5 000
 21107,Direcció Hotelera (Cerdanyola del Vallès),UAB,5 000,5 000,5 000,5 000
 81083,Direcció d'Empreses Hoteleres i Gastronòmiques (Sant Pol de Mar),UdG,5 000,5 000,5 000,5 000
-71085,Direcció i Gestió d'Empreses en l'Àmbit Digital "ESIC" (Barcelona),URV,5 000,5 000,5 000,5 000
-11110,Direcció i Gestió Gastronòmica "Barcelona Culinary Hub" (L'Hospitalet de Llobregat),UB,5 000,5 000,5 000,5 000
+71085,"Direcció i Gestió d'Empreses en l'Àmbit Digital ""ESIC"" (Barcelona)",URV,5 000,5 000,5 000,5 000
+11110,"Direcció i Gestió Gastronòmica ""Barcelona Culinary Hub"" (L'Hospitalet de Llobregat)",UB,5 000,5 000,5 000,5 000
 11101,Disseny (Barcelona),UB,10 842,5 000,5 000,5 000
-91007,Disseny "BAU" (Barcelona),UVic-UCC,8 333,5 000,5 000,5 000
-21015,Disseny "Eina" (Barcelona),UAB,5 000,5 000,5 000,5 000
+91007,"Disseny ""BAU"" (Barcelona)",UVic-UCC,8 333,5 000,5 000,5 000
+21015,"Disseny ""Eina"" (Barcelona)",UAB,5 000,5 000,5 000,5 000
 61064,Disseny Digital i Tecnologies Creatives (Lleida),UdL,9 217,5 000,5 000,5 000
 31121,Disseny Digital i Tecnologies Multimèdia (Terrassa),UPC,6 082,5 000,5 000,5 000
 31083,Disseny i Desenvolupament de Videojocs (docència en Anglès) (Campus Barcelona) (Barcelona / Terrassa),UPC,5 000,5 000,5 000,5 000
 81059,Disseny i Desenvolupament de Videojocs (Girona),UdG,7 736,5 000,8 130,5 000
 31074,Disseny i Desenvolupament de Videojocs (Campus Terrassa) (Barcelona / Terrassa),UPC,5 000,5 000,5 000,5 000
-11106,Disseny i Desenvolupament de Videojocs i Jocs Aplicats "ENTI" (Barcelona),UB,5 000,5 000,5 000,5 000
-91056,Disseny i Innovació "ELISAVA" (Barcelona),UVic-UCC,5 182,5 000,5 000,5 000
-41045,Disseny i Producció de Videojocs "Tecnocampus" (Mataró),UPF,5 000,5 000,5 000,5 000
-41052,Disseny i Producció de Videojocs / Enginyeria Informàtica de Gestió i Sistemes d'Informació "Tecnocampus" (simultaneïtat) (Mataró),UPF,5 000,5 000,5 000,5 000
+11106,"Disseny i Desenvolupament de Videojocs i Jocs Aplicats ""ENTI"" (Barcelona)",UB,5 000,5 000,5 000,5 000
+91056,"Disseny i Innovació ""ELISAVA"" (Barcelona)",UVic-UCC,5 182,5 000,5 000,5 000
+41045,"Disseny i Producció de Videojocs ""Tecnocampus"" (Mataró)",UPF,5 000,5 000,5 000,5 000
+41052,"Disseny i Producció de Videojocs / Enginyeria Informàtica de Gestió i Sistemes d'Informació ""Tecnocampus"" (simultaneïtat) (Mataró)",UPF,5 000,5 000,5 000,5 000
 31122,Disseny Animació i Art Digital (Terrassa),UPC,9 360,5 000,5 000,5 000
-11107,Disseny Animació i Art Digital per a Videojocs i Jocs Aplicats "ENTI" (Barcelona),UB,7 328,5 000,5 000,5 000
+11107,"Disseny Animació i Art Digital per a Videojocs i Jocs Aplicats ""ENTI"" (Barcelona)",UB,7 328,5 000,5 000,5 000
 11012,Dret (Barcelona),UB,9 900,5 000,7 438,5 000
 41013,Dret (Barcelona),UPF,11 103,5 000,7 130,5 000
-91053,Dret "ESERP" (Barcelona),UVic-UCC,5 000,5 000,5 000,5 000
+91053,"Dret ""ESERP"" (Barcelona)",UVic-UCC,5 000,5 000,5 000,5 000
 21086,Dret (Cerdanyola del Vallès),UAB,9 746,6 188,6 850,5 000
 81015,Dret (Girona),UdG,8 820,5 000,7 190,5 000
 61010,Dret (Lleida),UdL,7 766,5 000,5 000,5 000
@@ -212,12 +212,12 @@ Codi,Nom del centre d'estudi i població,Universitat,PAU / CFGS,Més grans de 25
 71012,Educació Social (Tarragona),URV,8 104,5 000,7 300,5 667
 91010,Educació Social (Vic),UVic-UCC,5 000,5 000,5 000,5 000
 21087,Empresa i Tecnologia (Sabadell),UAB,9 600,5 000,5 000,5 000
-31126,Empresa Innovació i Tecnologia "EUNCET" (Campus 22@) (presencial) (Barcelona),UPC,5 758,5 000,5 000,5 000
-31125,Empresa Innovació i Tecnologia "EUNCET" (Campus 22@) (semipresencial) (Barcelona),UPC,5 000,5 000,5 000,5 000
-31128,Empresa Innovació i Tecnologia "EUNCET" (Campus Terrassa) (presencial) (Terrassa),UPC,5 000,5 000,5 000,5 000
-31127,Empresa Innovació i Tecnologia "EUNCET" (Campus Terrassa) (semipresencial) (Terrassa),UPC,5 000,5 000,5 000,5 333
-31129,Empresa Innovació i Tecnologia / Màrqueting Innovació i Tecnologia "EUNCET" (Campus 22@) (presencial) (simultaneïtat) (Barcelona),UPC,5 000,5 000,5 000,5 000
-31130,Empresa Innovació i Tecnologia / Màrqueting Innovació i Tecnologia "EUNCET" (Campus Terrassa) (presencial) (simultaneïtat) (Terrassa),UPC,5 000,5 000,5 000,5 000
+31126,"Empresa Innovació i Tecnologia ""EUNCET"" (Campus 22@) (presencial) (Barcelona)",UPC,5 758,5 000,5 000,5 000
+31125,"Empresa Innovació i Tecnologia ""EUNCET"" (Campus 22@) (semipresencial) (Barcelona)",UPC,5 000,5 000,5 000,5 000
+31128,"Empresa Innovació i Tecnologia ""EUNCET"" (Campus Terrassa) (presencial) (Terrassa)",UPC,5 000,5 000,5 000,5 000
+31127,"Empresa Innovació i Tecnologia ""EUNCET"" (Campus Terrassa) (semipresencial) (Terrassa)",UPC,5 000,5 000,5 000,5 333
+31129,"Empresa Innovació i Tecnologia / Màrqueting Innovació i Tecnologia ""EUNCET"" (Campus 22@) (presencial) (simultaneïtat) (Barcelona)",UPC,5 000,5 000,5 000,5 000
+31130,"Empresa Innovació i Tecnologia / Màrqueting Innovació i Tecnologia ""EUNCET"" (Campus Terrassa) (presencial) (simultaneïtat) (Terrassa)",UPC,5 000,5 000,5 000,5 000
 11073,Empresa Internacional (docència en Anglès) (Barcelona),UB,11 683,5 000,5 000,5 000
 61006,Enginyeria Agrària i Alimentària (Lleida),UdL,6 210,5 000,5 950,5 000
 81032,Enginyeria Agroalimentària (Girona),UdG,6 768,5 000,5 000,5 000
@@ -231,12 +231,12 @@ Codi,Nom del centre d'estudi i població,Universitat,PAU / CFGS,Més grans de 25
 71070,Enginyeria Biomèdica / Enginyeria de Sistemes i Serveis de Telecomunicacions (simultaneïtat) (Tarragona),URV,11 836,5 000,5 000,5 000
 31103,Enginyeria Civil (Barcelona),UPC,8 528,5 000,5 000,5 000
 31113,Enginyeria Civil Grau en + Màster universitari en Enginyeria de Camins Canals i Ports (PARS: Enginyer/a de Camins Canals i Ports) (Barcelona),UPC,10 978,5 000,7 270,5 000
-21132,Enginyeria d'Automoció "EU Salesiana de Sarrià" (Barcelona),UAB,7 030,5 000,5 000,5 000
+21132,"Enginyeria d'Automoció ""EU Salesiana de Sarrià"" (Barcelona)",UAB,7 030,5 000,5 000,5 000
 31091,Enginyeria d'Automoció (Campus Manresa) (Manresa / Barcelona),UPC,10 260,5 000,5 000,5 000
 71061,Enginyeria de Bioprocessos Alimentaris (Tarragona),URV,5 802,5 000,5 000,5 000
 31097,Enginyeria de Ciències Agronòmiques (Castelldefels),UPC,6 114,5 000,7 150,5 000
 21118,Enginyeria de Dades (Cerdanyola del Vallès),UAB,9 882,5 000,5 000,5 000
-91057,Enginyeria de Disseny Industrial "ELISAVA" (Barcelona),UVic-UCC,5 000,5 000,5 000,5 000
+91057,"Enginyeria de Disseny Industrial ""ELISAVA"" (Barcelona)",UVic-UCC,5 000,5 000,5 000,5 000
 31022,Enginyeria de Disseny Industrial i Desenvolupament del Producte (Terrassa),UPC,10 962,5 000,5 000,5 000
 31006,Enginyeria de Disseny Industrial i Desenvolupament del Producte (Vilanova i la Geltrú),UPC,8 105,5 000,5 000,5 000
 91051,Enginyeria de l'Automoció (Granollers),UVic-UCC,6 638,5 000,5 000,5 000
@@ -261,7 +261,7 @@ Codi,Nom del centre d'estudi i població,Universitat,PAU / CFGS,Més grans de 25
 31086,Enginyeria de Tecnologies i Serveis de Telecomunicació (Barcelona),UPC,7 754,5 000,5 000,5 000
 31111,Enginyeria de Tecnologies i Serveis de Telecomunicació Grau en + Màster Universitari en Enginyeria de Telecomunicació (PARS: Enginyer/a de Telecomunicació) (Barcelona),UPC,10 214,5 000,5 960,5 000
 41020,Enginyeria de Xarxes de Telecomunicació (Barcelona),UPF,8 244,5 000,5 000,5 000
-41057,Enginyeria d'Organització Industrial / Enginyeria Electrònica Industrial i Automàtica / Enginyeria Mecànica "Tecnocampus" (agrupació) (Mataró),UPF,5 732,5 000,5 000,7 833
+41057,"Enginyeria d'Organització Industrial / Enginyeria Electrònica Industrial i Automàtica / Enginyeria Mecànica ""Tecnocampus"" (agrupació) (Mataró)",UPF,5 732,5 000,5 000,7 833
 31053,Enginyeria Elèctrica (Barcelona / Sant Adrià de Besòs),UPC,7 944,5 000,5 000,5 000
 81040,Enginyeria Elèctrica (Girona),UdG,6 450,5 000,5 000,5 000
 71037,Enginyeria Elèctrica (Tarragona),URV,6 332,5 000,5 000,5 000
@@ -271,16 +271,16 @@ Codi,Nom del centre d'estudi i població,Universitat,PAU / CFGS,Més grans de 25
 11017,Enginyeria Electrònica de Telecomunicació (Barcelona),UB,8 660,5 000,5 000,5 000
 31099,Enginyeria Electrònica de Telecomunicació (Barcelona),UPC,9 523,5 000,5 000,5 000
 21106,Enginyeria Electrònica de Telecomunicació / Enginyeria Informàtica (simultaneïtat) (Cerdanyola del Vallès),UAB,8 893,5 000,5 000,5 000
-21025,Enginyeria Electrònica Industrial i Automàtica "EU Salesiana de Sarrià" (Barcelona),UAB,6 330,5 000,5 000,5 000
+21025,"Enginyeria Electrònica Industrial i Automàtica ""EU Salesiana de Sarrià"" (Barcelona)",UAB,6 330,5 000,5 000,5 000
 31054,Enginyeria Electrònica Industrial i Automàtica (Barcelona / Sant Adrià de Besòs),UPC,8 538,5 000,5 000,5 000
 81021,Enginyeria Electrònica Industrial i Automàtica (Girona),UdG,6 711,5 000,5 000,5 000
 71038,Enginyeria Electrònica Industrial i Automàtica (Tarragona),URV,6 562,5 000,5 000,6 833
-21112,Enginyeria Electrònica Industrial i Automàtica / Enginyeria Mecànica "EU Salesiana de Sarrià" (simultaneïtat) (Barcelona),UAB,6 924,5 000,5 000,5 000
+21112,"Enginyeria Electrònica Industrial i Automàtica / Enginyeria Mecànica ""EU Salesiana de Sarrià"" (simultaneïtat) (Barcelona)",UAB,6 924,5 000,5 000,5 000
 31104,Enginyeria Electrònica Industrial i Automàtica / Enginyeria Mecànica / Enginyeria Química / Enginyeria de Recursos Minerals i el seu Reciclatge (agrupació) (Manresa),UPC,7 058,5 000,5 000,5 000
-21127,Enginyeria en Energies Renovables i Eficiència Energètica "EU Salesiana de Sarrià" (Barcelona),UAB,5 786,5 000,6 810,5 000
+21127,"Enginyeria en Energies Renovables i Eficiència Energètica ""EU Salesiana de Sarrià"" (Barcelona)",UAB,5 786,5 000,6 810,5 000
 31087,Enginyeria en Geoinformació i Geomàtica (Barcelona),UPC,6 698,5 000,5 000,5 000
 41019,Enginyeria en Informàtica (Barcelona),UPF,10 232,5 000,5 000,5 000
-21022,Enginyeria en Organització Industrial "EU Salesiana de Sarrià" (Barcelona),UAB,6 160,5 000,5 000,5 000
+21022,"Enginyeria en Organització Industrial ""EU Salesiana de Sarrià"" (Barcelona)",UAB,6 160,5 000,5 000,5 000
 61060,Enginyeria en Organització Industrial i Logística / Enginyeria Química (agrupació) (Igualada),UdL,6 252,5 000,5 000,5 000
 41018,Enginyeria en Sistemes Audiovisuals (Barcelona),UPF,8 036,5 000,5 000,5 000
 31049,Enginyeria en Sistemes i Tecnologia Naval (Barcelona),UPC,8 550,5 000,6 700,5 000
@@ -302,10 +302,10 @@ Codi,Nom del centre d'estudi i població,Universitat,PAU / CFGS,Més grans de 25
 31116,Enginyeria Informàtica Grau en + Màster Universitari en Enginyeria Informàtica (PARS: Enginyer/a Informàtic/a) (Barcelona),UPC,11 838,6 063,5 000,5 000
 61076,Enginyeria Informàtica Grau en + Màster Universitari en Enginyeria Informàtica (PARS: Enginyer/a Informàtic/a) (Lleida),UdL,7 755,5 000,5 000,5 000
 11016,Enginyeria Informàtica / Matemàtiques (simultaneïtat) (Barcelona),UB,12 728,7 688,6 323,5 000
-41047,Enginyeria Informàtica de Gestió i Sistemes d'Informació "Tecnocampus" (Mataró),UPF,6 796,5 000,5 000,5 000
+41047,"Enginyeria Informàtica de Gestió i Sistemes d'Informació ""Tecnocampus"" (Mataró)",UPF,6 796,5 000,5 000,5 000
 41056,Enginyeria Matemàtica en Ciència de Dades (Barcelona),UPF,11 526,5 000,5 000,5 000
 71081,Enginyeria Matemàtica i Física (Tarragona),URV,11 686,5 000,5 000,5 000
-21026,Enginyeria Mecànica "EU Salesiana de Sarrià" (Barcelona),UAB,6 946,5 000,5 000,5 000
+21026,"Enginyeria Mecànica ""EU Salesiana de Sarrià"" (Barcelona)",UAB,6 946,5 000,5 000,5 000
 31027,Enginyeria Mecànica (Barcelona / Sant Adrià de Besòs),UPC,9 376,5 000,5 000,5 000
 81022,Enginyeria Mecànica (Girona),UdG,7 507,5 000,5 000,5 000
 71040,Enginyeria Mecànica (Tarragona),URV,7 792,5 000,5 000,5 000
@@ -365,13 +365,13 @@ Codi,Nom del centre d'estudi i població,Universitat,PAU / CFGS,Més grans de 25
 21100,Física / Química (simultaneïtat) (Cerdanyola del Vallès),UAB,11 620,5 000,6 350,5 000
 21095,Fisioteràpia (Cerdanyola del Vallès),UAB,10 620,7 000,8 220,7 000
 61019,Fisioteràpia (Lleida),UdL,10 117,6 438,8 940,5 000
-41055,Fisioteràpia "Tecnocampus" (Mataró),UPF,8 240,5 000,7 473,5 000
+41055,"Fisioteràpia ""Tecnocampus"" (Mataró)",UPF,8 240,5 000,7 473,5 000
 91041,Fisioteràpia (Campus Manresa) (Manresa),UVic-UCC,7 631,5 000,7 480,5 000
 71043,Fisioteràpia (Reus),URV,9 425,5 594,8 277,5 333
 91918,Fisioteràpia (docència en Anglès) (només per a estudiants espanyols o estrangers amb residència) (L'Hospitalet de Llobregat),UdG / UB,6 516,5 000,8 680,5 000
 91919,Fisioteràpia (docència en Anglès) (només per a estudiants sense nacionalitat espanyola ni residència a l'Estat Espanyol) (L'Hospitalet de Llobregat),UdG / UB,7 445,5 000,5 000,5 000
-81087,Fisioteràpia "EUSES" (Salt),UdG,7 787,5 000,7 351,5 000
-21033,Fisioteràpia "Gimbernat" (Sant Cugat del Vallès),UAB,6 750,5 000,5 000,5 000
+81087,"Fisioteràpia ""EUSES"" (Salt)",UdG,7 787,5 000,7 351,5 000
+21033,"Fisioteràpia ""Gimbernat"" (Sant Cugat del Vallès)",UAB,6 750,5 000,5 000,5 000
 71048,Fisioteràpia (Tortosa),URV,7 089,5 000,5 000,5 000
 91012,Fisioteràpia (Vic),UVic-UCC,7 689,5 000,7 359,5 000
 61044,Fisioteràpia / Infermeria (simultaneïtat) (Lleida),UdL,11 797,5 000,8 158,5 000
@@ -407,8 +407,8 @@ Codi,Nom del centre d'estudi i població,Universitat,PAU / CFGS,Més grans de 25
 41003,Humanitats (Barcelona),UPF,5 000,5 000,5 000,5 000
 21101,Humanitats (Cerdanyola del Vallès),UAB,5 000,5 000,5 000,5 000
 11081,Infermeria (Campus Clínic) (Barcelona),UB,11 976,7 219,8 400,6 833
-21043,Infermeria "Sant Pau" (Barcelona),UAB,10 248,5 938,7 740,5 000
-41021,Infermeria "Escola Superior d'Infermeria del Mar" (Barcelona),UPF,9 580,5 750,7 100,5 167
+21043,"Infermeria ""Sant Pau"" (Barcelona)",UAB,10 248,5 938,7 740,5 000
+41021,"Infermeria ""Escola Superior d'Infermeria del Mar"" (Barcelona)",UPF,9 580,5 750,7 100,5 167
 21044,Infermeria (Cerdanyola del Vallès),UAB,10 982,6 125,7 980,6 333
 71032,Infermeria (el Vendrell),URV,10 754,5 907,8 100,5 833
 81066,Infermeria (Girona),UdG,10 550,6 125,7 790,6 167
@@ -416,9 +416,9 @@ Codi,Nom del centre d'estudi i població,Universitat,PAU / CFGS,Més grans de 25
 11037,Infermeria (Campus Bellvitge) (L'Hospitalet de Llobregat),UB,11 068,6 719,8 070,5 000
 61029,Infermeria (Lleida),UdL,11 146,5 063,8 170,5 000
 91043,Infermeria (Campus Manresa) (Manresa),UVic-UCC,8 028,5 563,6 370,5 000
-41031,Infermeria "Tecnocampus" (Mataró),UPF,8 680,5 875,6 860,5 000
-11036,Infermeria "Sant Joan de Déu" (Esplugues de Llobregat),UB,9 150,5 875,7 510,5 000
-21042,Infermeria "Gimbernat" (Sant Cugat del Vallès),UAB,7 847,5 063,6 870,5 000
+41031,"Infermeria ""Tecnocampus"" (Mataró)",UPF,8 680,5 875,6 860,5 000
+11036,"Infermeria ""Sant Joan de Déu"" (Esplugues de Llobregat)",UB,9 150,5 875,7 510,5 000
+21042,"Infermeria ""Gimbernat"" (Sant Cugat del Vallès)",UAB,7 847,5 063,6 870,5 000
 71016,Infermeria (Tarragona),URV,11 278,6 563,8 560,5 833
 21041,Infermeria EUIT de Terrassa (Terrassa),UAB,8 232,5 375,7 180,5 000
 71028,Infermeria (Tortosa),URV,10 957,5 375,8 020,5 333
@@ -437,20 +437,20 @@ Codi,Nom del centre d'estudi i població,Universitat,PAU / CFGS,Més grans de 25
 41054,Llengües Aplicades / Traducció i Interpretació -Anglès- (simultaneïtat) (Barcelona),UPF,11 730,9 438,5 000,5 000
 11040,Llengües i Literatures Modernes (Barcelona),UB,5 000,5 000,5 000,5 000
 11082,Llengües Romàniques i les seves Literatures (Barcelona),UB,5 000,5 000,5 000,5 000
-81064,Logística Empresarial "Mediterrani" (Barcelona),UdG,5 000,5 000,5 000,5 000
-41048,Logística i Negocis Marítims "Tecnocampus" (Mataró),UPF,6 240,5 000,5 000,5 000
+81064,"Logística Empresarial ""Mediterrani"" (Barcelona)",UdG,5 000,5 000,5 000,5 000
+41048,"Logística i Negocis Marítims ""Tecnocampus"" (Mataró)",UPF,6 240,5 000,5 000,5 000
 21048,Logopèdia (Cerdanyola del Vallès),UAB,8 918,5 000,7 525,5 000
-71062,Màrqueting "ESIC" (Barcelona),URV,5 000,5 000,5 000,5 000
-71074,Màrqueting "ESIC" (docència en Anglès) (Barcelona),URV,5 000,5 000,5 000,5 000
-81051,Màrqueting "Mediterrani" (Barcelona),UdG,5 000,5 000,5 000,5 000
-61078,Màrqueting i Comunicació Digital "Centre Universitari EAE" (Barcelona),UdL,5 000,5 000,5 000,5 000
+71062,"Màrqueting ""ESIC"" (Barcelona)",URV,5 000,5 000,5 000,5 000
+71074,"Màrqueting ""ESIC"" (docència en Anglès) (Barcelona)",URV,5 000,5 000,5 000,5 000
+81051,"Màrqueting ""Mediterrani"" (Barcelona)",UdG,5 000,5 000,5 000,5 000
+61078,"Màrqueting i Comunicació Digital ""Centre Universitari EAE"" (Barcelona)",UdL,5 000,5 000,5 000,5 000
 91032,Màrqueting i Comunicació Empresarial (Vic),UVic-UCC,5 000,5 000,5 000,5 000
-41039,Màrqueting i Comunitats Digitals "Tecnocampus" (Mataró),UPF,6 204,5 000,5 000,5 000
-41062,Màrqueting i Comunitats Digitals / Turisme i Gestió del Lleure "Tecnocampus" (simultaneïtat) (Mataró),UPF,5 000,5 000,5 000,5 000
-31132,Màrqueting Innovació i Tecnologia "EUNCET" (Campus 22@) (presencial) (Barcelona),UPC,6 570,5 000,5 000,5 000
-31131,Màrqueting Innovació i Tecnologia "EUNCET" (Campus 22@) (semipresencial) (Barcelona),UPC,5 000,5 000,5 000,5 000
-31134,Màrqueting Innovació i Tecnologia "EUNCET" (Campus Terrassa) (presencial) (Terrassa),UPC,5 000,5 000,5 000,5 000
-31133,Màrqueting Innovació i Tecnologia "EUNCET" (Campus Terrassa) (semipresencial) (Terrassa),UPC,5 000,5 000,5 000,5 000
+41039,"Màrqueting i Comunitats Digitals ""Tecnocampus"" (Mataró)",UPF,6 204,5 000,5 000,5 000
+41062,"Màrqueting i Comunitats Digitals / Turisme i Gestió del Lleure ""Tecnocampus"" (simultaneïtat) (Mataró)",UPF,5 000,5 000,5 000,5 000
+31132,"Màrqueting Innovació i Tecnologia ""EUNCET"" (Campus 22@) (presencial) (Barcelona)",UPC,6 570,5 000,5 000,5 000
+31131,"Màrqueting Innovació i Tecnologia ""EUNCET"" (Campus 22@) (semipresencial) (Barcelona)",UPC,5 000,5 000,5 000,5 000
+31134,"Màrqueting Innovació i Tecnologia ""EUNCET"" (Campus Terrassa) (presencial) (Terrassa)",UPC,5 000,5 000,5 000,5 000
+31133,"Màrqueting Innovació i Tecnologia ""EUNCET"" (Campus Terrassa) (semipresencial) (Terrassa)",UPC,5 000,5 000,5 000,5 000
 21122,Matemàtica Computacional i Analítica de Dades (Cerdanyola del Vallès),UAB,11 666,5 000,7 730,5 000
 11041,Matemàtiques (Barcelona),UB,12 472,7 563,8 410,5 000
 31040,Matemàtiques (Barcelona),UPC,12 816,5 000,7 440,5 000
@@ -464,20 +464,20 @@ Codi,Nom del centre d'estudi i població,Universitat,PAU / CFGS,Més grans de 25
 71019,Medicina (Reus),URV,12 696,5 813,9 790,5 000
 91054,Medicina (Vic),UVic-UCC,11 984,5 000,9 140,5 000
 21050,Microbiologia (Cerdanyola del Vallès),UAB,11 018,5 000,6 800,5 000
-41049,Mitjans Audiovisuals "Tecnocampus" (Mataró),UPF,5 000,5 000,5 000,5 000
-81079,Moda "ERAM" (Girona / Salt),UdG,5 508,5 000,5 000,5 000
+41049,"Mitjans Audiovisuals ""Tecnocampus"" (Mataró)",UPF,5 000,5 000,5 000,5 000
+81079,"Moda ""ERAM"" (Girona / Salt)",UdG,5 508,5 000,5 000,5 000
 91029,Multimèdia. Aplicacions i Videojocs (Vic),UVic-UCC,5 000,5 000,5 000,5 000
 21051,Musicologia (Cerdanyola del Vallès),UAB,7 660,5 000,5 000,6 500
 21150,Nanociència i Nanotecnologia (Cerdanyola del Vallès),UAB,10 648,5 000,5 000,5 000
 31045,Nàutica i Transport Marítim (Barcelona),UPC,7 909,7 063,8 050,5 000
-11102,Negoci Digital i Innovació en Turisme "CETT" (Barcelona),UB,5 000,5 000,5 000,5 000
-11112,Negoci Digital i Innovació en Turisme / Turisme "CETT" (simultaneïtat) (Barcelona),UB,5 000,5 000,5 000,5 000
-41024,Negocis i Màrqueting Internacionals - Bachelor in International Business and Marketing "ESCI" (Barcelona),UPF,8 704,5 000,5 000,5 000
-41063,Negocis i Màrqueting Internacionals - Bachelor in International Business and Marketing "ESCI" (docència en anglès) (Barcelona),UPF,9 466,5 000,5 000,5 000
+11102,"Negoci Digital i Innovació en Turisme ""CETT"" (Barcelona)",UB,5 000,5 000,5 000,5 000
+11112,"Negoci Digital i Innovació en Turisme / Turisme ""CETT"" (simultaneïtat) (Barcelona)",UB,5 000,5 000,5 000,5 000
+41024,"Negocis i Màrqueting Internacionals - Bachelor in International Business and Marketing ""ESCI"" (Barcelona)",UPF,8 704,5 000,5 000,5 000
+41063,"Negocis i Màrqueting Internacionals - Bachelor in International Business and Marketing ""ESCI"" (docència en anglès) (Barcelona)",UPF,9 466,5 000,5 000,5 000
 61031,Nutrició Humana i Dietètica (Lleida),UdL,7 633,5 000,5 000,5 000
-41061,Nutrició Humana i Dietètica "Tecnocampus" (Mataró),UPF,5 000,5 000,5 000,5 000
+41061,"Nutrició Humana i Dietètica ""Tecnocampus"" (Mataró)",UPF,5 000,5 000,5 000,5 000
 71044,Nutrició Humana i Dietètica (Reus),URV,7 308,5 000,6 980,5 000
-81081,Nutrició Humana i Dietètica "EUSES" (Salt),UdG,5 000,5 000,5 830,5 000
+81081,"Nutrició Humana i Dietètica ""EUSES"" (Salt)",UdG,5 000,5 000,5 830,5 000
 11062,Nutrició Humana i Dietètica (Santa Coloma de Gramenet),UB,10 184,5 563,8 300,5 000
 91021,Nutrició Humana i Dietètica (Vic),UVic-UCC,5 000,5 000,5 000,5 000
 11044,Odontologia (L'Hospitalet de Llobregat),UB,12 496,7 250,9 010,5 000
@@ -497,7 +497,7 @@ Codi,Nom del centre d'estudi i població,Universitat,PAU / CFGS,Més grans de 25
 91045,Podologia (Campus Manresa) (Manresa),UVic-UCC,5 000,5 000,5 000,5 000
 21054,Prevenció i Seguretat Integral (Cerdanyola del Vallès),UAB,5 000,5 000,5 000,5 000
 21113,Prevenció i Seguretat Integral (en xarxa) (Cerdanyola del Vallès),UAB,5 000,5 000,5 000,5 000
-11111,Producció de Música i So per a la Indústria de l'Entreteniment "ENTI" (Barcelona),UB,5 142,5 000,5 000,5 000
+11111,"Producció de Música i So per a la Indústria de l'Entreteniment ""ENTI"" (Barcelona)",UB,5 142,5 000,5 000,5 000
 11047,Psicologia (Barcelona),UB,10 064,5 938,7 990,6 000
 21081,Psicologia (Cerdanyola del Vallès),UAB,9 887,5 250,7 400,6 333
 81033,Psicologia (Girona),UdG,9 785,5 000,7 370,7 667
@@ -509,7 +509,7 @@ Codi,Nom del centre d'estudi i població,Universitat,PAU / CFGS,Més grans de 25
 81002,Publicitat i Relacions Públiques (Girona),UdG,9 916,5 000,5 000,5 000
 71023,Publicitat i Relacions Públiques (Tarragona),URV,10 166,5 000,8 030,5 000
 91015,Publicitat i Relacions Públiques (Vic),UVic-UCC,5 000,5 000,5 000,5 000
-11093,Publicitat Relacions Públiques i Màrqueting "ESRP" (Barcelona),UB,8 717,5 000,5 000,5 000
+11093,"Publicitat Relacions Públiques i Màrqueting ""ESRP"" (Barcelona)",UB,8 717,5 000,5 000,5 000
 11049,Química (Barcelona),UB,9 673,5 000,5 000,5 000
 21082,Química (Cerdanyola del Vallès),UAB,9 396,5 000,5 000,5 000
 81034,Química (Girona),UdG,8 326,5 000,5 000,5 000
@@ -537,15 +537,15 @@ Codi,Nom del centre d'estudi i població,Universitat,PAU / CFGS,Més grans de 25
 81044,Treball Social (Girona),UdG,7 362,5 000,5 000,7 333
 61034,Treball Social (Lleida),UdL,6 776,5 000,5 000,5 000
 71026,Treball Social (Tarragona),URV,6 776,5 000,5 000,7 500
-11011,Turisme "CETT" (Barcelona),UB,5 000,5 000,5 000,5 000
-11086,Turisme "CETT" (docència en Anglès) (Barcelona),UB,5 000,5 000,5 000,5 000
-81036,Turisme "Euroaula" (Barcelona),UdG,5 000,5 000,5 000,5 000
-81038,Turisme "Mediterrani" (Barcelona),UdG,5 000,5 000,5 000,5 000
+11011,"Turisme ""CETT"" (Barcelona)",UB,5 000,5 000,5 000,5 000
+11086,"Turisme ""CETT"" (docència en Anglès) (Barcelona)",UB,5 000,5 000,5 000,5 000
+81036,"Turisme ""Euroaula"" (Barcelona)",UdG,5 000,5 000,5 000,5 000
+81038,"Turisme ""Mediterrani"" (Barcelona)",UdG,5 000,5 000,5 000,5 000
 21059,Turisme (Cerdanyola del Vallès),UAB,5 000,5 000,5 000,5 000
 21114,Turisme (docència en Anglès) (Cerdanyola del Vallès),UAB,5 000,5 000,5 000,5 000
 81039,Turisme (Girona),UdG,5 000,5 000,5 000,5 000
 61021,Turisme (Lleida),UdL,5 000,5 000,5 000,5 000
 81076,Turisme / Geografia Territori i Medi Ambient (simultaneïtat) (Girona),UdG,5 000,5 000,5 000,5 000
-81062,Turisme / Màrqueting "Mediterrani" (simultaneïtat) (Barcelona),UdG,5 000,5 000,5 000,5 000
+81062,"Turisme / Màrqueting ""Mediterrani"" (simultaneïtat) (Barcelona)",UdG,5 000,5 000,5 000,5 000
 81077,Turisme / Publicitat i Relacions Públiques (simultaneïtat) (Girona),UdG,9 660,5 000,5 000,5 000
 21083,Veterinària (Cerdanyola del Vallès),UAB,11 930,7 563,8 640,5 000
