@@ -5,9 +5,11 @@ class Menu:
         self.options = []
         self.menu_prompt = "Please select an action:"
 
-    def add_option(self, number, description, action):
-        """Adds an option to the menu."""
-        self.options.append({'number': number, 'description': description, 'action': action})
+    def add_option(self, description, action):
+        """Adds an option to the menu and assigns it an automatic index starting from 1."""
+        # Create a new index based on the current length of the options list + 1
+        option_number = len(self.options) + 1
+        self.options.append({'number': option_number, 'description': description, 'action': action})
 
     def display(self):
         """Displays the menu."""

@@ -1,11 +1,13 @@
 import re
 import argparse
 import os
+import sys
+from parent_src.Cli_utils import CliOutput  # Assuming CliOutput is implemented
 
 def aline_text(input_filename, output_filename):
     with open(input_filename, 'r') as f:
         context = f.read()
-    print(f"Llegint de: {input_filename}")
+    CliOutput.info(f"Llegint de: {input_filename}")
     
     result_lines = []  
     current_code_line = None 
@@ -24,7 +26,6 @@ def aline_text(input_filename, output_filename):
 
         line = line.replace('.0', '')
 
-
         if line.startswith("Grau") or line.startswith("Total"):
             find_code = False
 
@@ -37,7 +38,6 @@ def aline_text(input_filename, output_filename):
             current_code_line = line
             continue
 
-        # elimina el principit
         if not find_code:
             continue
 
@@ -50,9 +50,9 @@ def aline_text(input_filename, output_filename):
     with open(output_filename, "w") as f:
         f.write("\n".join(result_lines))
 
-    print(f"Resultat escrit a: {output_filename}")
+    CliOutput.success(f"Resultat escrit a: {output_filename}")
 
-if __name__ == "__main__":
+def main():
     parser = argparse.ArgumentParser(description='Process and format lines in a file.')
     parser.add_argument('file_path', type=str, help='Name of the input file.')
     parser.add_argument('output_dir', type=str, help='Directory to save the formatted output file.')
@@ -64,5 +64,14 @@ if __name__ == "__main__":
     input_filename = os.path.join(input_directory, base_filename + ".csv")
     output_filename = os.path.join(args.output_dir, base_filename + "_formated.csv")
 
-    print(f"Aligning text: {input_filename} to {output_filename}")
+    CliOutput.info(f"Aligning text: {input_filename} to {output_filename}")
     aline_text(input_filename, output_filename)
+
+
+if __name__ == "__main__":
+    module_dir = "./parent_src"
+    if module_dir not in sys.path:
+        sys.path.append(module_dir)
+    
+    main()
+

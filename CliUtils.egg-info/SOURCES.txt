@@ -1,9 +1,0 @@
-setup.py
-CliUtils.egg-info/PKG-INFO
-CliUtils.egg-info/SOURCES.txt
-CliUtils.egg-info/dependency_links.txt
-CliUtils.egg-info/top_level.txt
-parent_src/Cli_utils.py
-parent_src/Menu.py
-parent_src/__init__.py
-parent_src/filter.py

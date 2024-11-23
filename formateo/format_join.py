@@ -2,49 +2,44 @@ import os
 import glob
 import pandas as pd  # type:ignore
 import argparse
+import sys
+from parent_src.Cli_utils import CliOutput  # Assuming CliOutput is implemented
+
 
 def merge_csv_by_columns(input_dir, output_file, merge_columns=None, columns_to_merge=None):
-    # Find all CSV files in the directory
     input_files = glob.glob(os.path.join(input_dir, "*.csv"))
     
     if not input_files:
-        print("No file found")
-        return  # Exit if no files are found
+        CliOutput.error("No file found")
+        return
 
     merged_df = pd.DataFrame()
 
     for file in input_files:
-        print(f"Processing {file}")
+        CliOutput.info(f"Processing {file}")
         
         try:
-            # Read the current CSV file into a DataFrame
-            df = pd.read_csv(file, on_bad_lines='skip', quotechar='"')  # Handle quoted commas
-            
+            df = pd.read_csv(file, on_bad_lines='skip', quotechar='"')
         except pd.errors.ParserError as e:
-            print(f"Error reading {file}: {e}")
+            CliOutput.error(f"Error reading {file}: {e}")
             continue
 
-        # Check if all required columns exist in the file
         if merge_columns:
             missing_columns = [col for col in merge_columns if col not in df.columns]
             if missing_columns:
-                print(f"Warning: Missing columns {missing_columns} in {file}. Skipping.")
+                CliOutput.warning(f"Missing columns {missing_columns} in {file}. Skipping.")
                 continue
 
-        # If it's the first file, initialize merged_df
         if merged_df.empty:
             merged_df = df
         else:
-            # Merge subsequent files on the specified columns
             merged_df = pd.merge(merged_df, df, on=merge_columns, how='outer')
 
-    # If columns are specified, filter them; otherwise, keep all columns
     if columns_to_merge:
         merged_df = merged_df[columns_to_merge]
     
-    # Save the merged DataFrame to the output CSV file
     merged_df.to_csv(output_file, index=False)
-    print(f"Merged CSV saved to {output_file}")
+    CliOutput.success(f"Merged CSV saved to {output_file}")
 
 
 def main():
@@ -56,28 +51,28 @@ def main():
 
     args = parser.parse_args()
 
-    # Print the input arguments for debugging
-    print(f"Input Directory: {args.input_dir}")
-    print(f"Output File: {args.output_file}")
+    CliOutput.info(f"Input Directory: {args.input_dir}")
+    CliOutput.info(f"Output File: {args.output_file}")
 
-    # Parse columns for merging and optional columns to include
     if args.merge_columns:
         merge_columns = [col.strip() for col in args.merge_columns.split(',')]
-        print(f"Columns to Merge On: {merge_columns}")
+        CliOutput.info(f"Columns to Merge On: {merge_columns}")
     else:
-        print("Error: --merge_columns is required.")
+        CliOutput.error("Error: --merge_columns is required.")
         return
 
     columns_to_merge = None
     if args.columns:
-        # Strip spaces and split by commas
         columns_to_merge = [col.strip() for col in args.columns.split(',')]
-        print(f"Columns to Include: {columns_to_merge}")
+        CliOutput.info(f"Columns to Include: {columns_to_merge}")
     else:
-        print("No specific columns to merge (all columns will be included).")
+        CliOutput.info("No specific columns to merge (all columns will be included).")
 
     merge_csv_by_columns(args.input_dir, args.output_file, merge_columns=merge_columns, columns_to_merge=columns_to_merge)
 
 
 if __name__ == "__main__":
+    module_dir = "./parent_src"
+    if module_dir not in sys.path:
+        sys.path.append(module_dir)
     main()

@@ -1,5 +1,7 @@
 import argparse
 import os
+import sys
+from parent_src.Cli_utils import CliOutput  # Importing CliOutput for colored messages
 
 NUMBER_COLUMN_START = 3
 NUMBER_COLUMN_END = 6
@@ -10,39 +12,49 @@ def extract_numbers(input_string):
     if found_numbers:
         number = int("".join(found_numbers))
         formatted_number = f"{number:,}".replace(",", ".")
-    return formatted_number if found_numbers else "N/A"
+        return formatted_number
+    return "N/A"
 
 def transform_list(input_list):
-    if NUMBER_COLUMN_END < len(input_list) or len(input_list) < NUMBER_COLUMN_START :
+    if NUMBER_COLUMN_END < len(input_list) or len(input_list) < NUMBER_COLUMN_START:
         return input_list
 
     transformed_list = input_list[:NUMBER_COLUMN_START] + [extract_numbers(s) for s in input_list[NUMBER_COLUMN_START:NUMBER_COLUMN_END]]
     return transformed_list
 
 def process_text(input_filename, output_filename):
-    with open(input_filename, 'r') as f:
-        context = f.read()
-    print(f"Llegint de: {input_filename}")
-    
+    try:
+        with open(input_filename, 'r') as f:
+            context = f.read()
+        CliOutput.info(f"Llegint de: {input_filename}")
+    except FileNotFoundError:
+        CliOutput.error(f"El fitxer d'entrada no existeix: {input_filename}")
+        return
+    except Exception as e:
+        CliOutput.error(f"Error al llegir el fitxer {input_filename}: {e}")
+        return
+
     result_lines = []  
 
-    for line in context.split('\n'):
-        line = line.strip()
+    try:
+        for line in context.split('\n'):
+            line = line.strip()
     
-        # solve casilles incorrectes
-        list_line = transform_list(line.split(','))
-        line = ",".join(list_line)
+            # Solve incorrect cells
+            list_line = transform_list(line.split(','))
+            line = ",".join(list_line)
 
-        result_lines.append(line)
+            result_lines.append(line)
 
-    with open(output_filename, "w") as f:
-        f.write("Codi,Nom del centre d'estudi i població,Universitat,PAU / CFGS,Més grans de 25 anys,Titulats universitaris,Més grans de 45 anys\n")
-        
-        f.write("\n".join(result_lines))
+        with open(output_filename, "w") as f:
+            f.write("Codi,Nom del centre d'estudi i població,Universitat,PAU / CFGS,Més grans de 25 anys,Titulats universitaris,Més grans de 45 anys\n")
+            f.write("\n".join(result_lines))
 
-    print(f"Resultat escrit a: {output_filename}")
+        CliOutput.success(f"Resultat escrit a: {output_filename}")
+    except Exception as e:
+        CliOutput.error(f"Error al processar el fitxer {input_filename}: {e}")
 
-if __name__ == "__main__":
+def main():
     parser = argparse.ArgumentParser(description='Process and format lines in a file.')
     parser.add_argument('file_path', type=str, help='Path of the input file.')
     parser.add_argument('output_dir', type=str, help='Directory to save the formatted output file.')
@@ -54,5 +66,20 @@ if __name__ == "__main__":
     input_filename = os.path.join(input_directory, base_filename + ".csv")
     output_filename = os.path.join(args.output_dir, base_filename + ".csv")
 
-    print(f"Solving issues notes: {input_filename} to {output_filename}")
+    if not os.path.exists(args.file_path):
+        CliOutput.error(f"El fitxer d'entrada no existeix: {args.file_path}")
+        exit(1)
+
+    if not os.path.exists(args.output_dir):
+        CliOutput.warning(f"El directori de sortida no existeix. Creant: {args.output_dir}")
+        os.makedirs(args.output_dir)
+
+    CliOutput.info(f"Solving issues notes: {input_filename} to {output_filename}")
     process_text(input_filename, output_filename)
+
+if __name__ == "__main__":
+    module_dir = "./parent_src"
+    if module_dir not in sys.path:
+        sys.path.append(module_dir)
+    
+    main()
