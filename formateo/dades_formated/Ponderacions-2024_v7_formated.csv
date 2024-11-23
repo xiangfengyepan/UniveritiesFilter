@@ -1,0 +1,658 @@
+Codi,Nom del centre destudi,Universitat,Branca,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27
+41029,Administració d'Empreses i Gestió de la Innovació "Tecnocampus",UPF,CSJ,0,0,2,0,0,0,0,2,0,2,2,0,0,0,0,0,0,0,0,2,2,2,0,0,0,2,0
+41036,Administració d'Empreses i Gestió de la Innovació "Tecnocampus" (Docència en Anglès),UPF,CSJ,0,0,2,0,0,0,0,2,0,2,2,0,0,0,0,0,0,0,0,2,2,2,0,0,0,2,0
+41041,Administració d'Empreses i Gestió de la Innovació / Màrqueting i Comunitats Digitals "Tecnocampus" (Simultaneïtat),UPF,CSJ,2,2,2,0,0,0,2,2,1,2,2,0,0,2,2,2,0,0,0,2,2,2,0,2,0,2,0
+41035,Administració d'Empreses i Gestió de la Innovació / Turisme i Gestió del Lleure "Tecnocampus" (Simultaneïtat),UPF,CSJ,1,1,2,0,0,0,0,2,2,2,2,0,0,2,2,2,0,0,0,2,2,2,0,0,0,2,0
+11033,Administració i Direcció d'Empreses,UB,CSJ,0,0,2,0,0,0,0,2,0,2,2,0,0,0,0,0,0,0,0,2,2,2,0,0,0,2,0
+21014,Administració i Direcció d'Empreses,UAB,CSJ,0,0,2,0,0,0,0,2,0,2,2,0,0,0,0,0,0,0,0,2,2,2,0,0,0,2,0
+21099,Administració i Direcció d'Empreses (Docència en Anglès),UAB,CSJ,0,0,2,0,0,0,0,2,0,2,2,0,0,0,0,0,0,0,0,2,2,2,0,0,0,2,0
+61077,Administració i Direcció d'Empreses i Transformació de Negocis "Centre Universitari EAE",UdL,CSJ,0,0,2,0,0,0,0,2,0,2,2,0,0,0,0,0,0,0,0,2,2,2,0,0,0,0,0
+41008,Administració i Direcció d'Empreses,UPF,CSJ,0,0,2,0,0,0,0,2,0,2,2,0,0,0,0,0,0,0,0,2,2,2,0,0,0,2,0
+61003,Administració i Direcció d'Empreses,UdL,CSJ,0,0,2,0,0,0,0,2,0,2,2,0,0,0,0,0,0,0,0,2,2,2,0,0,0,2,0
+61069,Administració i Direcció d'Empreses (Igualada),UdL,CSJ,0,0,2,0,0,0,0,2,0,2,2,0,0,0,0,0,0,0,0,2,2,2,0,0,0,2,0
+81003,Administració i Direcció d'Empreses,UdG,CSJ,0,0,2,0,0,0,0,2,0,2,2,0,0,0,0,0,0,0,0,2,2,2,0,0,0,2,0
+71002,Administració i Direcció d'Empreses (Reus),URV,CSJ,0,0,2,0,0,0,0,2,0,2,2,0,0,0,0,0,0,0,0,2,2,2,0,0,0,2,0
+71004,Administració i Direcció d'Empreses (Tortosa),URV,CSJ,0,0,2,0,0,0,0,2,0,2,2,0,0,0,0,0,0,0,0,2,2,2,0,0,0,2,0
+71063,Administració i Direcció d'Empreses "IGEMA",URV,CSJ,0,0,2,0,0,0,0,2,0,2,2,0,0,0,0,0,0,0,0,2,2,2,0,0,0,2,0
+91003,Administració i Direcció d'Empreses,UVic-UCC,CSJ,0,0,2,0,0,0,0,2,0,2,2,0,0,0,0,0,0,0,0,2,2,2,0,0,0,2,0
+91042,Administració i Direcció d'Empreses (Campus Manresa),UVic-UCC,CSJ,0,0,2,0,0,0,0,2,0,2,2,0,0,0,0,0,0,0,0,2,2,2,0,0,0,2,0
+11064,Administració i Direcció d'Empreses / Dret (Simultaneïtat),UB,CSJ,0,0,2,0,0,0,0,2,0,2,2,0,0,1,2,0,0,0,0,2,2,2,0,0,0,2,0
+21098,Administració i Direcció d'Empreses / Dret (Simultaneïtat),UAB,CSJ,0,0,2,0,0,0,0,2,0,2,2,0,0,1,2,0,0,0,0,2,2,2,0,0,0,2,0
+61035,Administració i Direcció d'Empreses / Dret (Simultaneïtat),UdL,CSJ,0,0,2,0,0,0,0,2,0,2,2,0,0,1,2,0,0,0,0,2,2,2,0,0,0,2,0
+81053,Administració i Direcció d'Empreses / Dret (Simultaneïtat),UdG,CSJ,0,0,2,0,0,0,0,2,0,2,2,0,0,1,2,0,0,0,0,2,2,2,0,0,0,2,0
+71055,Administració i Direcció d'Empreses / Dret (Simultaneïtat),URV,CSJ,0,0,2,0,0,0,0,2,0,2,2,0,0,1,2,0,0,0,0,2,2,2,0,0,0,2,0
+81052,Administració i Direcció d'Empreses / Economia (Simultaneïtat),UdG,CSJ,0,0,2,0,0,0,0,2,0,2,2,0,0,0,0,0,0,0,0,2,2,2,0,0,0,2,0
+41034,Administració i Direcció d'Empreses - Economia / Dret (Agrupació de Simultaneïtat),UPF,CSJ,0,0,2,0,0,0,0,2,0,2,2,0,0,0,2,0,0,0,0,2,2,2,0,0,0,2,0
+61070,Administració i Direcció d'Empreses / Enginyeria en Organització Industrial i Logística (simultaneïtat),UdL,EA,0,0,2,0,0,2,1,2,0,2,2,1,0,0,0,0,0,0,0,2,2,2,2,0,2,2,0
+81046,Administració i Direcció d'Empreses / Enginyeria en Tecnologies Industrials (Simultaneïtat),UdG,CSJ,0,0,2,0,0,2,0,2,0,2,2,0,0,0,0,0,0,0,0,2,2,2,2,0,0,2,0
+61036,Administració i Direcció d'Empreses / Enginyeria Informàtica (Simultaneïtat),UdL,CSJ,0,0,2,1,0,2,0,2,0,2,2,0,0,0,0,0,0,0,0,2,2,2,2,0,2,2,0
+71053,Administració i Direcció d'Empreses / Finances i Comptabilitat (Simultaneïtat),URV,CSJ,0,0,2,0,0,0,0,2,0,2,2,0,0,0,0,0,0,0,0,2,2,2,0,0,0,2,0
+71079,Administració i Direcció d'Empreses / Màrqueting "ESIC" (simultaneïtat) Reus / Barcelona,URV,CSJ,0,0,2,0,0,0,0,2,0,2,2,0,0,0,0,0,0,0,0,2,2,2,0,2,0,2,0
+71080,Administració i Direcció d'Empreses / Màrqueting "ESIC" (simultaneïtat) Tortosa / Barcelona,URV,CSJ,0,0,2,0,0,0,0,2,0,2,2,0,0,0,0,0,0,0,0,2,2,2,0,2,0,2,0
+11066,Administració i Direcció d'Empreses / Matemàtiques (Simultaneïtat),UB,CSJ,0,0,2,1,0,0,0,2,0,2,2,1,0,0,0,0,0,0,0,2,2,2,1,0,0,2,0
+11095,Administració i Direcció d'Empreses / Química (Simultaneïtat),UB,CSJ,0,0,2,0,0,0,0,2,0,2,2,0,0,0,0,0,0,0,0,2,2,2,0,0,0,2,0
+11090,Administració i Direcció d'Empreses / Sociologia (Simultaneïtat),UB,CSJ,0,0,2,0,1,0,1,2,1,2,2,1,0,1,2,1,0,0,0,2,2,2,0,1,0,2,0
+61053,Administració i Direcció d'Empreses / Turisme (Simultaneïtat),UdL,CSJ,1,1,2,0,0,0,0,2,2,2,2,0,0,2,2,2,0,0,0,2,2,2,0,0,0,2,0
+71003,Anglès,URV,AH,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,2,2,0,0,0,0,0,0,0,2,2
+71049,Antropologia i Evolució Humana (Virtual o Semipresencial),URV/UOC,AH,0,0,0,0,0,0,0,0,0,0,2,0,1,2,2,0,0,0,0,0,2,0,0,0,0,2,0
+11001,Antropologia Social i Cultural,UB,CSJ,0,0,0,0,0,0,0,0,0,0,2,0,1,2,2,0,0,0,0,2,2,0,0,0,0,2,0
+21152,Antropologia Social i Cultural,UAB,CSJ,0,0,0,0,0,0,0,0,0,0,2,0,1,2,2,0,0,0,0,2,2,0,0,0,0,2,0
+11029,Arqueologia,UB,AH,0,0,0,0,0,0,0,0,2,0,0,0,0,2,2,2,0,0
+21146,Arqueologia,UAB,AH,0,0,0,0,0,0,0,0,2,0,0,0,0,2,2,2,0,0
+11096,Arqueologia / Història (Simultaneïtat),UB,AH,0,0,0,0,0,0,0,0,2,0,1,0,0,2,2,2,0,0,0,0,0,0,0,0,0,1,0
+71087,Arquitectura Estudis d',URV,EA,0,0,0,0,2,2,2,2,2,1,1,1,0,0,0,2,0,0,0,2,0,0,1,1,0,0,0
+31078,Arquitectura Estudis d' (Barcelona),UPC,EA,0,0,0,0,2,2,2,2,2,1,1,1,0,0,0,2,0,0,0,2,0,0,1,1,0,0,0
+31079,Arquitectura Estudis d' (Sant Cugat del Vallès),UPC,EA,0,0,0,0,2,2,2,2,2,1,1,1,0,0,0,2,0,0,0,2,0,0,1,1,0,0,0
+81057,Arquitectura Estudis d',UdG,EA,0,0,0,0,2,2,2,2,2,1,1,1,0,0,0,2,0,0,0,2,0,0,1,1,0,0,0
+31016,Arquitectura Tècnica i Edificació,UPC,EA,0,0,0,0,0,2,1,2,0,1,0,1,0,0,0,0,0,0,0,2,0,1,1,0,0,0,0
+61016,Arquitectura Tècnica i Edificació,UdL,EA,0,0,0,0,0,2,1,2,0,1,0,1,0,0,0,0,0,0,0,2,0,1,1,0,0,0,0
+81020,Arquitectura Tècnica i Edificació,UdG,EA,0,0,0,0,0,2,1,2,0,1,0,1,0,0,0,0,0,0,0,2,0,1,1,0,0,0,0
+81065,Arquitectura Tècnica i Edificació (Semipresencial),UdG,EA,0,0,0,0,0,2,1,2,0,1,0,1,0,0,0,0,0,0,0,2,0,1,1,0,0,0,0
+81045,Arts Escèniques "ERAM",UdG,AH,2,2,0,0,2,0,0,0,2,0,0,0,2,2,2,2,0,0,2,0,0,0,0,2,0,0,0
+21020,Arts i Disseny "Massana",UAB,AH,0,0,0,0,2,2,2,2,2,1,0,0,0,0,2,2,0,0,0,1,1,0,1,2,0,0,0
+91063,Audiologia General,UVic-UCC,CS,0,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0
+11099,Belles Arts,UB,AH,0,0,0,0,2,2,2,0,2,0,0,0,0,2,2,2,0,0,0,0,0,0,0,2,0,0,0
+91059,Belles Arts "BAU",UVic-UCC,AH,0,0,0,0,2,2,2,0,2,0,0,0,0,2,2,2,0,0,0,0,0,0,0,2,0,0,0
+91917,Bioinformàtica (Docència en Anglès),UPC/UB/ UAB/UPF,CS,0,0,2,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+11002,Biologia,UB,C,0,0,2,1,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+21009,Biologia,UAB,C,0,0,2,1,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+81006,Biologia,UdG,C,0,0,2,1,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+91018,Biologia,UVic-UCC,C,0,0,2,1,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+21008,Biologia Ambiental,UAB,C,0,0,2,1,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+81047,Biologia / Biotecnologia (Simultaneïtat),UdG,C,0,0,2,1,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+81048,Biologia / Ciències Ambientals (Simultaneïtat),UdG,C,0,0,2,2,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+41001,Biologia Humana,UPF,CS,0,0,2,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+91058,Biomedicina,UVic-UCC,C,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+11003,Bioquímica,UB,C,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+21011,Bioquímica,UAB,C,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+71005,Bioquímica i Biologia Molecular,URV,C,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+71054,Bioquímica i Biologia Molecular / Biotecnologia (Simultaneïtat),URV,C,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+11004,Biotecnologia,UB,C,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+21012,Biotecnologia,UAB,C,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+61005,Biotecnologia,UdL,C,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+81007,Biotecnologia,UdG,C,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+71006,Biotecnologia,URV,C,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+91004,Biotecnologia,UVic-UCC,C,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+81047,Biotecnologia / Biologia (Simultaneïtat),UdG,C,0,0,2,1,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+71054,Biotecnologia / Bioquímica i Biologia Molecular (Simultaneïtat),URV,C,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+71056,Biotecnologia / Enginyeria Informàtica (Simultaneïtat),URV,C,0,0,2,0,0,1,0,2,0,1,0,0,0,0,0,0,0,0,0,2,0,2,2,0,2,0,0
+11109,Ciberseguretat - ENTI,UB,EA,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,2,2,0,2,0,0,0,0
+31089,Ciència i Enginyeria de Dades,UPC,EA,0,0,2,0,0,1,1,2,0,1,0,1,0,0,0,0,0,0,0,2,0,1,1,0,1,0,0
+61040,Ciència i Producció Animal / Veterinària (Simultaneïtat),UdL,CS,0,0,2,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+11054,Ciència i Tecnologia dels Aliments,UB,CS,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,1,0,0,0,0
+21021,Ciència i Tecnologia dels Aliments,UAB,CS,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,1,0,0,0,0
+61008,Ciència i Tecnologia dels Aliments,UdL,C,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,1,0,0,0,0
+21013,Ciència Política i Gestió Pública,UAB,CSJ,0,0,0,0,0,0,0,0,1,2,2,0,0,2,2,0,0,0,0,2,2,0,0,0,0,2,0
+21104,Ciència Política i Gestió Pública / Dret (Simultaneïtat),UAB,CSJ,0,0,0,0,0,0,0,0,1,2,2,0,0,2,2,0,0,0,0,2,2,0,0,0,0,2,0
+21125,Ciència Política i Gestió Pública / Sociologia (Simultaneïtat),UAB,CSJ,0,0,0,0,0,0,0,0,1,2,2,0,0,2,2,0,0,0,0,2,2,0,0,0,0,2,0
+21137,Ciència Tecnologia i Humanitats,UAB/UAM/ UC3M,CSJ,0,0,2,2,0,0,0,2,0,2,2,2,1,2,2,2,2,2,1,2,2,2,2,0,0,2,2
+21131,Ciències,UAB/UAM/ UC3M,C,0,0,2,2,0,1,0,2,0,0,0,2,0,0,0,0,0,0,0,2,1,2,0,0,0,0,0
+11005,Ciències Ambientals,UB,C,0,0,2,2,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+21147,Ciències Ambientals,UAB,C,0,0,2,2,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+81008,Ciències Ambientals,UdG,C,0,0,2,2,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+81048,Ciències Ambientals / Biologia (Simultaneïtat),UdG,C,0,0,2,2,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+21151,Ciències Ambientals / Geologia (Simultaneïtat),UAB,C,0,0,2,2,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+11006,Ciències Biomèdiques,UB,C,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+21010,Ciències Biomèdiques,UAB,C,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+61004,Ciències Biomèdiques,UdL,C,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+11113,Ciències Culinàries i Gastronòmiques "CETT",UB,CSJ,0,0,2,2,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,2,2,2,0,0,0,0,0
+21117,Ciències de l'Antiguitat,UAB,AH,0,0,0,0,0,0,0,0,1,0,0,0,0,2,2,2,0,0,2,0,0,0,0,0,0,2,0
+11007,Ciències de l'Activitat Física i de l'Esport,UB,CS,0,0,2,2,0,0,0,2,0,0,1,0,1,0,0,0,0,0,0,2,1,2,0,0,0,0,0
+41038,Ciències de l'Activitat Física i de l'Esport "Tecnocampus",UPF,CS,0,0,2,2,0,0,0,2,0,0,1,0,1,0,0,0,0,0,0,2,1,2,0,0,0,0,0
+61007,Ciències de l'Activitat Física i de l'Esport,UdL,CS,0,0,2,2,0,0,0,2,0,0,1,0,1,0,0,0,0,0,0,2,1,2,0,0,0,0,0
+61071,Ciències de l'Activitat Física i de l'Esport (La Seu d'Urgell),UdL,CS,0,0,2,2,0,0,0,2,0,0,1,0,1,0,0,0,0,0,0,2,1,2,0,0,0,0,0
+81082,Ciències de l'Activitat Física i de l'Esport "EUSES",UdG,CS,0,0,2,2,0,0,0,2,0,0,1,0,1,0,0,0,0,0,0,2,1,2,0,0,0,0,0
+71086,Ciències de l'Activitat Física i de l'Esport "EUSES",URV,CS,0,0,2,2,0,0,0,2,0,0,1,0,1,0,0,0,0,0,0,2,1,2,0,0,0,0,0
+91001,Ciències de l'Activitat Física i de l'Esport,UVic-UCC,CSJ,0,0,2,2,0,0,0,2,0,0,1,0,1,0,0,0,0,0,0,2,1,2,0,0,0,0,0
+61038,Ciències de l'Activitat Física i de l'Esport / Educació Primària (Simultaneïtat),UdL,CS,2,2,2,2,2,0,0,2,2,0,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0,0,2
+91055,Ciències de l'Activitat Física i de l'Esport / Educació Primària (Menció en Educació Física) (Simultaneïtat),UVic-UCC,CS,2,2,2,2,2,0,0,2,2,0,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0,0,2
+41037,Ciències de l'Activitat Física i de l'Esport / Fisioteràpia "Tecnocampus" (Simultaneïtat),UPF,CS,0,0,2,2,0,0,0,2,0,0,1,0,1,0,0,0,0,0,0,2,1,2,0,0,0,2,0
+61039,Ciències de l'Activitat Física i de l'Esport / Fisioteràpia (Simultaneïtat),UdL,CS,0,0,2,2,0,0,0,2,0,0,1,0,1,0,0,0,0,0,0,2,1,2,0,0,0,2,0
+81086,Ciències de l'Activitat Física i de l'Esport / Fisioteràpia "EUSES" (simultaneïtat),UdG,CS,0,0,2,2,0,0,0,2,0,0,1,0,1,0,0,0,0,0,0,2,1,2,0,0,0,2,0
+71088,Ciències de l'Activitat Física i de l'Esport / Fisioteràpia "EUSES" (simultaneïtat),URV,CS,0,0,2,2,0,0,0,2,0,0,1,0,1,0,0,0,0,0,0,2,1,2,0,0,0,2,0
+31095,Ciències i Tecnologies Aplicades a l'Esport i al Fitnes "EUNCET",UPC,EA,0,0,2,2,0,1,1,2,0,0,1,0,0,0,0,0,0,0,0,2,1,2,1,0,0,0,0
+11077,Ciències del Mar,UB,C,0,0,2,2,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+41009,Ciències Empresarials - Management,UPF,CSJ,0,0,2,0,0,0,0,2,0,2,2,0,0,0,0,0,0,0,0,2,2,2,0,0,0,2,0
+31096,Ciències i Tecnologies del Mar,UPC,EA,0,0,2,2,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+11008,Ciències Polítiques i de l'Administració,UB,CSJ,0,0,0,0,0,0,0,0,1,2,2,0,0,2,2,0,0,0,0,2,2,0,0,0,0,2,0
+41010,Ciències Polítiques i de l'Administració,UPF,CSJ,0,0,0,0,0,0,0,0,1,2,2,0,0,2,2,0,0,0,0,2,2,0,0,0,0,2,0
+81010,Ciències Polítiques i de l'Administració,UdG,CSJ,0,0,0,0,0,0,0,0,1,2,2,0,0,2,2,0,0,0,0,2,2,0,0,0,0,2,0
+11065,Ciències Polítiques i de l'Administració / Dret (Simultaneïtat),UB,CSJ,0,0,0,0,0,0,0,0,1,2,2,0,0,2,2,0,0,0,0,2,2,0,0,0,0,2,0
+81054,Ciències Polítiques i de l'Administració / Dret (Simultaneïtat),UdG,CSJ,0,0,0,0,0,0,0,0,1,2,2,0,0,2,2,0,0,0,0,2,2,0,0,0,0,2,0
+11105,Cinematografia "ESCAC",UB,AH,2,2,0,0,2,2,2,2,2,2,0,0,0,1,2,2,2,2,0,2,2,0,0,2,2,2,2
+21084,Comptabilitat i Finances,UAB,CSJ,0,0,2,0,0,0,0,2,0,2,2,0,0,0,0,0,0,0,0,2,2,2,0,0,0,2,0
+81011,Comptabilitat i Finances,UdG,CSJ,0,0,2,0,0,0,0,2,0,2,2,0,0,0,0,0,0,0,0,2,2,2,0,0,0,2,0
+11097,Comunicació Audiovisual,UB,CSJ,2,2,0,0,1,1,2,0,1,0,1,0,0,2,2,2,2,2,0,2,2,0,0,2,0,0,2
+21085,Comunicació Audiovisual,UAB,CSJ,2,2,0,0,1,1,2,0,1,0,1,0,0,2,2,2,2,2,0,2,2,0,0,2,0,0,2
+41002,Comunicació Audiovisual,UPF,CSJ,2,2,0,0,1,1,2,0,1,0,1,0,0,2,2,2,2,2,0,2,2,0,0,2,0,0,2
+71007,Comunicació Audiovisual,URV,CSJ,2,2,0,0,1,1,2,0,1,0,1,0,0,2,2,2,2,2,0,2,2,0,0,2,0,0,2
+91006,Comunicació Audiovisual,UVic-UCC,CSJ,2,2,0,0,1,1,2,0,1,0,1,0,0,2,2,2,2,2,0,2,2,0,0,2,0,0,2
+81005,Comunicació Audiovisual i Multimèdia "ERAM",UdG,CSJ,2,2,0,0,2,2,2,2,2,0,0,0,0,0,0,2,0,0,0,2,2,0,1,2,0,0,0
+81067,Comunicació Audiovisual i Multimèdia "ERAM" (docència en anglès),UdG,CSJ,2,2,0,0,2,2,2,2,2,0,0,0,0,0,0,2,0,0,0,2,2,0,1,2,0,0,0
+11098,Comunicació Audiovisual / Gestió d'Informació i Documentació Digital (Simultaneïtat),UB,CSJ,2,2,1,2,1,1,2,1,1,2,1,1,0,2,2,2,2,2,0,2,2,1,0,2,0,2,2
+81068,Comunicació Cultural,UdG,AH,2,2,0,2,2,0,2,0,2,0,2,0,0,2,2,2,2,2,0,0,0,0,0,2,0,0,2
+21121,Comunicació de les Organitzacions,UAB,CSJ,0,0,0,2,0,0,2,0,0,2,0,0,0,0,0,0,2,2,0,0,2,0,0,2,0,0,2
+21126,Comunicació Interactiva,UAB,CSJ,0,0,0,2,0,0,2,2,2,0,0,0,0,0,0,2,0,0,0,2,2,0,2,2,0,0,0
+11067,Comunicació i Indústries Culturals,UB,CSJ,1,1,0,0,0,0,2,0,2,2,0,0,0,2,2,2,2,2,0,0,0,0,0,2,0,0,2
+61009,Comunicació i Periodisme Audiovisuals,UdL,AH,1,1,0,1,2,0,2,0,2,0,2,0,0,2,2,2,2,2,0,0,0,0,0,2,0,0,2
+61042,Conservació de la Natura / Enginyeria Forestal (Simultaneïtat),UdL,C,0,0,2,0,0,1,0,2,0,1,0,2,0,0,0,0,0,0,0,2,0,2,2,0,0,0,0
+11100,Conservació - Restauració de Béns Culturals,UB,AH,0,0,0,0,2,2,2,0,2,0,0,0,0,2,2,2,0,0,0,0,0,0,0,2,0,0,0
+11010,Criminologia,UB,CSJ,0,0,0,2,0,0,0,0,0,2,2,0,0,0,2,0,0,0,0,2,2,0,0,0,0,2,0
+21068,Criminologia,UAB,CSJ,0,0,0,2,0,0,0,0,0,2,2,0,0,0,2,0,0,0,0,2,2,0,0,0,0,2,0
+81013,Criminologia,UdG,CSJ,0,0,0,2,0,0,0,0,0,2,2,0,0,0,2,0,0,0,0,2,2,0,0,0,0,2,0
+91050,Criminologia "ESERP",UVic-UCC,CSJ,0,0,0,2,0,0,0,0,0,2,2,0,0,0,2,0,0,0,0,2,2,0,0,0,0,2,0
+11088,Criminologia / Dret (Simultaneïtat),UB,CSJ,0,0,0,2,0,0,0,0,0,2,2,0,0,1,2,0,0,0,0,2,2,0,0,0,0,2,0
+21108,Criminologia / Dret (Simultaneïtat),UAB,CSJ,0,0,0,2,0,0,0,0,0,2,2,0,0,1,2,0,0,0,0,2,2,0,0,0,0,2,0
+81056,Criminologia / Dret (Simultaneïtat),UdG,CSJ,0,0,0,2,0,0,0,0,0,2,2,0,0,1,2,0,0,0,0,2,2,0,0,0,0,2,0
+41011,Criminologia i Polítiques Públiques de Prevenció,UPF,CSJ,0,0,0,2,0,0,0,0,0,2,2,0,0,0,2,0,0,0,0,2,2,0,0,0,0,2,0
+41043,Criminologia i Polítiques Públiques de Prevenció / Dret (Simultaneïtat),UPF,CSJ,0,0,0,2,0,0,0,0,0,2,2,0,0,1,2,0,0,0,0,2,2,0,0,0,0,2,0
+81083,Direcció d'Empreses Hoteleres i Gastronòmiques,UdG,CSJ,0,0,1,0,0,0,1,1,0,2,2,0,0,0,0,0,0,0,0,2,2,1,0,0,0,0,0
+21107,Direcció Hotelera,UAB,CSJ,0,0,1,0,0,0,0,1,1,2,2,0,0,0,1,1,0,0,0,2,2,1,0,1,0,0,0
+71085,Direcció i Gestió d'Empreses en l'Àmbit Digital "ESIC",URV,CSJ,0,0,2,0,0,0,2,0,2,2,2,0,0,0,2,0,0,0,0,2,2,0,2,0,0,2,0
+11110,Direcció i Gestió Gastronòmica "Barcelona Culinary Hub",UB,CSJ,0,0,2,1,0,0,0,2,0,2,1,1,0,0,0,0,0,0,0,1,1,2,1,0,0,0,0
+11101,Disseny,UB,AH,0,0,0,0,2,2,2,2,2,1,0,0,0,0,2,2,0,0,0,1,1,0,1,2,0,0,0
+21015,Disseny "EINA",UAB,AH,0,0,0,0,2,2,2,2,2,1,0,0,0,0,2,2,0,0,0,1,1,0,1,2,0,0,0
+91056,Disseny i Innovació "Elisava",UVic-UCC,AH,0,0,0,0,2,2,2,2,2,1,0,0,0,0,2,2,0,0,0,1,1,0,1,2,0,0,0
+91007,Disseny "BAU",UVic-UCC,AH,0,0,0,0,2,2,2,2,2,1,0,0,0,0,2,2,0,0,0,1,1,0,1,2,0,0,0
+11107,Disseny Animació i Art Digital per a Videojocs i Jocs Aplicats "ENTI",UB,AH,0,0,0,0,2,2,2,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0
+31122,Disseny Animació i Art Digital,UPC,AH,0,0,0,0,2,2,2,2,2,1,0,0,0,0,2,2,0,0,0,1,1,0,1,2,0,0,0
+31121,Disseny Digital i Tecnologies Multimèdia,UPC,EA,0,0,0,0,1,2,2,2,2,1,0,0,0,0,0,2,0,0,0,2,2,0,1,2,1,0,0
+61064,Disseny Digital i Tecnologies Creatives,UdL,EA,0,0,0,2,2,2,2,2,2,1,0,0,0,0,2,2,0,0,0,2,2,0,2,2,0,0,0
+41045,Disseny i Producció de Videojocs "Tecnocampus",UPF,CSJ,0,0,0,0,2,2,2,2,2,1,0,0,0,0,0,2,0,0,0,1,1,0,1,2,0,0,0
+41052,Disseny i Producció de Videojocs / Enginyeria Informàtica de Gestió i Sistemes d'Informació "Tecnocampus" (Simultaneïtat),UPF,CSJ,0,0,0,0,2,2,2,2,2,1,0,0,0,0,0,2,0,0,0,2,1,1,2,2,2,0,0
+11106,Disseny i Desenvolupament de Videojocs i Jocs Aplicats "ENTI",UB,EA,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,2,2,0,2,0,2,0,0
+31074,Disseny i Desenvolupament de Videojocs (Campus Terrassa),UPC,EA,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,2,2,0,2,0,2,0,0
+31083,Disseny i Desenvolupament de Videojocs (Docència en Anglès) (Campus Barcelona),UPC,EA,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,2,2,0,2,0,2,0,0
+81059,Disseny i Desenvolupament de Videojocs,UdG,EA,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,2,2,0,2,0,2,0,0
+11012,Dret,UB,CSJ,0,0,0,0,0,0,0,0,0,2,1,0,0,1,2,0,0,0,0,2,2,0,0,0,0,2,0
+21086,Dret,UAB,CSJ,0,0,0,0,0,0,0,0,0,2,1,0,0,1,2,0,0,0,0,2,2,0,0,0,0,2,0
+41013,Dret,UPF,CSJ,0,0,0,0,0,0,0,0,0,2,1,0,0,1,2,0,0,0,0,2,2,0,0,0,0,2,0
+61010,Dret,UdL,CSJ,0,0,0,0,0,0,0,0,0,2,1,0,0,1,2,0,0,0,0,2,2,0,0,0,0,2,0
+81015,Dret,UdG,CSJ,0,0,0,0,0,0,0,0,0,2,1,0,0,1,2,0,0,0,0,2,2,0,0,0,0,2,0
+71008,Dret,URV,CSJ,0,0,0,0,0,0,0,0,0,2,1,0,0,1,2,0,0,0,0,2,2,0,0,0,0,2,0
+91053,Dret "ESERP",UVic-UCC,CSJ,0,0,0,0,0,0,0,0,0,2,1,0,0,1,2,0,0,0,0,2,2,0,0,0,0,2,0
+11064,Dret / Administració i Direcció d'Empreses (Simultaneïtat),UB,CSJ,0,0,2,0,0,0,0,2,0,2,2,0,0,1,2,0,0,0,0,2,2,2,0,0,0,2,0
+21098,Dret / Administració i Direcció d'Empreses (Simultaneïtat),UAB,CSJ,0,0,2,0,0,0,0,2,0,2,2,0,0,1,2,0,0,0,0,2,2,2,0,0,0,2,0
+61035,Dret / Administració i Direcció d'Empreses (Simultaneïtat),UdL,CSJ,0,0,2,0,0,0,0,2,0,2,2,0,0,1,2,0,0,0,0,2,2,2,0,0,0,2,0
+81053,Dret / Administració i Direcció d'Empreses (Simultaneïtat),UdG,CSJ,0,0,2,0,0,0,0,2,0,2,2,0,0,1,2,0,0,0,0,2,2,2,0,0,0,2,0
+71055,Dret / Administració i Direcció d'Empreses (Simultaneïtat),URV,CSJ,0,0,2,0,0,0,0,2,0,2,2,0,0,1,2,0,0,0,0,2,2,2,0,0,0,2,0
+41034,Dret / Administració i Direcció d'Empreses - Economia (Agrupació de Simultaneïtat),UPF,CSJ,0,0,2,0,0,0,0,2,0,2,2,0,0,0,2,0,0,0,0,2,2,2,0,0,0,2,0
+21104,Dret / Ciència Política i Gestió Pública (Simultaneïtat),UAB,CSJ,0,0,0,0,0,0,0,0,1,2,2,0,0,2,2,0,0,0,0,2,2,0,0,0,0,2,0
+11065,Dret / Ciències Polítiques i de l'Administració (Simultaneïtat),UB,CSJ,0,0,0,0,0,0,0,0,1,2,2,0,0,2,2,0,0,0,0,2,2,0,0,0,0,2,0
+81054,Dret / Ciències Polítiques i de l'Administració (Simultaneïtat),UdG,CSJ,0,0,0,0,0,0,0,0,1,2,2,0,0,2,2,0,0,0,0,2,2,0,0,0,0,2,0
+11088,Dret / Criminologia (Simultaneïtat),UB,CSJ,0,0,0,2,0,0,0,0,0,2,2,0,0,1,2,0,0,0,0,2,2,0,0,0,0,2,0
+21108,Dret / Criminologia (Simultaneïtat),UAB,CSJ,0,0,0,2,0,0,0,0,0,2,2,0,0,1,2,0,0,0,0,2,2,0,0,0,0,2,0
+81056,Dret / Criminologia (Simultaneïtat),UdG,CSJ,0,0,0,2,0,0,0,0,0,2,2,0,0,1,2,0,0,0,0,2,2,0,0,0,0,2,0
+41043,Dret / Criminologia i Polítiques Públiques de Prevenció (Simultaneïtat),UPF,CSJ,0,0,0,2,0,0,0,0,0,2,2,0,0,1,2,0,0,0,0,2,2,0,0,0,0,2,0
+11070,Dret / Gestió i Administració Pública (Simultaneïtat),UB,CSJ,0,0,1,0,0,0,0,1,0,2,2,1,0,1,2,1,0,0,0,2,2,1,2,2,0,2,0
+21145,Dret / Relacions Internacionals (Simultaneïtat),UAB,CSJ,0,0,1,0,1,0,1,1,1,2,2,1,0,1,2,1,0,0,0,2,2,1,0,1,0,2,0
+21109,Dret / Relacions Laborals (Simultaneïtat),UAB,CSJ,0,0,1,0,0,0,0,0,0,2,2,1,0,1,2,1,0,0,0,2,2,0,0,0,0,2,0
+71083,Dret / Relacions Laborals i Recursos Humans (Simultaneïtat),URV,CSJ,0,0,1,0,0,0,0,0,0,2,2,1,0,1,2,1,0,0,0,2,2,0,0,0,0,2,0
+11103,Economia,UB,CSJ,0,0,2,0,0,0,0,2,0,2,2,0,0,0,0,0,0,0,0,2,2,2,0,0,0,2,0
+21070,Economia,UAB,CSJ,0,0,2,0,0,0,0,2,0,2,2,0,0,0,0,0,0,0,0,2,2,2,0,0,0,2,0
+21110,Economia (Docència en Anglès),UAB,CSJ,0,0,2,0,0,0,0,2,0,2,2,0,0,0,0,0,0,0,0,2,2,2,0,0,0,2,0
+41014,Economia,UPF,CSJ,0,0,2,0,0,0,0,2,0,2,2,0,0,0,0,0,0,0,0,2,2,2,0,0,0,2,0
+81016,Economia,UdG,CSJ,0,0,2,0,0,0,0,2,0,2,2,0,0,0,0,0,0,0,0,2,2,2,0,0,0,2,0
+71009,Economia,URV,CSJ,0,0,2,0,0,0,0,2,0,2,2,0,0,0,0,0,0,0,0,2,2,2,0,0,0,2,0
+81052,Economia / Administració i Direcció d'Empreses (Simultaneïtat),UdG,CSJ,0,0,2,0,0,0,0,2,0,2,2,0,0,0,0,0,0,0,0,2,2,2,0,0,0,2,0
+41034,Economia - Administració i Direcció d'Empreses / Dret (Agrupació de Simultaneïtat),UPF,CSJ,0,0,2,0,0,0,0,2,0,2,2,0,0,0,2,0,0,0,0,2,2,2,0,0,0,2,0
+91914,Economia / Estadística (Simultaneïtat),UB/UPC,CSJ,0,0,2,0,0,0,0,2,0,2,2,0,0,0,0,0,0,0,0,2,2,2,0,0,0,2,0
+81069,Economia / Filosofia (Simultaneïtat),UdG,CSJ,1,1,2,1,0,0,0,2,2,2,2,0,2,2,2,0,0,2,2,2,0,0,0,2,0,0,0
+11013,Educació Infantil,UB,CSJ,2,2,2,2,2,0,0,2,2,0,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0,0,2
+21016,Educació Infantil,UAB,CSJ,2,2,2,2,2,0,0,2,2,0,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0,0,2
+61011,Educació Infantil,UdL,CSJ,2,2,2,2,2,0,0,2,2,0,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0,0,2
+81017,Educació Infantil,UdG,CSJ,2,2,2,2,2,0,0,2,2,0,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0,0,2
+71010,Educació Infantil,URV,CSJ,2,2,2,2,2,0,0,2,2,0,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0,0,2
+71029,Educació Infantil (Tortosa),URV,CSJ,2,2,2,2,2,0,0,2,2,0,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0,0,2
+71034,Educació Infantil (El Vendrell),URV,CSJ,2,2,2,2,2,0,0,2,2,0,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0,0,2
+91008,Educació Infantil,UVic-UCC,CSJ,2,2,2,2,2,0,0,2,2,0,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0,0,2
+91038,Educació Infantil (Campus Manresa),UVic-UCC,CSJ,2,2,2,2,2,0,0,2,2,0,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0,0,2
+11072,Educació Infantil / Educació Primària (5 anys) (Simultaneïtat),UB,CSJ,2,2,2,2,2,0,0,2,2,0,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0,0,2
+21111,Educació Infantil / Educació Primària (5 anys) (Simultaneïtat),UAB,CSJ,2,2,2,2,2,0,0,2,2,0,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0,0,2
+61037,Educació Infantil / Educació Primària (5 anys) (Simultaneïtat),UdL,CSJ,2,2,2,2,2,0,0,2,2,0,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0,0,2
+81049,Educació Infantil / Educació Primària (5 anys) (Simultaneïtat),UdG,CSJ,2,2,2,2,2,0,0,2,2,0,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0,0,2
+71050,Educació Infantil / Educació Primària (5 anys) (Simultaneïtat),URV,CSJ,2,2,2,2,2,0,0,2,2,0,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0,0,2
+71076,Educació Infantil / Educació Primària (5 anys) (Simultaneïtat),URV,CSJ,2,2,2,2,2,0,0,2,2,0,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0,0,2
+91030,Educació Infantil / Educació Primària (Menció en Llengua Anglesa) (5 anys) (Simultaneïtat),UVic-UCC,CSJ,2,2,2,2,2,0,0,2,2,0,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0,0,2
+11014,Educació Primària,UB,CSJ,2,2,2,2,2,0,0,2,2,0,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0,0,2
+21018,Educació Primària,UAB,CSJ,2,2,2,2,2,0,0,2,2,0,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0,0,2
+21102,Educació Primària (Docència en Anglès),UAB,CSJ,2,2,2,2,2,0,0,2,2,0,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0,0,2
+61072,Educació Primària (modalitat bilingüe),UdL,CSJ,2,2,2,2,2,0,0,2,2,0,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0,0,2
+61073,Educació Primària (modalitat dual),UdL,CSJ,2,2,2,2,2,0,0,2,2,0,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0,0,2
+81018,Educació Primària,UdG,CSJ,2,2,2,2,2,0,0,2,2,0,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0,0,2
+71011,Educació Primària,URV,CSJ,2,2,2,2,2,0,0,2,2,0,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0,0,2
+71033,Educació Primària,URV,CSJ,2,2,2,2,2,0,0,2,2,0,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0,0,2
+91009,Educació Primària,UVic-UCC,CSJ,2,2,2,2,2,0,0,2,2,0,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0,0,2
+71076,Educació Primària / Educació Infantil (5 anys) (Simultaneïtat),URV,CSJ,2,2,2,2,2,0,0,2,2,0,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0,0,2
+91030,Educació Primària / Educació Infantil (Menció en Llengua Anglesa) (5 anys) (Simultaneïtat),UVic-UCC,CSJ,2,2,2,2,2,0,0,2,2,0,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0,0,2
+61038,Educació Primària / Ciències de l'Activitat Física i de l'Esport (Simultaneïtat),UdL,CSJ,2,2,2,2,2,0,0,2,2,0,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0,0,2
+91055,Educació Primària (Menció en Educació Física) / Ciències de l'Activitat Física i de l'Esport (Simultaneïtat),UVic-UCC,CS,2,2,2,2,2,0,0,2,2,0,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0,0,2
+11072,Educació Primària / Educació Infantil (5 anys) (Simultaneïtat),UB,CSJ,2,2,2,2,2,0,0,2,2,0,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0,0,2
+21111,Educació Primària / Educació Infantil (5 anys) (Simultaneïtat),UAB,CSJ,2,2,2,2,2,0,0,2,2,0,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0,0,2
+61037,Educació Primària / Educació Infantil (5 anys) (Simultaneïtat),UdL,CSJ,2,2,2,2,2,0,0,2,2,0,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0,0,2
+81049,Educació Primària / Educació Infantil (5 anys) (Simultaneïtat),UdG,CSJ,2,2,2,2,2,0,0,2,2,0,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0,0,2
+71050,Educació Primària / Educació Infantil (5 anys) (Simultaneïtat),URV,CSJ,2,2,2,2,2,0,0,2,2,0,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0,0,2
+11015,Educació Social,UB,CSJ,2,2,0,2,0,0,0,0,1,2,2,0,2,2,2,0,0,0,2,2,2,0,0,1,0,1,0
+21019,Educació Social,UAB,CSJ,2,2,0,2,0,0,0,0,1,2,2,0,2,2,2,0,0,0,2,2,2,0,0,1,0,1,0
+61013,Educació Social,UdL,CSJ,2,2,0,2,0,0,0,0,1,2,2,0,2,2,2,0,0,0,2,2,2,0,0,1,0,1,0
+81019,Educació Social,UdG,CSJ,2,2,0,2,0,0,0,0,1,2,2,0,2,2,2,0,0,0,2,2,2,0,0,1,0,1,0
+71012,Educació Social,URV,CSJ,2,2,0,2,0,0,0,0,1,2,2,0,2,2,2,0,0,0,2,2,2,0,0,1,0,1,0
+91010,Educació Social,UVic-UCC,CSJ,2,2,0,2,0,0,0,0,1,2,2,0,2,2,2,0,0,0,2,2,2,0,0,1,0,1,0
+11073,Empresa Internacional (Docència en Anglès),UB,CSJ,0,0,1,0,0,0,0,1,0,2,2,0,0,0,2,0,0,0,0,2,2,1,0,0,0,2,0
+21087,Empresa i Tecnologia,UAB,CSJ,0,0,1,1,0,0,0,1,0,2,2,0,0,0,2,0,0,0,0,2,2,1,0,0,0,2,0
+31125,Empresa Innovació i Tecnologia "EUNCET" (Campus 22@) (semipresencial),UPC,CSJ,0,0,2,0,0,0,0,2,0,2,2,0,0,0,0,0,0,0,0,2,2,2,0,0,0,2,0
+31126,Empresa Innovació i Tecnologia "EUNCET" (Campus 22@),UPC,CSJ,0,0,2,0,0,0,0,2,0,2,2,0,0,0,0,0,0,0,0,2,2,2,0,0,0,2,0
+31127,Empresa Innovació i Tecnologia "EUNCET" (Campus Terrassa) (semipresencial),UPC,CSJ,0,0,2,0,0,0,0,2,0,2,2,0,0,0,0,0,0,0,0,2,2,2,0,0,0,2,0
+31128,Empresa Innovació i Tecnologia "EUNCET" (Campus Terrassa),UPC,CSJ,0,0,2,0,0,0,0,2,0,2,2,0,0,0,0,0,0,0,0,2,2,2,0,0,0,2,0
+31129,Empresa Innovació i Tecnologia / Màrqueting Innovació i Tecnologia "EUNCET" (Campus 22@) (simultaneïtat),UPC,CSJ,2,2,2,0,0,0,0,2,0,2,2,0,0,0,0,0,0,0,0,2,2,2,0,2,0,2,0
+31130,Empresa Innovació i Tecnologia "EUNCET" / Màrqueting Innovació i Tecnologia "EUNCET" (Campus Terrassa) (simultaneïtat),UPC,CSJ,2,2,2,0,0,0,0,2,0,2,2,0,0,0,0,0,0,0,0,2,2,2,0,2,0,2,0
+61006,Enginyeria Agrària i Alimentària,UdL,EA,0,0,2,0,0,1,0,2,0,1,0,2,0,0,0,0,0,0,0,2,0,2,2,0,0,0,0
+81032,Enginyeria Agroalimentària,UdG,EA,0,0,2,0,0,1,0,2,0,1,0,2,0,0,0,0,0,0,0,2,0,2,2,0,0,0,0
+31004,Enginyeria Alimentària,UPC,EA,0,0,2,0,0,1,0,2,0,1,0,2,0,0,0,0,0,0,0,2,0,2,2,0,0,0,0
+31100,Enginyeria Ambiental,UPC,EA,0,0,2,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+11059,Enginyeria Biomèdica,UB,EA,0,0,2,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,2,0,2,2,0,2,0,0
+31051,Enginyeria Biomèdica,UPC,EA,0,0,2,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,2,0,2,2,0,2,0,0
+41033,Enginyeria Biomèdica,UPF,EA,0,0,2,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,2,0,2,2,0,2,0,0
+81063,Enginyeria Biomèdica,UdG,EA,0,0,2,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,2,0,2,2,0,2,0,0
+71064,Enginyeria Biomèdica,URV,EA,0,0,2,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,2,0,2,2,0,2,0,0
+71070,Enginyeria Biomèdica / Enginyeria de Sistemes i Serveis de Telecomunicacions (Simultaneïtat),URV,EA,0,0,2,0,0,1,1,2,0,1,0,2,0,0,0,0,0,0,0,2,0,2,2,0,2,0,0
+31103,Enginyeria Civil,UPC,EA,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+31113,Enginyeria Civil Grau en + Màster Universitari en Enginyeria de Camins Canals i Ports (PARS: Enginyer/a de Camins Canals i Ports),UPC,EA,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+31091,Enginyeria d'Automoció (Campus Manresa),UPC,EA,0,0,1,0,0,2,1,2,0,1,0,1,0,0,0,0,0,0,0,2,0,2,2,0,2,0,0
+21132,Enginyeria d'Automoció "EU Salesiana de Sarrià",UAB,EA,0,0,1,0,0,2,1,2,0,1,0,1,0,0,0,0,0,0,0,2,0,2,2,0,2,0,0
+71061,Enginyeria de Bioprocessos Alimentaris,URV,EA,0,0,2,0,0,2,0,2,0,0,0,2,0,0,0,0,0,0,0,2,0,2,2,0,0,0,0
+31097,Enginyeria de Ciències Agronòmiques,UPC,EA,0,0,2,0,0,1,0,2,0,1,0,2,0,0,0,0,0,0,0,2,0,2,2,0,0,0,0
+21118,Enginyeria de Dades,UAB,EA,0,0,2,1,0,1,1,2,0,1,0,0,0,0,0,0,0,0,0,2,0,1,1,0,0,0,0
+91057,Enginyeria de Disseny Industrial "Elisava",UVic-UCC,EA,0,0,0,0,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,2,1,0,2,0,2,0,0
+31006,Enginyeria de Disseny Industrial i Desenvolupament del Producte (Vilanova i la Geltrú),UPC,EA,0,0,0,0,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2,0,0,0,0
+31022,Enginyeria de Disseny Industrial i Desenvolupament del Producte (Terrassa),UPC,EA,0,0,0,0,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2,0,0,0,0
+91051,Enginyeria de l'Automoció,UVic-UCC,EA,0,0,1,0,0,2,1,2,0,1,0,1,0,0,0,0,0,0,0,2,0,2,2,0,2,0,0
+31052,Enginyeria de l'Energia,UPC,EA,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2,0,2,0,0
+61061,Enginyeria de l'Energia i Sostenibilitat / Enginyeria en Electrònica Industrial i Automàtica / Enginyeria Mecànica (Agrupació),UdL,EA,0,0,2,0,0,2,1,2,0,1,0,2,0,0,0,0,0,0,0,2,0,2,2,0,2,0,0
+61075,Enginyeria de l'Energia i Sostenibilitat / Enginyeria en Electrònica Industrial i Automàtica / Enginyeria Mecànica (agrupació) Grau en + Màster Universitari en Enginyeria Industrial (PARS: Enginyer/a Industrial),UdL,EA,0,0,2,0,0,2,1,2,0,1,0,2,0,0,0,0,0,0,0,2,0,2,2,0,2,0,0
+61065,Enginyeria de l'Energia i Sostenibilitat / Enginyeria Mecànica (Simultaneïtat),UdL,EA,0,0,2,0,0,2,1,2,0,1,0,2,0,0,0,0,0,0,0,2,0,2,2,0,2,0,0
+11060,Enginyeria de Materials,UB,EA,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2,0,0,0,0
+31025,Enginyeria de Materials,UPC,EA,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2,0,0,0,0
+31104,Eng. de Recursos Minerals i el seu Reciclatge / Eng. Electrònica Industrial i Automàtica / Eng. Mecànica / Eng. Química (Agrupació),UPC,EA,0,0,0,0,0,2,0,2,0,0,0,2,0,0,0,0,0,0,0,2,0,2,2,0,2,0,0
+31123,Enginyeria de Satèl·lits,UPC,EA,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,1,2,0,0,0,0
+31084,Enginyeria de Sistemes Aeroespacials,UPC,EA,0,0,1,0,0,2,1,2,0,1,0,1,0,0,0,0,0,0,0,2,0,2,2,0,2,0,0
+31085,Eng. de Sistemes Aeroespacials / Eng. de Sistemes de Telecomunicació - Eng. Telemàtica (Agrupació de Simultaneïtat),UPC,EA,0,0,1,0,0,2,1,2,0,1,0,1,0,0,0,0,0,0,0,2,0,2,2,0,2,0,0
+31010,Enginyeria de Sistemes Audiovisuals,UPC,EA,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0
+31011,Enginyeria de Sistemes Biològics,UPC,EA,0,0,2,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,2,0,2,2,0,0,0,0
+21115,Enginyeria de Sistemes de Telecomunicació / Enginyeria Electrònica de Telecomunicació (Agrupació),UAB,EA,0,0,1,0,0,1,1,2,0,1,0,1,0,0,0,0,0,0,0,2,0,1,2,0,2,0,0
+31076,Enginyeria Telemàtica / Enginyeria de Sistemes de Telecomunicació (inclou xarxes i Internet) (agrupació),UPC,EA,0,0,1,0,0,1,1,2,0,1,0,1,0,0,0,0,0,0,0,2,0,1,2,0,2,0,0
+31077,Enginyeria de Sistemes de Telecomunicació / Enginyeria Telemàtica (Inclou Xarxes i Internet) (Febrer) (Agrupació),UPC,EA,0,0,1,0,0,1,1,2,0,1,0,1,0,0,0,0,0,0,0,2,0,1,2,0,2,0,0
+31085,Eng. de Sistemes de Telecomunicació - Eng. Telemàtica / Eng. de Sistemes Aeroespacials (Agrupació de Simultaneïtat),UPC,EA,0,0,1,0,0,2,1,2,0,1,0,1,0,0,0,0,0,0,0,2,0,2,2,0,2,0,0
+21105,Enginyeria de Sistemes de Telecomunicació / Enginyeria Informàtica (Simultaneïtat),UAB,EA,0,0,1,0,0,1,1,2,0,1,0,1,0,0,0,0,0,0,0,2,0,1,2,0,2,0,0
+71042,Enginyeria de Sistemes i Serveis de Telecomunicacions,URV,EA,0,0,1,0,0,1,1,2,0,1,0,1,0,0,0,0,0,0,0,2,0,1,2,0,2,0,0
+71070,Enginyeria de Sistemes i Serveis de Telecomunicacions / Enginyeria Biomèdica (Simultaneïtat),URV,EA,0,0,2,0,0,1,1,2,0,1,0,2,0,0,0,0,0,0,0,2,0,2,2,0,2,0,0
+31065,Enginyeria de Sistemes TIC (Àmbit d'Informàtica i Comunicacions),UPC,EA,0,0,1,0,0,1,1,2,0,1,0,1,0,0,0,0,0,0,0,2,0,2,2,0,2,0,0
+31015,Eng. de Tecnologia i Disseny Tèxtil / Eng. Elèctrica / Eng. Electrònica Industrial i Automàtica / Eng. Mecànica / Eng. Química (Agrupació),UPC,EA,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2,0,0,0,0
+31086,Enginyeria de Tecnologies i Serveis de Telecomunicació,UPC,EA,0,0,1,0,0,1,1,2,0,1,0,1,0,0,0,0,0,0,0,2,0,1,2,0,0,0,0
+31111,Enginyeria de Tecnologies i Serveis de Telecomunicació Grau en + Màster Universitari en Enginyeria de Telecomunicació (PARS: Enginyer/a de Telecomunicació),UPC,EA,0,0,1,0,0,1,1,2,0,1,0,1,0,0,0,0,0,0,0,2,0,1,2,0,0,0,0
+41020,Enginyeria de Xarxes de Telecomunicació,UPF,EA,0,0,1,0,0,1,1,2,0,1,0,1,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0
+41057,Eng. d'Organització Industrial / Eng. Electrònica Industrial i Automàtica / Eng. Mecànica "Tecnocampus" (Agrupació),UPF,EA,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2,0,2,0,0
+31053,Enginyeria Elèctrica,UPC,EA,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2,0,0,0,0
+81040,Enginyeria Elèctrica,UdG,EA,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2,0,0,0,0
+71037,Enginyeria Elèctrica,URV,EA,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2,0,0,0,0
+81050,Eng. Elèctrica / Eng. Electrònica Industrial i Automàtica (Simultaneïtat),UdG,EA,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2,0,0,0,0
+71058,Eng. Elèctrica / Eng. Electrònica Industrial i Automàtica (Simultaneïtat),URV,EA,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2,0,0,0,0
+31124,Eng. Elèctrica i Sistemes Ferroviaris / Eng. Electrònica Industrial i Automàtica / Eng. Mecànica (Agrupació),UPC,EA,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2,0,0,0,0
+31015,Eng. Elèctrica / Eng. de Tecnologia i Disseny Tèxtil / Eng. Electrònica Industrial i Automàtica / Eng. Mecànica / Eng. Química (Agrupació),UPC,EA,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2,0,0,0,0
+11017,Enginyeria Electrònica de Telecomunicació,UB,EA,0,0,0,0,0,1,1,2,0,1,0,0,0,0,0,0,0,0,0,2,0,1,2,0,2,0,0
+31099,Enginyeria Electrònica de Telecomunicació,UPC,EA,0,0,0,0,0,1,1,2,0,1,0,0,0,0,0,0,0,0,0,2,0,1,2,0,2,0,0
+21115,Enginyeria Electrònica de Telecomunicació / Enginyeria de Sistemes de Telecomunicació (Agrupació),UAB,EA,0,0,1,0,0,1,1,2,0,1,0,1,0,0,0,0,0,0,0,2,0,1,2,0,2,0,0
+21106,Enginyeria Electrònica de Telecomunicació / Enginyeria Informàtica (Simultaneïtat),UAB,EA,0,0,0,0,0,1,1,2,0,1,0,0,0,0,0,0,0,0,0,2,0,1,2,0,2,0,0
+21025,Enginyeria Electrònica Industrial i Automàtica "EU Salesiana de Sarrià",UAB,EA,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2,0,0,0,0
+31054,Enginyeria Electrònica Industrial i Automàtica,UPC,EA,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2,0,0,0,0
+81021,Enginyeria Electrònica Industrial i Automàtica,UdG,EA,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2,0,0,0,0
+71038,Enginyeria Electrònica Industrial i Automàtica,URV,EA,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2,0,0,0,0
+41057,Eng. Electrònica Industrial i Automàtica / Eng. d'Organització Industrial / Eng. Mecànica "Tecnocampus" (Agrupació),UPF,EA,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2,0,2,0,0
+61075,Enginyeria en Electrònica Industrial i Automàtica / Enginyeria de l'Energia i Sostenibilitat / Enginyeria Mecànica (agrupació) Grau en + Màster Universitari en Enginyeria Industrial (PARS: Enginyer/a Industrial),UdL,EA,0,0,2,0,0,2,1,2,0,1,0,2,0,0,0,0,0,0,0,2,0,2,2,0,2,0,0
+81050,Eng. Electrònica Industrial i Automàtica / Eng. Elèctrica (Simultaneïtat),UdG,EA,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2,0,0,0,0
+71058,Eng. Electrònica Industrial i Automàtica / Eng. Elèctrica (Simultaneïtat),URV,EA,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2,0,0,0,0
+31124,Eng. Electrònica Industrial i Automàtica / Eng. Elèctrica i Sistemes Ferroviaris / Eng. Mecànica (Agrupació),UPC,EA,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2,0,0,0,0
+31015,Eng. Electrònica Industrial i Automàtica / Eng. de Tecnologia i Disseny Tèxtil / Eng. Elèctrica / Eng. Mecànica / Eng. Química (Agrupació),UPC,EA,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2,0,0,0,0
+21112,Enginyeria Electrònica Industrial i Automàtica / Enginyeria Mecànica "EU Salesiana de Sarrià" (simultaneïtat),UAB,EA,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2,0,2,0,0
+31104,Eng. Electrònica Industrial i Automàtica / Eng. Mecànica / Eng. Química / Eng. de Recursos Minerals i el seu Reciclatge (Agrupació),UPC,EA,0,0,0,0,0,2,0,2,0,0,0,2,0,0,0,0,0,0,0,2,0,2,2,0,2,0,0
+61061,Enginyeria en Electrònica Industrial i Automàtica / Enginyeria Mecànica / Enginyeria de l'Energia i Sostenibilitat (agrupació),UdL,EA,0,0,2,0,0,2,1,2,0,1,0,2,0,0,0,0,0,0,0,2,0,2,2,0,2,0,0
+21127,Enginyeria en Energies Renovables i Eficiència Energètica "EU Salesiana de Sarrià",UAB,EA,0,0,1,0,0,2,1,2,0,1,0,1,0,0,0,0,0,0,0,2,0,1,2,0,2,0,0
+31087,Enginyeria en Geoinformació i Geomàtica,UPC,EA,0,0,0,0,0,2,0,2,0,0,1,2,2,0,0,0,0,0,0,0
+21022,Enginyeria en Organització Industrial "EU Salesiana de Sarrià",UAB,EA,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,0,0,0
+61070,Enginyeria en Organització Industrial i Logística / Administració i Direcció d'Empreses (simultaneïtat),UdL,EA,0,0,2,0,0,2,1,2,0,2,2,1,0,0,0,0,0,0,0,2,2,2,2,0,2,2,0
+61060,Enginyeria en Organització Industrial i Logística / Enginyeria Química (Agrupació),UdL,EA,0,0,1,0,0,2,1,2,0,1,0,1,0,0,0,0,0,0,0,2,0,2,2,0,2,0,0
+41018,Enginyeria en Sistemes Audiovisuals,UPF,EA,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0
+31049,Enginyeria en Sistemes i Tecnologia Naval,UPC,EA,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2,0,2,0,0
+31112,Enginyeria en Tecnologies Aeroespacials Grau en + Màster Universitari en Enginyeria Aeronàutica (PARS: Enginyer/a Aeronàutic/a),UPC,EA,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2,0,0,0,0
+81041,Enginyeria en Tecnologies Industrials,UdG,EA,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2,0,0,0,0
+81046,Enginyeria en Tecnologies Industrials / Administració i Direcció d'Empreses (Simultaneïtat),UdG,EA,0,0,2,0,0,2,0,2,0,2,2,0,0,0,0,0,0,0,0,2,2,2,2,0,0,2,0
+31114,Enginyeria en Tecnologies Industrials Grau en + Màster Universitari en Enginyeria Industrial (PARS: Enginyer/a Industrial)) (Terrassa),UPC,EA,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2,0,0,0,0
+31115,Enginyeria en Tecnologies Industrials Grau en + Màster Universitari en Enginyeria Industrial (PARS: Enginyer/a Industrial) (Barcelona),UPC,EA,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2,0,0,0,0
+31031,Enginyeria en Vehicles Aeroespacials,UPC,EA,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2,0,0,0,0
+31067,Enginyeria Física,UPC,EA,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+61014,Enginyeria Forestal,UdL,EA,0,0,2,0,0,1,0,2,0,1,0,2,0,0,0,0,0,0,0,2,0,2,2,0,0,0,0
+61042,Enginyeria Forestal / Conservació de la Natura (Simultaneïtat),UdL,EA,0,0,2,0,0,1,0,2,0,1,0,2,0,0,0,0,0,0,0,2,0,2,2,0,0,0,0
+11018,Enginyeria Informàtica,UB,EA,0,0,2,1,0,2,0,2,0,1,0,0,0,0,0,0,0,0,0,2,0,2,2,0,2,0,0
+21071,Enginyeria Informàtica,UAB,EA,0,0,2,1,0,2,0,2,0,1,0,0,0,0,0,0,0,0,0,2,0,2,2,0,2,0,0
+31037,Enginyeria Informàtica (Vilanova i la Geltrú),UPC,EA,0,0,2,1,0,2,0,2,0,1,0,0,0,0,0,0,0,0,0,2,0,2,2,0,2,0,0
+31059,Enginyeria Informàtica (Barcelona),UPC,EA,0,0,2,1,0,2,0,2,0,1,0,0,0,0,0,0,0,0,0,2,0,2,2,0,2,0,0
+41019,Enginyeria en Informàtica,UPF,EA,0,0,2,1,0,2,0,2,0,1,0,0,0,0,0,0,0,0,0,2,0,2,2,0,2,0,0
+61015,Enginyeria Informàtica,UdL,EA,0,0,2,1,0,2,0,2,0,1,0,0,0,0,0,0,0,0,0,2,0,2,2,0,2,0,0
+61074,Enginyeria Informàtica,UdL,EA,0,0,2,1,0,2,0,2,0,1,0,0,0,0,0,0,0,0,0,2,0,2,2,0,2,0,0
+81042,Enginyeria Informàtica,UdG,EA,0,0,2,1,0,2,0,2,0,1,0,0,0,0,0,0,0,0,0,2,0,2,2,0,2,0,0
+71039,Enginyeria Informàtica,URV,EA,0,0,2,1,0,2,0,2,0,1,0,0,0,0,0,0,0,0,0,2,0,2,2,0,2,0,0
+31116,Enginyeria Informàtica Grau en + Màster Universitari en Enginyeria Informàtica (PARS: Enginyer/a Informàtic/a),UPC,EA,0,0,2,1,0,2,0,2,0,1,0,0,0,0,0,0,0,0,0,2,0,2,2,0,2,0,0
+61076,Enginyeria Informàtica Grau en + Màster Universitari en Enginyeria Informàtica (PARS: Enginyer/a Informàtic/a),UdL,EA,0,0,2,1,0,2,0,2,0,1,0,0,0,0,0,0,0,0,0,2,0,2,2,0,2,0,0
+41047,Eng. Informàtica de Gestió i Sistemes d'Informació "Tecnocampus",UPF,EA,0,0,0,0,0,1,0,2,0,1,0,0,0,0,0,0,0,0,0,2,0,1,2,0,2,0,0
+41052,Enginyeria Informàtica de Gestió i Sistemes d'Informació / Disseny i Producció de Videojocs "Tecnocampus" (Simultaneïtat),UPF,CSJ,0,0,0,0,2,2,2,2,2,1,0,0,0,0,0,2,0,0,0,2,1,1,2,2,2,0,0
+61036,Enginyeria Informàtica / Administració i Direcció d'Empreses (Simultaneïtat),UdL,EA,0,0,2,1,0,2,0,2,0,2,2,0,0,0,0,0,0,0,0,2,2,2,2,0,2,2,0
+71056,Enginyeria Informàtica / Biotecnologia (Simultaneïtat),URV,EA,0,0,2,0,0,1,0,2,0,1,0,0,0,0,0,0,0,0,0,2,0,2,2,0,2,0,0
+21106,Enginyeria Informàtica / Enginyeria Electrònica de Telecomunicació (Simultaneïtat),UAB,EA,0,0,0,0,0,1,1,2,0,1,0,0,0,0,0,0,0,0,0,2,0,1,2,0,2,0,0
+21105,Enginyeria Informàtica / Enginyeria de Sistemes de Telecomunicació (Simultaneïtat),UAB,EA,0,0,1,0,0,1,1,2,0,1,0,1,0,0,0,0,0,0,0,2,0,1,2,0,2,0,0
+11016,Enginyeria Informàtica / Matemàtiques (Simultaneïtat),UB,EA,0,0,1,1,0,1,0,2,0,1,0,1,0,0,0,0,0,0,0,2,2,1,2,0,2,0,0
+41056,Enginyeria Matemàtica en Ciència de Dades,UPF,EA,0,0,0,1,0,1,0,2,0,1,0,0,0,0,0,0,0,0,0,2,0,1,2,0,2,0,0
+71081,Enginyeria Matemàtica i Física,URV,EA,0,0,1,1,0,1,0,2,0,0,0,1,0,0,0,0,0,0,0,2,2,2,1,0,0,0,0
+21026,Enginyeria Mecànica "EU Salesiana de Sarrià",UAB,EA,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2,0,0,0,0
+31027,Enginyeria Mecànica,UPC,EA,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2,0,0,0,0
+81022,Enginyeria Mecànica,UdG,EA,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2,0,0,0,0
+71040,Enginyeria Mecànica,URV,EA,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2,0,0,0,0
+61065,Enginyeria Mecànica / Enginyeria de l'Energia i Sostenibilitat (Simultaneïtat),0,0,0,0,2,0,0,2,1,2,0,1,0,2,0,0,0,0,0,0,0,2,0,2,2,0,2,0,0
+61075,Enginyeria Mecànica / Enginyeria de l'Energia i Sostenibilitat / Enginyeria en Electrònica Industrial i Automàtica / (agrupació) Grau en + Màster Universitari en Enginyeria Industrial (PARS: Enginyer/a Industrial),UdL,EA,0,0,2,0,0,2,1,2,0,1,0,2,0,0,0,0,0,0,0,2,0,2,2,0,2,0,0
+21112,Enginyeria Mecànica / Enginyeria Electrònica Industrial i Automàtica "EU Salesiana de Sarrià" (simultaneïtat),UAB,EA,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2,0,2,0,0
+31104,Eng. Mecànica / Eng. Electrònica Industrial i Automàtica / Eng. Química / Eng. de Recursos Minerals i el seu Reciclatge (Agrupació),UPC,EA,0,0,0,0,0,2,0,2,0,0,0,2,0,0,0,0,0,0,0,2,0,2,2,0,2,0,0
+41057,Eng. Mecànica / Eng. d'Organització Industrial / Eng. Electrònica Industrial i Automàtica "Tecnocampus" (Agrupació),UPF,EA,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2,0,2,0,0
+31124,Eng. Mecànica / Eng. Electrònica Industrial i Automàtica / Eng. Elèctrica i Sistemes Ferroviaris (Agrupació),UPC,EA,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2,0,0,0,0
+31015,Eng. Mecànica / Eng. Electrònica Industrial i Automàtica / Eng. de Tecnologia i Disseny Tèxtil / Eng. Elèctrica / Eng. Química (Agrupació),UPC,EA,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2,0,0,0,0
+61061,Enginyeria Mecànica / Enginyeria de l'Energia i Sostenibilitat / Enginyeria en Electrònica Industrial i Automàtica (Agrupació),UdL,EA,0,0,2,0,0,2,1,2,0,1,0,2,0,0,0,0,0,0,0,2,0,2,2,0,2,0,0
+91011,Enginyeria Mecatrònica,UVic-UCC,EA,0,0,1,0,0,2,1,2,0,1,0,1,0,0,0,0,0,0,0,2,0,2,2,0,0,0,0
+11019,Enginyeria Química,UB,EA,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2,0,0,0,0
+21090,Enginyeria Química,UAB,EA,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2,0,0,0,0
+31055,Enginyeria Química,UPC,EA,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2,0,0,0,0
+81023,Enginyeria Química,UdG,EA,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2,0,0,0,0
+71041,Enginyeria Química,URV,EA,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2,0,0,0,0
+31015,Eng. Química / Eng. Elèctrica / Eng. Electrònica Industrial i Automàtica / Eng. de Tecnologia i Disseny Tèxtil / Eng. Mecànica (Agrupació),UPC,EA,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2,0,0,0,0
+31104,Eng. Química / Eng. Electrònica Industrial i Automàtica / Eng. Mecànica / Eng. de Recursos Minerals i el seu Reciclatge (Agrupació),UPC,EA,0,0,0,0,0,2,0,2,0,0,0,2,0,0,0,0,0,0,0,2,0,2,2,0,2,0,0
+61060,Enginyeria Química / Enginyeria en Organització Industrial i Logística (Agrupació),UdL,EA,0,0,1,0,0,2,1,2,0,1,0,1,0,0,0,0,0,0,0,2,0,2,2,0,2,0,0
+31076,Eng. Telemàtica (Inclou Xarxes i Internet) / Eng. de Sistemes de Telecomunicació (Agrupació),UPC,EA,0,0,1,0,0,1,1,2,0,1,0,1,0,0,0,0,0,0,0,2,0,1,2,0,2,0,0
+31077,Enginyeria Telemàtica / Enginyeria de Sistemes de Telecomunicació (inclou xarxes i Internet) (febrer) (agrupació),UPC,EA,0,0,1,0,0,1,1,2,0,1,0,1,0,0,0,0,0,0,0,2,0,1,2,0,2,0,0
+31085,Eng. Telemàtica - Eng. de Sistemes de Telecomunicació / Eng. de Sistemes Aeroespacials (Agrupació de Simultaneïtat),UPC,EA,0,0,1,0,0,2,1,2,0,1,0,1,0,0,0,0,0,0,0,2,0,2,2,0,2,0,0
+71013,Enologia,URV,C,0,0,2,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+91902,Estadística,UB/UPC,CSJ,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0
+21128,Estadística Aplicada,UAB,C,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0
+91914,Estadística / Economia (Simultaneïtat),UB/UPC,CSJ,0,0,2,0,0,0,0,2,0,2,2,0,0,0,0,0,0,0,0,2,2,2,0,0,0,2,0
+21129,Estadística Aplicada / Sociologia (Simultaneïtat),UAB,C- CSJ,0,0,2,0,1,0,1,1,1,2,2,1,0,1,2,1,0,0,0,2,2,1,0,1,0,2,0
+11021,Estudis Anglesos (Docència en Anglès),UB,AH,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,2,2,2,0,0,0,0,0,0,2,2
+21135,Estudis Anglesos,UAB,AH,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,2,2,2,0,0,0,0,0,0,2,2
+61054,Estudis Anglesos,UdL,AH,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,2,2,2,0,0,0,0,0,0,2,2
+61051,Estudis Anglesos / Llengües Aplicades i Traducció (Simultaneïtat),UdL,AH,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,2,2,2,0,0,0,0,0,0,2,2
+11094,Estudis Àrabs i Hebreus,UB,AH,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,2,2,1,0,0,0,0,0,0,2,2
+21140,Estudis d'Anglès i Català,UAB,AH,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,2,2,2,0,0,0,0,0,0,2,2
+21141,Estudis d'Anglès i de Clàssiques,UAB,AH,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,2,2,2,0,0,0,0,0,0,2,2
+21142,Estudis d'Anglès i Espanyol,UAB,AH,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,2,2,2,0,0,0,0,0,0,2,2
+21143,Estudis d'Anglès i Francès,UAB,AH,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,2,2,2,0,0,0,0,0,0,2,2
+21030,Estudis d'Àsia Oriental -Japonès-,UAB,AH,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,2,2,1,0,0,0,0,0,0,2,2
+21067,Estudis d'Àsia Oriental -Xinès-,UAB,AH,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,2,2,1,0,0,0,0,0,0,2,2
+21144,Estudis de Català i Espanyol,UAB,AH,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,2,2,2,0,0,0,0,0,0,2,2
+21133,Estudis d'Espanyol i Xinès: Llengua Literatura i Cultura,UAB,AH,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,2,2,2,0,0,0,0,0,0,2,2
+41065,Estudis Globals,UPF,CSJ,0,0,1,0,1,0,1,1,1,2,2,1,0,1,1,2,0,0,0,2,2,1,0,2,0,2,0
+81084,Estudis Globals / Global Studies (docència en Anglès),UdG,CSJ,0,0,1,0,1,0,1,1,1,2,2,1,0,1,1,2,0,0,2,2,1,0,2,0,2,0,0
+91062,Estudis Globals / Global Studies (docència en Anglès),UVic-UCC,CSJ,0,0,1,0,1,0,1,1,1,2,2,1,0,1,1,2,0,0,2,2,1,0,2,0,2,0,0
+81085,Estudis Globals / Global Studies (docència en Anglès) / Turisme (simultaneïtat),UdG,CSJ,1,1,1,0,1,0,1,1,2,2,2,1,0,2,2,2,0,0,2,2,1,0,2,0,2,0,0
+41022,Estudis Internacionals d'Economia i Empresa - International Business Economics (docència en Anglès),UPF,CSJ,0,0,2,0,0,0,0,2,0,2,2,0,0,0,0,0,0,0,0,2,2,2,0,0,0,2,0
+11023,Estudis Literaris,UB,AH,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,2,2,0,0,0,0,0,0,0,2,2
+21148,Estudis Socioculturals de Gènere,UAB,CSJ,2,2,2,0,0,0,1,0,2,2,2,1,0,1,1,1,2,2,2,0,2,0,0,2,0,2,2
+11024,Farmàcia,UB,CS,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+11075,Farmàcia / Nutrició Humana i Dietètica (Simultaneïtat),UB,CS,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+11025,Filologia Catalana,UB,AH,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,2,2,2,0,0,0,0,0,0,2,2
+81070,Filologia Catalana,UdG,AH,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,2,2,2,0,0,0,0,0,0,2,2
+21134,Filologia Catalana: Estudis de Literatura i Lingüística,UAB,AH,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,2,2,2,0,0,0,0,0,0,2,2
+81080,Filologia Catalana / Filologia Hispànica (simultaneïtat),UdG,AH,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,2,2,2,0,0,0,0,0,0,2,2
+61055,Filologia Catalana i Estudis Occitans,UdL,AH,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,2,2,2,0,0,0,0,0,0,2,2
+61058,Filologia Catalana i Estudis Occitans / Llengües Aplicades i Traducció (Simultaneïtat),UdL,AH,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,2,2,2,0,0,0,0,0,0,2,2
+11026,Filologia Clàssica,UB,AH,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,2,2,2,0,0,0,0,0,0,2,2
+11027,Filologia Hispànica,UB,AH,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,2,2,2,0,0,0,0,0,0,2,2
+61079,Filologia Hispànica,UdL,AH,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,2,2,2,0,0,0,0,0,0,2,2
+81071,Filologia Hispànica,UdG,AH,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,2,2,2,0,0,0,0,0,0,2,2
+81080,Filologia Hispànica / Filologia Catalana (simultaneïtat),UdG,AH,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,2,2,2,0,0,0,0,0,0,2,2
+61080,Filologia Hispànica / Llengües Aplicades i Traducció (Simultaneïtat),UdL,AH,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,2,2,2,0,0,0,0,0,0,2,2
+11061,Filosofia,UB,AH,1,1,0,1,0,0,0,0,2,0,0,0,0,2,2,2,0,0,0,0,0,0,0,0,0,2,0
+21032,Filosofia,UAB,AH,1,1,0,1,0,0,0,0,2,0,0,0,0,2,2,2,0,0,0,0,0,0,0,0,0,2,0
+81072,Filosofia,UdG,AH,1,1,0,1,0,0,0,0,2,0,0,0,0,2,2,2,0,0,0,0,0,0,0,0,0,2,0
+81069,Filosofia / Economia (Simultaneïtat),UdG,CSJ,1,1,2,1,0,0,0,2,2,2,2,0,0,2,2,2,0,0,0,2,2,2,0,0,0,2,0
+41042,Filosofia Política i Economia,UPF/UAB/ UAM/UC3M,CSJ,0,0,0,0,0,0,0,2,0,2,2,0,0,2,2,0,0,0,0,2,2,0,0,0,0,2,0
+71014,Finances i Comptabilitat,URV,CSJ,0,0,2,0,0,0,0,2,0,2,2,0,0,0,0,0,0,0,0,2,2,2,0,0,0,2,0
+71053,Finances i Comptabilitat / Administració i Direcció d'Empreses (Simultaneïtat),URV,CSJ,0,0,2,0,0,0,0,2,0,2,2,0,0,0,0,0,0,0,0,2,2,2,0,0,0,2,0
+11030,Física,UB,C,0,0,1,0,0,1,0,2,0,0,0,1,0,0,0,0,0,0,0,2,0,2,1,0,0,0,0
+21001,Física,UAB,C,0,0,1,0,0,1,0,2,0,0,0,1,0,0,0,0,0,0,0,2,0,2,1,0,0,0,0
+11020,Física / Matemàtiques (Simultaneïtat),UB,C,0,0,1,1,0,1,0,2,0,0,0,1,0,0,0,0,0,0,0,2,2,2,1,0,0,0,0
+21005,Física / Matemàtiques (Simultaneïtat),UAB,C,0,0,1,1,0,1,0,2,0,0,0,1,0,0,0,0,0,0,0,2,2,2,1,0,0,0,0
+21100,Física / Química (Simultaneïtat),UAB,C,0,0,1,0,0,1,0,2,0,0,0,1,0,0,0,0,0,0,0,2,0,2,1,0,0,0,0
+21095,Fisioteràpia,UAB,CS,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,0
+21033,Fisioteràpia "Gimbernat",UAB,CS,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,0
+41055,Fisioteràpia "Tecnocampus",UPF,CS,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,0
+61019,Fisioteràpia,UdL,CS,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,0
+81087,Fisioteràpia "EUSES",UdG,CS,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,0
+71043,Fisioteràpia (Reus),URV,CS,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,0
+71048,Fisioteràpia (Tortosa),URV,CS,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,0
+91012,Fisioteràpia,UVic-UCC,CS,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,0
+91041,Fisioteràpia (Campus Manresa),UVic-UCC,CS,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,0
+91918,Fisioteràpia (Docència en Anglès) (Només per a estudiants espanyols o estrangers amb residència),UdG/UB,CS,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,0
+91919,Fisioteràpia (docència en Anglès) (només per a estudiants sense nacionalitat espanyola ni residència a l'Estat Espanyol),UdG/UB,CS,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,0
+61039,Fisioteràpia / Ciències de l'Activitat Física i de l'Esport (Simultaneïtat),UdL,CS,0,0,2,2,0,0,0,2,0,0,1,0,1,0,0,0,0,0,0,2,1,2,0,0,0,2,0
+81086,Fisioteràpia / Ciències de l'Activitat Física i de l'Esport "EUSES" (simultaneïtat),UdG,CS,0,0,2,2,0,0,0,2,0,0,1,0,1,0,0,0,0,0,0,2,1,2,0,0,0,2,0
+71088,Fisioteràpia / Ciències de l'Activitat Física i de l'Esport "EUSES" (simultaneïtat),URV,CS,0,0,2,2,0,0,0,2,0,0,1,0,1,0,0,0,0,0,0,2,1,2,0,0,0,2,0
+41037,Fisioteràpia / Ciències de l'Activitat Física i de l'Esport "Tecnocampus" (simultaneïtat),UPF,CS,0,0,2,2,0,0,0,2,0,0,1,0,1,0,0,0,0,0,0,2,1,2,0,0,0,2,0
+61044,Fisioteràpia / Infermeria (Simultaneïtat),UdL,CS,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,2,2,0,0,0,2,0
+61057,Fisioteràpia / Nutrició Humana i Dietètica (Simultaneïtat),UdL,CS,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,2,0
+21035,Genètica,UAB,C,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+11108,Geografia i Canvi Global,UB,CSJ,0,0,1,0,1,0,0,0,1,1,2,1,1,2,2,1,0,0,0,2,2,0,0,0,0,0,0
+61026,Geografia,UdL,AH,0,0,1,0,1,0,0,0,1,1,2,1,1,2,2,1,0,0,0,2,2,0,0,0,0,0,0
+71015,Geografia Anàlisi Territorial i Sostenibilitat,URV,CSJ,0,0,1,0,1,0,0,0,1,1,2,1,1,2,2,1,0,0,0,2,2,0,0,0,0,0,0
+21124,Geografia Medi Ambient i Planificació Territorial,UAB,CSJ,0,0,1,0,1,0,0,0,1,1,2,1,1,2,2,1,0,0,0,2,2,0,0,0,0,0,0
+81073,Geografia Territori i Medi Ambient,UdG,AH,0,0,1,0,1,0,0,0,1,1,2,1,1,2,2,1,0,0,0,2,2,0,0,0,0,0,0
+81076,Geografia Territori i Medi Ambient / Turisme (simultaneïtat),UdG,CSJ,1,1,1,0,1,0,0,0,2,2,2,1,1,2,2,2,0,0,0,2,2,0,0,0,0,0,0
+11032,Geologia,UB,C,0,0,1,1,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+21037,Geologia,UAB,C,0,0,1,1,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+21151,Geologia / Ciències Ambientals (Simultaneïtat),UAB,C,0,0,2,2,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+21038,Gestió Aeronàutica,UAB,CSJ,0,0,1,1,1,1,1,1,1,2,2,1,0,1,1,1,0,0,0,2,2,1,0,1,0,0,0
+21149,Gestió de Ciutats Intel·ligents i Sostenibles,UAB,EA,0,0,1,0,0,1,1,2,0,2,2,2,0,0,0,0,0,0,0,2,2,2,2,0,2,0,0
+91060,Gestió de la Societat Digital (Campus Manresa),UVic-UCC,CSJ,0,0,2,0,0,0,1,2,0,2,2,2,0,0,0,1,0,0,0,2,2,2,2,2,0,2,0
+11091,Gestió d'Informació i Documentació Digital,UB,CSJ,0,0,1,0,1,1,1,1,1,2,1,1,0,2,2,1,2,2,0,1,1,1,0,2,0,2,2
+11098,Gestió d'Informació i Documentació Digital / Comunicació Audiovisual (Simultaneïtat),UB,CSJ,2,2,1,0,1,1,2,1,1,2,1,1,0,2,2,2,2,2,0,2,2,1,0,2,0,2,2
+71068,Gestió en Turisme i Hoteleria,URV,CSJ,1,1,1,0,1,1,1,1,2,2,2,1,0,1,1,2,1,1,0,2,2,1,0,1,0,0,1
+11052,Gestió i Administració Pública,UB,CSJ,0,0,1,0,0,0,0,1,0,2,2,1,0,1,1,1,0,0,0,2,2,1,2,2,0,2,0
+11070,Gestió i Administració Pública / Dret (Simultaneïtat),UPF,CSJ,0,0,1,0,0,0,0,1,0,2,2,1,0,1,2,1,0,0,0,2,2,1,2,2,0,2,0
+41064,Grau Obert Programa de (Agrupació),UPF,AH- CSJ- CS- EA,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+11035,Història,UB,AH,0,0,0,0,0,0,0,0,2,0,1,0,0,2,2,2,0,0,0,0,0,0,0,0,0,1,0
+21040,Història,UAB,AH,0,0,0,0,0,0,0,0,2,0,1,0,0,2,2,2,0,0,0,0,0,0,0,0,0,1,0
+61028,Història,UdL,AH,0,0,0,0,0,0,0,0,2,0,1,0,0,2,2,2,0,0,0,0,0,0,0,0,0,1,0
+71077,Història,URV,AH,0,0,0,0,0,0,0,0,2,0,1,0,0,2,2,2,0,0,0,0,0,0,0,0,0,1,0
+81074,Història,UdG,AH,0,0,0,0,0,0,0,0,2,0,1,0,0,2,2,2,0,0,0,0,0,0,0,0,0,1,0
+11096,Història / Arqueologia (Simultaneïtat),UB,AH,0,0,0,0,0,0,0,0,2,0,1,0,0,2,2,2,0,0,0,0,0,0,0,0,0,1,0
+11104,Història / Història de l'Art (Simultaneïtat),UB,AH,2,2,0,0,0,0,0,0,2,0,1,0,2,2,2,2,0,0,0,0,0,0,0,0,0,1,0
+81078,Història / Història de l'Art (simultaneïtat),UdG,AH,2,2,0,0,0,0,0,0,2,0,1,0,2,2,2,2,0,0,0,0,0,0,0,0,0,1,0
+11034,Història de l'Art,UB,AH,2,2,0,0,0,0,0,0,2,0,1,0,2,2,2,2,0,0,0,0,0,0,0,0,0,1,0
+21039,Història de l'Art,UAB,AH,2,2,0,0,0,0,0,0,2,0,1,0,2,2,2,2,0,0,0,0,0,0,0,0,0,1,0
+81075,Història de l'Art,UdG,AH,2,2,0,0,0,0,0,0,2,0,1,0,2,2,2,2,0,0,0,0,0,0,0,0,0,1,0
+11104,Història de l'Art / Història (Simultaneïtat),UB,AH,2,2,0,0,0,0,0,0,2,0,1,0,2,2,2,2,0,0,0,0,0,0,0,0,0,1,0
+81078,Història de l'Art / Història (Simultaneïtat),UdG,AH,2,2,0,0,0,0,0,0,2,0,1,0,2,2,2,2,0,0,0,0,0,0,0,0,0,1,0
+71078,Història de l'Art i Arqueologia,URV,AH,2,2,0,0,0,0,0,0,2,0,1,0,2,2,2,2,0,0,0,0,0,0,0,0,0,1,0
+61081,Història de l'Art i Gestió del Patrimoni Artístic,UdL,AH,2,2,0,0,0,0,0,0,2,0,1,0,2,2,2,2,2,2,0,0,0,0,0,0,0,1,2
+21138,Història Política i Economia Contemporànies,UAB,CSJ,0,0,0,0,0,0,0,0,0,2,2,0,0,1,2,1,1,1,0,0,2,0,0,0,0,2,1
+21101,Humanitats,UAB,AH,2,2,0,0,2,0,1,0,2,1,2,0,1,2,2,2,2,2,2,0,0,0,0,1,0,2,2
+41003,Humanitats,UPF,AH,2,2,0,0,2,0,1,0,2,1,2,0,1,2,2,2,2,2,2,0,0,0,0,1,0,2,2
+11037,Infermeria (Campus Bellvitge),UB,CS,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,0,0,0,2,0
+11081,Infermeria (Campus Clínic),UB,CS,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,0,0,0,2,0
+11036,Infermeria "Sant Joan de Déu",UB,CS,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,0,0,0,2,0
+21044,Infermeria,UAB,CS,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,0,0,0,2,0
+21041,Infermeria EUIT de Terrassa,UAB,CS,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,0,0,0,2,0
+21042,Infermeria "Gimbernat",UAB,CS,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,0,0,0,2,0
+21043,Infermeria "Sant Pau",UAB,CS,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,0,0,0,2,0
+41021,Infermeria "Escola Superior d'Infermeria del Mar",UPF,CS,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,0,0,0,2,0
+41031,Infermeria "Tecnocampus",UPF,CS,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,0,0,0,2,0
+61029,Infermeria,UdL,CS,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,0,0,0,2,0
+61046,Infermeria (Igualada),UdL,CS,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,0,0,0,2,0
+81066,Infermeria,UdG,CS,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,0,0,0,2,0
+71016,Infermeria,URV,CS,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,0,0,0,2,0
+71028,Infermeria (Tortosa),URV,CS,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,0,0,0,2,0
+71032,Infermeria (El Vendrell),URV,CS,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,0,0,0,2,0
+71084,Infermeria (Vilafranca del Penedès),URV,CS,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,0,0,0,2,0
+91013,Infermeria,UVic-UCC,CS,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,0,0,0,2,0
+91043,Infermeria (Campus Manresa),UVic-UCC,CS,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,0,0,0,2,0
+61044,Infermeria / Fisioteràpia (Simultaneïtat),UdL,CS,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,2,2,0,0,0,2,0
+21046,Informàtica i Serveis,UAB,EA,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,0,0,0
+81058,Innovació i Seguretat Alimentària,UdG,EA,0,0,2,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,2,0,2,2,0,0,0,0
+31106,Intel·ligència Artificial,UPC,EA,0,0,2,0,0,1,0,2,0,1,0,0,0,0,0,0,0,0,0,2,0,1,2,0,1,0,0
+21139,Intel·ligència Artificial / Artificial Intelligence (docència en anglès),UAB,EA,0,0,2,0,0,1,0,2,0,1,0,0,0,0,0,0,0,0,0,2,0,1,2,0,1,0,0
+10120,Investigació Privada (Títol propi no oficial),UB,CSJ,1,1,2,0,2,1,1,2,2,1,2,1,0,1,2,2,1,1,0,2,2,2,1,1,1,1,1
+11039,Lingüística,UB,AH,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,2,2,1,0,0,0,0,0,0,2,2
+71072,Llengua i Literatura Catalanes,URV,AH,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,2,2,2,0,0,0,0,0,0,2,2
+21136,Llengua i Literatura Espanyoles,UAB,AH,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,2,2,2,0,0,0,0,0,0,2,2
+71073,Llengua i Literatura Hispàniques,URV,AH,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,2,2,2,0,0,0,0,0,0,2,2
+41023,Llengües Aplicades,UPF,AH,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,2,2,0,0,0,0,0,1,0,2,2
+41054,Llengües Aplicades / Traducció i Interpretació - Anglès - (Simultaneïtat),UPF,AH,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,2,2,1,0,0,0,0,1,0,2,2
+61051,Llengües Aplicades i Traducció / Estudis Anglesos (Simultaneïtat),UdL,AH,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,2,2,2,0,0,0,0,0,0,2,2
+61058,Llengües Aplicades i Traducció / Filologia Catalana i Estudis Occitans (Simultaneïtat),UdL,AH,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,2,2,2,0,0,0,0,0,0,2,2
+61080,Llengües Aplicades i Traducció / Filologia Hispànica (Simultaneïtat),UdL,AH,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,2,2,2,0,0,0,0,0,0,2,2
+11040,Llengües i Literatures Modernes,UB,AH,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,2,2,1,0,0,0,0,0,0,2,2
+11082,Llengües Romàniques i les seves Literatures,UB,AH,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,2,2,1,0,0,0,0,0,0,2,2
+81064,Logística Empresarial "Mediterrani",UdG,CSJ,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0
+41048,Logística i Negocis Marítims "Tecnocampus",UPF,CSJ,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0
+21048,Logopèdia,UAB,CS,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0
+81051,Màrqueting "Mediterrani",UdG,CSJ,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2,0,0,2,0,0,0
+71062,Màrqueting "ESIC",URV,CSJ,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2,0,0,2,0,0,0
+71074,Màrqueting "ESIC" (Docència en Anglès),URV,CSJ,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2,0,0,2,0,0,0
+81062,Màrqueting / Turisme "Mediterrani" (Simultaneïtat),UdG,CSJ,1,1,0,0,0,0,0,0,2,2,2,0,0,2,2,2,0,0,0,2,2,0,0,2,0,0,0
+71079,Màrqueting / Administració i Direcció d'Empreses "ESIC" (simultaneïtat) Reus / Barcelona,URV,CSJ,0,0,2,0,0,0,0,2,0,2,2,0,0,0,0,0,0,0,0,2,2,2,0,2,0,2,0
+71080,Màrqueting / Administració i Direcció d'Empreses "ESIC" (simultaneïtat) Tortosa / Barcelona,URV,CSJ,0,0,2,0,0,0,0,2,0,2,2,0,0,0,0,0,0,0,0,2,2,2,0,2,0,2,0
+61078,Màrqueting i Comunicació Digital "Centre Universitari EAE",UdL,CSJ,2,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0
+31132,Màrqueting Innovació i Tecnologia "EUNCET" (Campus 22@),UPC,CSJ,2,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2,0,0,2,0,0,0
+31131,Màrqueting Innovació i Tecnologia "EUNCET" (Campus 22@) (semipresencial),UPC,CSJ,2,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2,0,0,2,0,0,0
+31134,Màrqueting Innovació i Tecnologia "EUNCET" (Campus Terrassa),UPC,CSJ,2,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2,0,0,2,0,0,0
+31133,Màrqueting Innovació i Tecnologia "EUNCET" (Campus Terrassa) (semipresencial),UPC,CSJ,2,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2,0,0,2,0,0,0
+31129,Màrqueting Innovació i Tecnologia / Empresa Innovació i Tecnologia "EUNCET" (Campus 22@) (simultaneïtat),UPC,CSJ,2,2,2,0,0,0,0,2,0,2,2,0,0,0,0,0,0,0,0,2,2,2,0,2,0,2,0
+31130,Màrqueting Innovació i Tecnologia / Empresa Innovació i Tecnologia "EUNCET" (Campus Terrassa) (simultaneïtat),UPC,CSJ,2,2,2,0,0,0,0,2,0,2,2,0,0,0,0,0,0,0,0,2,2,2,0,2,0,2,0
+91032,Màrqueting i Comunicació Empresarial,UVic-UCC,CSJ,2,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2,0,0,2,0,0,0
+41039,Màrqueting i Comunitats Digitals "Tecnocampus",UPF,CSJ,2,2,0,0,0,0,2,0,1,2,1,0,0,2,2,2,0,0,0,2,2,0,0,2,0,0,0
+41041,Màrqueting i Comunitats Digitals / Administració d'Empreses i Gestió de la Innovació "Tecnocampus" (Simultaneïtat),UPF,CSJ,2,2,2,0,0,0,2,2,1,2,2,0,0,2,2,2,0,0,0,2,2,2,0,2,0,2,0
+41062,Màrqueting i Comunitats Digitals / Turisme i Gestió del Lleure "Tecnocampus" (simultaneïtat),UPF,CSJ,2,2,0,0,0,0,2,0,2,2,2,0,0,2,2,2,0,0,0,2,2,0,0,2,0,0,0
+21122,Matemàtica Computacional i Analítica de Dades,UAB,C,0,0,1,1,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,2,2,1,1,0,0,0,0
+11041,Matemàtiques,UB,C,0,0,1,1,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,2,2,1,1,0,0,0,0
+21003,Matemàtiques,UAB,C,0,0,1,1,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,2,2,1,1,0,0,0,0
+31040,Matemàtiques,UPC,EA,0,0,1,1,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,2,2,1,1,0,0,0,0
+11066,Matemàtiques / Administració i Direcció d'Empreses (Simultaneïtat),UB,C,0,0,2,1,0,0,0,2,0,2,2,1,0,0,0,0,0,0,0,2,2,2,1,0,0,2,0
+11016,Matemàtiques / Enginyeria Informàtica (Simultaneïtat),UB,C,0,0,1,1,0,1,0,2,0,1,0,1,0,0,0,0,0,0,0,2,2,1,2,0,2,0,0
+11020,Matemàtiques / Física (Simultaneïtat),UB,C,0,0,1,1,0,1,0,2,0,0,0,1,0,0,0,0,0,0,0,2,2,2,1,0,0,0,0
+21005,Matemàtiques / Física (Simultaneïtat),UAB,C,0,0,1,1,0,1,0,2,0,0,0,1,0,0,0,0,0,0,0,2,2,2,1,0,0,0,0
+11083,Medicina (Campus Bellvitge),UB,CS,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+11043,Medicina (Campus Clínic),UB,CS,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+21079,Medicina,UAB,CS,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+41058,Medicina,UPF,CS,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+61030,Medicina,UdL,CS,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+81001,Medicina,UdG,CS,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+71019,Medicina,URV,CS,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+91054,Medicina,UVic-UCC,CS,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+21050,Microbiologia,UAB,C,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+41049,Mitjans Audiovisuals "Tecnocampus",UPF,CSJ,0,0,0,0,1,2,2,2,2,1,0,0,0,0,0,2,2,2,0,2,2,0,1,2,0,0,2
+81079,Moda "ERAM",UdG,AH,1,1,0,0,2,1,2,0,2,2,0,0,0,0,2,2,0,0,0,0,0,0,0,2,1,1,0
+91029,Multimèdia. Aplicacions i Videojocs,UVic-UCC,EA,0,0,0,0,1,2,2,2,2,1,0,0,0,0,0,2,0,0,0,2,2,0,1,2,0,0,0
+21051,Musicologia,UAB,AH,2,2,0,0,0,0,0,0,2,0,0,0,2,2,2,2,0,0,2,0,0,0,0,0,0,2,0
+21150,Nanociència i Nanotecnologia,UAB,C,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+31045,Nàutica i Transport Marítim,UPC,EA,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2,0,2,0,0
+11102,Negoci Digital i Innovació en Turisme "CETT",UB,CSJ,0,0,0,0,0,0,2,0,2,2,2,0,0,0,0,0,0,0,0,2,2,0,2,2,0,0,0
+11112,Negoci Digital i Innovació en Turisme / Turisme "CETT" (simultaneïtat),UB,CSJ,1,1,0,0,0,0,2,0,2,2,2,0,0,2,2,2,0,0,0,2,2,0,2,2,0,0,0
+41024,Negocis i Màrqueting Internacionals - Bachelor in International Business and Marketing "ESCI",UPF,CSJ,0,0,2,0,0,0,0,2,0,2,2,0,0,0,0,0,0,0,0,2,2,2,0,0,0,2,0
+41063,Negocis i Màrqueting Internacionals - Bachelor in International Business and Marketing "ESCI" (docència en anglès),UPF,CSJ,0,0,2,0,0,0,0,2,0,2,2,0,0,0,0,0,0,0,0,2,2,2,0,0,0,2,0
+11062,Nutrició Humana i Dietètica,UB,CS,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0
+41061,Nutrició Humana i Dietètica "Tecnocampus",UPF,CS,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0
+61031,Nutrició Humana i Dietètica,UdL,CS,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0
+81081,Nutrició Humana i Dietètica "EUSES",UdG,CS,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0
+71044,Nutrició Humana i Dietètica,URV,CS,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0
+91021,Nutrició Humana i Dietètica,UVic-UCC,CS,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0
+11075,Nutrició Humana i Dietètica / Farmàcia (Simultaneïtat),UB,CS,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+61057,Nutrició Humana i Dietètica / Fisioteràpia (Simultaneïtat),UdL,CS,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,2,0
+11044,Odontologia,UB,CS,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+91061,Odontologia (Campus Medicina Vic),UVic-UCC,CS,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+31105,Òptica i Optometria,UPC,CS,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+31098,Paisatgisme,UPC,EA,0,0,2,0,2,2,0,2,2,0,0,0,2,0,0,0,0,0,0,0
+11045,Pedagogia,UB,CSJ,1,1,0,2,0,0,0,0,0,1,2,0,1,2,2,0,0,0,1,2,2,0,0,1,0,2,0
+21052,Pedagogia,UAB,CSJ,1,1,0,2,0,0,0,0,0,1,2,0,1,2,2,0,0,0,1,2,2,0,0,1,0,2,0
+81043,Pedagogia,UdG,CSJ,1,1,0,2,0,0,0,0,0,1,2,0,1,2,2,0,0,0,1,2,2,0,0,1,0,2,0
+71020,Pedagogia,URV,CSJ,1,1,0,2,0,0,0,0,0,1,2,0,1,2,2,0,0,0,1,2,2,0,0,1,0,2,0
+21096,Periodisme,UAB,CSJ,0,0,0,2,0,0,0,0,0,0,2,0,0,2,2,0,2,2,0,2,2,0,0,2,0,2,2
+41025,Periodisme,UPF,CSJ,0,0,0,2,0,0,0,0,0,0,2,0,0,2,2,0,2,2,0,2,2,0,0,2,0,2,2
+71021,Periodisme,URV,CSJ,0,0,0,2,0,0,0,0,0,0,2,0,0,2,2,0,2,2,0,2,2,0,0,2,0,2,2
+91014,Periodisme,UVic-UCC,CSJ,0,0,0,2,0,0,0,0,0,0,2,0,0,2,2,0,2,2,0,2,2,0,0,2,0,2,2
+71045,Pilot d'Aviació Comercial i Operacions Aèries,URV,EA,0,0,1,0,0,2,0,2,0,2,2,0,0,0,0,0,0,0,0,2,0,1,2,0,2,0,0
+11046,Podologia,UB,CS,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+91045,Podologia (Campus Manresa),UVic-UCC,CS,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+21054,Prevenció i Seguretat Integral,UAB,CSJ,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0
+21113,Prevenció i Seguretat Integral (En Xarxa),UAB,CSJ,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0
+11111,Producció de Música i So per a la Indústria de l'Entreteniment,UB,AH,2,2,0,0,0,0,1,2,2,2,0,0,0,0,0,1,0,0,0,2,2,0,1,2,1,0,0
+11047,Psicologia,UB,CS,0,0,2,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2,2,1,0,0,0,1,0
+21081,Psicologia,UAB,CS,0,0,2,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2,2,1,0,0,0,1,0
+61020,Psicologia,UdL,CS,0,0,2,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2,2,1,0,0,0,1,0
+81033,Psicologia,UdG,CS,0,0,2,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2,2,1,0,0,0,1,0
+71022,Psicologia,URV,CS,0,0,2,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2,2,1,0,0,0,1,0
+91022,Psicologia,UVic-UCC,CS,0,0,2,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2,2,1,0,0,0,1,0
+11093,Publicitat Relacions Públiques i Màrqueting "ESRP",UB,CSJ,0,0,0,2,0,0,2,0,1,2,1,0,0,2,2,2,2,2,0,2,2,0,0,2,0,0,2
+21097,Publicitat i Relacions Públiques,UAB,CSJ,0,0,0,2,0,0,2,0,1,2,1,0,0,2,2,2,2,2,0,2,2,0,0,2,0,0,2
+41004,Publicitat i Relacions Públiques,UPF,CSJ,0,0,0,2,0,0,2,0,1,2,1,0,0,2,2,2,2,2,0,2,2,0,0,2,0,0,2
+81002,Publicitat i Relacions Públiques,UdG,CSJ,0,0,0,2,0,0,2,0,1,2,1,0,0,2,2,2,2,2,0,2,2,0,0,2,0,0,2
+71023,Publicitat i Relacions Públiques,URV,CSJ,0,0,0,2,0,0,2,0,1,2,1,0,0,2,2,2,2,2,0,2,2,0,0,2,0,0,2
+91015,Publicitat i Relacions Públiques,UVic-UCC,CSJ,0,0,0,2,0,0,2,0,1,2,1,0,0,2,2,2,2,2,0,2,2,0,0,2,0,0,2
+81077,Publicitat i Relacions Públiques / Turisme (simultaneïtat),UdG,CSJ,1,1,0,2,0,0,2,0,2,2,2,0,0,2,2,2,2,2,0,2,2,0,0,2,0,0,2
+11049,Química,UB,C,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+21082,Química,UAB,C,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+81034,Química,UdG,C,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+71024,Química,URV,C,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+71066,Química (Docència en Anglès),URV,C,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+11095,Química / Administració i Direcció d'Empreses (Simultaneïtat),UB,CSJ,0,0,2,0,0,0,0,2,0,2,2,0,0,0,0,0,0,0,0,2,2,2,0,0,0,2,0
+21100,Química / Física (Simultaneïtat),UAB,C,0,0,1,0,0,1,0,2,0,0,0,1,0,0,0,0,0,0,0,2,0,2,1,0,0,0,0
+21123,Relacions Internacionals,UAB,CSJ,0,0,1,0,1,0,1,1,1,2,2,1,0,1,1,1,0,0,0,2,2,1,0,1,0,2,0
+21145,Relacions Internacionals / Dret (Simultaneïtat),UAB,CSJ,0,0,1,0,1,0,1,1,1,2,2,1,0,1,2,1,0,0,0,2,2,1,0,1,0,2,0
+11050,Relacions Laborals,UB,CSJ,0,0,1,0,0,0,0,0,0,2,2,1,0,1,1,1,0,0,0,2,2,0,0,0,0,2,0
+21055,Relacions Laborals,UAB,CSJ,0,0,1,0,0,0,0,0,0,2,2,1,0,1,1,1,0,0,0,2,2,0,0,0,0,2,0
+41026,Relacions Laborals,UPF,CSJ,0,0,1,0,0,0,0,0,0,2,2,1,0,1,1,1,0,0,0,2,2,0,0,0,0,2,0
+21109,Relacions Laborals / Dret (Simultaneïtat),UAB,CSJ,0,0,1,0,0,0,0,0,0,2,2,1,0,1,2,1,0,0,0,2,2,0,0,0,0,2,0
+71082,Relacions Laborals i Recursos Humans,URV,CSJ,0,0,1,0,0,0,0,0,0,2,2,1,0,1,1,1,0,0,0,2,2,0,0,0,0,2,0
+61033,Relacions Laborals i Recursos Humans,UdL,CSJ,0,0,1,0,0,0,0,0,0,2,2,1,0,1,1,1,0,0,0,2,2,0,0,0,0,2,0
+71083,Relacions Laborals i Recursos Humans / Dret (Simultaneïtat),URV,CSJ,0,0,1,0,0,0,0,0,0,2,2,1,0,1,2,1,0,0,0,2,2,0,0,0,0,2,0
+11076,Seguretat,UB,CSJ,0,0,1,0,0,0,0,1,0,2,2,1,0,1,1,1,0,0,0,2,2,1,2,2,0,2,0
+11063,Sociologia,UB,CSJ,0,0,1,0,1,0,1,1,1,2,2,1,0,1,2,1,0,0,0,2,2,1,0,1,0,2,0
+21056,Sociologia,UAB,CSJ,0,0,1,0,1,0,1,1,1,2,2,1,0,1,2,1,0,0,0,2,2,1,0,1,0,2,0
+11090,Sociologia / Administració i Direcció d'Empreses (Simultaneïtat),UB,CSJ,0,0,2,0,1,0,1,2,1,2,2,1,0,1,2,1,0,0,0,2,2,2,0,1,0,2,0
+21125,Sociologia / Ciència Política i Gestió Pública (Simultaneïtat),UAB,CSJ,0,0,0,0,0,0,0,0,1,2,2,0,0,2,2,0,0,0,0,2,2,0,0,0,0,2,0
+21129,Sociologia / Estadística Aplicada (Simultaneïtat),UAB,C- CSJ,0,0,2,0,1,0,1,1,1,2,2,1,0,1,2,1,0,0,0,2,2,1,0,1,0,2,0
+91915,Tecnologies Industrials amb Anàlisi Econòmica Grau en + Màster Universitari en Enginyeria Industrial (PARS: Enginyer/a Industrial amb Anàlisi Econòmica) (docència en Anglès),UPC / UPF,EA,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+31038,Tecnologies Marines,UPC,EA,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2,0,2,0,0
+21057,Teràpia Ocupacional EUIT de Terrassa,UAB,CS,0,0,2,0,0,0,0,1,0,0,2,2,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0
+91016,Teràpia Ocupacional (presencial / semipresencial),UVic-UCC,CS,0,0,2,0,0,0,0,1,0,0,2,2,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0
+21058,Traducció i Interpretació - Alemany,UAB,AH,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,2,2,1,0,0,0,0,1,0,2,2
+41040,Traducció i Interpretació - Alemany / Francès / Llengua de Signes Catalana -,UPF,AH,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,2,2,1,0,0,0,0,1,0,2,2
+21064,Traducció i Interpretació - Anglès,UAB,AH,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,2,2,1,0,0,0,0,1,0,2,2
+41006,Traducció i Interpretació - Anglès,UPF,AH,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,2,2,1,0,0,0,0,1,0,2,2
+41054,Traducció i Interpretació - Anglès - / Llengües Aplicades (Simultaneïtat),UPF,AH,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,2,2,1,0,0,0,0,1,0,2,2
+21065,Traducció i Interpretació - Francès,UAB,AH,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,2,2,1,0,0,0,0,1,0,2,2
+11051,Treball Social,UB,CSJ,0,0,0,0,0,0,0,0,0,2,2,0,0,0,2,0,0,0,0,2,2,0,0,0,0,1,0
+61034,Treball Social,UdL,CSJ,0,0,0,0,0,0,0,0,0,2,2,0,0,0,2,0,0,0,0,2,2,0,0,0,0,1,0
+81044,Treball Social,UdG,CSJ,0,0,0,0,0,0,0,0,0,2,2,0,0,0,2,0,0,0,0,2,2,0,0,0,0,1,0
+71026,Treball Social,URV,CSJ,0,0,0,0,0,0,0,0,0,2,2,0,0,0,2,0,0,0,0,2,2,0,0,0,0,1,0
+11011,Turisme "CETT",UB,CSJ,1,1,0,0,0,0,0,0,2,2,2,0,0,2,2,2,0,0,0,2,2,0,0,0,0,0,0
+11086,Turisme "CETT" (Docència en Anglès),UB,CSJ,1,1,0,0,0,0,0,0,2,2,2,0,0,2,2,2,0,0,0,2,2,0,0,0,0,0,0
+21059,Turisme,UAB,CSJ,1,1,0,0,0,0,0,0,2,2,2,0,0,2,2,2,0,0,0,2,2,0,0,0,0,0,0
+21114,Turisme (Docència en Anglès),UAB,CSJ,1,1,0,0,0,0,0,0,2,2,2,0,0,2,2,2,0,0,0,2,2,0,0,0,0,0,0
+61021,Turisme,UdL,CSJ,1,1,0,0,0,0,0,0,2,2,2,0,0,2,2,2,0,0,0,2,2,0,0,0,0,0,0
+81039,Turisme,UdG,CSJ,1,1,0,0,0,0,0,0,2,2,2,0,0,2,2,2,0,0,0,2,2,0,0,0,0,0,0
+81036,Turisme "Euroaula",UdG,CSJ,1,1,0,0,0,0,0,0,2,2,2,0,0,2,2,2,0,0,0,2,2,0,0,0,0,0,0
+81038,Turisme "Mediterrani",UdG,CSJ,1,1,0,0,0,0,0,0,2,2,2,0,0,2,2,2,0,0,0,2,2,0,0,0,0,0,0
+61053,Turisme / Administració i Direcció d'Empreses (Simultaneïtat),UdL,CSJ,1,1,2,0,0,0,0,2,2,2,2,0,0,2,2,2,0,0,0,2,2,2,0,0,0,2,0
+81085,Turisme / Estudis Globals / Global Studies (docència en Anglès) (simultaneïtat),UdG,CSJ,1,1,1,0,1,0,1,1,2,2,2,1,0,2,2,2,0,0,0,2,2,1,0,2,0,2,0
+81076,Turisme / Geografia Territori i Medi Ambient (simultaneïtat),UdG,CSJ,1,1,1,0,1,0,0,0,2,2,2,1,1,2,2,2,0,0,0,2,2,0,0,0,0,0,0
+81062,Turisme / Màrqueting "Mediterrani" (Simultaneïtat),UdG,CSJ,1,1,0,0,0,0,0,0,2,2,2,0,0,2,2,2,0,0,0,2,2,0,0,2,0,0,0
+11112,Turisme / Negoci Digital i Innovació en Turisme "CETT" (simultaneïtat),UB,CSJ,1,1,0,0,0,0,2,0,2,2,2,0,0,2,2,2,0,0,0,2,2,0,2,2,0,0,0
+81077,Turisme / Publicitat i Relacions Públiques (simultaneïtat),UdG,CSJ,1,1,0,2,0,0,2,0,2,2,2,0,0,2,2,2,2,2,0,2,2,0,0,2,0,0,2
+41035,Turisme i Gestió del Lleure / Administració d'Empreses i Gestió de la Innovació "Tecnocampus" (Simultaneïtat),UPF,CSJ,1,1,2,0,0,0,0,2,2,2,2,0,0,2,2,2,0,0,0,2,2,2,0,0,0,2,0
+41062,Turisme i Gestió del Lleure / Màrqueting i Comunitats Digitals "Tecnocampus" (simultaneïtat),UPF,CSJ,2,2,0,0,0,0,2,0,2,2,2,0,0,2,2,2,0,0,0,2,2,0,0,2,0,0,0
+21083,Veterinària,UAB,CS,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+61040,Veterinària / Ciència i Producció Animal (Simultaneïtat),UdL,CS,0,0,2,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
