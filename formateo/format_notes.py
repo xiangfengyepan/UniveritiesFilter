@@ -4,7 +4,7 @@ import sys
 from parent_src.Cli_utils import CliOutput  # Importing CliOutput for colored messages
 
 NUMBER_COLUMN_START = 3
-NUMBER_COLUMN_END = 6
+NUMBER_COLUMN_END = 7
 
 def extract_numbers(input_string):
     valid_numbers = {str(i) for i in range(10)}
@@ -16,6 +16,7 @@ def extract_numbers(input_string):
     return "N/A"
 
 def transform_list(input_list):
+    print(len(input_list))
     if NUMBER_COLUMN_END < len(input_list) or len(input_list) < NUMBER_COLUMN_START:
         return input_list
 
@@ -47,7 +48,7 @@ def process_text(input_filename, output_filename):
             result_lines.append(line)
 
         with open(output_filename, "w") as f:
-            f.write("Codi,Nom del centre d'estudi i població,Universitat,PAU / CFGS,Més grans de 25 anys,Titulats universitaris,Més grans de 45 anys\n")
+            f.write("Codi,Nom del centre de estudi i població,Universitat,PAU / CFGS,Més grans de 25 anys,Titulats universitaris,Més grans de 45 anys\n")
             f.write("\n".join(result_lines))
 
         CliOutput.success(f"Resultat escrit a: {output_filename}")

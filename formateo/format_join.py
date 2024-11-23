@@ -5,7 +5,6 @@ import argparse
 import sys
 from parent_src.Cli_utils import CliOutput  # Assuming CliOutput is implemented
 
-
 def merge_csv_by_columns(input_dir, output_file, merge_columns=None, columns_to_merge=None):
     input_files = glob.glob(os.path.join(input_dir, "*.csv"))
     
@@ -20,11 +19,19 @@ def merge_csv_by_columns(input_dir, output_file, merge_columns=None, columns_to_
         
         try:
             df = pd.read_csv(file, on_bad_lines='skip', quotechar='"')
+            CliOutput.info(f"Available columns in {file}: {df.columns.tolist()}")
+
+            # Normalize columns
+            df.columns = df.columns.str.strip()  # Remove leading/trailing spaces
+            df.columns = df.columns.str.replace(r"\\", "", regex=True)  # Remove backslashes
+            df.columns = df.columns.str.replace(r"\'", "'", regex=True)  # Handle escaped single quotes
+
         except pd.errors.ParserError as e:
             CliOutput.error(f"Error reading {file}: {e}")
             continue
 
         if merge_columns:
+            merge_columns = [col.strip() for col in merge_columns]  # Normalize merge columns
             missing_columns = [col for col in merge_columns if col not in df.columns]
             if missing_columns:
                 CliOutput.warning(f"Missing columns {missing_columns} in {file}. Skipping.")
@@ -36,11 +43,14 @@ def merge_csv_by_columns(input_dir, output_file, merge_columns=None, columns_to_
             merged_df = pd.merge(merged_df, df, on=merge_columns, how='outer')
 
     if columns_to_merge:
-        merged_df = merged_df[columns_to_merge]
-    
+        columns_to_merge = [col.strip() for col in columns_to_merge]  # Normalize columns to merge
+        try:
+            merged_df = merged_df[columns_to_merge]
+        except KeyError as e:
+            CliOutput.error(f"KeyError: {e}. Check columns in the input files.")
+
     merged_df.to_csv(output_file, index=False)
     CliOutput.success(f"Merged CSV saved to {output_file}")
-
 
 def main():
     parser = argparse.ArgumentParser(description='Merge CSV files in a directory by multiple columns.')
