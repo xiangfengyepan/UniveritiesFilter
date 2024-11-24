@@ -139,7 +139,6 @@ def filter_and_sort_csv(input_file, output_file, custom_function=None, func_iden
 
     # Read the CSV with dtype=str to treat all values as strings
     df = pd.read_csv(input_file, dtype=str)
-    print(df.columns)
     CliOutput.info(f"Data read from {input_file} (all values as strings):")
 
     if custom_function:

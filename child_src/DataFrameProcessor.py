@@ -1,5 +1,15 @@
 import pandas as pd
 
+def filter_rows(data_list, filter_func):
+    """
+    Filtra filas completas de data_list según el criterio definido por filter_func.
+    
+    :param data_list: Lista de listas, donde cada sublista representa una fila de datos.
+    :param filter_func: Función que toma una fila como argumento y devuelve True (para conservar) o False (para descartar).
+    :return: Una nueva lista de listas con las filas filtradas.
+    """
+    return [row for row in data_list if filter_func(row)]  # Conserva filas donde filter_func es True
+
 def combine_header_and_values(headers, values):
     """
     Combine headers with the corresponding values into a single list.
