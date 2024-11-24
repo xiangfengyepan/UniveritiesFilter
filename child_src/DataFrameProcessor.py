@@ -1,75 +1,40 @@
+import pandas as pd
+
+def combine_header_and_values(headers, values):
+    return [headers] + values
+
 class DataFrameProcessor:
     def __init__(self, df):
         self.df = df
 
-    def clean_currency(self, column):
+    def get_headers(self):
         """
-        Cleans the currency column by removing the currency symbol and converting to float.
-        It also handles the thousands separator (dot) and the euro symbol (€).
+        Returns the headers (columns) of the DataFrame as a list of strings.
         """
-        def parse_currency(value):
-            if isinstance(value, str):
-                # Remove the euro sign and spaces
-                value = value.replace('€', '').replace(' ', '').strip()
-                # Replace dot with empty for thousands separator and convert to float
-                value = value.replace('.', '')
-                try:
-                    return float(value)
-                except ValueError:
-                    return None  # If the value cannot be converted, return None
-            return value  # If not a string, return the value unchanged
-            
-        self.df[column] = self.df[column].apply(parse_currency)
-        return self.df
+        return list(self.df.columns)
 
-    def compare_columns(self, col1, col2, operation):
+    def csv_to_list_with_lines(self):
         """
-        Compare two columns based on the operation provided.
-        Supports operations like '>', '<', '>=', '<=', '==', and '!='.
+        Converts the DataFrame into a list of strings where each element is a row in CSV format.
+        Each value in the DataFrame is converted to a string.
         """
-        self.clean_currency(col1)
-        self.clean_currency(col2)
+        data_list = self.df.astype(str).values.tolist()
+        return data_list
 
-        if operation == '>':
-            return self.df[self.df[col1] > self.df[col2]]
-        elif operation == '<':
-            return self.df[self.df[col1] < self.df[col2]]
-        elif operation == '>=':
-            return self.df[self.df[col1] >= self.df[col2]]
-        elif operation == '<=':
-            return self.df[self.df[col1] <= self.df[col2]]
-        elif operation == '==':
-            return self.df[self.df[col1] == self.df[col2]]
-        elif operation == '!=':
-            return self.df[self.df[col1] != self.df[col2]]
-        else:
-            raise ValueError("Unsupported operation. Use one of: '>', '<', '>=', '<=', '==', '!='.")
-
-    def clean_all_currency_columns(self, columns):
+    @staticmethod
+    def list_to_csv_with_lines(data_list):
         """
-        Automatically clean the specified currency columns.
+        Convert a list of lists (where each inner list represents a row) into a DataFrame.
+        The first inner list is used as the column names.
         """
-        for col in columns:
-            self.clean_currency(col)
-        return self.df
-
-    def filter_lines(self, func_filter):
-        """
-        Filters the DataFrame by applying the func_filter to each row.
-        If func_filter returns False, the row is removed.
-        """
-        # Apply func_filter to each row and keep the rows where func_filter is True
-        self.df = self.df[self.df.apply(func_filter, axis=1)]
-        return self.df
-
-    def sort_lines(self, func_sort):
-        """
-        Sorts the DataFrame by applying the func_sort to each row.
-        The function returns an integer value that determines the sort order.
-        """
-        # Create a new column with the sort values based on func_sort
-        self.df['sort_order'] = self.df.apply(func_sort, axis=1)
+        if not data_list:
+            raise ValueError("The input data_list is empty.")
         
-        # Sort by the sort_order column, and then drop it as it's not needed anymore
-        self.df = self.df.sort_values(by='sort_order', ascending=True).drop(columns=['sort_order'])
-        return self.df
+        # The first row will be used as the column names
+        columns = data_list[0]
+        
+        # The remaining rows are the data
+        rows = data_list[1:]
+        
+        # Return the DataFrame
+        return pd.DataFrame(rows, columns=columns)
