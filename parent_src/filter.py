@@ -19,14 +19,20 @@ def clear_terminal():
     else:
         os.system("clear")  # macOS/Linux
 
+
 def pretty_format_df(df, max_width=None):
     def format_value(x, column_name):
-        """Format values for pretty printing."""
-        if isinstance(x, (int, float)):
-            if str(column_name).isdigit():  # Ensure column_name is a string before calling isdigit()
-                return str(x)
-            return f"{x:,.3f}"
-        return str(x)
+        """Format values for pretty printing, assuming all values are strings."""
+        # If column is 'Preu orientatiu' and the value is not 'NaN' (string 'nan')
+        if column_name.lower() == 'preu orientatiu' and x.lower() != 'nan':
+            # Add the '€' symbol if it's not 'NaN'
+            return f"{x}€"
+        
+        # For specific columns, replace dot with a comma (e.g., 'PAU / CFGS', 'Més grans de 25 anys', etc.)
+        if column_name.lower() in ['pau / cfgs', 'més grans de 25 anys', 'titulats universitaris', 'més grans de 45 anys']:
+            return x.replace('.', ',')  # Replace dot with comma
+        
+        return x  # Otherwise, return the string as is
 
     def truncate_value(value, width):
         """Truncate a value to fit within the specified maximum width."""
@@ -48,6 +54,11 @@ def pretty_format_df(df, max_width=None):
         min(max(len(str(cell)) for cell in [header] + formatted_df[col].astype(str).tolist()), max_width or float("inf"))
         for header, col in zip(headers, formatted_df.columns)
     ]
+
+    # Ensure that columns numbered '1, 2, 3, ..., 27' have the same width
+    for i, col in enumerate(formatted_df.columns):
+        if col.strip().isdigit() and int(col.strip()) in range(1, 28):  # Check if column name is 1, 2, ..., 27
+            col_widths[i] = 2  # Set the width of these columns to 2 (to keep them uniform)
 
     # Create the formatted header (right-aligned for numbers, left-aligned for text)
     header_line = " | ".join(
@@ -74,7 +85,6 @@ def pretty_format_df(df, max_width=None):
 
     return formatted_table
 
-
 def save_pretty_format_to_file(df, output_file):
     """Save a pretty-formatted DataFrame to a text file."""
     formatted_table = pretty_format_df(df, 20)
@@ -93,6 +103,7 @@ def export(input_file, export_file):
     except Exception as e:
         CliOutput.error(f"Error exporting the file: {e}")
 
+
 def update(output_file, input_file):
     """Update the output file with the latest sort/filter applied."""
     global LAST_FUNCTION_IDENTIFIER
@@ -110,9 +121,7 @@ def update(output_file, input_file):
     try:
         df = pd.read_csv(input_file)
 
-        for column in df.columns:
-            df[column] = pd.to_numeric(df[column], errors='ignore')
-
+        # Apply custom function (ensure numeric precision is maintained)
         df = custom_function(df)
 
         save_pretty_format_to_file(df, output_file)
@@ -120,14 +129,18 @@ def update(output_file, input_file):
     except Exception as e:
         CliOutput.error(f"Error updating the output file: {e}")
 
+
 def filter_and_sort_csv(input_file, output_file, custom_function=None, func_identifier=None):
-    """Filter and sort CSV data and save it with formatting."""
+    """
+    Filter and sort CSV data and save it with formatting.
+    Ensures all values are read and processed as strings to preserve their original format.
+    """
     global LAST_FUNCTION_IDENTIFIER
 
-    df = pd.read_csv(input_file)
-
-    for column in df.columns:
-        df[column] = pd.to_numeric(df[column], errors='ignore')
+    # Read the CSV with dtype=str to treat all values as strings
+    df = pd.read_csv(input_file, dtype=str)
+    print(df.columns)
+    CliOutput.info(f"Data read from {input_file} (all values as strings):")
 
     if custom_function:
         CliOutput.info(f"Applying custom function with the identifier {func_identifier} to the data.")
@@ -141,6 +154,8 @@ def filter_and_sort_csv(input_file, output_file, custom_function=None, func_iden
         CliOutput.success(f"Last applied function updated to: {func_identifier}")
 
     CliOutput.success(f"Filtered and sorted data saved to {output_file} with formatting.")
+
+
 
 def add_custom_function():
     """Allows the user to add a custom function."""
@@ -169,6 +184,7 @@ def add_custom_function():
     except Exception as e:
         CliOutput.error(f"An error occurred: {e}")
 
+
 def execute_custom_function(input_file, output_file):
     """Allows the user to execute a previously added custom function."""
     if not CUSTOM_FUNCTIONS:
@@ -186,6 +202,7 @@ def execute_custom_function(input_file, output_file):
         filter_and_sort_csv(input_file, output_file, custom_function=CUSTOM_FUNCTIONS[func_identifier], func_identifier=func_identifier)
     else:
         CliOutput.error("Invalid function identifier.")
+
 
 def main():
     CliOutput.info("Welcome to the CSV Custom Function Tool!")
@@ -205,6 +222,7 @@ def main():
     while True:
         menu.display()
         menu.select_option()
+
 
 if __name__ == "__main__":
     main()

@@ -41,7 +41,7 @@ format_join:
   	--merge_columns Codi \
   	--columns Codi,"Nom del centre de estudi",Població,Universitat,"Tipus de centre","Places orientatives","Preu orientatiu",Observacions,\
 	"PAU / CFGS","Més grans de 25 anys","Titulats universitaris","Més grans de 45 anys",\
-	Branca,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27
+	Branca,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27
 
 copy_dades:
 	for file in $(DIR_FORMATED)/*; do \

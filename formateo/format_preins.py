@@ -13,6 +13,7 @@ def process_text(input_filename, output_filename):
 
         for line in context.split('\n'):
             line = line.strip()
+            line = line.replace('€', '')
             result_lines.append(line)
 
         with open(output_filename, "w") as f:

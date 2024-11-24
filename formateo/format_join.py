@@ -5,6 +5,20 @@ import argparse
 import sys
 from parent_src.Cli_utils import CliOutput  # Assuming CliOutput is implemented
 
+def transform_cell_values(df):
+    """
+    Function to transform the values of the cells in the DataFrame.
+    Ensures that all values are treated as strings, and numeric precision is preserved.
+    """
+    for column in df.columns:
+        # Convert all values to strings to ensure consistency
+        df[column] = df[column].astype(str)
+
+        if df[column].dtype == 'object':  # If the column contains string data
+            # Convert all string values to uppercase and replace NaN with 'N/A'
+            df[column] = df[column].str.upper().fillna('N/A')
+        # No need for numeric check as everything is now treated as a string.
+
 def merge_csv_by_columns(input_dir, output_file, merge_columns=None, columns_to_merge=None):
     input_files = glob.glob(os.path.join(input_dir, "*.csv"))
     
@@ -18,13 +32,15 @@ def merge_csv_by_columns(input_dir, output_file, merge_columns=None, columns_to_
         CliOutput.info(f"Processing {file}")
         
         try:
-            df = pd.read_csv(file, on_bad_lines='skip', quotechar='"')
+            # Read the CSV with dtype=str to treat all values as strings
+            df = pd.read_csv(file, on_bad_lines='skip', quotechar='"', dtype=str)
             CliOutput.info(f"Available columns in {file}: {df.columns.tolist()}")
 
             # Normalize columns
-            df.columns = df.columns.str.strip()  # Remove leading/trailing spaces
-            df.columns = df.columns.str.replace(r"\\", "", regex=True)  # Remove backslashes
-            df.columns = df.columns.str.replace(r"\'", "'", regex=True)  # Handle escaped single quotes
+            df.columns = df.columns.str.strip()
+
+            # Apply transformations on cell values before merging
+            transform_cell_values(df)
 
         except pd.errors.ParserError as e:
             CliOutput.error(f"Error reading {file}: {e}")
@@ -79,7 +95,6 @@ def main():
         CliOutput.info("No specific columns to merge (all columns will be included).")
 
     merge_csv_by_columns(args.input_dir, args.output_file, merge_columns=merge_columns, columns_to_merge=columns_to_merge)
-
 
 if __name__ == "__main__":
     main()
