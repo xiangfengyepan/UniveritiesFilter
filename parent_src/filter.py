@@ -4,13 +4,35 @@ from Menu import Menu
 import sys
 import os
 import platform
+import signal
 
 # Dictionary to store user-defined custom functions
 CUSTOM_FUNCTIONS = {}
 
 # Store the identifier of the last successfully used function
 LAST_FUNCTION_IDENTIFIER = None
+LAST_SAVED_DF = None  # To store the most recently formatted DataFrame
 
+# Define the function to handle program exit
+def handle_exit(output_file):
+    """Handle export and cleanup when exiting the program."""
+    global LAST_SAVED_DF  # Access the globally stored DataFrame
+    try:
+        if LAST_SAVED_DF is not None:
+            CliOutput.info("Saving the current filtered data before exiting...")
+            LAST_SAVED_DF.to_csv(output_file, index=False)  # Save the DataFrame as a CSV
+        else:
+            CliOutput.warning("No data to save, skipping save.")
+    except Exception as e:
+        CliOutput.error(f"Error while saving the file on exit: {e}")
+    finally:
+        CliOutput.success("Goodbye!")
+        sys.exit(0)
+
+def signal_handler(sig, frame):
+    """Handle Ctrl + C signal."""
+    CliOutput.warning("\nCtrl + C detected. Exiting gracefully...")
+    handle_exit("filter_save.csv")
 
 def clear_terminal():
     """Clears the terminal screen."""
@@ -87,6 +109,9 @@ def pretty_format_df(df, max_width=None):
 
 def save_pretty_format_to_file(df, output_file):
     """Save a pretty-formatted DataFrame to a text file."""
+    global LAST_SAVED_DF  # Declare the global variable to store the DataFrame
+    LAST_SAVED_DF = df.copy()  # Save the DataFrame globally for later use
+    
     formatted_table = pretty_format_df(df, 20)
     with open(output_file, "w") as f:
         f.write(formatted_table)
@@ -202,13 +227,27 @@ def execute_custom_function(input_file, output_file):
     else:
         CliOutput.error("Invalid function identifier.")
 
-
 def main():
+    # Capture SIGINT (Ctrl + C)
+    signal.signal(signal.SIGINT, signal_handler)
+
     CliOutput.info("Welcome to the CSV Custom Function Tool!")
 
     # Default values for input and output files
     input_file = CliInput.prompt("Enter the path to the input CSV file (default: ./formateo/dades_result/2024/result.csv)", default="./formateo/dades_result/2024/result.csv")
+
+    # Check if the input file exists
+    if not os.path.exists(input_file):
+        CliOutput.error(f"The input file '{input_file}' does not exist. Please provide a valid file.")
+        sys.exit(1)  # Exit the program with a non-zero status to indicate failure
+
     output_file = CliInput.prompt("Enter the path to save the output CSV file (default: filter.csv)", default="filter.csv")
+
+    # Check if the output file's directory exists
+    output_dir = os.path.dirname(output_file)  # Extract the directory path from the output file path
+    if output_dir and not os.path.exists(output_dir):
+        CliOutput.error(f"The directory '{output_dir}' for the output file does not exist. Please provide a valid directory.")
+        sys.exit(1)  # Exit the program with a non-zero status to indicate failure
 
     menu = Menu()
     menu.add_option("Add custom function", add_custom_function)
@@ -216,7 +255,7 @@ def main():
     menu.add_option("Clear terminal", clear_terminal)
     menu.add_option("Export data without formatting", lambda: export(input_file, "exported_data.csv"))
     menu.add_option("Update output file with last applied filter", lambda: update(output_file, input_file))
-    menu.add_option("Exit", lambda: CliOutput.success("Goodbye!") or exit())
+    menu.add_option("Exit", lambda: handle_exit("filter_save.csv"))
 
     while True:
         menu.display()
