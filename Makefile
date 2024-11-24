@@ -53,11 +53,8 @@ format_join:
 	"PAU / CFGS","Més grans de 25 anys","Titulats universitaris","Més grans de 45 anys",\
 	Branca,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27
 
-format_all: format_pdf_to_csv format_aline format_notes format_pond format_preins format_join
+format: format_pdf_to_csv format_aline format_notes format_pond format_preins format_join
 	@echo "All formatting steps completed."
-
-format: format_aline format_notes format_pond format_preins format_join
-	@echo "Selected formatting steps completed."
 
 install_all_packages:
 	sudo apt update
@@ -67,11 +64,11 @@ install_all_packages:
 
 clean:
 	@echo "Cleaning build directory..."
-	rm -rf ./build/ ./dist/
+	rm -rf ./build/ ./dist/ ./UniversitiesFilter.egg-info/
 
 clean_format:
 	@echo "Cleaning formatted data directories..."
-	rm -rf ./formateo/dades_csv/* ./formateo/dades_formated/* ./formateo/dades_result/*
+	rm -rf ./formateo/dades_csv/* ./formateo/dades_formated/* ./formateo/dades_result/*/*
 
 clean_cache:
 	@echo "Clearing Python cache files and directories..."
