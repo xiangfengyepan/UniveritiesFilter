@@ -19,5 +19,5 @@ def process(df):
 
     header = dfp.get_headers()
     data_list = combine_header_and_values(header, data_list)
-    df = DataFrameProcessor.list_to_csv_with_lines(data_list)
+    df = DataFrameProcessor.list_to_csv_with_lines(data_list, header[0:5])
     return df
