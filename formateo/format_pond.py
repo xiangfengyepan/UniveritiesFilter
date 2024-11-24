@@ -82,8 +82,4 @@ def main():
     process_text(input_filename, output_filename)
 
 if __name__ == "__main__":
-    module_dir = "./parent_src"
-    if module_dir not in sys.path:
-        sys.path.append(module_dir)
-
     main()
