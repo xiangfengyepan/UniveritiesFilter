@@ -207,7 +207,7 @@ def main():
     CliOutput.info("Welcome to the CSV Custom Function Tool!")
 
     # Default values for input and output files
-    input_file = CliInput.prompt("Enter the path to the input CSV file (default: result.csv)", default="result.csv")
+    input_file = CliInput.prompt("Enter the path to the input CSV file (default: ./formateo/dades_result/2024/result.csv)", default="./formateo/dades_result/2024/result.csv")
     output_file = CliInput.prompt("Enter the path to save the output CSV file (default: filter.csv)", default="filter.csv")
 
     menu = Menu()
