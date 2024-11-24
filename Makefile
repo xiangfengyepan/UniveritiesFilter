@@ -14,6 +14,7 @@ DIR_FORMATED = ./formateo/dades_formated
 DIR_INPUT = ./dades/2024
 
 build:
+	pip install -e .
 	python3 setup.py sdist bdist_wheel
 
 init: install_wsl install_all_packages
@@ -47,20 +48,21 @@ install_wsl:
 
 install_all_packages:
 	@echo "Installing required packages..."
-	sudo apt update && sudo apt upgrade -y
-	sudo apt install -y \
-		python3 \
-		python3-pip \
-		openjdk-11-jdk \
-		curl \
-		gnupg \
-		lsb-release \
-		software-properties-common \
-		wget \
-		default-jre
+	sudo apt update
+	sudo apt upgrade -y
+	sudo apt install -y python3
+	sudo apt install -y python3-pip
+	sudo apt install -y openjdk-11-jdk
+	sudo apt install -y curl
+	sudo apt install -y gnupg
+	sudo apt install -y lsb-release
+	sudo apt install -y software-properties-common
+	sudo apt install -y wget
+	sudo apt install -y default-jre
 
 	# Install Python libraries
-	sudo pip3 install pandas tabula-py
+	sudo pip install pandas
+	sudo pip install tabula-py
 
 run: build
 	@echo "Running the main Python script..."
