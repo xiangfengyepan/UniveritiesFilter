@@ -1,0 +1,15 @@
+README.md
+setup.py
+UniversitiesFilter.egg-info/PKG-INFO
+UniversitiesFilter.egg-info/SOURCES.txt
+UniversitiesFilter.egg-info/dependency_links.txt
+UniversitiesFilter.egg-info/entry_points.txt
+UniversitiesFilter.egg-info/requires.txt
+UniversitiesFilter.egg-info/top_level.txt
+child_src/DataFrameProcessor.py
+child_src/__init__.py
+child_src/daijun.py
+parent_src/Cli_utils.py
+parent_src/Menu.py
+parent_src/__init__.py
+parent_src/filter.py

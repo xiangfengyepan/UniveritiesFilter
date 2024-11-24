@@ -1,6 +1,6 @@
 import os
 import glob
-import pandas as pd  # type:ignore
+import pandas as pd  
 import argparse
 import sys
 from parent_src.Cli_utils import CliOutput  # Assuming CliOutput is implemented

@@ -1,4 +1,4 @@
-import pandas as pd  # type:ignore
+import pandas as pd  
 from Cli_utils import CliInput, CliOutput
 from Menu import Menu
 import sys
@@ -39,7 +39,7 @@ def pretty_format_df(df):
     col_widths = [max(len(str(cell)) for cell in [header] + df[col].astype(str).tolist()) for header, col in zip(headers, df.columns)]
 
     # Create the formatted header (left-aligned for text, right-aligned for numbers)
-    header_line = " | ".join(header.ljust(width) if not header.isdigit() and header != "CODI" else header.rjust(width) for header, width in zip(headers, col_widths))
+    header_line = " | ".join(header.ljust(width) for header, width in zip(headers, col_widths))
 
     # Add a separator line
     separator_line = "-+-".join("-" * width for width in col_widths)
@@ -47,7 +47,7 @@ def pretty_format_df(df):
     # Format the rows (right-aligned for numbers, left-aligned for text)
     rows = []
     for _, row in df.iterrows():
-        formatted_row = " | ".join(str(cell).rjust(width) if isinstance(cell, (int, float)) else str(cell).ljust(width) for cell, width in zip(row, col_widths))
+        formatted_row = " | ".join(str(cell).ljust(width) for cell, width in zip(row, col_widths))
         rows.append(formatted_row)
 
     # Combine everything into a single formatted string
@@ -170,4 +170,6 @@ def main():
         menu.select_option()
 
 if __name__ == "__main__":
+    print(sys.path)
+
     main()

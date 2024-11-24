@@ -16,7 +16,6 @@ def extract_numbers(input_string):
     return "N/A"
 
 def transform_list(input_list):
-    print(len(input_list))
     if NUMBER_COLUMN_END < len(input_list) or len(input_list) < NUMBER_COLUMN_START:
         return input_list
 
