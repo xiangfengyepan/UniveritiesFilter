@@ -1,4 +1,15 @@
+import os
+import platform
 from Cli_utils import CliOutput, CliInput
+
+def clear_terminal():
+    """Clears the terminal screen."""
+    if platform.system().lower() == "windows":
+        os.system("cls")  # Windows
+    else:
+        os.system("clear")  # macOS/Linux
+
+
 
 class Menu:
     def __init__(self):
@@ -27,4 +38,5 @@ class Menu:
                 option['action']()  # Call the associated action
                 return True
         CliOutput.error("Invalid choice, please try again.")
+
         return False

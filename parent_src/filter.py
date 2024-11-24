@@ -1,16 +1,16 @@
 import pandas as pd  
 from Cli_utils import CliInput, CliOutput
+from Menu import clear_terminal
 from Menu import Menu
 import sys
 import os
-import platform
 import signal
 
 # Dictionary to store user-defined custom functions
 CUSTOM_FUNCTIONS = {}
 
 # Store the identifier of the last successfully used function
-LAST_FUNCTION_IDENTIFIER = None
+LAST_FUNCTION_IDENTIFIER = "0"
 LAST_SAVED_DF = None  # To store the most recently formatted DataFrame
 
 # Define the function to handle program exit
@@ -33,13 +33,6 @@ def signal_handler(sig, frame):
     """Handle Ctrl + C signal."""
     CliOutput.warning("\nCtrl + C detected. Exiting gracefully...")
     handle_exit("filter_save.csv")
-
-def clear_terminal():
-    """Clears the terminal screen."""
-    if platform.system().lower() == "windows":
-        os.system("cls")  # Windows
-    else:
-        os.system("clear")  # macOS/Linux
 
 
 def pretty_format_df(df, max_width=None):
@@ -183,8 +176,8 @@ def filter_and_sort_csv(input_file, output_file, custom_function=None, func_iden
 
 def add_custom_function():
     """Allows the user to add a custom function."""
-    func_identifier = CliInput.prompt("Enter a string identifier to associate with your custom function")
-    file_name = CliInput.prompt("Enter the name of the Python file (without .py extension) containing the custom function")
+    func_identifier = CliInput.prompt("Enter a string identifier to associate with your custom function", default=chr(int("".join(str(ord(char)) for char in LAST_FUNCTION_IDENTIFIER)) + 1))
+    file_name = CliInput.prompt("Enter the name of the Python file (without .py extension) containing the custom function", default="example")
     func_name = CliInput.prompt("Enter the name of the function to use from the module", default="process")
 
     try:
@@ -219,7 +212,7 @@ def execute_custom_function(input_file, output_file):
     for identifier, func in CUSTOM_FUNCTIONS.items():
         CliOutput.print(f"{identifier}. {func.__name__}", color="blue")
 
-    func_identifier = CliInput.prompt("Enter the identifier of the custom function you want to execute")
+    func_identifier = CliInput.prompt("Enter the identifier of the custom function you want to execute", default=list(CUSTOM_FUNCTIONS.items())[-1][0])
     if func_identifier in CUSTOM_FUNCTIONS:
         # clear_terminal()  # Clear the terminal screen before executing
         CliOutput.info(f"Executing custom function associated with identifier '{func_identifier}'.")
@@ -241,7 +234,7 @@ def main():
         CliOutput.error(f"The input file '{input_file}' does not exist. Please provide a valid file.")
         sys.exit(1)  # Exit the program with a non-zero status to indicate failure
 
-    output_file = CliInput.prompt("Enter the path to save the output CSV file (default: filter.csv)", default="filter.csv")
+    output_file = CliInput.prompt("Enter the path to save the output CSV file (default: ./child_src/table.csv)", default="./child_src/table.csv")
 
     # Check if the output file's directory exists
     output_dir = os.path.dirname(output_file)  # Extract the directory path from the output file path

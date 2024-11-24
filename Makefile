@@ -16,6 +16,52 @@ DIR_INPUT = ./dades/2024
 build:
 	python3 setup.py sdist bdist_wheel
 
+init: install_wsl install_all_packages
+
+mkdir:
+	@echo "Creating necessary directories..."
+	mkdir -p ./formateo/dades_csv 
+	mkdir -p ./formateo/dades_result/
+	mkdir -p ./formateo/dades_result/2024 
+	mkdir -p ./formateo/dades_formated
+
+install_wsl:
+	@echo "Checking and installing WSL..."
+	# Check if WSL is installed
+	if ! command -v wsl > /dev/null 2>&1; then \
+		echo "WSL is not installed. Installing WSL..."; \
+		sudo apt update && sudo apt install -y wsl; \
+	fi
+
+	# Install WSL (if not installed) and Ubuntu 22.04 LTS
+	if ! wsl -l | grep -q "Ubuntu-22.04"; then \
+		echo "Ubuntu 22.04 LTS not found. Installing Ubuntu..."; \
+		wsl --install -d Ubuntu-22.04; \
+	fi
+
+	# Ensure Ubuntu 22.04 is the default WSL distro
+	wsl --set-default Ubuntu-22.04
+
+	# Ensure using WSL 2
+	wsl --set-version Ubuntu-22.04 2
+
+install_all_packages:
+	@echo "Installing required packages..."
+	sudo apt update && sudo apt upgrade -y
+	sudo apt install -y \
+		python3 \
+		python3-pip \
+		openjdk-11-jdk \
+		curl \
+		gnupg \
+		lsb-release \
+		software-properties-common \
+		wget \
+		default-jre
+
+	# Install Python libraries
+	sudo pip3 install pandas tabula-py
+
 run: build
 	@echo "Running the main Python script..."
 	clear
@@ -50,19 +96,13 @@ format_preins:
 format_join:
 	@echo "Joining formatted files into a single CSV..."
 	python3 ./formateo/format_join.py ./formateo/dades_formated ./formateo/dades_result/2024/result.csv \
-  	--merge_columns Codi \
-  	--columns Codi,"Nom del centre de estudi",Població,Universitat,"Tipus de centre","Places orientatives","Preu orientatiu",Observacions,\
-	"PAU / CFGS","Més grans de 25 anys","Titulats universitaris","Més grans de 45 anys",\
-	Branca,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27
+		--merge_columns Codi
+		--columns Codi,"Nom del centre de estudi",Població,Universitat,"Tipus de centre","Places orientatives","Preu orientatiu",Observacions,\
+		"PAU / CFGS","Més grans de 25 anys","Titulats universitaris","Més grans de 45 anys",\
+		Branca,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27
 
-format: format_pdf_to_csv format_aline format_notes format_pond format_preins format_join
+format: mkdir format_pdf_to_csv format_aline format_notes format_pond format_preins format_join
 	@echo "All formatting steps completed."
-
-install_all_packages:
-	sudo apt update
-	sudo apt install python3 
-	sudo apt install python3-pip 
-	sudo pip install pandas
 
 clean:
 	@echo "Cleaning build directory..."
@@ -70,7 +110,7 @@ clean:
 
 clean_format:
 	@echo "Cleaning formatted data directories..."
-	rm -rf ./formateo/dades_csv/* ./formateo/dades_formated/* ./formateo/dades_result/*/*
+	rm -rf ./formateo/dades_csv/ ./formateo/dades_formated/ ./formateo/dades_result/
 
 clean_cache:
 	@echo "Clearing Python cache files and directories..."
