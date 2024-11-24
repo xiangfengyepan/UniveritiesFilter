@@ -1,2 +1,0 @@
-child_src
-parent_src

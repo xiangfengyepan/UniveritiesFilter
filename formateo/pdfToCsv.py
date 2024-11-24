@@ -108,6 +108,11 @@ def pdfminer_converter(input_path, output_filename):
 
 
 def convert_pdf_to_csv(input_path, output_filename, method='both'):
+    # Check if the output file already exists
+    if os.path.exists(output_filename):
+        CliOutput.info(f"El fitxer {output_filename} ja existeix. Saltant la conversió.")
+        return
+
     if method == 'tabula':
         tabula(input_path, output_filename)
     elif method == 'pymupdf':
@@ -120,7 +125,6 @@ def convert_pdf_to_csv(input_path, output_filename, method='both'):
         camelot_converter(input_path, output_filename)
     else:
         CliOutput.error(f"Mètode desconegut: {method}")
-
 
 def main():
     parser = argparse.ArgumentParser(description='Convertir taules d\'un PDF a CSV.')
@@ -135,6 +139,11 @@ def main():
     base_filename = os.path.splitext(os.path.basename(input_path))[0]
     output_filename = os.path.join(args.directory_output, base_filename + ".csv")
 
+    # Check if the output file already exists
+    if os.path.exists(output_filename):
+        CliOutput.info(f"El fitxer {output_filename} ja existeix. Saltant la conversió.")
+        return
+
     CliOutput.info(f"Convertint {input_path} a {output_filename} utilitzant el mètode: {args.method}")
     convert_pdf_to_csv(input_path, output_filename, method=args.method)
 
@@ -143,3 +152,4 @@ if __name__ == "__main__":
     install_package('pandas')
     install_package('jpype1')
     main()
+
