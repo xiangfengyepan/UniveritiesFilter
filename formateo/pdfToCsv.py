@@ -1,11 +1,11 @@
-import pandas as pd  # type: ignore
+import pandas as pd  
 import argparse
 import os
-import pdfplumber  # type: ignore
-from tabula import read_pdf  # type: ignore
-import camelot  # type: ignore
-import fitz  # PyMuPDF # type: ignore
-from pdfminer.high_level import extract_text  # type: ignore
+import pdfplumber  
+from tabula import read_pdf  
+import camelot  
+import fitz  # PyMuPDF 
+from pdfminer.high_level import extract_text  
 import subprocess
 import sys
 from parent_src.Cli_utils import CliOutput  # Import the pre-implemented CliOutput

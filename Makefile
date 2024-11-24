@@ -13,8 +13,17 @@ DIR_CSV = ./formateo/dades_csv
 DIR_FORMATED = ./formateo/dades_formated
 DIR_INPUT = ./dades/2024
 
+
+
+# Makefile
+
+# Append both parent_src and child_src directories to PYTHONPATH
+# Set the PYTHONPATH to include both parent_src and child_src directories
+PYTHONPATH := $(PYTHONPATH):$(PWD)/parent_src:$(PWD)/child_src
+
+# Target to run your script with the updated PYTHONPATH
 run:
-	python3 ./parent_src/filter.py
+	PYTHONPATH=$(PYTHONPATH) python3 parent_src/filter.py
 
 format_pdf_to_csv:
 	for file in $(DIR_PDF)/*; do \

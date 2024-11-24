@@ -1,16 +1,25 @@
 # my_custom_function.py
+from child_src.DataFrameProcessor import DataFrameProcessor as DataFilter 
+import sys
+print(sys.path)
+print(sys.path)
+print(sys.path)
+print(sys.path)
+print(sys.path)
+print(sys.path)
+print(sys.path)
+print(sys.path)
+print(sys.path)
+print(sys.path)
+print(sys.path)
+print(sys.path)
+
 
 def process(df):
-    """
-    Example process function that performs custom data manipulation on a DataFrame.
+    # Collect indices of rows where 'Població' is not 'Barcelona'
+    indices_to_drop = df[df['Població'] != 'Barcelona'].index
+    
+    # Drop the rows with the collected indices
+    df.drop(indices_to_drop, inplace=True)
 
-    This function filters rows where the value in the "Població" column is 'Barcelona',
-    and then sorts the rows by the "Preu orientatiu" column in descending order.
-    """
-    # Filter rows where the "Població" column is 'Barcelona'
-    filtered_df = df[df['Població'] == 'Barcelona']
-    
-    # Sort the filtered DataFrame by the "Preu orientatiu" column in descending order
-    sorted_df = filtered_df.sort_values(by='Preu orientatiu', ascending=False)
-    
-    return sorted_df
+    return df
