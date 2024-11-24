@@ -13,9 +13,11 @@ DIR_CSV = ./formateo/dades_csv
 DIR_FORMATED = ./formateo/dades_formated
 DIR_INPUT = ./dades/2024
 
-run:
-	@echo "Running the main Python script..."
+build:
 	python3 setup.py sdist bdist_wheel
+
+run: build
+	@echo "Running the main Python script..."
 	clear
 	python3 parent_src/filter.py
 
@@ -78,7 +80,6 @@ clean_cache:
 	@echo "Python cache cleared."
 
 ultraclean: clean clean_cache clean_format
-
 
 help:
 	@echo "Available commands:"
