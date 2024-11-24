@@ -196,7 +196,7 @@ def execute_custom_function(input_file, output_file):
 
     func_identifier = CliInput.prompt("Enter the identifier of the custom function you want to execute")
     if func_identifier in CUSTOM_FUNCTIONS:
-        clear_terminal()  # Clear the terminal screen before executing
+        # clear_terminal()  # Clear the terminal screen before executing
         CliOutput.info(f"Executing custom function associated with identifier '{func_identifier}'.")
         filter_and_sort_csv(input_file, output_file, custom_function=CUSTOM_FUNCTIONS[func_identifier], func_identifier=func_identifier)
     else:

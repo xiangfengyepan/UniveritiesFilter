@@ -97,15 +97,17 @@ class DataFrameProcessor:
         return data_list
 
     @staticmethod
-    def list_to_csv_with_lines(data_list):
+    def list_to_csv_with_lines(data_list, include_columns=None):
         """
         Convert a list of lists (where each inner list represents a row) into a pandas DataFrame.
         The first row will be treated as column headers, and the remaining rows will be treated as data.
-
+        
         :param data_list: A list of lists, where the first list contains column headers, 
-                          and the subsequent lists contain the data rows.
+                        and the subsequent lists contain the data rows.
+        :param include_columns: A list of column names to include in the resulting DataFrame. 
+                                If None, all columns are included.
         :return: A pandas DataFrame created from the list of lists.
-        :raises ValueError: If the input data_list is empty.
+        :raises ValueError: If the input data_list is empty or if the specified columns are not found.
         """
         # Raise an error if the input data_list is empty
         if not data_list:
@@ -113,9 +115,20 @@ class DataFrameProcessor:
         
         # The first row will be used as the column names for the DataFrame
         columns = data_list[0]
-        
+
         # The remaining rows represent the actual data in the DataFrame
         rows = data_list[1:]
         
-        # Create and return a pandas DataFrame from the rows and columns
-        return pd.DataFrame(rows, columns=columns)
+        # Create the DataFrame
+        df = pd.DataFrame(rows, columns=columns)
+        
+        # If include_columns is provided, filter the DataFrame to include only these columns
+        if include_columns:
+            missing_columns = [col for col in include_columns if col not in columns]
+            if missing_columns:
+                raise ValueError(f"The following columns are not in the data: {missing_columns}")
+            
+            # Select only the specified columns
+            df = df[include_columns]
+        
+        return df
