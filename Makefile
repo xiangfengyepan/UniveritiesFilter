@@ -17,7 +17,7 @@ build:
 	pip install -e .
 	python3 setup.py sdist bdist_wheel
 
-init: install_wsl install_all_packages
+init: install_wsl install_all_packages build
 
 mkdir:
 	@echo "Creating necessary directories..."
@@ -98,10 +98,10 @@ format_preins:
 format_join:
 	@echo "Joining formatted files into a single CSV..."
 	python3 ./formateo/format_join.py ./formateo/dades_formated ./formateo/dades_result/2024/result.csv \
-		--merge_columns Codi
-		--columns Codi,"Nom del centre de estudi",Població,Universitat,"Tipus de centre","Places orientatives","Preu orientatiu",Observacions,\
-		"PAU / CFGS","Més grans de 25 anys","Titulats universitaris","Més grans de 45 anys",\
-		Branca,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27
+	--merge_columns Codi \
+	--columns Codi,"Nom del centre de estudi",Població,Universitat,"Tipus de centre","Places orientatives","Preu orientatiu",Observacions,\
+	"PAU / CFGS","Més grans de 25 anys","Titulats universitaris","Més grans de 45 anys",\
+	Branca,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27
 
 format: mkdir format_pdf_to_csv format_aline format_notes format_pond format_preins format_join
 	@echo "All formatting steps completed."

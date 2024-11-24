@@ -17,7 +17,7 @@ def process_text(input_filename, output_filename):
             result_lines.append(line)
 
         with open(output_filename, "w") as f:
-            f.write("Codi,Nom del centre d'estudi,Universitat,Població,Tipus de centre,Places orientatives,Preu orientatiu,Observacions\n")
+            f.write("Codi,Nom del centre de estudi,Universitat,Població,Tipus de centre,Places orientatives,Preu orientatiu,Observacions\n")
             f.write("\n".join(result_lines))
 
         CliOutput.success(f"Resultat escrit a: {output_filename}")

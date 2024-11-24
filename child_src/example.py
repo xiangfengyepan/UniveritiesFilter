@@ -35,7 +35,7 @@ def process(df):
     data_list.sort(key=sort_list, reverse=True)
 
     # Filter the rows based on the condition defined in filter_values
-    data_list = filter_rows(data_list, filter_values)
+    # data_list = filter_rows(data_list, filter_values)
 
     # Extract the header from the DataFrame
     header = dfp.get_headers()
@@ -45,7 +45,7 @@ def process(df):
 
     # Convert the processed list back to a DataFrame
     # Only include the first 5 columns from the header
-    df = DataFrameProcessor.list_to_csv_with_lines(data_list, header[0:5])
+    df = DataFrameProcessor.list_to_csv_with_lines(data_list, header)
     
     # Return the processed DataFrame
     return df
