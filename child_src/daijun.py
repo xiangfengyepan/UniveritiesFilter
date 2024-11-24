@@ -1,20 +1,13 @@
 # my_custom_function.py
-from DataFrameProcessor import DataFrameProcessor, combine_header_and_values
+from DataFrameProcessor import DataFrameProcessor, combine_header_and_values, parse_value
 from parent_src.Cli_utils import CliInput, CliOutput
 
 def sort_list(row):
-    return row[2].strip().lower() == 'barcelona'
+    return parse_value(row[5]) < 100
 
 def process(df):
     dfp = DataFrameProcessor(df)
     data_list = dfp.csv_to_list_with_lines()
-
-
-    # data_list = [
-    #       [..., ..., ...]
-    #       [..., ..., ...]
-    #       ....
-    # ]
 
     data_list.sort(key=sort_list, reverse=True)
 
