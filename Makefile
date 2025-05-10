@@ -14,7 +14,7 @@ DIR_FORMATED = ./formateo/dades_formated
 DIR_INPUT = ./dades/2024
 
 build:
-	pip install -e .
+	. venv/bin/activate && pip install -e .
 	python3 setup.py sdist bdist_wheel
 
 init: install_wsl install_all_packages build
@@ -59,45 +59,44 @@ install_all_packages:
 	sudo apt install -y software-properties-common
 	sudo apt install -y wget
 	sudo apt install -y default-jre
-
-	# Install Python libraries
-	sudo pip install pandas
-	sudo pip install tabula-py
+	
+	python3 -m venv venv
+	. venv/bin/activate && pip install pandas tabula-py
 
 run: build
 	@echo "Running the main Python script..."
 	clear
-	python3 parent_src/filter.py
+	. venv/bin/activate && python3 parent_src/filter.py
 
 format_pdf_to_csv:
 	@echo "Converting PDF files in $(DIR_PDF) to CSV format in $(DIR_CSV)..."
 	for file in $(DIR_PDF)/*; do \
 		echo "Processing $$file..."; \
-		python3 ./formateo/pdfToCsv.py "$$file" $(DIR_CSV); \
+		. venv/bin/activate && python3 ./formateo/pdfToCsv.py "$$file" $(DIR_CSV); \
 	done
 
 format_aline:
 	@echo "Formatting CSV files in $(DIR_CSV) and saving to $(DIR_FORMATED)..."
 	for file in $(DIR_CSV)/*; do \
 		echo "Processing $$file..."; \
-		python3 ./formateo/format_aline.py "$$file" $(DIR_FORMATED); \
+		. venv/bin/activate && python3 ./formateo/format_aline.py "$$file" $(DIR_FORMATED); \
 	done
 
 format_pond:
 	@echo "Formatting Ponderacions files..."
-	python3 ./formateo/format_pond.py $(DIR_FORMATED)/$(POND_FILE_PATH)*.csv $(DIR_FORMATED);
+	. venv/bin/activate && python3 ./formateo/format_pond.py $(DIR_FORMATED)/$(POND_FILE_PATH)*.csv $(DIR_FORMATED);
 
 format_notes:
 	@echo "Formatting Notes files..."
-	python3 ./formateo/format_notes.py $(DIR_FORMATED)/$(NOTES_FILE_PATH)*.csv $(DIR_FORMATED);
+	. venv/bin/activate && python3 ./formateo/format_notes.py $(DIR_FORMATED)/$(NOTES_FILE_PATH)*.csv $(DIR_FORMATED);
 
 format_preins:
 	@echo "Formatting Preinscripcions files..."
-	python3 ./formateo/format_preins.py $(DIR_FORMATED)/$(PREINS_FILE_PATH)*.csv $(DIR_FORMATED);
+	. venv/bin/activate && python3 ./formateo/format_preins.py $(DIR_FORMATED)/$(PREINS_FILE_PATH)*.csv $(DIR_FORMATED);
 
 format_join:
 	@echo "Joining formatted files into a single CSV..."
-	python3 ./formateo/format_join.py ./formateo/dades_formated ./formateo/dades_result/2024/result.csv \
+	. venv/bin/activate && python3 ./formateo/format_join.py ./formateo/dades_formated ./formateo/dades_result/2024/result.csv \
 	--merge_columns Codi \
 	--columns Codi,"Nom del centre de estudi",Població,Universitat,"Tipus de centre","Places orientatives","Preu orientatiu",Observacions,\
 	"PAU / CFGS","Més grans de 25 anys","Titulats universitaris","Més grans de 45 anys",\
